@@ -5418,6 +5418,7 @@ year 2015
 2015-08-16 tel@glarisegg
 
 2015-08-19 17:00 franziska geburi # solothurnerstrasse 65
+2015-08-20 published jcal
 
 2015-08-21 16:00 singen@schweibenalp # Heilkraft Singen und Gemeinschaft, Hagara Feinbier, http://come-together-songs.de/veranstaltungen/come-together-songs-seminare/21-23-08-2015-heilkraft-singen-und-gemeinschaft
 2015-08-22 singen@schweibenalp

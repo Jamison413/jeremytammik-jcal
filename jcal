@@ -64,3 +64,8 @@ pcal -f $DIR/tmp/calendar -H $YEAR | sed -f $F > $DIR/out/$YEAR.htm
 #open -a Firefox.app $DIR/$YEAR.htm
 
 open $DIR/out/$YEAR.htm
+
+cd $DIR
+git add .
+git commit -m "calendar update"
+git push
