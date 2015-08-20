@@ -1,0 +1,66 @@
+#!/bin/sh
+# to define preprocessor symbols, call with 'jcal -Dall'
+# Jeremy Tammik, Autodesk Inc. 2003-2015
+
+DIR="/j/doc/db/jcal"
+
+#echo $DIR
+
+if [ "$1" = "-b" ]
+then
+  open $DIR/../birthday.txt
+  exit 0
+fi
+
+if [ "$1" = "-d" ]
+then
+  cd $DIR
+  #exit 0
+  return
+fi
+
+if [ "$1" = "-e" ]
+then
+  open $DIR/calendar.txt
+  exit 0
+fi
+
+if [ "$1" = "-m" ]
+then
+  open -a "Komodo Edit" $0
+  exit 0
+fi
+
+#MONTH=1214
+MONTH=0815
+
+#echo $MONTH
+
+if [ "$1" = "" ]
+then
+  YEAR=2015
+else
+  YEAR=$1
+fi
+
+if [ "$1" = "-?" -o "$1" = "-h" -o "$1" = "help" ]
+then
+  echo usage: jcal [YYYY]
+  exit 1
+fi
+
+F=$DIR/tmp/gotomonth.sed
+
+#echo onload="window.location.href='#_$MONTH'"
+
+echo s/body bgcolor=\"#ffffff\"/body bgcolor=\"#ffffff\" onload=\"window.location.href=\'#_$MONTH\'\"/ > $F
+
+#cat $F
+
+sed -f $DIR/unisodate.sed < $DIR/calendar.txt > $DIR/tmp/calendar
+
+pcal -f $DIR/tmp/calendar -H $YEAR | sed -f $F > $DIR/out/$YEAR.htm
+
+#open -a Firefox.app $DIR/$YEAR.htm
+
+open $DIR/out/$YEAR.htm
