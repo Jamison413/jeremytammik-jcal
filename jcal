@@ -39,13 +39,13 @@ then
 fi
 
 #MONTH=1214
-MONTH=1215
+MONTH=0116
 
 #echo $MONTH
 
 if [ "$1" = "" ]
 then
-  YEAR=2015
+  YEAR=2016
 else
   YEAR=$1
 fi
