@@ -4,7 +4,11 @@
 
 DIR="/j/doc/db/jcal"
 
+#MONTH=1214
+MONTH=0516
+
 #echo $DIR
+#echo $MONTH
 
 if [ "$1" = "-b" ]
 then
@@ -37,11 +41,6 @@ then
   open -a "Komodo Edit" $0
   exit 0
 fi
-
-#MONTH=1214
-MONTH=0416
-
-#echo $MONTH
 
 if [ "$1" = "" ]
 then
