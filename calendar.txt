@@ -1,0 +1,6074 @@
+#
+# jeremy's calender
+#
+# 2007-10-10: convert german date format to iso and vice versa
+# {:z}\.{:z}\.{:z} --> \3-\2-\1
+# {:z}\-{:z}\-{:z} --> \3.\2.\1
+#
+# 2004: to print, i used ghostscript to convert
+# to jpg, then inserted the jpg into word
+# and scaled to 50% height, 40% width,
+# where the calendar pages were lying on their left side,
+# i.e. the heading (month name) was on the left-hand side
+# of the page, then cut to 125 * 82 mm size.
+#
+# 2005: did the same, but printed on katja's
+# canon bubblejet, and the pages turned out smaller.
+#
+opt -E                     # european dates
+opt -F monday              # starting day of week
+opt -m                     # draw a "moon" icon at full/new/quarter moons
+opt -n Helvetica-Narrow/18 # notes font
+
+#
+# weekends with kids:
+#
+year 2003 # reset year explicitly
+odd Sundays in year J
+even Sundays in year K
+
+year 2004 # reset year explicitly
+odd Sundays in year J
+even Sundays in year K
+
+year 2005 # reset year explicitly
+odd Sundays in year J
+even Sundays in year K
+
+year 2006 # reset year explicitly
+odd Sundays in year J
+even Sundays in year K
+
+year 2007 # reset year explicitly
+odd Sundays in year K
+even Sundays in year J
+
+year 2008 # reset year explicitly
+odd Sundays in year K
+even Sundays in year J
+
+year 2009 # reset year explicitly
+odd Sundays in year K
+even Sundays in year J
+
+# select alternate fonts (try the Helvetica fonts
+# if your printer does not support AvantGarde)
+#opt -d AvantGarde-Book/30 -t AvantGarde-Book -n Helvetica/8
+#opt -d Helvetica-Bold/30 -t Helvetica-Bold -n Helvetica/8
+
+#opt -s 0.6/0.97        # override default date/fill box shading
+#ifndef whole_year
+#  opt -O               # print outlined characters if "-w" NOT specified
+#endif
+
+#undef no_such_sym      # not an error to undef nonexistent symbol
+
+#
+# following entries apply to every year:
+#
+year *
+
+#
+# print week number each monday:
+#
+#all mondays in year w%u # first sunday defines week 1
+all mondays in year w%w # first monday defines week 1
+
+#
+# add personal list of birthdays from file "birthdays" if it exists,
+# continue silently if it does not:
+#
+#include? C:/j/doc/pcal/birthdays
+#include? /j/doc/db/birthday.txt
+#include? C:/j/doc/pcal/wg
+
+# note to be propagated to "Notes" box (-2 = bottom center) for all months
+
+#opt -N Meetings:       # alternate header for notes box
+#note/-2 all            \fIEngineering staff meeting\fP Wednesday, 1:30 PM
+
+#2nd full_moon in all           Blue Moon
+
+# if the symbol "meetings" has been defined, print
+# text on the next-to-last Monday of each month
+#ifdef meetings
+#  -2nd Monday in all           Monthly staff meeting
+#endif
+
+ifdef all
+  year *
+  each thursday in all 20:30 contact jam ewerk
+  3rd saturday in all 10:00-14:00 tag der achtsamkeit ekirche
+endif
+
+01 jan*                         new year's day          # reset year implicitly
+06 jan                          drei koenige            # epiphany
+14 feb                          valentine's day
+
+48th day before easter          rosenmontag
+41st day before easter          morgenstreich
+# easter is a predefined holiday, calculated by pcal for each year
+good_friday*                    good friday
+easter*                         easter sunday
+mon after easter*               easter monday
+last sunday in march            mother's day
+last sunday in march            dst begins (+1h)
+first day in may*               first of may
+39th day after easter*          ascension day christi himmelfahrt
+49th day after easter*          pentecost pfingsten # whitsun, the 50th day after easter sunday
+1st monday after 49th day after easter*          whit monday pfingstmontag # first monday after whitsun
+60th day after easter           corpus christi fronleichnam
+3rd sunday in june              father's day
+01 aug                          swiss national day
+monday after 3rd sunday in september         ne jeune federal
+03 oct                          german tag der einheit
+last sunday in oct              dst ends (-1h)
+31 oct halloween
+01 nov allerheiligen
+06 dec nikolaus
+
+# christmas is a predefined holiday
+day before christmas          christmas eve
+
+# public holidays in canton neuchatel:
+# http://en.wikipedia.org/wiki/Public_holidays_in_Switzerland
+# January 1  New Year's Day  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+# January 2  St. Berchtold  *      *  *   *   *  *  *   *   *   *  *     *  *  *
+# March 1  Republic Day              *
+# April 6 [2012]  Good Friday  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *   *   *  *  *
+# April 9 [2012]  Easter Monday  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *   *  *  *
+# May 1 [2012] according to mail from Maria Elena Santoyo Torres Re: Update on holiday list for Switzerland
+# May 17 [2012]  Ascension  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+# May 28 [2012]  Whit Monday  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *   *  *  *
+# August 1  Swiss National Day  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+# Monday after 3rd Sunday in September  Federal Fast holiday       *        *            *
+# December 25  Christmas Day  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+# http://hr.autodesk.com/info/holidays/country_holidays.asp?Holiday_Country=Switzerland
+
+year 2012
+01 jan ne_holiday
+02 jan ne_holiday
+01 mar ne_holiday
+06 apr ne_holiday
+09 apr ne_holiday
+01 may ne_holiday
+17 may ne_holiday
+18 may ne_holiday
+28 may ne_holiday
+01 aug ne_holiday
+monday after 3rd sunday in september ne_holiday
+25 dec ne_holiday
+26 dec ne_holiday
+27 dec ne_holiday
+28 dec ne_holiday
+29 dec ne_holiday
+30 dec ne_holiday
+31 dec ne_holiday
+
+year 2013
+2013-01-01 ne_holiday New Year's Day
+2013-03-01 ne_holiday Republic Day
+2013-03-29 ne_holiday Good Friday
+2013-04-01 ne_holiday Easter Monday
+2013-05-01 ne_holiday Labour Day
+2013-05-09 ne_holiday Ascension
+2013-05-10 ne_holiday Bridging Day
+2013-05-20 ne_holiday Whit Monday
+2013-08-01 ne_holiday National Day
+2013-09-16 ne_holiday Day after Federal Fast
+2013-12-24 ne_holiday Annual Week of Rest begin
+2013-12-31 ne_holiday Annual Week of Rest end
+
+year 2014 # http://www.officeholidays.com/countries/switzerland/regional.php?list_year=2014&list_region=Neuch%C3%A2tel
+2014-01-01 ne_holiday New Years Day
+#2014-01-02 Berchtolds Day
+2014-03-01 ne_holiday Republic Day # Neuchâtel only. In 1848, Neuchâtel declared itself a republic and part of Switzerland
+2014-04-18 ne_holiday Good Friday # Friday before Easter Sunday
+2014-04-21 ne_holiday Easter Monday # Monday after Easter Sunday
+2014-05-01 ne_holiday Labour Day
+2014-05-29 ne_holiday Ascension Day # 40 days after Easter
+2014-05-30 ne_holiday Bridge day
+2014-06-09 ne_holiday Whitmonday # 7th Monday after Easter. Also Known as Pentecost Monday
+2014-08-01 ne_holiday National Day
+2014-09-21 Swiss Federal Fast # Third Sunday in September
+2014-09-22 ne_holiday Bettagsmontag # Bern, Neuchâtel, Vaud. Monday after 3rd Sunday in September.
+2014-12-24 Annual Week of Rest begin
+2014-12-25 ne_holiday Christmas Day
+2014-12-26 ne_holiday St Stephens Day # Celebrated on 26th December. Typically it will be moved and celebrated on the next weekday if 26 December is a Saturday or Sunday
+2014-12-31 ne_holiday Annual Week of Rest end
+
+year 2015 # http://www.officeholidays.com/countries/switzerland/regional.php?list_year=2015&list_region=neuchatel
+2015-01-01 ne_holiday New Years Day
+2015-01-02 ne_holiday Berchtolds Day
+2015-03-01 ne_holiday Republic Day # Neuchâtel only; in 1848, Neuchâtel declared itself a republic and part of Switzerland
+2015-04-03 ne_holiday Good Friday # Friday before Easter Sunday
+2015-04-06 ne_holiday Easter Monday # Monday after Easter Sunday
+#2015-05-01  Labour Day
+2015-05-14 ne_holiday Ascension Day # 40 days after Easter
+2015-05-15 ne_holiday Bridge day
+2015-05-25 ne_holiday Whitmonday # 7th Monday after Easter, also known as Pentecost Monday
+2015-08-01 ne_holiday National Day
+2015-09-20 Swiss Federal Fast # Third Sunday in September
+2015-09-21 ne_holiday Bettagsmontag # Day after Federal Fast, Bern, Neuchâtel, Vaud, Monday after 3rd Sunday in September
+2015-12-24 Annual Week of Rest begin
+2015-12-25 ne_holiday Christmas Day
+2015-12-26 ne_holiday St Stephens Day # Celebrated on 26th December, typically moved and celebrated on the next weekday if 26 December is a Saturday or Sunday
+2015-12-31 ne_holiday Annual Week of Rest end
+
+#
+# if the current language is german ("de" = deutsch),
+# select alternate text for christmas day
+#
+if lang_de
+  christmas*                  weihnachtstag
+else
+  christmas*                  christmas day
+endif
+
+day after christmas*          boxing day
+last day in dec               new year's eve
+
+#
+# in the postscript image, full moon symbols
+# are generated, but in the html version, we
+# need to add an own marker of some kind:
+#
+# this writes a text marker on every full moon:
+#
+# every full_moon in all        full moon
+#
+# if we want the exact time of the full moon
+# as well as the day, we can use this, but have
+# to update it every year:
+#
+# full moon in german local time, obtained from
+# http://www.vollmond.info/de/vollmond-kalender.html
+#
+2004-01-07 16:40 vollmond
+2004-02-06 09:46 vollmond
+2004-03-07 00:14 vollmond
+2004-04-05 13:02 vollmond
+2004-05-04 22:33 vollmond
+2004-06-03 06:19 vollmond
+2004-07-02 13:08 vollmond
+2004-07-31 20:05 vollmond
+2004-08-30 04:22 vollmond
+2004-09-28 15:09 vollmond
+2004-10-28 05:07 vollmond
+2004-11-26 21:07 vollmond
+2004-12-26 16:06 vollmond
+
+2005-01-25 11:32 vollmond
+2005-02-24 05:53 vollmond
+2005-03-25 21:58 vollmond
+2005-04-24 12:06 vollmond
+2005-05-23 22:18 vollmond
+2005-06-22 06:13 vollmond
+2005-07-21 13:00 vollmond
+2005-08-19 19:53 vollmond
+2005-09-18 04:00 vollmond
+2005-10-17 14:13 vollmond
+2005-11-16 01:57 vollmond
+2005-12-15 17:15 vollmond
+
+2006-01-14 10:48 vollmond
+2006-02-13 05:44 vollmond
+2006-03-15 00:35 vollmond
+2006-04-13 18:40 vollmond
+2006-05-13 08:51 vollmond belchen marlene
+2006-06-11 20:03 vollmond
+2006-07-11 05:01 vollmond
+2006-08-09 12:54 vollmond
+2006-09-07 20:42 vollmond
+2006-10-07 05:12 vollmond
+2006-11-05 13:58 vollmond
+2006-12-05 01:24 vollmond
+
+2007-01-03 14:57 vollmond
+2007-02-02 06:45 vollmond
+2007-03-04 00:17 vollmond
+2007-04-02 19:15 vollmond
+2007-05-02 12:09 vollmond
+2007-06-01 03:03 vollmond
+2007-06-30 15:48 vollmond
+2007-07-30 02:47 vollmond
+2007-08-28 12:35 vollmond
+2007-09-26 21:45 vollmond
+2007-10-26 06:51 vollmond
+2007-11-24 15:29 vollmond
+2007-12-24 02:15 vollmond
+
+2008-01-22 14:34 vollmond
+2008-02-21 04:30 totale mondfinsternis # http://www.vollmond.info/de/mondfinsternis_2008.html
+2008-03-21 19:39 vollmond
+2008-04-20 12:25 vollmond
+2008-05-20 04:11 vollmond
+2008-06-18 19:30 vollmond
+2008-07-18 09:59 vollmond
+2008-08-16 23:16 vollmond
+2008-09-15 11:13 vollmond
+2008-10-14 22:02 vollmond
+2008-11-13 07:17 vollmond
+2008-12-12 17:37 vollmond
+
+# [A-Z][a-z]*,:b*{[0-9]+}\. {.*} {200[0-9]}, {[0-9][0-9]\:[0-9][0-9]}.*\n
+# \3-\2-\1 \4 vollmond\n
+
+2009-01-11 04:26 vollmond
+2009-02-09 15:49 vollmond
+2009-03-11 03:37 vollmond
+2009-04-09 16:55 vollmond
+2009-05-09 06:01 vollmond
+2009-06-07 20:11 vollmond
+2009-07-07 11:21 vollmond
+2009-08-06 02:54 vollmond
+2009-09-04 18:02 vollmond
+2009-10-04 08:10 vollmond
+2009-11-02 20:13 vollmond
+2009-12-02 08:30 vollmond
+2009-12-31 20:12 vollmond und partielle mondfinsternis # http://www.vollmond.info/de/mondfinsternis.html
+
+2010-01-30 7:17 vollmond
+2010-02-28 17:37 vollmond
+2010-03-30 4:25 vollmond
+2010-04-28 14:18 vollmond
+2010-05-28 1:07 vollmond
+2010-06-26 13:30 vollmond
+2010-07-26 3:36 vollmond
+2010-08-24 19:04 vollmond
+2010-09-23 11:17 vollmond
+2010-10-23 3:36 vollmond
+2010-11-21 18:27 vollmond
+2010-12-21 9:13 vollmond totale mondfinsternis # http://www.vollmond.info/de/mondfinsternis.html
+
+2011-01-19 22:21 vollmond
+2011-02-18 09:35 vollmond
+2011-03-19 19:10 vollmond
+2011-04-18 04:44 vollmond
+2011-05-17 13:08 vollmond
+2011-06-15 22:13 vollmond totale mondfinsternis # http://www.vollmond.info/de/mondfinsternis.html
+2011-07-15 08:39 vollmond
+2011-08-13 20:57 vollmond
+2011-09-12 11:26 vollmond
+2011-10-12 04:05 vollmond
+2011-11-10 21:16 vollmond
+2011-12-10 15:36 vollmond totale mondfinsternis # http://www.vollmond.info/de/mondfinsternis.html
+
+2012-01-09 08:30 vollmond
+2012-02-07 22:53 vollmond
+2012-03-08 10:39 vollmond
+2012-04-06 21:18 vollmond
+2012-05-06 05:35 vollmond
+2012-06-04 13:11 vollmond partielle mondfinsternis
+2012-07-03 20:51 vollmond
+2012-08-02 05:27 vollmond
+2012-08-31 15:58 vollmond
+2012-09-30 05:18 vollmond
+2012-10-29 20:49 vollmond
+2012-11-28 15:46 vollmond
+2012-12-28 11:21 vollmond
+
+# .*\, ([0-9][0-9])\. (...).* 2013\, (.*)\:[0-9][0-9] Uhr
+# 2013-\2-\1 \3 vollmond
+
+2013-01-27 05:38 vollmond
+2013-02-25 21:26 vollmond
+2013-03-27 10:27 vollmond
+2013-04-25 21:57 vollmond partielle mondfinsternis
+2013-05-25 06:24 vollmond
+2013-06-23 13:32 vollmond
+2013-07-22 20:15 vollmond
+2013-08-21 03:44 vollmond
+2013-09-19 13:12 vollmond
+2013-10-19 01:37 vollmond
+2013-11-17 16:15 vollmond
+2013-12-17 10:28 vollmond
+
+# [^,]+\,:b+{[0-9]+}\.:b+{[^ ]+}:b+{201[0-9]}\,:b+{[0-9][0-9]\:[0-9][0-9]}.*\n
+# \3-\2-\1 \4 vollmond\n
+
+2014-01-16 05:52 vollmond
+2014-02-15 00:53 vollmond
+2014-03-16 18:08 vollmond
+2014-04-15 09:42 vollmond
+2014-05-14 21:15 vollmond
+2014-06-13 06:11 vollmond
+2014-07-12 13:24 vollmond
+2014-08-10 20:09 vollmond
+2014-09-09 03:38 vollmond
+2014-10-08 12:50 vollmond totale mondfinsternis
+2014-11-06 23:22 vollmond
+2014-12-06 13:26 vollmond
+
+# ^([^,]+)\,\s+([0-9]+)\.\s+([^ ]+)\s+(201[0-9])\,\s+([0-9][0-9]\:[0-9][0-9]).*\n
+# \4-\3-\2 \5 vollmond # \1\n
+
+2015-01-05 05:53 vollmond # Montag
+2015-02-04 00:08 vollmond # Mittwoch
+2015-03-05 19:05 vollmond # Donnerstag
+2015-04-04 14:05 vollmond totale Mondfinsternis # Samstag
+2015-05-04 05:42 vollmond # Montag
+2015-06-02 18:19 vollmond # Dienstag
+2015-07-02 04:19 vollmond # Donnerstag
+2015-07-31 12:42 vollmond # Freitag
+2015-08-29 20:35 vollmond # Samstag
+2015-09-28 04:50 vollmond totale Mondfinsternis # Montag
+2015-10-27 13:05 vollmond # Dienstag
+2015-11-25 23:44 vollmond # Mittwoch
+2015-12-25 12:11 vollmond # Freitag
+
+# ^([^,]+)\,\s+([0-9]+)\.\s+([^ ]+)\s+(201[0-9])\,\s+([0-9][0-9]\:[0-9][0-9]).*\n
+# \4-\3-\2 \5 vollmond # \1\n
+
+2016-01-24 02:45 vollmond # Sonntag
+2016-02-22 19:19 vollmond # Montag
+2016-03-23 13:00 vollmond # Mittwoch
+2016-04-22 07:23 vollmond # Freitag
+2016-05-21 23:14 vollmond # Samstag
+2016-06-20 13:02 vollmond # Montag
+2016-07-20 00:56 vollmond # Mittwoch
+2016-08-18 11:26 vollmond # Donnerstag
+2016-09-16 21:05 vollmond # Freitag
+2016-10-16 06:23 vollmond # Sonntag
+2016-11-14 14:52 vollmond # Montag
+2016-12-14 01:05 vollmond # Mittwoch
+
+#
+# regular adn meetings:
+#
+#each thursday in all 17:00 detlev conf call
+#each wednesday in all 18:00 msd us conf call
+#each thursday in all 9:00 msd conf call
+each thursday in all 11:00 devtech emea
+#each tuesday in all 17:00 aec conf call
+#odd tuesdays in all 17:00 revit api conf call
+#even tuesdays in year 17:00 aca + mep api conf call
+year 2008 # reset year explicitly
+odd tuesdays in year 17:00 revit api conf call
+even tuesdays in year 17:00 aca + mep api conf call
+year 2011 # reset year explicitly
+even tuesdays in year 17:00 revit api conf call
+odd tuesdays in year 16:00 aec api conf call
+odd tuesdays in year 8:00 triage
+
+year 2012 # reset year explicitly
+even tuesdays in year 17:00 revit api conf call
+even fridays in year 8:00 edu day
+odd tuesdays in year 8:00 triage
+
+year 2013 # reset year explicitly
+even tuesdays in year 17:00 revit api conf call
+even fridays in year 8:00 edu day
+odd tuesdays in year 8:00 triage
+
+#
+# an jedem ersten Donnerstag eines Monats gibt's bei Eiselin-Sport in Basel,
+# Gueterstrasse 97, auf der SBB-Rueckseite, das "Bergsteiger-Apero" von
+# 17:00 bis 20:00 Uhr. Da gibt's dann was zum knabbern, was zu trinken
+# und Zeit zum Quatschen:
+#
+#first thursday in all bergsteigerapero
+
+#
+# regular monthly st. valentine's day
+#
+#year 2009
+#14th day in all lucianna
+
+#
+# beginning of normal calendar dates:
+#
+2003-02-22 ski
+2003-02-23 ski
+2003-02-24 ski
+2003-02-25 ski
+2003-02-26 ski
+2003-02-27 ski
+2003-02-28 ski
+2003-03-01 ski
+
+2003-03-08 maenner
+2003-03-09 maenner
+
+2003-05-29 pfingstferien bis 15.6
+2003-06-15 pfingstferien ende
+
+2003-07-24 ferien bis 7.9
+2003-09-07 ferien ende
+
+2003-10-24 bhs2
+2003-10-25 bhs2
+2003-10-26 bhs2
+2003-10-27 bhs2
+2003-10-28 bhs2
+2003-10-29 bhs2
+2003-10-30 bhs2
+2003-10-31 bhs2
+2003-11-01 bhs training
+2003-11-02 bhs training
+
+2003-11-06 15:00 bieri
+
+2003-11-27 zwoelftklassspiel
+
+2003-12-10 fa 363,-
+
+2003-12-20 nick chamonix
+2003-12-21 chamonix
+2003-12-22 chamonix
+2003-12-23 chamonix
+2003-12-24 chamonix
+2003-12-25 kids
+2003-12-26 kids
+
+2003-12-28 nick chamonix
+
+2004-01-01 stuttgarter 4k
+
+2004-01-02 georg
+2004-01-02 sandra
+2004-01-03 georg
+2004-01-03 sandra
+2004-01-04 sandra
+2004-01-04 herwig
+2004-01-08 bieri
+2004-01-16 ehmke band
+2004-01-17 georg
+2004-01-18 georg
+
+2004-01-10 fa 180,-
+
+2004-02-07 14:00 achtklassarbeit
+
+2004-02-13 zwoelftklassarbeit
+2004-02-14 zwoelftklassarbeit
+
+2004-03-14 bhs training
+2004-03-15 bhs training
+2004-03-16 bhs training
+2004-03-17 bhs training
+2004-03-18 bhs training
+2004-03-19 bhs training
+
+2004-03-26 achtklassspiel
+2004-03-27 achtklassspiel
+
+2004-04-29 maenner
+2004-04-30 maenner
+2004-05-01 maenner
+2004-05-02 maenner
+
+2004-06-25 bhs3
+2004-06-26 bhs3
+2004-06-27 bhs3
+2004-06-28 bhs3
+2004-06-29 bhs3
+2004-06-30 bhs3
+2004-07-01 bhs3
+2004-07-02 bhs3
+2004-07-03 bhs training
+2004-07-04 bhs training
+
+2004-07-14 11:00 bieri
+
+2004-07-29 summer holidays
+
+2004-08-08 J kids holidays
+2004-08-22 J kids holidays end
+
+2004-08-28 bhs holiday 12:30 zch
+2004-08-29 bhs holiday
+2004-08-30 bhs holiday
+2004-08-31 bhs holiday
+2004-09-01 bhs holiday
+2004-09-02 bhs holiday
+2004-09-03 bhs holiday
+2004-09-04 bhs holiday 17:50 zch
+
+2004-09-12 summer holidays end
+
+2004-09-18 maenner
+2004-09-19 maenner
+
+2004-10-22 bhs training
+2004-10-23 bhs training
+2004-10-24 bhs training
+2004-10-25 bhs training
+2004-10-26 bhs training
+2004-10-27 bhs training
+2004-10-28 bhs training
+2004-10-29 bhs training
+
+2005-01-07 bhs nicola sueftenenhuette
+2005-01-08 bhs
+2005-01-09 bhs
+
+2005-01-28 georg
+
+2005-02-08 14:00 plone eth zh
+
+2005-02-13 nick chamonix 1 week
+
+2005-02-15 9:00 adc
+2005-02-16 9:00 luci
+2005-02-17 14:00 bieri
+
+2005-03-03 9:00 thoma
+2005-03-05 rossbodenstock
+
+2005-03-07 15:30 roses
+2005-03-07 dz kredit
+
+2005-03-08 14:00 plone ws be
+2005-03-09 14:00 bieri
+2005-03-11 9:00 luci db migration
+
+2005-03-11 bhs4
+2005-03-12 bhs4
+2005-03-13 bhs4
+2005-03-14 bhs4
+2005-03-15 bhs4
+2005-03-16 bhs4
+2005-03-17 bhs4
+2005-03-18 bhs4
+2005-03-19 bhs training
+2005-03-20 bhs training
+
+2005-03-19 osterferien
+2005-03-21 osterferien
+2005-03-22 osterferien
+2005-03-23 osterferien
+2005-03-24 osterferien
+2005-03-25 osterferien
+2005-03-26 osterferien
+2005-03-27 osterferien
+2005-03-28 osterferien
+2005-03-29 osterferien
+2005-03-30 osterferien
+2005-03-31 osterferien
+2005-04-01 osterferien
+2005-04-02 osterferien
+2005-04-03 osterferien
+
+2005-04-02 skitour markus_mueller daubenhorn
+2005-04-03 skitour markus_mueller wildstrubel
+2005-04-04 skitour markus_mueller steghorn
+
+2005-04-05 14:00 bieri
+2005-04-06 maenner christian
+
+2005-04-08 stiller has
+2005-04-10 fr marathon
+
+2005-04-16 thomas tanzfest
+
+2005-04-19 plone event zh
+
+21.4.2005 14:00 bieri
+2005-04-21 paul carter
+2005-04-22 14:00 kids
+
+2005-04-30 michael + petra
+2005-05-01 michael + petra
+2005-05-01 markus_mueller?
+
+2005-05-10 14:00 nicole
+
+2005-05-14 moni b
+2005-05-15 moni b
+
+2005-05-27 08:00 int treuhand
+2005-05-28 16:00 be connected
+
+2005-06-10 10:00-12:00 bieri
+
+2005-06-10 bhs training
+2005-06-11 bhs training
+2005-06-12 bhs training
+2005-06-13 bhs training
+2005-06-14 bhs training
+2005-06-15 bhs training
+2005-06-16 bhs training
+2005-06-17 bhs training
+
+2005-06-19 08:00-10:25 bsl-bcn
+2005-06-20 techcamp sitges
+2005-06-21 techcamp sitges
+2005-06-22 techcamp sitges
+2005-06-22 18:15-22:30 bcn-muc
+2005-06-23 ac ce munich
+2005-06-25 moni party
+
+2005-06-27 witron
+2005-06-28 witron
+
+2005-07-06 8:30 msd conference call
+
+2005-07-09 sonja loe
+2005-07-09 19:00 maria abi feier
+
+2005-07-11 meri_travel
+2005-07-12 meri
+2005-07-13 meri
+2005-07-14 meri
+
+2005-07-16 11:00 velotour
+
+2005-07-22 19:00 nick chamonix
+2005-07-23 17:00 regina & florian bday party
+2005-07-25 chamonix?
+
+2005-07-27 nick chamonix end
+2005-07-28 schulferien
+
+2005-07-29 chris in sweden 14 days
+
+2005-08-05 skitour dias markus_mueller
+2005-08-06 corny windsurf begin
+2005-08-06 sandra sommerfest
+
+2005-08-08 ne-non-nr?
+
+2005-08-09 manoj munich
+2005-08-10 manoj munich
+2005-08-11 manoj munich
+
+2005-08-13 corny windsurf end
+2005-08-13 sandra schnuppertag theaterimpro
+2005-08-13 anbara 40 bday party
+2005-08-14 11:00-19:00 sonja
+2005-08-14 chris return from sweden
+
+2005-08-22 ne-non-nr?
+
+2005-08-24 vault and ps api munich
+2005-08-24 chris bund lager until 2.9
+2005-08-25 13:00 doris
+
+2005-08-26 ulrike hochzeit
+
+2005-08-26 rose regina workshop
+2005-08-27 rose regina workshop
+2005-08-28 rose regina workshop
+
+2005-09-02 chris return from bund lager
+2005-09-03 rose fest
+
+2005-09-05 ne-non-nr?
+
+2005-09-07 vault and ps api munich
+
+2005-09-10 aob treff
+
+2005-09-12 05:30-8:35 bsl-agp
+
+2005-09-17 fr aob sommerfest
+2005-09-19 holiday neuchatel jeune federal
+
+2005-09-24 13:00-16:05 agp-bsl
+2005-09-24 16:00 nicola 40 # Am Samstag, den 24. September, im L‰bihus in Muenchenbuchsee, an der Muehlestr. 39 ab 16 Uhr.
+
+2005-09-26 ne-non-nr?
+
+2005-09-27 ac dev team meeting
+
+2005-10-03 ne-non-nr?
+
+2005-10-09 fws herbstfest 17:00 abbau
+
+2005-10-14 20:00 andrea party
+2005-10-15 maenner cs + mw
+2005-10-16 maenner cs + mw
+
+2005-10-18 ne-non-nr?
+2005-10-18 15:00 bieri
+
+2005-10-19 witron
+2005-10-20 witron
+2005-10-21 witron
+
+2005-10-21 22:05 helene arr
+2005-10-22 helene
+2005-10-23 07:05 helene dep
+
+2005-10-25 inventor api munich
+2005-10-26 inventor api munich
+2005-10-27 inventor api munich
+
+2005-10-29 paris
+2005-10-30 paris
+2005-10-31 paris
+2005-10-31 14:00 jan development methodology
+2005-11-01 paris
+2005-11-02 paris vault ps api
+2005-11-03 paris
+2005-11-04 10:00 bieri
+
+2005-11-05 veena + anna
+
+2005-11-08 ne-non-nr?
+
+2005-11-10 witron
+
+2005-11-16 ne-non-nr?
+
+2005-11-17 ssi
+2005-11-18 ssi
+
+2005-11-20 14:00 rose finissage oetlingen dorf 85
+
+2005-11-23 20:00 auja auftritt
+
+2005-11-29 sonja party
+
+2005-12-01 9:30 wolf ubs
+
+2005-12-03 12:00 tantra zh
+2005-12-03 schwitzhuette
+2005-12-03 19:00 nacht der klaenge
+
+2005-12-05 auja brueckle
+
+2005-12-06 13:00-17:00 bosch 19:30 hohenbrunn tanz
+2005-12-07 devdays munich + jure + sandra 16:30
+
+2005-12-10 andreas wohnungseinweihung
+2005-12-11 gitika
+
+2005-12-28 20:00 auja video
+
+2006-01-12 17:30 cs
+
+2006-01-13 10:30 bieri
+
+2006-01-20 glarisegg
+2006-01-21 glarisegg
+2006-01-22 skitour buerglen
+
+2006-01-25 cornelius leaves
+
+2006-01-28 10:00 quartalsfeier
+
+2006-01-31 trueffelschweine
+2006-02-01 ruke
+
+2006-02-06 travel vault + ps api training
+2006-02-07 vault + ps api training paris
+2006-02-08 vault + ps api training paris
+
+2006-02-09 9:15-12:15 postrio porting api webcast fr
+2006-02-09 ruke
+
+2006-02-10 nc? maria?
+2006-02-10 high on life begin
+2006-02-10 16:30 otto vernissage
+
+2006-02-11 chamonix begin
+2006-02-11 9:00 cs
+2006-02-11 georg
+2006-02-12 georg
+
+2006-02-14 postrio porting api webcast de
+2006-02-14 lina pruefung
+
+2006-02-15 19:30 marlene
+
+2006-02-16 10:00 beat
+2006-02-17 nc amex + 12:00 foot
+2006-02-17 18:30 auja
+2006-02-18 chamonix end
+2006-02-18 auja
+2006-02-19 auja
+
+2006-02-20 12:30 sk tafelrunde
+2006-02-20 auja
+2006-02-21 ssi
+2006-02-22 ssi
+2006-02-23 nc badge + ruke
+2006-02-24 14:00 ruf vb3
+2006-02-24 andrea fondue
+2006-02-25 18:00 streaming
+2006-02-26 18:00 sk dance
+
+2006-03-01 neuchatel independence day
+2006-03-02 17:00-18:00 all hands
+2006-03-03 high on life end
+2006-03-03 14:00 ruf vb3
+
+2006-03-04 skitour drusenturm
+2006-03-05 skitour drusenturm
+2006-03-07 18:00 ruke
+
+2006-03-09 10:15 moni back frankfurt
+2006-03-09 14:01 moni back freiburg
+
+2006-03-12 mw
+2006-03-13 sandra
+2006-03-13 autocad.net api training munich
+2006-03-14 autocad.net api training munich
+2006-03-15 objectarx api training munich
+2006-03-16 objectarx api training munich
+2006-03-17 objectarx api training munich
+
+2006-03-20 auja normal
+2006-03-21 10:40 nick bsl
+2006-03-23 21:40 nick bsl
+2006-03-24 ne chambre?
+
+2006-03-25 13:00-18:00 ecki contact kandern
+2006-03-26 auja musik
+2006-03-27 brueckle
+2006-03-28 16:00 gary inventor r11 api update webcast
+
+2006-03-30 ulrike zermatt
+2006-03-31 ulrike zermatt
+2006-04-01 ulrike zermatt
+2006-04-02 ulrike zermatt
+
+2006-04-03 msd bootcamp salzburg
+2006-04-04 msd bootcamp salzburg
+2006-04-05 msd bootcamp salzburg
+2006-04-05 18:00 detlev?
+2006-04-06 witron stabilisation
+2006-04-07 8:30 detlev
+2006-04-07 witron stabilisation
+
+2006-04-10 auja
+
+2006-04-13 moni weg
+2006-04-14 good friday
+2006-04-15 kids swapped
+2006-04-16 kids swapped
+2006-04-17 moni back
+2006-04-17 easter monday
+
+2006-04-22 skitour markus_mueller
+2006-04-23 skitour markus_mueller
+2006-04-24 skitour markus_mueller
+
+2006-04-25 15:00 vault + ps 5 api webcast en
+2006-04-26 10:00 vault + ps 5 api webcast de
+2006-04-27 sperrmuell
+2006-04-27 10:00 patrick ne
+2006-04-27 12:00 ruke cudrefin
+2006-04-28 10:00 patrick ne
+2006-04-28 12:00 football
+2006-04-29 papier
+
+2006-05-01 one-year anniversary
+
+2006-05-02 travel to schalchen
+2006-05-03 linde schalchen
+2006-05-04 munich office day
+
+2006-05-05 moni glarisegg
+2006-05-06 moni glarisegg
+2006-05-06 20:00 andrea tanz inzlingen
+2006-05-07 moni glarisegg
+2006-05-07 andreas troendle ekirche
+2006-05-13 skitour sustenhorn
+
+2006-05-16 doris
+2006-05-17 artisan's circle
+2006-05-18 artisan's circle
+2006-05-19 artisan's circle
+2006-05-20 artisan's circle
+2006-05-21 artisan's circle
+
+2006-05-19 16:00 all hands
+2006-05-20 kids holiday with J begin
+2006-05-22 pfingstferien begin
+
+2006-05-25 ascension day
+2006-05-26 bridging day
+
+2006-06-03 kids holiday with J end
+2006-06-03 franz jubelkoenig
+
+2006-06-04 15:00 sabine
+2006-06-04 22:15 moni fr bhf
+
+2006-06-05 whit monday
+2006-06-05 13:00-20:00 lee crumbs
+
+2006-06-06 14:00 christoph
+2006-06-06 17:00 dimconv conf
+2006-06-07 16:00 dimconv conf
+2006-06-08 adn support
+2006-06-09 adn support
+2006-06-09 pfingstferien end
+
+2006-06-12 adn support
+2006-06-12 brueckle 19:15
+
+2006-06-14 19:10-20:25 bsl-nice EBJLR3T
+2006-06-16 cannes
+2006-06-17 papier
+2006-06-17 football cannes
+2006-06-18 20:55-22:10 nice-bsl
+
+2006-06-20 altmetall + gelber sack
+2006-06-21 10:30 bhs reunion
+2006-06-22 bhs reunion
+2006-06-23 bhs reunion
+2006-06-24 bhs reunion
+2006-06-25 14:00 bhs reunion
+
+2006-06-27 ne
+2006-06-28 19:00 ludwig
+
+2006-07-04 19:00 beate
+
+2006-07-05 18:00 petra
+2006-07-06 munich office day
+2006-07-07 ac ce offsite meeting
+2006-07-07 16:00 knalltueten monika
+2006-07-07 15:00 aob lauingen
+2006-07-08 aob
+2006-07-09 14:00 aob end
+
+2006-07-08 18:00 stephan klein 50
+
+2006-07-10 travel and setup
+2006-07-10 18:00 bernhard
+2006-07-11 inventor api training munich
+2006-07-11 19:30 elisabeth hohenbrunn
+2006-07-12 inventor api training munich
+2006-07-13 inventor api training munich
+
+2006-07-17 auftritt
+2006-07-18 ne?
+
+2006-07-22 pick up xopher
+2006-07-22 17:30 regina und florian rote rainhuette
+2006-07-23 18:00 sandra
+
+2006-07-25 arx munich
+2006-07-26 arx munich
+2006-07-27 arx munich
+
+2006-07-28 11:00 dentist scherble
+2006-07-28 skitour nachtreff
+
+2006-07-30 spillgerten
+
+2006-08-01 swiss national day
+
+2006-08-04 15:00 beruehren besprechen
+2006-08-04 20:00 knalltueten summer school
+
+2006-08-17 8:30 yoga
+
+2006-08-22 10:00 till
+2006-08-22 11:00 bieri
+2006-08-23 8:30 yoga
+2006-08-24 7:00 helene madlee car
+2006-08-24 15:00 andreas
+
+2006-08-31 20:00-22:00 beruehren
+
+2006-09-06 rose buri
+2006-09-08 moni zen
+2006-09-09 moni zen
+2006-09-10 moni zen
+
+2006-09-13 14:00-15:00 chambers + cliqbook livemeeting
+2006-09-14 20:00-22:00 beruehren
+
+2006-09-15 doris
+2006-09-16 9:00-15:00 bergthriathlon
+2006-09-16 luetschenbach jeanette
+2006-09-17 luetschenbach
+2006-09-17 christoph wohnungsaufloesung
+
+2006-09-18 je˚ne fÈdÈral
+
+2006-09-23 13:00-21:30 sweat lodge
+
+2006-09-26 10:00-11:30 bieri
+
+2006-09-28 6:20 bsl-malaga last checkin 5:40 EBRXKDP
+2006-10-08 9:40 malaga-bsl last checkin 9:00
+
+2006-10-10 11:30 medecin
+2006-10-11 maenner tanz
+2006-10-13 11:00 cranio claudia
+
+2006-10-16 19:00 auja
+2006-10-17 14:00 notariat dehner
+2006-10-18 13:45 patrick appartement
+
+2006-10-20 11:00 cranio claudia
+2006-10-21 20:00 andreas umtrunk
+
+2006-10-25 maenner klaus
+
+2006-10-27 wax floor
+2006-10-27 regina tanz
+
+2006-10-31 10:00 bieri till
+
+2006-11-06 19:00 knalltueten
+2006-11-07 iris
+
+2006-11-13 madlee
+
+2006-11-17 14:30 cm
+2006-11-18 10:30 typhus
+2006-11-18 20:00 knalltueten
+2006-11-20 10:30 typhus
+
+2006-11-22 20:00 ea fws 8 kl.
+
+2006-11-28 10:00-11:00 carlo devdays east report
+2006-11-28 17:00 surprise
+
+2006-12-01 gabi + fernando
+2006-12-01 19:00 skitourtreff
+
+2006-12-02 fws putz
+2006-12-02 fly to london
+
+2006-12-04 devdays london
+2006-12-05 devdays gothenburg
+2006-12-06 devdays milano
+2006-12-07 devdays munich
+2006-12-08 devdays paris
+2006-12-09 return from paris
+
+2006-12-11 18:30 sonja
+2006-12-11 19:30 auja
+
+2006-12-12 10:00 bieri
+2006-12-12 12:12 mk?
+2006-12-12 12:30 rocher: andrea, to-vi, manu, patrick, bail, banque, cheques
+2006-12-12 19:30 regula
+
+2006-12-14 14:00 window
+
+2006-12-20 14:45 andrea
+2006-12-21 12:30 michael lunch
+
+2006-12-23 kids
+2006-12-24 15:00 fra-bkk
+2006-12-27 week of rest
+2006-12-28 week of rest
+2006-12-28 high on life begin
+2006-12-29 week of rest
+
+2007-01-16 20:00 ea 8 kl
+
+2007-01-18 high on life end
+2007-01-20 01:50 bkk-fra
+2007-01-21 14:00 arrival fra
+
+2007-01-22 8:03 bsl-ne
+2007-01-22 9:40 ne flavia
+2007-01-22 19:30 auja
+2007-01-23 6:30-7:40 bsl-bru hsb
+2007-01-24 21:25-22:35 bru-bsl hsb
+
+2007-01-29 19:00 auja
+
+2007-01-30 09:00 till
+2007-01-30 10:00 bieri lunch
+2007-01-30 13:20 bcn
+2007-01-30 13:30 ne tax
+2007-01-30 15:00 andrea ne
+2007-01-30 16:00 autodesk
+
+2007-01-31 6:20-7:25 bsl-fra
+2007-01-31 12:15-13:15 fra-blr
+
+2007-02-22 arvind pune
+
+2007-03-04 otc las vegas begin
+
+2007-03-06 bangalore end
+2007-03-06 2:20-8:40 blr-cdg
+2007-03-06 9:30-10:40 cdg-bsl
+
+2007-03-10 otc las vegas end
+
+2007-03-07 prepare .net
+2007-03-08 ne + mail to frey
+2007-03-08 prepare arx
+2007-03-08 20:00 dav vortrag ljarczyk@aol.com
+2007-03-09 9:00 vb3 wiese
+2007-03-09 travel to munich
+2007-03-10 21:00 dance up kesselh
+2007-03-11 travel to munich
+2007-03-12 .net munich
+2007-03-13 16:00 .net munich end
+2007-03-14 arx munich
+2007-03-15 arx munich
+2007-03-16 15:00 arx munich end
+2007-03-19 travel from munich
+
+2007-03-15 canadian passport expires
+
+2007-03-16 knalltueten elzach
+2007-03-17 knalltueten elzach
+2007-03-17 sandra geburtstag
+2007-03-18 knalltueten elzach
+
+2007-03-17 20:00 achtklassspiel
+
+2007-03-20 7:00-7:50 BA 0751 bsl-lhr
+2007-03-21 devtech emea farnborough
+2007-03-22 devtech emea
+2007-03-23 devtech emea
+2007-03-24 14:15-16:55 BA 0754 lhr-bsl
+
+2007-03-26 marie holiday begin
+2007-03-27 12:00-13:30 miro revit struct
+2007-03-27 regula velo
+
+2007-03-28 maenner
+2007-03-29 dr. anderau
+2007-03-29 10:00-15:00 pc clinic
+
+2007-03-31 13:00 stefan kummer # Birmensdorferstrasse 56, gleich neben dem S-Bahnhof Wiedikon
+
+2007-04-03 09:00 canadian embassy
+2007-04-03 12:00-14:00 mk
+2007-04-05 havrix vacc refresher
+
+2007-04-05 avignon # love + shadow
+2007-04-06 avignon # love + shadow
+2007-04-07 avignon # love + shadow
+2007-04-08 avignon # love + shadow
+2007-04-09 avignon # love + shadow
+
+2007-04-12 19:00 dav
+2007-04-13 nick ski tour
+2007-04-14 nick ski tour
+2007-04-15 nick ski tour
+2007-04-16 nick ski tour
+
+2007-04-16 marie holiday end
+
+2007-04-18 maenner christian
+
+2007-04-19 16:00-18:00 rst api demo
+#2007-04-20 edu day
+
+#2007-04-24 prepare vault + ps
+#2007-04-25 vault + ps api webcast
+
+2007-04-26 revit api recording
+2007-04-26 mikako to us
+
+2007-04-27 doris party
+2007-04-27 monte rosa
+2007-04-28 monte rosa
+2007-04-29 monte rosa
+2007-04-30 monte rosa
+
+2007-04-28 dav zastler
+2007-04-29 dav zastler
+
+2007-05-02 16:00 notariat dehner
+2007-05-03 17:00-19:00 rst api webcast
+
+2007-05-11 19:00 meiers
+2007-05-12 bishorn
+2007-05-12 christian
+2007-05-13 bishorn
+2007-05-13 12:00-17:00 rose tanzimpro
+2007-05-14 bishorn
+
+2007-05-15 10:30 liz
+2007-05-15 12:30 football
+2007-05-15 16:30 rh key
+
+2007-05-16 revit api intro webcast preparation
+2007-05-16 jazzoper
+2007-05-17 jazzoper
+2007-05-18 bridging day
+2007-05-18 karl geck 65 anreise
+2007-05-19 karl geck 65 party
+
+2007-05-21 travel to salzburg 15:05
+2007-05-22 aec bootcamp salzburg
+2007-05-23 aec bootcamp salzburg
+2007-05-24 aec bootcamp salzburg
+
+2007-05-24 revit api webcast
+
+2007-05-25 10:00-14:15 travel to sweden
+2007-05-26 klasstr‰ff stockholm
+
+2007-05-29 9:25-10:20 travel to gothenburg
+2007-05-29 set up autocad.net gothenburg
+2007-05-30 autocad.net gothenburg
+2007-05-31 autocad.net gothenburg
+2007-06-01 14:25-18:40 travel from gothenburg
+
+2007-06-05 ne
+
+2007-06-14 prepare adt.net webcast
+2007-06-15 prepare adt.net webcast
+
+2007-06-16 20:00 auja auftritt
+
+2007-06-18 prepare adt.net webcast
+2007-06-19 peri
+2007-06-20 prepare adt.net webcast
+2007-06-21 17:00-19:00 adt.net webcast
+
+2007-06-22 achtklassarbeit
+2007-06-23 achtklassarbeit
+2007-06-22 xopher premiere
+
+2007-06-22 5:00 travel paris
+2007-06-23 paris monika
+2007-06-24 paris monika
+2007-06-24 trier lina
+2007-06-25 trier lina
+2007-06-26 ne
+
+2007-06-28 achklassfahrt begin
+
+2007-06-29 travel to uk
+2007-06-30 lhr football
+2007-07-01 lhr football
+2007-07-02 farnborough priorities class
+2007-07-03 travel from uk
+2007-07-04 prepare mozart
+2007-07-04 maenner
+2007-07-05 prepare mozart
+2007-07-06 prepare mozart
+2007-07-07 half birthday 7*7 - 1 years + 7 months + (7+4) days
+
+2007-07-08 achklassfahrt end
+
+2007-07-09 wien mozart
+2007-07-10 wien mozart
+2007-07-11 travel to uk
+2007-07-12 revit api uk
+2007-07-13 revit api uk
+2007-07-16 travel from uk
+
+2007-07-17 ne
+2007-07-17 20:00 hannelore heisser auflauf
+
+2007-07-18 prepare arx + acadnet
+2007-07-18 20:15 maenner christian
+
+2007-07-19 prepare arx + acadnet
+2007-07-20 prepare arx + acadnet
+2007-07-20 bst
+2007-07-21 10:50-20:05 travel to cairo
+2007-07-22 acadnet cairo
+2007-07-23 acadnet cairo
+2007-07-24 arx cairo
+2007-07-25 arx cairo
+2007-07-26 arx cairo
+2007-07-27 arx cairo
+2007-07-28 16:05-22:45 travel from cairo
+
+2007-07-26 kids holiday begin
+2007-07-28 kids wandern begin
+2007-07-29 wandern mit sylvia ziegler?
+2007-07-30 glarisegg sommerleben
+2007-08-04 kids wandern end
+2007-08-05 glarisegg sommerleben end
+
+2007-08-05 j kids holiday begin
+2007-08-06 compensation day off # for weekend travel time to autocad.net and arx training in munich in march
+2007-08-19 j kids holiday end
+
+2007-08-27 11:00 dentist scherble
+2007-08-31 12:00 dentist scherble
+2007-08-31 adsk ne summer party
+
+2007-09-01 J kids
+2007-09-01 xopher math
+2007-09-01 urs zuerich
+
+2007-09-02 J kids
+2007-09-02 13:10 zrh-bos
+2007-09-02 otto karawanserei
+2007-09-03 labour day
+2007-09-04 co returns
+
+2007-09-04 manchester
+2007-09-04 11:30-13:00 emile
+2007-09-05 aec developer conf waltham
+2007-09-05 16:30-18:30 beer bust waltham
+2007-09-06 aec developer conf waltham
+2007-09-06 18:00-21:00 bbq wakefield
+2007-09-07 aec developer conf waltham
+2007-09-07 18:55 bos-zrh
+2007-09-08 8:10 zrh arrival
+
+2007-09-08 dav bergtriathlon
+2007-09-09 kids holiday end
+
+2007-09-09 hugo begin
+2007-09-16 hugo end
+
+2007-09-21 rabia
+
+2007-09-22 maennerfeuer ralph.struve@web.de
+
+2007-09-26 11:45 dentist scherble
+
+2007-10-03 sweat lodge
+2007-10-03 bewegungs-art
+2007-10-03 maenner thomas
+
+#2007-10-07 14:00 adge revival offenburg canceled
+
+2007-10-10 au ppt rst link
+2007-10-11 au ppt rst detailing
+2007-10-12 au ppt ten tips
+
+2007-10-15 au dataset posting
+2007-10-16 au rac api doc
+2007-10-17 au rac samples doc
+2007-10-18 au rst link doc
+2007-10-19 au rst detailing doc
+
+2007-10-22 au ten tips doc
+
+2007-10-13 11:00 breakfast marlene
+
+2007-10-17 maenner karlheinz
+
+2007-10-18 14:00 bieri
+
+2007-10-19 rabia
+2007-10-19 mennerwe
+2007-10-20 mennerwe
+2007-10-20 20:00 wise guys basel
+2007-10-21 mennerwe
+
+2007-10-23 travel to budapest
+2007-10-24 vico budapest
+2007-10-25 vico budapest
+2007-10-26 travel from budapest
+2007-10-27 budapest
+2007-10-28 budapest
+
+2007-10-31 20:00 huebl
+2007-11-01 18:30 knalltueten
+
+2007-11-06 16:00 klaus
+2007-11-07 9:00 bieri seminar + lunch
+2007-11-07 16:00 vanguard meeting
+
+2007-11-14 8:00 mk
+2007-11-14 9:00 russian visa
+2007-11-15 16:30-18:30 devdays presentation
+
+2007-11-16 rabia
+2007-11-16 19:30 vipassana film # Fwd: Filmvorfuehrung : Doing time- doing Vipassana
+
+2007-11-17 sweat lodge
+2007-11-17 13:00 juergen
+
+#2007-11-19 10:10 zrh 11:15 fra 13:30
+#2007-11-20 08:35 nrt arrival
+# direct flight zrh-nrt?
+
+2007-11-19 13:00 zrh
+2007-11-20 08:50 nrt arrival
+
+2007-11-20 12:30 katsuaki takamizawa
+
+2007-11-21 17:25 nrt 9:17 sfo 10:46 12:17 las arrival
+
+2007-11-25 au las vegas
+2007-11-26 devdays las vegas
+2007-11-27 au las vegas rac
+2007-11-28 au las vegas rst
+2007-11-29 au las vegas
+2007-11-30 au las vegas
+
+2007-12-07 adsk ne xmas party
+
+#2007-12-01 travel to moscow 8:58 las 14:29 ord 15:30
+#2007-12-02 travel to moscow 6:55 fra arrival 8:30 13:30 svo
+2007-12-01 travel to moscow 6:20 las 11:51 ord 14:35
+2007-12-02 travel to moscow 6:10 muc arrival 7:25 12:25 svo
+2007-12-03 devdays moscow
+#2007-12-04 travel to tel aviv dme 6:45 8:30 zrh 9:45 14:30 tlv
+#2007-12-04 travel to tel aviv dme 5:30 6:35 vie 10:35 15:00 tlv
+2007-12-04 travel to tel aviv dme 12:25 15:25 tlv
+2007-12-05 devdays tel aviv
+2007-12-06 16:00 travel to prague 16:00 tlv 18:55 vie 19:35 20:35 prg
+2007-12-07 devdays prague
+
+2007-12-09 travel to birmingham 9:55 11:10 fra 12:20 12:55 bhx
+2007-12-10 devdays birmingham 19:00 21:50
+2007-12-11 devdays gothenburg 19:05 20:55
+2007-12-12 devdays ffm 21:05 22:50
+2007-12-13 devdays roma 17:15 18:30
+#2007-12-14 devdays nice 18:40 19:50 zrh
+2007-12-14 devdays nice 21:10 22:20 bsl
+
+2007-12-14 rabia
+2007-12-15 drugs & touch
+
+2007-12-18 ne
+2007-12-18 19:00 maenner hugo
+2007-12-19 9:00 bieri seminar
+
+2007-12-19 20:15 maenner deepesh
+
+2007-12-21 clayton vevey
+
+2007-12-23 chamonix begin
+2007-12-28 chamonix end
+
+2008-01-05 19:00 siggi
+
+2008-01-08 19:00 wave
+2008-01-09 20:15 maenner karlheinz
+
+2008-01-11 rabia
+
+2008-01-13 17:00 karola therwil
+
+2008-01-15 19:00 maenner
+
+2008-01-18 moni surprise
+2008-01-19 moni surprise
+2008-01-20 moni surprise
+
+2008-01-23 20:15 maenner jt
+
+2008-01-26 lex van someren
+2008-01-27 6:45 schwalmere # skitour isenfluh sulwald schwalmere
+
+2008-01-29 19:00 wave siggi
+
+2008-01-31 19:00 dav lvs
+
+2008-02-02 xopher todtnauberg begin
+2008-02-02 18:00 robert
+2008-02-03 6:30 rossstock # skitour vierwaldstaetter see sisikon hagelstock
+
+2008-02-04 13:00 wash
+
+2008-02-07 19:00 lvs
+
+2008-02-09 xopher todtnauberg end
+2008-02-09 20:00 nellie sylvia
+
+2008-02-13 ne
+
+2008-02-15 rabia
+2008-02-15 georg + antonia beatenberg begin
+2008-02-15 16:30 revit 2009 new apis webcast
+2008-02-16 8:35 bsl-schoenefeld thomas theatre
+
+2008-02-19 yellow sack
+2008-02-20 14:35 schoenefeld-bsl
+2008-02-21 19:00 sylvia
+
+2008-02-21 moni hilde begin
+2008-02-22 zwoelftklassabeit cornelius
+2008-02-23 zwoelftklassarbeiten
+2008-02-23 19:00 jeannette
+2008-02-24 moni hilde end
+2008-02-24 10:00-13:00 sybille zuegeln
+2008-02-24 14:00-18:00 epona bei sabine
+2008-02-24 16:00 maenner sauna rhf
+
+2008-02-25 10:40 zrh-cph travel to malmˆ # SK602 Zuerich Terminal 1 - Kˆpenhamn Kastrup Terminal 3
+2008-02-26 rst strusoft
+2008-02-27 rst strusoft
+2008-02-28 arx strusoft
+2008-02-29 8:15 cph-zrh travel from malmˆ # SK601 Kˆpenhamn Kastrup Terminal 3 - Zuerich Terminal 1, Ankomst: 10:00
+
+2008-03-01 niana zuegeln
+2008-03-01 georg + antonia
+2008-03-01 20:00 dance-up kesselhaus
+
+2008-03-05 ne
+2008-03-05 17:00 rac for authors # LiveMeeting intro
+
+2008-03-06 kt ayurveda begin
+
+2008-03-07 19:30 surprise # - 22:15 theatre
+2008-03-07 22:30 surprise # casa espanola
+
+2008-03-09 skitour faulhorn # grindelwald markus_mueller, thomas, iris nicht so schoen, dauernd auf der piste und schlittelbahn
+
+#2008-03-10 acadnet munich, done by adam
+
+2008-03-11 14:00 bieri
+2008-03-11 20:00 niana
+
+2008-03-12 8:30 bernhard
+
+#2008-03-12 arx munich, done by adam
+
+2008-03-14 rabia
+2008-03-15 easter holidays begin
+2008-03-15 sweat lodge
+#2008-03-15 ski wildhorn
+2008-03-16 christian gartenfete
+#2008-03-16 ski wildhorn
+2008-03-29 19:20 moni bsl-malaga arr
+2008-03-29 19:55 ch+co malaga-bsl dep
+2008-03-30 easter holidays end
+2008-03-30 kt ayurveda end
+
+2008-04-14 18:30 stefan # 18:06 s-bahn s10 gleis 2 uetliberg aussteigen station binz 2 stationen ab zrh ticket gleich bis binz loesen
+2008-04-15 20:00 niana dance
+
+2008-04-18 rabia
+2008-04-18 lina in loe
+
+#2008-04-21 11:02-14:34 travel to paris
+#2008-04-22 aec tech camp disneyland paris
+#2008-04-23 aec tech camp
+#2008-04-24 aec sales camp
+#2008-04-25 aec sales camp
+
+2008-04-21 9:00 dentist
+
+2008-04-22 12:30 of
+2008-04-22 19:30 heisser auflauf
+
+2008-04-23 8:00 apac call
+
+2008-04-24 8:00 wasserzaehler
+2008-04-24 9:30 wolfgang
+
+2008-04-25 13:00 vorvorverkauf jazz auf der burg
+
+2008-04-25 paris
+2008-04-26 paris
+2008-04-27 paris
+
+#2008-04-29 emea team meeting
+#2008-04-30 emea team meeting
+
+2008-04-30 9:15 denstist
+2008-04-30 15:00 gary
+2008-04-30 17:00 bill
+2008-04-30 20:00 christian
+
+#2008-05-01 rst api webcast
+#2008-05-28 acadnet gothenburg
+#2008-06-17 inventor api paris
+#2008-07-08 inventor api munich
+
+2008-05-06 17:00 rac api webcast
+
+2008-05-08 20:30 niana # warteck stiller raum rampe hinter haus
+
+2008-05-09 rabia
+2008-05-09 bhs waldhaus
+2008-05-10 pfingstferien begin
+2008-05-10 bhs waldhaus
+2008-05-11 bhs waldhaus
+2008-05-12 bhs waldhaus
+
+2008-05-13 17:00 rst api webcast
+
+2008-05-14 avignon saluces begin
+
+2008-05-19 13:30 renato
+2008-05-20 9:30 tile cutter
+
+2008-05-21 17:00 bieri # abschiedsvorlesung "Originale und Kopien", Institut fuer exakte Wissenschaften, Sidlerstrasse 5, Bern, Hˆrsaal A6, Mittwoch, 21.5.2008, 17:15 - ca. 18:00, Mit anschliessendem ApÈro
+2008-05-22 18:00 meeting gary stephen
+
+2008-05-23 17:00 WaldhuettenWundertuetenWe
+2008-05-23 chill-up dance
+2008-05-24 www
+2008-05-24 13:00 epona
+2008-05-25 15:00 www end
+2008-05-25 pfingstferien end
+
+2008-05-26 bieri return books
+2008-05-26 14:00 hugo
+
+2008-05-27 15:30-16:55 bsl-prg # Flight 1460 Departs: Basel Mulhouse Arpt (BSL) Tue 05/27/2008 at 3:30 PM, Arrives: Ruzyne Arpt (PRG) Tue 05/27/2008 at 4:55 PM
+2008-05-28 custom entities prague
+2008-05-28 zwoelftklassarbeiten
+2008-05-29 custom entities prague
+2008-05-29 zwoelftklassarbeiten
+2008-05-29 17:25-18:50 prg-bsl # Flight 1461 Economy (V) Avro RJ100, Departs: Ruzyne Arpt (PRG) Thu 05/29/2008 at 5:25 PM, Arrives: Basel Mulhouse Arpt (BSL) Thu 05/29/2008 at 6:50 PM
+2008-05-30 19:00 co zwoelftklassarbeit
+
+2008-05-31 18:00 jazz auf der burg
+
+2008-06-03 12:00 football
+2008-06-03 18:15 energiesparcheck # 07621-550210 yvonne.meyer-herrmann@t-online.de
+
+2008-06-04 zwoelftklassspiel
+2008-06-05 18:00 stadtlauf
+2008-06-05 zwoelftklassspiel
+2008-06-06 zwoelftklassspiel
+
+2008-06-06 20:30 decade
+2008-06-06 sigi wave
+
+2008-06-07 steine klopfen
+2008-06-08 steine klopfen
+2008-06-08 sandra klein-gissler # helferfest bollschweil
+
+2008-06-10 18:30 stefan
+2008-06-11 14:00 georg
+2008-06-12 8:00 georg
+2008-06-12 12:25 fra-bos # Departs: Frankfurt Intl (FRA), Terminal: 1 Thu 12/06/2008 at 12:25 PM, Arrives: Logan Intl Arpt (BOS) Terminal: E Thu 12/06/2008 at 2:30 PM
+2008-06-13 rabia
+2008-06-16 aec devcamp waltham
+2008-06-17 aec devcamp waltham
+2008-06-18 aec devcamp waltham
+2008-06-19 moni franz wandern
+2008-06-20 22:05 bos-fra # Flight # 0421. Departs: Logan Intl Arpt (BOS), Terminal: E Fri 20/06/2008 at 10:05 PM, Arrives: Frankfurt Intl (FRA) Terminal: 1 Sat 21/06/2008 at 11:10 AM
+2008-06-21 11:10 bos-fra arrival
+2008-06-21 16:00 christian roter stern
+2008-06-21 18:30 christa & martin
+
+2008-06-22 wandern end
+
+2008-06-27 19:30 kieswerk konzert
+2008-06-28 19:30 tanzen tok riehen
+
+2008-07-03 15:30 bsl-prg # latest check-in 14:50, arrival 16:55
+2008-07-04 theatre festival avignon
+2008-07-04 football prague
+2008-07-05 football prague
+2008-07-06 13:55 prg-bsl # latest check-in 12:55, arrival 15:00
+2008-07-06 zwoelftklassspiel
+
+2008-07-09 18:00 dragica birthday
+2008-07-09 20:00 karlheinz maenner
+
+2008-07-12 12:00 thomas # Todtmoos-Au, Wehrer Landstr. 12, "C:\tmp\Willkommen zum Sommerfest.doc"
+2008-07-13 20:00 wilde mathilde
+2008-07-14 20:00-21:30 contact
+
+2008-07-16 tempus fugit htg # jugend ohne gott
+2008-07-17 tempus fugit
+
+2008-07-18 aob fest glarisegg
+2008-07-19 aob fest glarisegg
+2008-07-20 aob fest glarisegg
+2008-07-21 20:00-21:30 contact
+
+2008-07-22 16:00 niana # Bitte Blumen und eine leere Flasche mitbringen; wer macht Musik?
+#2008-07-24 17:00-20:00 acad mep .net api webcast
+
+2008-07-24 19:00 dav
+2008-07-25 19:00 leonard cohen auf stimmen
+2008-07-26 16:00 rose volleyball
+2008-07-27 7:00 klettersteig with xopher + lina
+
+2008-07-28 20:00-21:30 contact
+
+2008-07-28 kt wandern begin
+
+2008-07-31 19:00 dav return klettersteig stuff
+2008-07-31 basle fireworks
+
+2008-08-02 party markus hannweber
+
+2008-08-03 knalltueten
+
+2008-08-06 12:00 leonid interview # C:\a\j\adn\case\special\garywassell
+2008-08-06 14:00 marat interview
+2008-08-07 7:00 anatoly interview
+
+2008-08-08 kt wandern end
+2008-08-08 sweat lodge
+2008-08-08 19:00 vernissage + performance # Karola Stettler, Hotel Radisson SAS Steinentorstr. 25 in Basel Tramhaltestelle Heuwaage, bitte anmelden karola_arte@yahoo.de oder tel. 076/5890059
+2008-08-09 8:30 epona flueh klettern
+
+2008-08-14 17:00 basel
+2008-08-15 16:00 karl geck # draussen-nacht im oberen hotzenwald
+2008-08-16 karl geck
+
+2008-08-19 xopher poland begin
+2008-08-19 11:30 call mn
+2008-08-19 18:00 stephen phone
+2008-08-19 19:00 beate
+
+2008-08-20 18:00 blog training
+
+2008-08-22 11:00 gary midyear review meeting
+
+2008-08-23 15:49 fr-ffm
+2008-08-24 11:00 gesa 51
+2008-08-25 gesa
+
+2008-08-28 17:00 aca webcast # Thursday 11am US east cost time
+2008-08-28 19:00 karate-yoga-tanz # \tmp\Karate,Yoga,Tanz.ppt
+
+2008-08-29 bloessling with moni
+2008-08-30 herzogenhorn with moni
+2008-08-31 eulengrat with cornelius
+
+2008-09-01 doris
+2008-09-02 schueco
+2008-09-03 schueco
+2008-09-04 schueco
+2008-09-05 doris
+
+2008-09-05 xopher poland end
+
+2008-09-06 18:00 vernissage # der RAUM1097 Grenzacherstr. 90 Hinterhaus
+
+2008-09-07 casa trueb begin
+#2008-09-09 farnborough training 'Achieving Your Highest Priorities'
+2008-09-10 ame webcast # 17:00-20:00 acad mep .net api webcast, Kevin, Wednesday 11am US East coast time
+
+2008-09-14 casa trueb end
+2008-09-14 15:00-18:00 winterthur
+2008-09-15 michael und andreas
+
+2008-09-18 9:00-17:00 mpg ne # Managing Professional Growth (MPG) http://training/etr/training/catalog.aspx?CourseID=971&TimeFrame=future&
+2008-09-19 9:00-13:00 mpg ne
+
+2008-09-22 neuch‚tel je˚ne fÈdÈral
+
+2008-09-24 men christian garden
+2008-09-25 20:00 venezuela vortrag # Burghof - Venezuela The Lost World http://www.kurt-albert.de/frame2.htm
+
+2008-09-27 martina # kriens, \tmp\martina_geburtstagseinladung.pdf
+
+2008-09-29 10:30 gary mpg + midyear review
+
+2008-10-02 19:30 monika sofa
+
+2008-10-03 13:15-14:30 call katja # 0172/6332967
+
+2008-10-03 gran paradiso
+2008-10-04 gran paradiso
+2008-10-04 15:00 sweat lodge
+2008-10-04 franz + hilde begin
+
+2008-10-05 gran paradiso
+
+2008-10-07 15:00 boehringer
+
+2008-10-11 franz + hilde end
+2008-10-12 6:35-9:10 bsl-agp # Sunday 12 October; Check in opens Sun 12 Oct 04:35 Closes Sun 12 Oct 05:55 Basel-Mulhouse-Freiburg (check-in Swiss sector) To Malaga; flight 1065; dep. Sun 12 Oct 06:35; arr. Sun 12 Oct 09:10
+2008-10-28 19:45-22:25 agp-bsl # Tuesday 28 October; Check in opens Tue 28 Oct 17:45 Closes Tue 28 Oct 19:05 Malaga To Basel-Mulhouse-Freiburg (check-in Swiss sector); flight 1070; dep. Tue 28 Oct 19:45; arr. Tue 28 Oct 22:25
+
+2008-10-30 tonfeld
+2008-11-02 tonfeld end
+2008-11-02 fr wave
+
+2008-11-03 sh
+2008-11-04 14:00 dentist
+2008-11-04 20:00 wave
+
+2008-11-06 freenet
+2008-11-06 16:00 tech leads
+
+2008-11-07 vb3 kredit faellig
+
+2008-11-07 18:00 einsundsein # quartiertreffpunkt burg, werkraum warteck, burgweg 7, basel
+2008-11-08 einsundsein
+2008-11-09 einsundsein
+
+2008-11-11 18:00 men jt # massage, austausch sexualitaet
+2008-11-11 19:30 heisser auflauf fr
+
+2008-11-12 full moon meeting?
+2008-11-13 8:30 christian
+
+2008-11-14 18:00 lua food
+2008-11-14 19:30 just jazz bei consolar # in lˆrrach
+
+2008-11-15 epona treff
+2008-11-15 party andrea hadid # C:\tmp\andrea_einladung_2008_11.pdf
+2008-11-15 party madlee
+
+2008-11-16 11:00 hannelore birthday brunch
+2008-11-17 Tag der offenen Tuer der BA, FH, PH fuer Abiturienten
+2008-11-18 08:00-12:00 freenet
+2008-11-18 18:30 beate
+
+2008-11-20 14:00 test # Palmstrasse 3, Fachbereich Gesundheit, Landratsamtes Lˆrrach, Haus 2
+2008-11-20 16:00 tech leads
+
+2008-11-21 8:00 axel
+2008-11-21 14:00 xopher french
+2008-11-21 17:30 rene
+2008-11-21 20:00 anette eckstein blumenstrasse
+
+2008-11-22 party + kids
+2008-11-23 sweat lodge + kids
+
+2008-11-26 birthday50
+2008-11-27 depart las vegas
+
+# Basel SBB, Bahnhof ab 05:40 Bus 50 Niederflurbus, Richtung: Basel, EuroAirport
+# Basel, EuroAirport an 05:53 Dauer: 0:19; f‰hrt 24. Nov bis 13. Dez 2008 Mo - Sa
+#
+# Basel SBB, Bahnhof ab 05:45 Bus 50 Niederflurbus, Richtung: Basel, EuroAirport
+# Basel, EuroAirport an 05:58 Dauer: 0:19; f‰hrt 24. Nov bis 12. Dez 2008 Mo - Fr, So
+
+# EasyJet Booking reference: EDVC8V2
+# Thursday 27 November
+# Check in opens Thu 27 Nov 05:10
+# Closes Thu 27 Nov 06:30 Basel-Mulhouse-Freiburg (check-in Swiss sector) To London Gatwick (North)
+# flight 8532; dep. Thu 27 Nov 07:10
+# arr. Thu 27 Nov 07:50
+
+# VIRGIN ATLANTIC, VS 0043
+# LONDON GATWICK (LGW) SOUTH TERMINAL 10:45
+# LAS VEGAS, NV (LAS) TERMINAL 2 13:30
+# Airline Confirmation: F98N9N
+
+2008-11-30 au begin
+2008-12-01 au devday
+2008-12-02 au 8:15-9:45 samples
+2008-12-02 16:00 blogger social # Autodesk University 2008 Blogger Social Tuesday, December 2, 4-5:30PM
+2008-12-03 au 10:15-11:45 tips
+2008-12-03 17:30 blogger social # Wednesday, December 3rd at 5:30 pm - 7:00 pm at the Venetian.
+2008-12-04 au 8:15-9:45 rme
+2008-12-04 au 15:15-16:45 aec api panel
+2008-12-05 au 8:15-9:45 CP401-3 Expanding BIM with the Revit API
+
+
+# Fri, Dec 5-Sat, Dec 6
+# VIRGIN ATLANTIC, VS 0044
+# LAS VEGAS, NV (LAS) TERMINAL 2 16:00 - Fri, Dec 5
+# LONDON GATWICK (LGW) SOUTH TERMINAL 09:50 - Sat, Dec 6
+# Airline Confirmation: F98N9N
+
+2008-12-08 devdays london
+
+# SCANDINAVIAN AIRLINES, SK 0522
+# LONDON HEATHROW (LHR) TERMINAL 3 18:40
+# GOTHENBURG (GOT) 21:40
+# Airline Confirmation: RH15B
+
+2008-12-09 devdays gothenburg
+
+# SCANDINAVIAN AIRLINES, SK 1631
+# GOTHENBURG (GOT) 19:05
+# FRANKFURT (FRA) TERMINAL 1 20:55
+# Airline Confirmation: RH15B
+
+2008-12-10 devdays frankfurt # LUFTHANSA, LH 3958 From: FRA TERMINAL 1 Departs: 21:05 To: MILAN LINATE (LIN) Arrives: 22:15 Airline Confirmation: 27H339
+2008-12-11 devdays milan
+
+# AIR FRANCE, AF 2215
+# MILAN MALPENSA (MXP) TERMINAL 1 21:00
+# PARIS DE GAULLE (CDG) AEROGARE 2 TERMINAL F 22:30
+# Airline Confirmation: 263JBT
+
+2008-12-12 devdays paris
+
+2008-12-13 18:34 gare de líest
+2008-12-15 12:24 depart
+
+2008-12-17 ne
+2008-12-17 19:00 rose dinner
+
+2008-12-20 winter solstice sweat lodge sonja
+
+2008-12-22 20:00 lex van someren e-kirche
+2008-12-23 19:30 weihnachstwave lanthemann # breitezentrum, zuercherstrasse 149, basel
+
+2008-12-24 hannelore party
+
+2008-12-25 kids
+2008-12-26 kids
+2008-12-27 kids
+2008-12-28 kids
+
+2008-12-28 14:00 andreas
+
+2009-01-03 sonja umzug
+
+2009-01-05 19:00 sigi
+2009-01-05 22:05 bsl-zrh
+2009-01-06 snow shoes
+2009-01-07 ne
+2009-01-07 17:00 niana bsl # blumen vom migros
+2009-01-07 19:30 skitourenstammtisch # Restaurant Gruett (also Rot-Weiﬂ)
+
+2009-01-08 Tag der offenen Tuer Uni Basel
+
+2009-01-09 17:00 sigi pc
+
+2009-01-12 12:05-13:45 bsl-bcn EF3QFD4 # Booking reference EF3QFD4
+
+# Basel/Mulhouse EuroAirport, Switzerland (BSL) to Aeropuerto Transoceanico de Barcelona, Spain (BCN)
+# Flight: easyjet (U2) Flight # 1075
+# Departs: Basel/Mulhouse EuroAirport, Switzerland (BSL) 01/12/2009 at 12:05 PM
+# Arrives: Aeropuerto Transoceanico de Barcelona, Spain (BCN) 01/12/2009 at 1:45 PM
+
+2009-01-13 revit api barcelona
+2009-01-14 revit api barcelona
+2009-01-14 cena juan marcos
+2009-01-15 revit api barcelona
+2009-01-15 abel smit
+
+2009-01-20 gheller # via Carmelitani Scalzi n.1, 37122 Verona, tel. 045 8003688
+
+2009-01-24 14:57 verona porto nuova gd
+2009-01-25 gd
+2009-01-26 12:59 gd
+
+2009-01-27 revit api verona
+2009-01-28 revit api verona
+2009-01-29 revit api verona
+
+2009-02-01 10:00 hugo
+
+2009-02-02 ne
+
+2009-02-03 9:00 karl osti
+2009-02-03 16:00 sofistik demo
+2009-02-03 20:00 wave # still & herzlich mit Margarita Lanthemann, Quartiertreffpunkt Breite, Zuercherstrasse 149
+
+2009-02-04 17:00 rac 2010 meet the expert
+2009-02-05 16:00 AMEP martin schmid
+
+2009-02-09 13:00 aec devdays online dry run
+
+2009-02-10 19:00 marlene und vollmond
+
+2009-02-12 17:00 devday online revit + aca + ame
+
+2009-02-13 17:20 zrh # bhf meeting point + snow shoes
+2009-02-13 20:00 dance free
+
+2009-02-15 schneeschuhtour selun 2205 m churfirsten
+
+2009-02-19 mr
+2009-02-20 beate
+
+2009-02-21 fasnachtsferien bis 28.2
+2009-02-21 kt + xt ski until 28.2
+
+2009-02-22 skitour motto crostel # 2302 m, faido, tessin, harald erbacher + rupert
+
+2009-02-24 16:00 strucsoft # revit 2010 presentation
+
+2009-02-25 11:00 employeee survey action plan
+
+2009-02-25 11:00 employeee survey action plan
+
+2009-02-25 men @ klaus
+
+2009-02-26 16:00 AU Revit API class planning discussion
+
+2009-02-26 19:00 gabi
+2009-02-26 20:30 wave
+
+2009-02-27 8:00 rose breakfast
+2009-02-27 8:30 yoga
+
+2009-02-28 kt + xt ski end
+2009-02-28 skitour bedrettotal # helgenhorn 2837 m, basodino 3272 m
+2009-02-28 19:30 ruth buffet # K‰ppelestr. 12 in Stetten
+2009-03-01 skitour
+
+2009-03-02 20:00 mr
+
+2009-03-04 6:55 bsl-muc-nap # 06:55 Basel 08:00 Muenchen LH38311 09:30 Muenchen 11:10 Neapel LH40501 4h15
+
+
+
+2009-03-06 21:30 medi # http://www.oshomiasto.it +39-577-960124
+2009-03-07 medi
+2009-03-08 medi
+
+2009-03-08 otc las vegas
+2009-03-14 otc las vegas end
+
+2009-03-14 bhs begin
+2009-03-21 bhs end
+
+2009-03-25 12:10 nap-muc-zrh # 12:10 Neapel 13:55 Muenchen LH40511 15:35 Muenchen 16:30 Zuerich LH37441 4h20
+
+2009-03-26 schriftl. abi bis 3.4
+
+#2009-03-27 karl geck # mit den verhaeltnissen tanzen - die naechste krise kommt bestimmt
+#2009-03-28 karl geck
+#2009-03-29 karl geck
+
+2009-03-28 J kids
+
+2009-03-30 ne
+
+2009-03-31 14:30-15:00 kristine devnote # Process Feedback One on One Session
+
+2009-04-01 15:30 astrid
+2009-04-01 20:00 singvoegelchen alte tuellinger schule
+
+2009-04-02 15:00 katja
+2009-04-02 16:00 martin mep
+
+#2009-04-03 bhs into the mystic
+#2009-04-04 bhs
+#2009-04-05 bhs
+
+2009-04-06 11:00 peter klapprott
+
+2009-04-08 09:00 gary
+2009-04-08 20:00 niana 40
+
+2009-04-09 10:00 maenner
+2009-04-09 19:00 full moon
+
+2009-04-10 *ne holiday good friday
+
+2009-04-10 10:30 alan lowen # Anmeldung als Assistent zum Kurs Freiheit zu fuehlen, Freiheit zu lieben mit Alan Lowen hier im Waldhaus Zentrum Luetzelflueh.
+2009-04-11 alan
+2009-04-12 alan
+2009-04-13 alan
+
+2009-04-14 gd?
+2009-04-15 17:00 Trelligence Revit Vanguard demo
+2009-04-16 gd?
+2009-04-17 v+z aesch # 7:12 muc 11:44 zrh 11:52 S-15 12:08 birmensdorf
+2009-04-17 andreas zrh
+
+2009-04-16 kt + xt + ct berlin until 19.4
+2009-04-19 kt + xt + ct berlin end
+
+#2009-04-16 skitour rund um zinai until 19.4
+#2009-04-17 skitour
+#2009-04-18 skitour
+#2009-04-19 skitour rund um zinai end
+
+2009-04-20 ne
+
+2009-04-21 acapella ohne birte
+
+2009-04-22 maenner deepesh
+
+2009-04-27 15:45 LX041
+
+2009-04-29 revit api webcast
+
+2009-04-30 8:00 christian breakfast
+
+#2009-05-01 christa hamm
+#2009-05-02 christa hamm
+#2009-05-03 christa hamm
+
+2009-05-05 19:00 beate
+
+2009-05-06 12:40-14:30 bsl-pmi # palma de mallorca, old: 11:25-14:15 Flug 1057; Abflug 12:25; Ankunft 14:15; Die Abfertigungsschalter ˆffnen 10:25 und schlieﬂen 11:45
+2009-05-06 23:15 nick arrival # easyjet from london gatwick
+
+2009-05-08 christian birthday
+
+2009-05-11 15:20-17:10 pmi-bsl # old: 13:50-16:40 Flug 1058; Abflug 14:50; Ankunft 16:40; Die Abfertigungsschalter ˆffnen 12:50 und schlieﬂen 14:10
+#2009-05-12 23:50 nick departure
+
+# EMIA Autodesk Industry Academy 2009
+# http://adskindustryacademy.autodeskevents.com/home.html
+#2009-05-11 techcamp munich msd + plant
+#2009-05-12 techcamp munich aec + msd + plant + m&e
+#2009-05-13 techcamp munich aec + geospatial + msd + m&e
+#2009-05-14 techcamp munich aec + geospatial
+#2009-05-15 techcamp munich aec + geospatial
+
+2009-05-13 acapella mit birte
+
+2009-05-14 lua
+2009-05-14 kt gone
+2009-05-15 kt gone
+2009-05-16 kt gone
+
+2009-05-15 10:05-12:30 zrh-arn # Flight Swiss/SAS #4666 Airline Record Locator: KE7I54
+
+2009-05-19 cadq stockholm
+2009-05-20 cadq stockholm
+2009-05-20 19:35-22:00 arn-zrh # Flight Swiss #1255
+
+2009-05-21 *ne holiday pfingstferien bis 7.6
+
+2009-05-23 19:30 warteck werkraum tanzen und so # "C:\tmp\TUS einladungsflyer.pdf"
+
+2009-05-25 avignon with boys
+
+2009-06-01 avignon with boys
+
+2009-06-09 19:00-21:00 alan zrh # Glockenhaus, Sihlstrasse 33, Zuerich (neben Glockenhof), Vortrag "Ohne deine Pr‰senz kann das Fest nicht beginnen!"
+
+#2009-06-10 20:00 acapella mit birte # faellt aus
+2009-06-10 20:00 maenner
+
+2009-06-13 19:00 beate
+2009-06-14 10:00-16:00 maenner stefan
+2009-06-15 lua
+
+2009-06-20 19:30 sommersonnenwende barbara + michael
+
+2009-06-21 19:00 earth run fr # 10. Earth Run an Mittsommernacht am 21.06.09 ab 19:00 Uhr, Kanonenplatz Freiburg. Das eigentliche Ritual wird nach einem kurzen Spaziergang und einer Einstimmung auf dem Platz der alten Festung 250 Meter hinter dem neuen Turm stattfinden.
+
+2009-06-22 muendliches abi
+
+2009-06-22 17:00 wam training
+2009-06-23 7:30 wam training
+
+2009-06-23 muendliches abi
+2009-06-23 18:00 bettina
+
+2009-06-24 acapella ohne birte
+
+2009-06-25 ne christoph demenager
+
+2009-06-26 aob sommerfest glarisegg
+2009-06-27 aob sommerfest glarisegg
+2009-06-28 aob sommerfest glarisegg
+
+2009-06-28 otto kletterkurs
+
+# 18:00-19:30 Uhr Meet and Greet - Lehrerteam vom IISB und praktizierende CSBs
+# 19:30-21:30 Uhr Vortrag Joseph Kramer (in englischer Sprache)
+# Hotel Viktoria, Centralbahnplatz 4, 4051 Basel
+2009-06-29 18:00 Joseph Kramer Sexological Bodywork
+
+2009-07-01 18:00 christopher abschiedsessen
+2009-07-01 20:00 maenner peter
+
+2009-07-02 7:00 christopher depart india
+
+2009-07-04 14:00 kreativwochenende rose
+2009-07-05 kreativwochenende rose
+
+2009-07-08 14:00 co
+#2009-07-08 19:30 theater im moment # an der gueterstr. 145, hinterhof, in basel
+#2009-07-08 acapella mit birte
+
+2009-07-09 11:00 lead emea devtech call
+2009-07-09 18:30 dragica # Dragica Marcius, Markgr‰flerstr. 64, CH-4057 Basel, Tel. 061 322 48 80, 0041 76 522 38 42, marcius_dr@hotmail.com
+
+2009-07-11 schmalstoeckli # climbed the route 'Kurze Kombination 4c' with robert hett
+
+2009-07-13 14:00 kean
+2009-07-13 18:00 tatjana + juergen jurte
+
+2009-07-14 11:00 garni
+2009-07-14 14:00 dentist
+
+2009-07-15 8:30 christian
+
+2009-07-16 11:00 lead emea devtech call
+2009-07-16 council workshop begin
+2009-07-17 18:00 sweat lodge preparation
+2009-07-18 04:00 sweat lodge j+t
+2009-07-18 sweat lodge christian
+2009-07-19 council workshop end
+
+2009-07-21 12:00 marion
+2009-07-21 18:00 beate
+
+2009-07-23 marie + david
+2009-07-23 16:00 family api webcast
+
+2009-07-24 marie + david
+2009-07-24 18:58 lua
+2009-07-24 19:00 tracy chapman
+2009-07-24 19:30 wave # Tanzpalast Gueterstr. 82
+
+2009-07-25 marie + david
+2009-07-25 astrid
+
+2009-07-26 11:00 men bern bhf
+2009-07-27 ne
+
+2009-07-28 hochtour tschingelhorn
+2009-07-29 hochtour tschingelhorn
+# reichenbach, griesalp, gamchi scharte, mutthorn, mutthornhuette, tschingelhorn, gasterental, stalten, kandersteg, reichenbach
+# rupert, jogi, joerg: rupert.wagner@mountains.de, juergenkuehnoel@web.de, joerg_gutowski@web.de
+
+2009-07-31 19:30 wave # Tanzpalast Gueterstr. 82
+
+2009-08-01 *swiss national holiday
+2009-08-01 beckenried
+2009-08-02 beckenried
+2009-08-03 lua
+
+2009-08-04 juergen birthday
+2009-08-05 sonja
+2009-08-05 20:00 vorbesprechung weissmies
+2009-08-05 full moon fire
+
+2009-08-06 21:00 patent ochsner # http://www.imfluss.ch
+2009-08-07 christine fischer
+
+2009-08-08 11:00 juergen + tatjana # dank und segensfest
+
+2009-08-07 hochtour almageller huette # aufstieg von saas almagell zur almageller huette
+2009-08-08 hochtour mittelrueck # aufstieg zum sunnigpass und ueberquerung vom mittelrueck
+2009-08-09 hochtour weissmies # aufstieg zum zwischenbergen pass und ueberquerung vom weissmies, gletscherabstieg ins hohsaas tal und bergbahn runter nach saas grund
+# rupert, jogi, heike, hubert, robert, thomas, sonja, berit, margit, karin, jeremy
+
+2009-08-10 lina + ben
+
+2009-08-12 19:00 beate
+
+2009-08-14 club zrh
+2009-08-14 19:30 wave # Tanzpalast Gueterstr. 82
+2009-08-15 luA
+2009-08-15 21:00 stiller has # http://www.imfluss.ch
+2009-08-16 luA paddling
+
+2009-08-18 19:00 beate
+
+2009-08-19 16:30 moni
+
+2009-08-20 17:00 doebelin + maurer van gogh + apero
+
+2009-08-23 bergtour saentis # bergbahn, cable car up, then across the exciting Lysengrat ridge and along another ridge with beautiful views in beautiful weather across to the Schafbergsattel, ending up with a very long trek through a beatiful valley down to Wildhaus to catch the last bus when it was already completely dark at half past ten at night
+
+2009-08-27 rme api webcast
+
+2009-08-29 15:00 rainer summer party # C:\tmp\rainer_Summerparty_2009.jpg
+2009-08-29 17:00 katja gartenfest
+2009-08-29 17:30 rose volleyball
+2009-08-29 19:30 gurdjieff concert # gemeindesaal christuskirche freiburg-wiehre maienstr. 2
+2009-08-29 19:45 tanzen und so # Warteck, Burgweg 7, Basel, Nicole 061 331 50 03,waldnicole@hotmail.com, C:\tmp\TUS_einladungsflyer_29_august.pdf
+
+2009-08-30 11:00 rose malen im garten
+2009-08-30 14:00 spielen Schorenmatte beim Eglisee # Sonntag Nachmittag wird gespielt auf der Schorenmatte (beim Eglisee). Dazu kannst du in- und outdoortaugliche Spiele mitbringen oder dich Spielbegeisterten anschliessen. Wir beginnen um 14 Uhr beim Sportplatz Schorenmatte und verteilen uns dann auf die verschiedenen Spielst‰tten rund um die Schorenmatte. Bitte teile mir mit wenn du kommen mˆchtest und welche Spiele du magst.
+
+2009-08-30 muttenhorn
+#2009-09-30 maenner zueri ausweichtermin
+
+2009-09-01 20:00 special wave # Breitezentrum, Zuercherstr. 149
+
+2009-09-03 17:00 aca.net webcast
+2009-09-03 18:00 otto geburi
+2009-09-04 18:00 rose geburi, volleyball + film
+
+2009-09-05 18:00 heiner # Schorenweg 113, N‰he Eglisee, beim Sportplatz Schoren, direkt vor der Langen Erle.
+2009-09-06 maenner bern
+
+2009-09-08 elp farnborough # Employee Leadership Program http://training/Etr/training/catalog.aspx?CourseID=117&TimeFrame=future&Keywords=Employee%20Leadership%20Program&
+
+2009-09-09 16:00 adn all hands
+
+2009-09-10 toscana begin
+2009-09-20 toscana end
+
+2009-09-23 19:00 bernd lafrenz macbeth # Dieter Kaltenbach Stiftung
+
+2009-09-26 19:00 rose vernissage # tuellingerstr. 36 a, protzek, biomedizin, C:\tmp\rose\retiro.jpg
+2009-09-27 10:30-14:00 tri-flow yoga
+
+2009-09-30 18:00 lua massage
+2009-09-30 19:00 sektionswochenendvorbesprechung # alten wasserwerk
+
+2009-10-01 afternoon lua free time
+2009-10-01 16:00-18:00 revit vanguard meeting
+
+2009-10-03 rupi hochtour
+2009-10-04 rupi hochtour -> lua
+2009-10-05 lua
+
+2009-10-07 maenner christian
+
+2009-10-09 sektionswochenende
+2009-10-10 10:00 contact workshop ralf jaroschinski # regina kenk
+2009-10-10 sektionswochenende
+2009-10-11 sektionswochenende
+
+2009-10-12 14:30-15:30 rme api meeting stacey scanlon
+
+2009-10-14 christian klangschalen massage
+
+2009-10-15 men in ticino begin
+2009-10-18 ticino end
+
+2009-10-20 lua bern + bsl
+
+2009-10-23 14:00 moni meet baellchen
+2009-10-24 17:00 hummus for karlheinz # Hasler Bahnhof schopfheim --> wehr -> hasel -> 1 rechts
+
+2009-10-25 lua
+2009-10-26 lua
+
+2009-10-27 10:00 robert
+2009-10-27 12:00 monika
+# Advokaturbuero Michael Steiner Effingerstrasse 4A, 3011 Bern, Schweiz, contact@anwalt-steiner.ch Tel. 031-382-2532
+2009-10-27 19:00 nicola
+2009-10-27 22:45 monika
+
+2009-10-28 ne + andreas + lua
+
+2009-10-30 sabine vipassana film
+2009-10-30 tatj + juergen # knoblauchgratin
+
+2009-11-01 16:00 anna + herbert
+2009-11-01 19:00 full moon fire
+
+2009-11-03 18:00 dirk frigne
+
+2009-11-04 19:00 rose
+
+2009-11-05 12:30 navisworks
+2009-11-05 16:30 AutoCAD DevDays practice
+
+2009-11-06 18:00 burkhard # "C:\tmp\burkhardt\Burkhardt in Basel Anmeldung 2009neu.pdf"
+2009-11-07 burkhard
+2009-11-08 burkhard
+
+2009-11-11 12:30 revit devdays dry run
+2009-11-11 14:00 rfa api virtual dry run
+2009-11-11 20:15 men tm # bring a funny story
+
+2009-11-13 13:30 zrh cubus joerg pipo
+2009-11-13 17:00 lua wellness
+2009-11-13 madlee
+2009-11-14 lua andeer wellness
+2009-11-14 09:00-11:30 black diamond lagervekauf # Hafen 45, 79576 Weil am Rhein, C:\tmp\dav\Wegbeschreibung_Plan-d-Acces.pdf
+2009-11-15 lua andeer wellness
+
+2009-11-18 ne
+2009-11-18 19:30 beate
+
+2009-11-19 7:00 light fire
+2009-11-19 8:00 get car from axel and go shopping
+2009-11-19 11:00 wash
+2009-11-19 14:00 karlheinz
+2009-11-19 19:00 rose
+
+2009-11-20 11:00 paul + migros
+2009-11-20 11:30 rene im ganges
+2009-11-20 14:00 sabine
+2009-11-20 19:58 rajini
+
+2009-11-21 non-birthday
+2009-11-22 sweat lodge
+
+2009-11-23 bsl-muc
+2009-11-24 17:00 api aec meeting
+
+2009-11-25 8:30 api aec meeting apac
+
+2009-11-26 11:30 muc-iad-las
+# LH9280 26NOV MUCIAD 11:30 14:59
+# LH9358S 26NOV IADLAS 17:07 19:30
+
+2009-11-30 07:30-08:30 rfa api prep
+2009-11-30 08:30-09:30 rfa api # virtual session recording Studio Lagoon E
+2009-11-30 09:30-18:00 devdays las vegas
+2009-12-01 11:00-12:00 fernando malard
+2009-12-01 15:00-16:00 rfa api # broadcast 1 of The New AutodeskÆ RevitÆ Family API: Everything is Relative, Customization & Programming, Virtual Session, 12/1/2009 - 3:00 pm - 4:00 pm, Virtual 1
+2009-12-02 09:00-10:00 rfa api # broadcast 2
+2009-12-02 11:30-14:00 adn stand
+2009-12-02 13:00-14:30 harry's session # Creating and Analyzing New Conceptual Massing Geometry With the Revit API, Customization & Programming
+2009-12-02 17:00-18:30 scott's session # CP222-3 Analyze Geometry of Buildings Using the Revit API
+2009-12-02 19:00-22:00 adn stand
+2009-12-03 10:00-11:30 rme api # All Systems Go in the New AutodeskÆ RevitÆ MEP API, Customization & Programming, 90-Minute Class, 12/3/2009 - 10:00 am - 11:30 am, Palm C
+2009-12-03 12:00-13:30 chuck dodson # Trattoria Del Lupoís
+
+2009-12-04 las-sfo-muc
+2009-12-05 las-sfo-muc
+
+# LH9229 04DEC LASSFO 16:19 18:07
+# LH 459 04DEC SFOMUC 21:00 17:15
+
+2009-12-06 11:10-14:00 muc-malaga
+
+# LH4526 06DEC MUCAGP 11:10 14:00
+
+2009-12-07 devdays tel aviv
+2009-12-09 devdays moscow
+
+2009-12-10 11:00 maria rico garcia # balcon de europa, nerja, puerta de la iglesia
+2009-12-10 16:15-18:10 BA 495 malaga-london # AGP-LHR
+
+2009-12-11 devdays prague
+
+2009-12-14 devdays london SK 0522 LHR 18:40 - GOT 21:40
+2009-12-15 devdays gothenburg LH 3045 GOT 19:15 - FRA 21:00
+2009-12-16 devdays frankfurt LH 3958 FRA 21:05 - LIN 22:15
+2009-12-17 devdays milano LH 1778 MXP 21:50 - CDG 23:15
+2009-12-18 devdays paris
+2009-12-18 helene faria
+2009-12-19 11:00-12:15 LX 635 cdg-zrh
+2009-12-19 lua
+2009-12-19 christian sweat lodge
+2009-12-20 lua
+
+2009-12-18 q4 shutdown
+2009-12-21 q4 shutdown
+2009-12-22 q4 shutdown
+2009-12-22 20:00 weihnachtswave # Quartiertreffpunkt Breite, Zuercherstr. 149
+2009-12-23 q4 shutdown
+
+2009-12-24 8:00 sigi
+2009-12-24 19:00 rupert
+
+2009-12-26 11:00 basel sbb
+2009-12-26 16:00 vipassana begin # Monte Verita in Ascona, Gruppo Vipassana Ticino, Via Monte Tabor 2, CH-6512 Giubiasco, +41-76/2372232
+
+year 2006 # reset year explicitly
+odd fridays in year education day
+odd thursdays in year beruehren # 20:00-22:00
+
+year 2007 # reset year explicitly
+even fridays in year education day
+
+year 2008 # reset year explicitly
+odd fridays in year education day
+
+year 2009 # reset year explicitly
+odd fridays in year education day
+
+2009-07-09 20:30 tanz
+
+2009-01-01 New Year's Day
+2009-04-10 Good Friday
+2009-04-13 Easter Monday
+2009-05-21 Ascension Day
+2009-05-22 Ascension Day Bridging Day
+2009-06-01 White Monday
+2009-09-21 Je˚ne FÈdÈral
+2009-12-24 Annual Week of Rest until 2010-01-03
+2010-01-01 New Year's Day
+
+2010-01-04 q4 shutdown
+2010-01-05 q4 shutdown
+
+2010-01-06 7:30 vipassana end
+2010-01-06 17:00 lua
+
+2010-01-08 19:00 sigi im nellie
+2010-01-08 jutta in kandern # C:\tmp\jutta_2010-01-08.doc
+
+2010-01-09 men zueri
+2010-01-09 tantzeria winti
+2010-01-10 lua
+2010-01-12 19:00 beate
+2010-01-13 ne
+
+2010-01-17 8:00 andrea # balint, breakfast, pantagruel-tˆrn
+2010-01-18 20:00 lena skan # ester schwalb freie strasse 8 mittemot yves rocher
+
+2010-01-23 lua open door
+2010-01-23 nicola zuegeln
+
+2010-01-26 19:30 beate
+
+2010-01-27 20:00 maenner christian
+
+2010-01-28 16:30 moni
+
+2010-01-29 19:00 tango
+2010-01-30 daniel in locarno
+2010-01-31 vipassana in giubiasco
+2010-02-01 daniela verbania
+
+2010-02-02 17:00 meet the revit experts
+
+#2010-02-11 gopinath hyderabad
+
+2010-02-13 10:00 werner
+2010-02-13 13:00 robert impulsiv
+
+2010-02-15 18:00 beate axel michaela tango
+2010-02-16 10:25-12:55 bsl-agp EG2HPN1
+2010-02-27 19:15-21:55 agp-bsl
+2010-02-28 11:00 ruth
+
+#2010-02-28 sk zermatt begin
+#2010-03-03 gd? sk?
+#2010-03-04 gd? sk?
+#2010-03-05 gd? sk?
+#2010-03-04 georg beatenberg?
+
+2010-03-04 9:00 werner
+2010-03-05 18:30 beate # koechlin 8 martin schmid
+2010-03-06 15:00 georg
+
+#2010-03-07 sk zermatt end
+
+2010-03-07 moni birthday present
+2010-03-08 19:00 avatar with rose
+2010-03-09 18:30 beate
+
+#2010-03-08 rme training munich
+#2010-03-09 rme training munich
+#2010-03-10 revit api training munich
+#2010-03-11 obermayer munich
+#2010-03-12 obermayer munich
+
+2010-03-10 maenner klaus
+
+2010-03-12 19:00 on-the-way # infoabend
+
+2010-03-10 19:00 vorbesprechung skitour
+
+# parkplatz impulsiv villa fehr gruett, mit steigeisen aber ohne gurt und pickel
+2010-03-12 7:00 skitour joerg # berner oberland, diablerets, cabane de prarochet, arpelistock, geltenhorn, wildhorn
+2010-03-13 skitour
+2010-03-14 skitour
+2010-03-14 lua
+2010-03-15 lua
+
+2010-03-20 skitour markus gsellihorn # ok
+2010-03-20 20:00 bettina konzert # peterskirche basel
+2010-03-20 20:00 heiner kaspar so oder so # Kulturzentrum Kesselhaus Weil am Rhein
+2010-03-21 skitour
+2010-03-22 13:00 gary ross mep api
+
+2010-03-25 revit 2011 public
+2010-03-25 13:00-14:30 rac 2011 # What's New in Autodesk Revit Architecture 2011 (virtual)
+2010-03-25 15:00-16:30 rme 2011 # What's New in Autodesk Revit MEP 2011
+2010-03-25 17:00 steffen.kocian@vb3.de
+2010-03-25 20:00 moni
+2010-03-26 15:00-16:30 hsb vanguard demo
+2010-03-26 18:00 vernissage barbara
+2010-03-26 19:00 tango nellie
+
+2010-03-27 skitour jogi bedrettotal # ok Helgenhorn 2837 m, Basodino 3272 m, Cristallina 2912 m
+2010-03-28 skitour jogi
+2010-03-29 skitour jogi
+2010-03-29 19:00 full moon fire
+
+2010-03-30 16:00-18:00 trelligence vanguard demo
+2010-03-30 20:00 wave margarita # Quartiertreffpunkt Breite, Zuercherstr. 149
+
+2010-03-31 15:00 hsb revit vanguard demo
+2010-03-31 19:00 beate tango
+
+2010-04-02 10:30 love and the shadow # glarisegg
+2010-04-05 16:00 love and the shadow end
+
+2010-04-06 10:35-12:30 zrh-waw # LOT # 0412 Duration:1:55 Airline Record Locator: 48BQLA
+2010-04-07 warsaw revit api
+2010-04-08 warsaw revit api
+2010-04-09 warsaw revit api
+2010-04-09 17:00-19:05 waw-zrh # LOT # 0419 Duration: 2:05 Airline Record Locator: 48BQLA
+
+2010-04-10 lua klosters
+2010-04-11 lua
+
+#2010-04-10 skitour joerg + harald # Wildhornhuette, Schniderhorn, Niesenhorn, Wildhorn, Iffighore
+#2010-04-11 skitour
+
+2010-04-12 devtv
+2010-04-12 19:00 rose wave?
+2010-04-13 be?
+2010-04-13 devtv
+2010-04-13 16:00 gary appraisal
+2010-04-14 ne?
+2010-04-14 devtv
+2010-04-15 devtv
+2010-04-15 9:00 notar
+2010-04-15 15:00 adn all hands
+2010-04-16 devtv
+2010-04-16 skitour rupert # il chaputschin
+
+2010-04-17 skitour harald # Piz Morteratsch, Tschiervahuette, warteplatz 3 - ok
+2010-04-17 schwitzhuette wiechs
+2010-04-18 skitour
+
+2010-04-19 skitour?
+2010-04-19 webcast preparation
+2010-04-20 webcast preparation
+2010-04-21 17:00 revit api webcast # what's new in 2011, devdays online
+2010-04-21 20:00 maenner@jeremy
+2010-04-22 19:30 vorbesprechung # altes wasserwerk
+2010-04-22 20:00 vv
+
+2010-04-24 5:30 skitour gerson # Tete Blanche 3724 m, Tete Valpelline 3802 m, ok
+2010-04-24 11:00 men @ karlheinz
+2010-04-25 skitour
+
+2010-04-27 17:00 juergen braendlin
+
+2010-04-30 19:00 tango
+
+#2010-05-01 skitour markus # rinderhorn 3448 m, Balmhorn 3698 m, ok
+#2010-05-02 skitour markus
+#2010-05-03 skitour markus
+
+2010-05-02 lua
+
+2010-05-03 lua lausanne begin
+2010-05-04 19:30 tango@jeremy
+2010-05-05 19:30 rose
+
+2010-05-06 19:00 andrea + karin, bring wine!
+
+2010-05-09 14:30 susann bday
+2010-05-09 16:30 hochburg
+2010-05-10 9:00 nadan # landgericht fr salzstr 17 zi 1025
+
+2010-05-12 17:00 jogi
+2010-05-12 20:00 beate
+2010-05-12 21:30 ladies night yoga
+
+#2010-05-13 movements begin
+#2010-05-16 movements end
+
+2010-05-14 bridging day
+
+2010-05-15 13:30 men zrh
+2010-05-15 19:00 andrea concert # stadtkirche
+
+2010-05-16 lua
+2010-05-17 lua
+2010-05-17 17:00 nicola
+2010-05-17 20:00 klaus
+
+2010-05-18 christopher return
+2010-05-18 20:00 wave # Quartiertreffpunkt Breite, Zuercherstr. 149
+
+#2010-05-18 ne situational leadership
+#2010-05-19 ne situational leadership
+
+2010-05-18 18:00 christophe
+2010-05-18 20:00 urs
+2010-05-19 7:30 norbert
+2010-05-19 19:45 maenner@christian
+
+2010-05-20 17:00 revit api webcast
+2010-05-20 20:00 beate
+
+2010-05-21 9:00 kocian
+2010-05-21 10:00 ginz
+
+2010-05-22 16:00 bettina
+
+2010-05-22 lua
+2010-05-23 lua
+2010-05-24 lua
+
+2010-05-25 sonja
+2010-05-26 sonja
+
+2010-05-26 18:01-22:22 bsl-verbania
+2010-06-02 verbania end?
+
+#2010-06-04 19:00 ibp agency # 'Erst komm ich' - Von Agency zu Selbstkontakt, IBP-Institut Winterthur
+#2010-06-05 ibp agency
+#2010-06-06 13:00 agency end
+
+2010-06-03 17:30-19:50 zrh-bos # LX 0052
+2010-06-05 14:00 WoProBeWe
+2010-06-07 devcamp waltham begin
+2010-06-08 devcamp
+2010-06-09 devcamp end
+2010-06-10 devlab
+2010-06-11 devlab
+2010-06-11 21:40 bos-zrh
+2010-06-12 10:55 arrival
+2010-06-12 munich football
+2010-06-12 stefan eigenmann bday
+2010-06-12 19:00 neuland # tanzpalast: gleich beim bahnhof, ausgang gueterstrasse
+
+2010-06-13 9:30 xopher
+2010-06-13 18:00 beate
+
+2010-06-15 17:30 arnold # Digital Prototyping Days 2010, burghof, 13:00-18:00, http://www.arnold-it.com
+2010-06-15 19:30 rose wave
+
+2010-06-16 ne
+2010-06-16 20:30 men@thomas
+
+2010-06-17 moni
+2010-06-18 moni
+
+2010-06-19 9:00 loik sweat lodge
+2010-06-19 14:30-17:00 meditations-spaziergang
+2010-06-19 17:00 lua sweat lodge
+
+2010-06-19 hochtour muttenhorn kl. furkahorn joerg + steffen
+2010-06-20 hochtour
+2010-06-20 16:00 hugo + seraina wedding
+2010-06-20 22:00 stefan
+
+2010-06-20 16:00 barbara + michael
+2010-06-21 18:00 barbara + michael
+
+2010-06-21 7:16-11:28 zrh-muc
+2010-06-21 devlab munich begin
+2010-06-25 devlab munich end
+2010-06-25 18:00 rose volleyball
+
+2010-06-26 andrea lauenen
+2010-06-27 andrea lauenen
+
+2010-06-26 rose kreativ
+2010-06-26 15:30 niana football
+2010-06-27 rose kreativ
+
+2010-06-29 9:15 dentist scherble
+2010-06-29 balcony dismantle & measure
+
+2010-07-01 8:15 lua sbb schalter
+2010-07-01 9:45-13:25 zrh-athens # Swiss LX1830
+2010-07-02 flesh + spirit begin
+2010-07-03 heiner bday
+2010-07-09 flesh + spirit end
+2010-07-14 17:25-19:15 athens-zrh # Swiss LX1839
+
+2010-07-10 urs wiesendanger hochzeit
+
+2010-07-15 8:00 ginz
+2010-07-15 halbtax abgeben # bei der sbb um jelmoli visa karte zu kundigen
+2010-07-15 balcony work until july 26
+
+2010-07-17 mountain solo?
+2010-07-17 16:00 robert hett birthday
+2010-07-17 18:00 singen burgruine wiesneck
+2010-07-18 13:30 men bern
+
+2010-07-19 8:30 dentist scherble # old gnasher 230,- euro
+2010-07-19 balcony dismantle
+
+2010-07-22 balcony rebuild
+
+2010-07-27 munich revit api
+2010-07-28 munich revit api
+
+2010-07-30 hochtour dom wolfgang + heike # 4545 m, warteliste platz 6
+2010-07-31 hochtour
+2010-08-01 hochtour
+
+2010-07-29 22:45-14:35+1 zrh-bkk swiss LX 180 # 10:50 hours, Buchungsnummer 4L4H9A
+2010-07-30 6:55 dany begin
+2010-07-30 14:35 arrival swiss LX 180
+2010-08-04 jogi geburi
+
+2010-08-19 travel to siem reap
+2010-08-20 angkor wat
+2010-08-21 angkor wat
+2010-08-22 angkor wat
+2010-08-23 travel to bangkok
+2010-08-24 bangkok
+2010-08-25 bangkok ... travel to pattaya?
+2010-08-26 travel to airport
+
+2010-08-26 23:25-6:10+1 bkk-zrh swiss LX 181 # 11:45 hours
+2010-08-27 6:10 arrival swiss LX 181
+
+2010-08-31 19:00 ginz
+2010-08-31 20:00 wave # Quartiertreffpunkt Breite, Zuercherstr. 149
+
+2010-09-01 16:40-18:25 fra-svg segeltoern begin # Wed 1 Sep 16:40 Frankfurt (FRA) 18:25 Stavanger (SVG) LH3156 1h45
+
+2010-09-04 dragica party
+
+2010-09-10 14:40-16:20 got-fra segeltoern end # Fri 10 Sep 14:40 Gothenburg (GOT) 16:20 Frankfurt (FRA) LH3043 1h40
+
+2010-09-10 16:00 Swiss Summer Fiesta # for Autodesk Switzerland + Families @ Le Chateau du Landeron
+
+2010-09-11 9:00 dav bergtriathlon # C:\tmp\dav\BergTriatlon2010.doc
+2010-09-11 15:00-18:00 regina & rose tanzen und malen
+
+2010-09-17 12:00 men
+
+2010-09-18 franz + hilde
+
+2010-09-19 gitika brunch
+
+2010-09-19 20:00 lua chur
+2010-09-20 lua
+2010-09-21 lua
+2010-09-21 19:45 andrea & karin
+2010-09-22 lua
+2010-09-22 ne
+2010-09-23 16:00 gopi
+2010-09-23 19:00 herbstanfang
+
+2010-09-24 21:00 die frau mit den 5 elephanten
+2010-09-25 6:25-7:00 bsl-lcy # swiss 484 Duration: 1 hour, 35 minutes Airline Record Locator: QVM5ZQ
+
+2010-09-25 15:00-19:00 regina & rose contact
+2010-09-25 11:00-18:00 heiner workshop zh # C:\tmp\gszh.doc
+2010-09-26 16:00 heiner
+2010-09-27 emea team meeting
+2010-09-28 elp
+2010-09-29 elp
+2010-09-30 elp
+2010-10-01 elp
+2010-10-01 20:35-23:05 lcy-bsl # swiss 487 Duration: 1 hour, 30 minutes Airline Record Locator: QVM5ZQ
+
+2010-10-02 steppenwolf # http://www.fugit.de/spielplan.htm
+2010-10-03 21:00 M‰nner im Wasser
+
+2010-10-03 lua?
+2010-10-04 lua?
+
+#2010-10-06 saudi arabia? # carlo, http://www.d-perspective.com/contactus.html
+
+#2010-10-09 beate apfelernte
+
+2010-10-08 9:45-13:45 zrh-cai # cairo swiss 236, Duration: 4 hour(s) 0 minute(s), ARRIVES CAI TERMINAL 3, Swiss Airlines Confirmation number is TF6S34, Booking Locator: PDYLPT
+
+#2010-10-09 rupi?
+
+2010-10-13 9:50-12:25 bsl-agp # easyjet 1065
+2010-10-13 3:55-7:35 cai-fco # alitalia 895 Duration: 3 hour(s) 40 minute(s) DEPARTS CAI TERMINAL 1 - ARRIVES FCO TERMINAL 3, Alitalia Airlines Confirmation number is NUH7IZ, Booking Locator: OBIKAY
+2010-10-13 10:20-13:00 fco-agp # alitalia 90 Duration: 2 hour(s) 40 minute(s) DEPARTS FCO TERMINAL 1 Alitalia, Airlines Confirmation number is NUH7IZ, Booking Locator: OBIKAY
+2010-10-28 13:00-15:30 agp-bsl # easyjet 1066
+
+2010-11-02 19:30 beate
+2010-11-02 20:00 wave # Quartiertreffpunkt Breite, Zuercherstr. 149
+
+2010-11-03 19:00 rose
+
+2010-11-06 19:00 ruth # housewarming Riesstraﬂe 4 (das bunte Haus, Kulturwerkstatt)
+
+2010-11-07 19:00 lua?
+
+2010-11-10 18:30 claudia + wolfgang
+
+2010-11-13 michael weidner?
+2010-11-13 13:00 sweat lodge j & t
+2010-11-13 19:00 johanna # Gemeindesaal der Matth‰usgemeinde, Baslerstr. 149, zwischen Stadtkirche und Burghof
+2010-11-13 19:00 madlee
+
+2010-11-17 15:00 magicad conf call
+
+2010-11-19 sweat lodge
+2010-11-20 party
+2010-11-21 12:30 men
+
+2010-11-24 7:10-7:55 bsl-lhr
+2010-11-24 9:30 hatton cross # 45 min to get there
+2010-11-24 15:35-18:20 lhr-las
+
+# 3950 Las Vegas Boulevard South Las Vegas NV 89119
+
+2010-11-29 devday@au
+2010-11-29 18:00-20:00 blogger event # "House of Blues" at Mandalay Bay
+2010-11-30 devlab@au
+2010-11-30 auni
+2010-11-30 7:30-8:30 meeting with Callan at AU
+2010-11-30 14:00-15:00 CP228-2 revit 2011 api # Optimal Use of New Autodesk Revit 2011 Programming Features
+2010-11-30 17:00-18:00 CP234-2 filtering and optimisation # Exactly What You Want and Faster: Autodesk Revit 2011 Programming Optimization
+2010-12-01 auni
+2010-12-01 06:00-07:00 DevTech ADN booth
+2010-12-01 07:00-08:00 DevTech ADN booth
+2010-12-01 08:00-09:00 CP316-3U rme api # All Systems Go in Autodesk Revit MEP Programming
+2010-12-01 9:30-10:30 CP319-1 analyze geometry # of Buildings Using the Autodesk Revit API
+2010-12-01 11:00-12:00 CP322-2U revit api clinic # The Revit API Clinic, Unconference, Danny Polkinhorn, Director of Design Technology, WATG
+2010-12-01 13:30-14:30 CP327-1 dmu # Applied Dynamics: Using Dynamic Model Update in the Autodesk Revit API
+2010-12-01 20:10-14:05+1 las-lhr
+2010-12-02 auni
+
+2010-12-02 14:05 arrival lhr
+2010-12-02 22:30-05:25+1 lhr-tel aviv
+
+2010-12-03 5:25 arrival tel aviv
+
+2010-12-06 devday tel aviv # OmniTech Event location - classical Format # Megamot College, 94 EM Hamoshavot Rd, Kiryat Aryeh (Azorim Park)
+2010-12-07 14:50-20:05 tel aviv-moscow
+2010-12-08 devday moscow # Autodesk Office - Classical format # Radisson Slavyanskaya Hotel, & Business Center, 121059, Moscow, Russia, Europe Square, 2
+2010-12-09 15:40-16:40 moscow-vienna
+2010-12-09 17:15-19:30 vienna-paris
+2010-12-10 devday paris # Autodesk Office - Classical format # Hotel Novotel Paris Bercy, 85 rue de Bercy, 75012 PARIS
+
+2010-12-12 10:50-14:50 paris-helsinki
+2010-12-12 16:00-16:25 helsinki-gothenburg
+
+2010-12-13 devday gothenburg # Autodesk Office with come together in the evening # Autodesk AB, Box 14261, Mˆlndalsv‰gen 24, 400 20 Gˆteborg and Radisson Blu Scandinavia Hotel Sˆdra Hamngatan 59-65, P.O. Box 288, S-401 24 Gˆteborg
+2010-12-14 devlab gothenburg # Autodesk Office
+2010-12-14 18:35-20:25 gothenburg-muc
+2010-12-14 sandra?
+2010-12-15 devday munich # Autodesk Office with come together in the evening # Tulip Inn Munich City, Domagkstrasse 26, 80807 Munich
+2010-12-15 sandra?
+2010-12-16 devlab munich # Autodesk Office
+2010-12-16 19:15-20:25 muc-milano
+2010-12-17 devday milano # classical # Enterprise Hotel, Corso Sempione 91 - 20149 Milano Italy
+#http://maps.google.com/maps?hl=en&saddr=Enterprise+Hotel+Corso+Sempione+91+20149+Milano+Italy
+
+2010-12-18 16:15-17:10 milano-lhr
+
+#2010-12-20 devday farnborough # Autodesk Office with come together in the evening # VILLAGE Hotel Farnborough, Pinehurst Road, Farnborough, GU14 7BF
+#2010-12-21 devlab farnborough # Autodesk Office
+
+2010-12-21 12:00 cornelius
+
+#2010-12-21 20:35-23:05 lhr-bsl
+
+2010-12-23 12:00 marc straub ski brombach
+2010-12-23 18:30 arrival lina
+2010-12-23 20:30 tanz # 23. Dez.
+2010-12-24 kids and xmas
+
+2010-12-26 kids and xmas
+2010-12-26 19:00 marie + stefan
+2010-12-26 arrival ben
+
+2010-12-28 10:00 otto
+
+2011-01-03 vacation day # ne_holiday Special CEO Award, Jan Becker
+2011-01-04 8:00 rupi
+
+2011-01-07 wave # GDS http://www.livingrhythms.ch
+
+2011-01-08 nick begin skiing chamonix all are welcome
+2011-01-08 skitour harald rupi
+
+2011-01-10 18:00 kirchzarten # altenheim albert schweizer
+
+2011-01-12 nick end
+
+2011-01-13 11:45 rene zubi jade
+2011-01-13 17:00-20:00 revit 2012 meet experts
+2011-01-14 14:00 holle oberwil # Tel 061 331 79 41, 10er tram bhf oberwil, ueber gleise weg, ueber bach, 1 haus rechts, mediare
+
+2011-01-17 19:00 johanna + ecki
+
+2011-01-19 18:00 vollmond
+
+2011-01-20 19:00 beate
+
+2011-01-21 18:00 skan
+2011-01-21 20:00 axel # bring food, maybe tiramisu?
+2011-01-22 18:00 andreas + michael
+2011-01-22 skan
+2011-01-23 andreas + michael
+2011-01-23 09:00-13:00 skan
+
+2011-01-24 9:00 arthur
+2011-01-25 11:00 marat
+2011-01-25 19:00 rose
+
+2011-01-28 20:00 michael + anja
+2011-01-29 ne dechetterie
+2011-01-30 13:00 men@hugo
+2011-01-31 9:45 mwiss # Austr. 85 2. Stock
+
+2011-02-01 20:00 wave # Quartiertreffpunkt Breite, Zuercherstr. 149, in Basel
+2011-02-02 19:30 beate
+2011-02-03 9:00 juergen
+
+2011-02-05 arosa rupi
+2011-02-05 sabine guitar concert # kesselhaus
+2011-02-06 arosa
+2011-02-06 klaus geburi?
+2011-02-06 20:00 ml
+2011-02-07 8:30 mwiss # Austr. 85 2. Stock
+
+2011-02-07 18:00 rose
+2011-02-08 11:00 lb
+2011-02-09 sabine geburi romakonzert # burghof
+
+2011-02-11 8:15 hofer # alemannengasse 88
+2011-02-11 moni umzug
+2011-02-12 moni umzug
+2011-02-12 georg + antonia
+2011-02-13 moni umzug
+2011-02-13 15:00 sabine geburi
+#2011-02-14 18:00 ml
+
+2011-02-15 9:45 mwiss # Austr. 85 2. Stock
+2011-02-15 19:30 beate
+
+2011-02-16 20:00 ralf hermann cho oyu # paul-gerhard sall christuskirche nansenstrasse 8
+2011-02-17 17:00 stefan geburi # kummer, Untergraben 7, 8045 Zuerich, 044 462 07 40
+#2011-02-18 8:15 hofer # alemannengasse 88
+#2011-02-18 16:26-17:01 ml
+
+2011-02-22 8:30 mwiss # Austr. 85 2. Stock
+2011-02-22 19:00 rose wave
+2011-02-23 19:30 rupert + schaufel + sonde
+
+2011-02-25 17:00 ml
+
+2011-02-26 beverin yogi
+2011-02-27 beverin
+2011-02-28 beverin
+
+2011-03-01 independence day # ne_holiday
+2011-03-01 11:00 mwiss
+2011-03-01 19:30 beate
+
+2011-03-03 13:20 centramed # Schuetzengasse 37, 4125 Riehen
+
+2011-03-05 sabine sweat lodge
+2011-03-06 men zuri
+
+2011-03-08 8:30 mwiss # Austr. 85 2. Stock
+2011-03-08 16:00 gary
+2011-03-08 18:00 hugo
+2011-03-09 ne
+
+2011-03-11 11:00 centramed nuechtern
+
+2011-03-16 16:00 georg
+
+2011-03-17 12:30-19:55 fra-jeddah LH592
+2011-03-20 revit api saudi arabia begin
+2011-03-23 2:15-6:20 jeddah-fra LH653
+
+2011-03-23 20:00 maenner klaus
+
+2011-03-24 10:50-12:35 bsl-bcn # SWISS (LX 1934)
+2011-03-24 15:55-16:40 bcn-pmi # Spanair (JK 5710)
+
+# nick:
+# ZB 228 London Gatwick (LGW) Thu 24 Mar 2011 14:10 Majorca (Palma) (PMI) Thu 24 Mar 2011 17:20
+# ZB 229 Majorca (Palma) (PMI) Tue 29 Mar 2011 19:45 London Gatwick (LGW) Tue 29 Mar 2011 21:00
+
+2011-03-29 8:30-9:20 pmi-bcn # Spanair (JK 5703)
+2011-03-29 13:10-15:05 bcn-bsl # SWISS (LX 1935)
+
+2011-03-30 ne
+
+2011-03-31 8:00 etat des lieux # rue du rocher 4
+2011-03-31 20:00 sak dav jahresmitgliederversammlung
+
+2011-04-01 08:00 cornelius
+2011-04-01 14:45 mwiss
+
+2011-04-02 bedrettotal bassodino
+2011-04-03 bedrettotal bassodino
+2011-04-04 bedrettotal bassodino
+
+2011-04-05 20:00 mainx
+2011-04-06 08:30 api aec call apac
+2011-04-06 12:15 mwiss
+2011-04-06 14:00-15:30 andrea balint
+2011-04-06 15:20-16:00 silke brenneisen vb3
+2011-04-06 19:00 rose
+
+2011-04-07 wave # Quartiertreffpunkt Breite, Zuercherstrasse 149, anmelden livingdance@bluewin.ch oder 061-721 80 24
+
+2011-04-09 anna rossi bday
+
+2011-04-10 15:00 gheller # via Carmelitani Scalzi n.1
+2011-04-10 19:00 stefano e giovanna
+2011-04-11 travel to verona
+2011-04-11 15:00-16:30 hsb # revit api performance meeting scott conover
+2011-04-12 revit api verona
+2011-04-13 revit api verona
+2011-04-14 travel from verona
+
+2011-04-15 13:30 mwiss
+2011-04-15 15:00 rupi
+
+2011-04-16 morvelan
+2011-04-16 09:30-12:30 workshop regina # kenk feldenkrais und tanz
+2011-04-17 morvelan
+
+2011-04-20 12:15 mwiss
+
+2011-04-22 good friday # ne_holiday
+2011-04-22 bhs 1 begin
+2011-04-25 easter monday # ne_holiday
+2011-04-29 bhs 1 end
+
+2011-05-02 nicola apero # Zentweg 13, Bern
+# Ab 17 Uhr gibt es einen kleinen thail‰ndisch-indischen Basar.
+# Um 18:30 gibt es fuer eine Stunde ein Programm mit Musik und Meditation.
+# W‰hrend dieser Stunde schliessen wir den Raum.
+# Wer also gerne daran teilnehmen mˆchte: bitte etwas vorher da sein.
+# Von 19:30 bis 22 Uhr gibt es kleine Kˆstlichkeiten zum Essen und Trinken.
+# Eine Anmeldung ist nicht notwendig und es sind alle herzlich willkommen.
+
+2011-05-02 15:00 frau dr. graf # baeumleingasse 4, C:\tmp\derma-baeumleingasse.png
+2011-05-03 18:30 rose
+2011-05-03 20:00 beate
+2011-05-04 8:30 mwiss
+2011-05-04 17:00 rupert
+2011-05-04 19:30 maenner @ christian
+
+2011-05-06 ararat begin
+2011-05-16 ararat end
+
+2011-05-19 13:00 mwiss
+2011-05-19 17:00 revit api webcast
+
+
+2011-05-24 9:45 mwiss
+2011-05-24 19:00 klaus
+
+#2011-05-24 revit api munich
+#2011-05-25 revit api munich
+
+2011-05-25 ne
+
+2011-05-27 19:45 wave # deeper disco matthias circomflex friday warteck
+2011-05-28 14:00 gastspiel heiner
+2011-05-30 18:45 hartmut # bahnhof steinen
+2011-05-30 19:30 karl geck # h.artmutbick@web.de +49-1722367818
+2011-05-31 20:30 beate
+
+2011-06-01 8:30 mwiss
+2011-06-01 mikako in basel
+
+2011-06-02 ascension day # ne_holiday
+2011-06-03 bridging day # ne_holiday
+
+2011-06-02 14:00 rupert # ramshalde, breitnau, fahrenberg
+2011-06-03 rupert
+2011-06-04 rupert
+2011-06-05 rupert brunch and end
+
+2011-06-07 20:15 men@thomas
+
+2011-06-06 lina
+2011-06-07 schueco
+2011-06-08 schueco
+2011-06-09 bocad
+
+2011-06-13 whit monday # ne_holiday
+
+2011-06-15 ne?
+
+2011-06-19 17:00 rose volleyball
+
+2011-06-20 19:30 beate
+
+2011-06-21 9:45 mwiss
+2011-06-21 18:00 rose fete
+
+2011-06-24 18:00 rose vernissage # grenzacherstr. 90 hinterhaus
+
+2011-06-27 19:30 beate
+2011-06-28 11:00 mwiss
+
+2011-07-01 fenton drives
+2011-07-02 verona football # Via Veronello 2, 37011 Calmasino di Bardolino (Verona)
+2011-07-02 18:00 steffi holzen hoffest
+2011-07-02 rose kreativtag und abend
+
+2011-07-04 steel graphics verona
+2011-07-05 8:45 dentist scherble
+2011-07-06 16:00 lake
+2011-07-07 19:00 rose + moni
+2011-07-08 14:30 mwiss
+2011-07-08 15:40 ch # zum schmalen wurf
+
+#2011-07-07 Willkommen im Sein mit Stefan auf Schloss Glarisegg # Tagesworkshop als Einfuehrung zum Sommerfest am 8.-10. Juli, ebenfalls auf Schloss Glarisegg
+2011-07-08 Glarisegg Sommerfest
+2011-07-08 19:30 musikprojektidee # Bobby Hansjuergen W‰ldele <h.waeldele@t-online.de> Andrea Balint [andrea.balint@web.de]: junge kantorei vorstellung einer musikprojektidee, Musiksaal der Freien Waldorfschule Lˆrrach
+#2011-07-09 glarisegg sommerfest
+2011-07-09 dragica geburi
+2011-07-10 11:00 beate party nellie
+#2011-07-10 glarisegg sommerfest
+2011-07-10 15:00 men@stefan
+2011-07-10 21:00 lb
+
+2011-07-12 co breakfast
+
+2011-07-14 12:30 mwiss
+2011-07-15 free draussen
+2011-07-16 free draussen
+2011-07-17 free draussen
+
+2011-07-16 barbara + michael fete
+2011-07-17 b + m nachfeier
+
+2011-07-18 18:00 christof ararat # Christof und Ulla Specht Talstrasse 15 79639 Grenzach-Wyhlen +49 7624 984 7232
+
+2011-07-19 revit api moscow
+2011-07-20 revit api moscow
+
+2011-07-21 wir sind helden
+#2011-07-22 16:00 sulzburg
+#2011-07-22 die fantastischen vier
+#2011-07-23 18:00 regina fete # kandern
+#2011-07-23 19:00 konzert # kirche tuellingen, Liedern aus der Romantik, vornehmlich von Mendelssohn und Fanny Hensel (seine Schwester)
+
+2011-07-25 19:00 beate
+2011-07-26 9:45-13:25 zrh-ath # SWISS 1830 Duration: 2:40, Confirmation Number LZ4Z8Y
+2011-07-27 athen
+2011-07-28 athen
+2011-08-03 17:25-19:15 ath-zrh # SWISS 1839, Confirmation Number LZ4Z8Y
+
+2011-08-01 national day # ne_holiday
+
+2011-08-05 andrea + falk sommerfest # C:\tmp\andrea_sommerfest.pdf
+
+2011-08-04 18:45 hartmut # bahnhof steinen h.artmutbick@web.de +49-1722367818
+2011-08-04 19:30 karl geck # 150 euro + 5 + 10 bar
+
+2011-08-05 karl geck sommer
+2011-08-06 karl geck sommer
+2011-08-07 karl geck sommer
+
+#2011-08-05 18:00 maenner # http://www.wave-nine.de/index.php/angebote/feuerdermaenner.html
+#2011-08-06 maenner # Hirschenhof, Walchwil (Schweiz) http://www.sueren.ch
+#2011-08-07 15:00 maenner end
+
+2011-08-09 19:00 rose
+2011-08-10 ne?
+2011-08-10 16:00 lake
+2011-08-10 18:00 sonja
+2011-08-11 8:30 mwiss
+2011-08-11 19:00 jogi
+
+2011-08-13 jogi klettern
+2011-08-14 jogi klettern
+
+2011-08-18 8:35 mwiss
+
+2011-08-18 hanna
+2011-08-19 hanna
+2011-08-20 hanna
+
+2011-08-20 13:30 ustrink‰t‰ mit flohmarkt # elisabeth thomann sch‰r, untertor 13, thomann
+
+2011-08-21 18:30 anja geburi
+
+2011-08-23 11:00 mwiss
+2011-08-23 15:00-16:30 gary midyear review
+2011-08-23 20:00 rose
+
+2011-08-25 17:15 lb
+
+2011-08-28 zuri andreas men wave
+
+2011-08-30 8:30 mwiss
+
+2011-09-02 grindelwald # ulrike + christoph
+2011-09-03 grindelwald # ulrike + christoph
+2011-09-04 grindelwald --> men
+2011-09-04 13:00 men@klaus
+
+2011-09-06 9:45 mwiss
+2011-09-06 18:00 rose geburi
+
+2011-09-08 19:00 co farewell
+
+2011-09-09 5:00 co breakfast # fruit salad
+2011-09-09 18:00 rose vernissage # galeria-qomico.de kirchstr 4 d-79539 loe
+2011-09-09 19:00 fire prayer # albertus magnus haus, zechenweg 6, 79111 fr, www.seminarhaus-am-schoenberg.de
+
+2011-09-10 5:00 martin bad bhf # clariden
+2011-09-10 14:00-18:00 regina + rose # erforsche deine kr‰fte
+2011-09-11 19:00 full moon fire
+
+2011-09-13 11:00 markt
+2011-09-13 11:30 astrid
+2011-09-13 14:45 mwiss
+2011-09-13 19:00 beate@j
+
+2011-09-15 15:00-17:00 ProgisCAD
+2011-09-15 19:00 medi-spaziergang # alte feuerwache
+
+2011-09-16 13:00 sweat lodge
+
+2011-09-17 15:30 michael frick # C:\tmp\michael_frick_abendmal.jpg
+2011-09-17 19:00 ruth, heinke hoffest
+2011-09-18 giika hike
+
+2011-09-19 federal fast # ne_holiday
+2011-09-19 8:00 triage for katsu < 2011-10-25
+2011-09-20 9:45 mwiss
+2011-09-20 11:30 hholz # Dornacherstrasse 192, 4053 Basel, gundeldinger feld, fabrik, rechts metalltreppe hoch 1 stock, http://www.osteopathieholz.ch
+
+2011-09-21 10:00-12:00 arnold
+
+2011-09-23 16:00-18:00 beer bust
+
+2011-09-23 hamm
+2011-09-24 hamm josef 70
+2011-09-24 19:00 toc basel # tanzstudio semiramis (hinterhof), spalentorweg 20, 4052 basel
+2011-09-25 12:45 septemberforum # solothurnerstrasse 65 bei wuertenberg
+
+2011-09-27 11:00 mwiss
+
+2011-09-30 17:00 andreas + michael
+2011-10-01 andreas + michael
+
+2011-10-04 10:00 mwiss
+2011-10-04 11:30 hholz
+
+2011-10-07 19:45 deepr disco # Raum Cirquenflex, Burgweg 7, Warteck zu Basel
+
+2011-10-10 8:00 triage for akira < 2011-10-11
+2011-10-11 swapped triage > 2011-10-10 # akira
+
+2011-10-12 19:00 full moon
+2011-10-13 19:00 beate
+
+2011-10-14 6:20 hartmut
+2011-10-14 karl geck herbst
+2011-10-15 karl geck herbst
+2011-10-16 karl geck herbst
+
+2011-10-18 16:20-18:55 bsl-agp EZ1065 # malaga ref. EJ4X6B9
+2011-10-20 toc basel # tanzstudio semiramis (hinterhof), spalentorweg 20, 4052 basel
+2011-10-21 19:00 adsk party # California meets Switzerland! Stade de la MaladiËre Espace Facchinetti
+2011-10-25 swapped triage > 2011-09-19 # katsu
+2011-10-28 16:05-18:40 agp-bsl EZ1066
+
+2011-10-29 16:00 urs open house
+
+2011-10-31 14:00 claus wolthers # revit sdk setup for au labs
+
+2011-11-01 christopher
+2011-11-01 18:30 anja
+2011-11-01 20:00 wave # quartiertreffpunkt breite, zuercherstrasse 149, in basel statt, anmelden livingdance@bluewin.ch oder telefonisch unter 061-721 80 24
+2011-11-01 20:00 jam
+2011-11-02 ne
+2011-11-02 16:45 mwiss
+2011-11-02 19:00 rose
+
+2011-11-05 15:00 veena # geburi, 50, was fuer's bueffet mitbringen
+2011-11-05 18:30 steffi heinis wave # die burg, warteck basel, burgweg 7, im holzbodenraum "C:\tmp\Geburtstagseinladung 5.Nov 2011 Stefanie Heinis.docx"
+
+2011-11-08 9:30 christian
+2011-11-08 19:30 pilar projekt # Zentrum fuer Spiel und Gestaltung Dieter Kaltenbach, Konrad-Adenauerstr. 22, 79540 Lˆrrach, tel pilar 07629.9129838
+
+2011-11-09 9:00 ursula
+2011-11-09 15:45 mwiss
+2011-11-09 19:00 moni
+2011-11-09 20:30 barfuss
+
+2011-11-10 8:00 swapped triage > 2011-12-06 # joe
+2011-11-10 8:15 bluttest # Centramed Gesundheitszentrum Schuetzengasse 37 4125 Riehen
+2011-11-11 19:00 andrea + falk
+
+2011-11-12 18:00 aum freiburg
+2011-11-13 11:00 aum end
+2011-11-13 men@hugo
+2011-11-14 20:00 beate
+
+2011-11-15 09:58-13:34 bsl-paris est
+2011-11-16 progiscad
+2011-11-17 progiscad
+2011-11-17 18:24-21:51 paris est-bsl
+
+2011-11-18 8:00-10:00 axel car
+2011-11-18 16:00 tobias + rene
+2011-11-18 19:00 dinner
+
+2011-11-19 novemberparty
+2011-11-20 sweat lodge
+
+2011-11-23 16:30-18:00 ADN All Hands Q3
+2011-11-23 20:15 maenner@karlheinz
+
+2011-11-24 13:10-16:50 zrh-los angeles swiss #0040 # 12 hour(s) 40 minute(s) Seat: 27A Swiss Airlines Confirmation number is QELNDY
+2011-11-24 20:20-21:25 los angeles-las aa #1198 # American Airlines #1198 Duration: 1 hour(s) 5 minute(s) American Airlines Confirmation number is CKOUDW
+
+#2011-11-25 10:40-11:56 zdh-zrh # lx 7409 swiss railways sbb
+#2011-11-25 12:55-15:55 zrh-ord # lx 8 swiss
+#2011-11-25 17:59-20:07 ord-las # lx 3258 united airlines
+
+2011-11-28 au devday
+
+2011-11-28 18:30-21:00 speaker social
+
+# Meeting Name: Autodesk University 2011 Speaker Social
+# Date: Monday, November 28, 2011, 6:30 p.m. - 9:00 p.m.
+# Location: TAO Restaurant located in the Grand Canal Shoppes at The Venetian Hotel
+
+2011-11-29 au devlab
+2011-11-29 15:15-16:45 CP4451 estore class # delfino 4001b
+2011-11-29 19:00-22:30 gss team dinner
+2011-11-30 7:30 callan # bassano 2804, level 2
+2011-11-30 13:15-14:45 CP6760-L estore lab # san polo 3403
+2011-12-01 au
+
+2011-12-01 11:00-16:40 las-ord # lx 3259 united airlines
+2011-12-01 19:00-10:45+1 ord-zrh # lx 9 swiss
+2011-12-02 12:04-13:23 zrh-zdh # lx 7410 swiss railways sbb
+
+2011-12-03 09:40-10:56 zdh-zrh # Basel (ZDH) - Zurich (ZRH) LX 7407 SWISS RAILWAYS
+2011-12-03 12:25-18:50 zrh-dme # zurich (zrh) - moscow (dme) lx 1326 swiss
+
+2011-12-05 devday moscow
+
+2011-12-06 swapped triage > 2011-11-10 # joe
+2011-12-06 13:25-15:30 dme-tle # El Al Israel 612 Moscow (DME) 1:25 PM Tel Aviv (TLV) 3:30 PM electronic ticket number 1142956083671
+2011-12-06 20:30-22:30 city wave rivi diamond # 31 Burla St., Country Club Lamed, Tel Aviv, C:\a\doc\travel\trip\tel_aviv\wave_burla.png + txt
+
+2011-12-07 07:35-08:20 dme-zrh # moscow (dme) - zurich (zrh) lx 1325 swiss
+2011-12-07 09:04-10:23 zrh-zdh # zurich (zrh) - basel (zdh) lx 7404 swiss railways
+
+2011-12-07 devday tel aviv
+
+2011-12-08 17:00-21:05 tlv-cdg # Air France 1621 Duration: 5 hours, 5 Tel Aviv (TLV):5:00 PM Paris (CDG):9:05 PM
+
+#TERMINAL 3 INTERNATIONAL AEROGARE 2 TERMINAL E
+#Confirmation Number:37RMRK Status:Confirmed
+#Trip Record Locator : LNYKHV
+
+2012-01-04 10:15-15:40 cdg-tlv # Wednesday Jan 4, 2012 Paris (CDG) to Tel Aviv (TLV) Air France 1620 Duration: 4 hours, 25 eTicket Receipt 0572956083670 - TAMMI/J
+
+#Terminal:AEROGARE 2 TERMINAL E Terminal:TERMINAL 3 INTERNATIONAL
+#Confirmation Number:37RMRK Status:Confirmed
+#Trip Record Locator : LNYKHV
+
+2011-12-09 devday paris
+2011-12-09 19:30 marie-laurence
+
+2011-12-10 11:10-14:55 cdg-got # SAS 566 + SAS 438
+
+# Flight: Paris (CDG) to Copenhagen (CPH)
+# Dec 10 SAS 566 Duration: 1 hour, 55
+# Paris (CDG):11:10 AM Copenhagen (CPH):1:05 PM
+# Terminal:AEROGARE 1 Terminal:3
+# Confirmation Number:ME81Y Status:Confirmed
+# Connecting at Copenhagen (CPH) to to Gothenburg (GOT)
+# Dec 10 SAS 438 Duration: 45
+# Copenhagen (CPH):2:10 PM Gothenburg (GOT):2:55 PM
+# Terminal:3
+# Confirmation Number:ME81Y Status:Confirmed
+
+2011-12-10 toc basel # tanzstudio semiramis (hinterhof), spalentorweg 20, 4052 basel
+
+2011-12-12 devday goeteborg
+2011-12-13 devlab goeteborg
+2011-12-13 18:10-20:05 got-muc # Lufthansa Flight # 2431 (Operated by: Lufthansa Expr) Gothenburg (GOT) to Munich (MUC) Lufthansa 2431 Duration: 1 hour, 55
+2011-12-13 20:30 S8 ostbahnhof
+2011-12-14 devday munich
+2011-12-14 19:00 prinz myshkin
+2011-12-15 devlab munich
+2011-12-15 19:05-20:15 muc-mxp # Lufthansa Flight # 1864 (Operated by: Air Dolomiti) Munich Intl Arpt (MUC), Terminal: 2, on Thu 12/15/2011 at 7:05 PM Malpensa Arpt (MXP), Terminal: 1, on Thu 12/15/2011 at 8:15 PM
+2011-12-15 21:00-23:00 biodanza # GiovedÏ dalle 21:00 alle 23:00 - Mamiwata - Via Savona 134 - Zona P.za Napoli
+2011-12-16 devday milano
+2011-12-16 17:35 mona
+
+2011-12-18 19:35-20:35 lin-lhr
+
+# British Airways Flight # 0589
+# Airline Record Locator: 4J9FZS
+# Departs: Linate Arpt (LIN) on Sun 12/18/2011 at 7:35 PM
+# Arrives: Heathrow (LHR), Terminal: 5, on Sun 12/18/2011 at 8:35 PM
+
+2011-12-19 devday farnborough
+2011-12-20 devlab farnborough
+2011-12-21 18:50-21:25 lhr-bsl # swiss 4427, terminal 1, operated by bmi british e-ticket 7243589547331
+
+2011-12-22 19:00 dinner@rose
+
+2011-12-23 16:00 heiner
+2011-12-23 19:30 weihnachts-wave # margarita lanthemann, tanzpalast, gueterstr. 82
+
+2011-12-24 kids
+2011-12-25 12:00 gitika brunch
+
+2011-12-26 week of rest begin # ne_holiday until 2011-12-30
+2011-12-26 kids
+2011-12-26 18:00 moni kino # Breath made visible
+
+2011-12-27 18:00 anja schrottgeschenkespiel # allemannengasse 21, 4058 basel, C:\tmp\anja_schrottgeschenkespiel.rtf
+2011-12-27 19:00 rose wave
+
+2011-12-28 9:00 moni bad bhf # chalet wildhaus toggenburg
+
+2011-12-31 13:00 heiner gastspiel
+2011-12-31 20:00 eva + erwin # sylvester fete
+
+year 2012
+even thursdays in year 20:30 tanz
+
+2012-01-02 maenner@j
+
+2012-01-04 9:30 sigi
+
+2012-01-05 damanhur
+
+2012-01-14 13:00 andreas + michael @ eschenz
+2012-01-15 16:00 end andreas + michael @ eschenz
+
+2012-01-17 15:30 mikako # communicator
+
+2012-01-21 15:00 class damijl
+
+2012-01-20 18:00 tel jahrestreffen # waldhaus luetzelflueh
+2012-01-21 tel jahrestreffen
+2012-01-22 14:00 end tel jahrestreffen
+
+2012-01-21 axel skihuette jaunpass
+2012-01-22 axel
+
+2012-01-23 9:00 campus
+
+2012-01-29 10:00-16:00 heiner burgfestspiele # quartiertreffpunkt burg, werkraum warteck, burgweg 7, C:\tmp\heiner_burgfestspiele.pdf
+
+2012-02-15 moni
+2012-02-16 moni
+
+2012-02-17 6:15 joerg kapplerstr
+
+2012-02-17 karl geck winter
+2012-02-18 karl geck winter
+2012-02-19 karl geck winter
+2012-02-19 mh
+
+#2012-02-20 melbourne
+#2012-02-21 melbourne
+#2012-02-22 melbourne
+#2012-02-23 melbourne
+#2012-02-24 melbourne
+
+2012-02-24 18:00-19:00 affinity revit vanguard demo
+
+2012-02-24 18:00 gurdjieff begin # Kaltenbach-Stiftung, Konrad-Adenauer-Str. 22, Fluegelsaal Nordgeb‰ude C:\tmp\thomas_Loerrach_Seminar_2012_deutsch.pdf
+2012-02-26 16:00 gurdjieff end
+
+#2012-02-27 melbourne
+#2012-02-28 melbourne
+#2012-02-29 melbourne
+
+2012-03-02 nick chamonix
+2012-03-03 nick chamonix
+2012-03-03 12:00 sauna + toc
+2012-03-04 nick chamonix
+2012-03-05 nick chamonix
+2012-03-06 nick basel
+
+2012-03-07 moni geburi
+
+2012-03-09 19:00 moni geburi
+
+2012-03-13 15:00 itw + hsb vanguard demo
+
+2012-03-15 10:45-06:06+1 zrh-sin # Zurich (ZRH) to Singapore (SIN) Singapore Airl 345 Confirmation Number:M3Q28U Trip Record Locator: IUVAWN ticket nr. 6189425718218 tammik/jeremy kaljo
+2012-03-16 10:10-20:45 sin-mel # Singapore (SIN) to Melbourne (MEL) Singapore Airl 217
+
+2012-03-16 19:50 deepr disco
+
+2012-03-19 melbourne
+2012-03-20 melbourne
+2012-03-21 melbourne
+2012-03-22 melbourne
+
+2012-03-24 19:00 toc in basel
+
+2012-03-26 16:45-21:45 mel-sin # Melbourne (MEL) to Singapore (SIN) Singapore Airl 228 ticket nr. 6189425718218 tammik/jeremy kaljo
+2012-03-27 01:20-08:00 sin-zrh # Singapore (SIN) to Zurich (ZRH) Singapore Airl 346
+
+2012-03-27 19:45 wave margaritha # quartiertreffpunkt breite, zuerichstrasse 149
+
+2012-03-31 9:30-17:30 medi # matthias restle, evelyne vuilleumier, warteck, quartiertreffpunkt burg
+2012-03-31 14:00 sweat lodge
+
+2012-04-06 10:00 bhs begin # mystical tantra at glarisegg
+2012-04-06 moni wildhaus begin
+2012-04-07 lina loe begin
+2012-04-09 16:00 bhs end
+2012-04-10 lina loe end
+2012-04-12 moni wildhaus end
+
+2012-04-13 burgdorf sneha # http://www.herzfeuertanzen.ch/datenusw.html
+
+2012-04-16 19:00 beate
+2012-04-17 16:00 webcast prep # mikako balaji
+2012-04-18 18:00 anja # http://www.eiscafe-acero.ch
+2012-04-18 20:30 barfuss
+
+2012-04-20 15:00 depart marlene
+2012-04-20 17:00 tel chlotisberg
+2012-04-21 chlotisberg
+2012-04-22 14:00 chlotisberg end
+
+2012-04-25 revit api munich
+2012-04-26 revit api munich
+
+#2012-04-26 karl geck begin
+#2012-04-28 karl geck fest
+#2012-05-02 karl geck end
+
+2012-04-28 tessin begin # Piazzogna, Casa Fonte
+
+2012-04-30 tatjana
+
+2012-05-01 labour day # ne_holiday
+2012-05-01 tessin end
+2012-05-01 19:30 rose
+
+2012-05-02 19:00 mh
+
+2012-05-04 marie begin
+2012-05-04 full moon fire
+
+2012-05-05 10:00 xopher breakfast
+2012-05-05 trance-trommeln # im muelital bei bern renate hagel mit freunden aus kˆln C:\j\tmp\trance-trommeln.pdf
+2012-05-06 trance-trommeln
+2012-05-06 15:00 contrapunkt # aktienmuehle gaertnerstr 64 kleinhueningen, C:\j\tmp\djelem\djelem1.png
+2012-05-06 19:00 contrapunkt # aktienmuehle gaertnerstr 64 kleinhueningen, C:\j\tmp\djelem\djelem1.png
+
+2012-05-07 marie breakfast
+2012-05-08 marie end
+
+2012-05-10 19:00 aqua basilea
+2012-05-11 7:30 karl geck fruehling
+2012-05-12 karl geck fruehling
+2012-05-13 karl geck fruehling
+
+2012-05-15 moni vertiefung begin
+
+2012-05-16 12:00 hockey
+2012-05-16 14:00 kean + clayton
+2012-05-16 16:00 webcast dry run
+
+2012-05-17 16:00 revit api webcast
+
+2012-05-19 19:00 toc basel
+
+2012-05-20 moni vertiefung end
+
+2012-05-23 16:30 stephen skype
+2012-05-23 19:30 maenner@christian
+
+2012-05-24 17:00-18:00 adn all hands
+2012-05-24 19:00 rose
+
+2012-05-25 8:30 yoga rupert
+2012-05-25 16:00 ne beer bust
+2012-05-25 21:00 minikino # grenzacherstr. 90 hinterhaus
+
+2012-05-26 6:50-9:10 zrh-sto # Zuerich (ZRH) nach Stockholm (STO) LX1248 2h20 Economy
+
+2012-05-26 13:00 klasstraeff # Bistro Strandbryggan pÂ Strandv‰gskajen 27 (alldeles intill bron men pÂ ÷stermalmssidan)
+
+2012-05-30 15:50-18:15 sto-zrh # LX1251 2h25 Economy
+
+2012-05-31 19:30 klavierkonzert # www.klinloe.de
+
+#2012-05-29 emea adn meet
+#2012-05-30 emea adn meet
+#2012-05-31 emea adn meet
+#2012-06-01 emea adn meet
+
+2012-06-01 17:00 heiner # gemeinschaftsrunde
+2012-06-02 18:00 gisela # spinnereiweg 13, felsenau, 3004 bern
+2012-06-03 16:30 heiner rhein
+
+2012-06-04 17:40-20:00 zrh-bos # Swiss Airlines LX #52
+
+2012-06-06 aec devcamp
+2012-06-07 aec devcamp
+2012-06-08 aec devlab
+
+2012-06-08 21:45-10:55+1 bos-zrh # Swiss Airlines LX #53
+2012-06-09 10:55 bos-zrh arrival
+
+2012-06-09 16:00 karl geck fete
+
+2012-06-10 19:00 andrea falk
+
+2012-06-13 8:30 otto
+2012-06-13 15:00 west richard schmid # bring swiss life policy, west beratungszentrum gmbh, wangenstrasse 86a, ch-3018 bern
+2012-06-14 18:00 guerillayoga # solitude
+
+#2012-06-16 thomas & andrea
+
+2012-06-15 19:30-22:30 winti liebesabend # stefan gut
+2012-06-16 hans nacktsein auf dem sitzberg
+2012-06-17 hans nacktsein auf dem sitzberg
+2012-06-17 16:00 seraina 50 geburi
+
+2012-06-20 20:00 beate@j
+
+2012-06-21 18:00 loe stadtlauf
+2012-06-21 18:30 sunahla + govinda
+
+2012-06-22 12:00 glaernischhuette # martin
+2012-06-23 vrenelisgaertli # martin http://www.hikr.org/tour/post51418.html
+
+2012-06-23 10:00 sweat lodge raitbach # christian klaphake https://docs.google.com/spreadsheet/ccc?key=0ArNt_NJQnE05dFZQbzFyZXFkSkllQTMtQVY2cUxBZ0E#gid=0
+2012-06-23 10:00 grundlos spontan # Burgraum Warteck
+2012-06-24 10:00 rose kreativtag
+2012-06-24 14:00 paerkli jam # st. johanns-park
+
+2012-06-26 19:00 cristina # simone fuchs, rudolfstrasse 50 im garten, C:\a\doc\travel\trip\basel\rudolfstrssse_50.png
+
+2012-06-27 20:00 maenner@j
+
+#2012-06-29 andreas ne lake
+#2012-06-30 andreas ne lake
+#2012-07-01 andreas ne lake
+
+2012-06-30 mathias
+2012-07-01 11:00 men@klaus
+
+2012-07-04 20:00 beate gruett
+
+2012-07-04 ne emea team
+2012-07-05 ne emea team
+2012-07-06 ne emea team
+
+2012-07-06 15:00 andrea spitzhorn # balint + rupert
+2012-07-07 andrea spitzhorn
+2012-07-08 andrea spitzhorn
+
+2012-07-09 ne emea team
+
+2012-07-13 19:45 freitanz #
+2012-07-13 glarisegg barcamp # http://www.facebook.com/events/281907251897797
+2012-07-14 moni tessin begin
+2012-07-14 glarisegg
+2012-07-15 glarisegg
+
+2012-07-16 ute leipzig?
+
+2012-07-19 anna berlin
+
+#2012-07-21 nerja begin
+
+2012-07-22 moni tessin end
+2012-07-22 ne adsk walk
+2012-07-23 avignon begin
+2012-07-25 15:00 notary
+
+2012-07-26 zegg sommercamp begin
+2012-07-27 19:45 freitanz
+2012-07-29 avignon end
+2012-08-05 zegg sommercamp end
+
+#2012-08-02 nerja end
+
+2012-08-02 jura sommercamp begin
+2012-08-11 jura sommercamp end # moni holiday end
+2012-08-11 18:00 sonja
+2012-08-12 sonja
+
+2012-08-14 14:30 mikako
+
+2012-08-15 19:00 jens + nellie
+
+2012-08-17 tatjana juergen begin # gemeinschaftcamp strohballenjurte
+2012-08-17 andreas ne lake
+2012-08-18 15:00 waldhaus sunahla # www.govindasunahla.ch
+2012-08-18 andreas ne lake
+2012-08-19 andreas ne lake
+2012-08-19 ne adsk walk
+2012-08-19 muehlital
+
+2012-08-20 19:30 rose
+2012-08-21 15:00 nik klettern
+2012-08-21 18:00 nik
+
+2012-08-23 tatjana juergen end # gemeinschaftcamp strohballenjurte
+
+2012-08-24 18:00 tel glarisegg
+2012-08-25 tel glarisegg
+2012-08-25 michael + barbara sommerfest
+2012-08-26 tel glarisegg
+
+2012-08-28 10:30-11:00 hartmut
+
+2012-08-30 17:00 adn all hands
+
+2012-08-31 imagine@biel # heiner C:\j\tmp\Imagine_projekt.pdf
+
+2012-09-03 gaby apulien begin cisternino
+
+2012-09-01 franziska booetli
+2012-09-02 franziska booetli
+
+2012-09-03 18:30 beate
+2012-09-04 20:00 margarita wave # livingdance@bluewin.ch
+
+2012-09-05 13:00 cristina yoga massage
+
+2012-09-06 9:00-17:00 ne communication skills
+2012-09-07 9:00-17:00 ne communication skills
+
+2012-09-08 niklaus andrea balint
+2012-09-09 niklaus andrea balint
+
+#2012-09-13 munich communication skills
+
+2012-09-13 aob willkommen im sein # vom 13.-14. September http://www.art-of-being.de/termineinzeldar-3625-2285.html
+2012-09-14 aob fest # http://www.art-of-being.de/termineinzeldar-3685-2285.html
+2012-09-15 aob fest
+2012-09-16 aob fest
+
+2012-09-15 jogi # bergseegebiet urner granit
+2012-09-16 jogi
+
+2012-09-23 6:00 juergen + tatjana
+2012-09-23 12:00 tel orga kiental
+
+2012-09-27 10:00 michael
+2012-09-27 18:45 zrh wave # andreas + michael Kirche St. Jakob, Stauffacher, vom Hauptbahnhof ab Bahnhofplatz mit Tramlinie 3 Richtung Albisrieden und mit der Tramlinie 14 Richtung Triemli http://www.tanzdichganz.ch/frameset_kirch_zh.html
+2012-09-28 andreas + michael
+2012-09-29 4:00 falk segeln begin # Suedfrankreich, Bormes, Inseln von Hyeres
+2012-10-06 falk segeln end
+
+2012-10-07 12:30 men@stefan
+
+2012-10-10 moni tessin?
+2012-10-11 moni tessin?
+
+2012-10-12 tel kiental
+2012-10-13 tel kiental
+2012-10-14 tel kiental
+
+2012-10-17 ne: stephen + lunch
+2012-10-17 14:30-16:00 stephen
+2012-10-17 20:00 konzert kasino
+2012-10-18 ne: stephen world tour
+2012-10-18 16:30 vanguard meeting
+
+2012-10-19 18:00 moni geburi
+
+2012-10-20 8:00 markt, suppe
+2012-10-20 13:00 schwitzhuette
+2012-10-20 17:00 www.pascal-gentner.de # Loerracher Stadtkirche (Basler Straﬂe)
+2012-10-21 11:00 socamp forum
+
+2012-10-24 9:00 christian
+2012-10-24 xopher exam
+2012-10-26 20:00 kulturscheune # Christian Rabe Im Eselgrien 2 79588 Kleinkems Tel +49 (0)7628 / 1605
+2012-10-27 moni koenig diener
+2012-10-27 xopher depart?
+2012-10-27 19:00 toc
+2012-10-28 16:00 falk andrea moni
+2012-10-28 17:00 vollmond
+2012-10-30 yellow sack
+
+2012-11-03 10:00 michelle + daniel # Pfahlmattstrasse 15 CH-8489 Ehrikon 052 385 37 84 079 428 79 89
+2012-11-04 14:00 nik stacheln # offenburgerstr. 6
+
+2012-11-09 19:30 sauna@robert
+
+2012-11-16 11:30 tobias@ganges
+2012-11-17 party
+2012-11-18 sweat
+
+2012-11-20 moscow devday
+
+2012-11-21 13:20-14:15 ZRH-LHR T5 # BA0713 S - Economy 01h55m
+2012-11-21 15:40-18:20 LHR T5-LAS T3 # BA0275 Q - Economy 10h40m
+
+2012-11-22 grand canyon
+2012-11-23 grand canyon
+
+2012-11-26 las vegas devday
+2012-11-26 18:30-21:00 speaker social # MIX Lounge, located at the top of THEhotel
+2012-11-26 19:00-22:00 pr media & blogger reception # The Foundation Room - House of Blues at Mandalay Bay
+2012-11-27 moni lie begin # leben in essenz luetzelflueh
+2012-11-27 yellow sack
+2012-11-27 au # http://www.mandalaybay.com
+2012-11-27 las vegas devlab
+2012-11-27 17:30-19:00 CP4109 round table # Revit API Round Table: Meet the Champions
+2012-11-28 au
+2012-11-28 8:00-10:00 bill + fernando
+2012-11-28 10:00-11:30 CP3133 steve # Using the Revit Schedule and View APIs
+2012-11-28 13:00-14:30 CP4108 rme # Revit MEP Programming: All Systems Go
+2012-11-29 au
+2012-11-29 13:00-14:30 CP4107 ui # Let's face it: New Autodesk Revit 2013 UI API Functionality
+
+2012-11-29 20:20-14:05+1 LAS T3-LHR T5 # BA0274 Q - Economy 09h45m
+2012-11-30 15:35-18:15 LHR T5-ZRH # BA0718 S - Economy 01h40m
+
+2012-12-02 10:30-13:30 andreas + michael catwalk winti # Untere Vogelsangstrasse 7, vis a vis Parkhaus Arch Hintereingang, Zu Fuss keine fuenf Minuten vom bahnhof entfernt
+2012-12-02 moni lie end # leben in essenz luetzelflueh
+
+2012-12-05 maenner@klaus
+
+2012-12-04 seoul devday
+2012-12-08 20:00 michelle+thomas@j
+2012-12-09 10:00-17:00 dajekamimoth@j
+2012-12-10 20:00 axel+michaela tango nellie
+2012-12-11 travel to paris
+2012-12-12 paris devday
+2012-12-12 19:15-20:45 cdg-mxp # booking ref. EKJWXGN CDG AEROGARE 2 TERMINAL B - MXP TERMINAL 2 Easyjet (U2) #2790 Paris De Gaulle, France Milan Malpensa, Italy Duration: 1 hour(s) 30 minute(s)
+2012-12-13 milano devday
+2012-12-14 italian public transport strike
+2012-12-14 17:25 travel from milano # Milano Centrale ab 17:25 EC 36
+# Brig an 19:16 3
+# Brig ab 19:20 4 IC 1090
+# Olten an 21:00 3
+# Olten ab 21:17 11 S3 17384 S-Bahn Linie 3
+# Pratteln an 21:45 1
+
+2012-12-14 farnborough devday
+2012-12-16 10:30 winti sweat your prayers
+2012-12-16 13:42-17:38 travel to munich
+2012-12-17 munich devday
+2012-12-18 munich devlab
+2012-12-18 19:25-21:20 muc-got # muc TERMINAL 2 Lufthansa #2432 Scandinavian Airline (SK) #3602 Munich-Gothenburg Duration: 1 hour(s) 55 minute(s) Trip Record Locator: LFJBWV Confirmation Number:75LKBV
+2012-12-19 gothenburg devday
+2012-12-20 gothenburg devlab
+2012-12-20 18:35-20:30 got-muc #
+2012-12-20 21:25-22:30 muc-bsl # Lufthansa 2402 Duration: 1 hour, 5 minutes Operated by: Augsburg Airways Munich (MUC) Terminal 2
+
+2012-12-21 co arrival
+2012-12-21 cic bank # Marktplatz 11-13, Postfach 216, 4001 Basel, T +41 61 264 12 00
+2012-12-22 moni holiday begin
+2012-12-22 19:00 toc basel # www.tanz-freiburg.net oder www.neuland-tanzbasel.ch, GDS (Gymnastik Diplom-Schule) Basel, Eulerstrasse 55, 4051 Basel
+2012-12-22 karl geck draussennacht # zur wintersonnwende, Ingo Buehner 07624/143191
+2012-12-23 karl
+
+2012-12-24 ne working day
+2012-12-24 yellow sack
+
+2012-12-26 bafudi
+2012-12-27 cic bank
+
+year 2013
+even thursdays in year 20:30 tanz
+
+2012-12-30 andrea falk lauenen
+2012-12-31 lauenen
+2013-01-01 lauenen
+
+2013-01-02 moni holiday end
+2013-01-02 ne working day
+2013-01-02 co departure
+2013-01-03 moni work begin
+
+2013-01-05 10:00 dajekamimoth@daniel # open end
+2013-01-06 men@stefan
+2013-01-06 17:00 cicle singing # + konzert + jam, jazzschule basel, clubraum, reinacherstrasse 105
+
+2013-01-10 16:30 all hands europe + what i did lately
+
+2013-01-10 19:00 michael
+2013-01-10 20:15 skitourentreff # stettemer wiikeller
+
+2013-01-11 3:00 all hands asia + what i did last year
+
+2013-01-14 19:00 lauftreff # Basti Feifel bastian.feifel@gmx.net home +41 61 311 91 30 mobile +41 78 607 68 80
+
+2013-01-14 20:30 tango nellie
+
+2013-01-16 moni bafudi
+
+2013-01-18 wildhaus
+2013-01-19 wildhaus
+2013-01-20 wildhaus
+
+2013-01-21 devdays online begin
+2013-01-21 20:30 tango nellie
+
+2013-01-23 20:30 tatjana
+
+2013-01-25 devdays online end
+2013-01-25 tel luetzelflueh
+2013-01-26 tel luetzelflueh
+2013-01-27 tel luetzelflueh
+2013-01-27 full moon fire
+2013-01-28 rst + string search update begin
+2013-01-28 20:30 tango nellie
+
+2013-01-30 16:00 itw vanguard demo
+
+2013-01-30 20:00 bafudi wave # jeremy + moni
+
+2013-02-01 13:00 karin kasten
+2013-02-01 rst + string search update end
+
+2013-02-01 19:00 wildhaus
+2013-02-02 wildhaus
+2013-02-02 10:00 dajekamimoth@karin
+2013-02-03 wildhaus
+
+2013-02-05 16:00 hsb vanguard demo
+
+2013-02-07 9:30 sofistik vanguard
+2013-02-07 15:30 wolfgang gottschalk
+
+2013-02-08 10:00 cloud mobile # devtech meeting
+2013-02-08 19:00 nik + beate
+2013-02-09 13:30 sabine sweat lodge
+2013-02-09 19:30 fr tanzfest # Bernd-Matthias und Claudia in Freiburg zu ihrem Tanzfest im Theater Haus Dürr
+
+2013-02-12 10:30 bsl nick
+2013-02-12 chamonix
+2013-02-13 chamonix
+2013-02-14 chamonix
+2013-02-15 chamonix
+
+2013-02-15 moni holiday begin
+
+2013-02-28 17:00 meet the experts
+
+2013-03-09 10:00 dajekamimoth@thomas
+2013-03-10 moni holiday end
+
+2013-03-12 11:30 dentist scherble
+
+2013-03-14 20:00 beate
+2013-03-14 wolfgang konzert? # Peterskirche Basel
+2013-03-15 eiselin ski
+2013-03-15 konzert?
+2013-03-15 andrea@hadid_bau
+2013-03-16 19:00 markus
+2013-03-17 16:00 tango nellie
+
+2013-03-18 10:42-11:50 bsl-cdg # Trip Record Locator: NWYCVP Basel (BSL) to Paris (CDG) Air France 3283 Duration: 1 hour, 8 Operated by: Regional CAE Terminal:AEROGARE 2 TERMINAL G
+2013-03-18 16:30-17:40 ory-bes # Terminal:ORLY-OUEST Connecting at Paris, Paris (ORY) to Brest (BES) Air France 7376 Duration: 1 hour, 10 Operated by: Brit Air
+
+2013-03-21 13:30-14:50 bes-cdg # Terminal:AEROGARE 2 TERMINAL G Brest (BES) to Paris (CDG) Air France 7739 Duration: 1 hour, 20 Operated by: Brit Air
+2013-03-21 15:50-16:53 cdg-bsl # Terminal:AEROGARE 2 TERMINAL G Connecting at Paris (CDG) to Basel (BSL) Air France 3286 Duration: 1 hour, 3 Operated by: Regional CAE
+
+2013-03-18 emea # bretagne
+2013-03-19 emea # bretagne
+2013-03-20 emea # bretagne
+
+2013-03-20 moni bafudi
+2013-03-21 17:15 dentist scherble
+
+2013-03-22 7:00 skitour rupi # ski-durchquerung der glarner alpen treffpunkt bahnhof in brombach
+2013-03-23 skitour
+2013-03-24 skitour
+
+2013-03-24 17:00 wildhaus begin
+2013-03-25 wildhaus
+2013-03-26 wildhaus
+2013-03-27 wildhaus
+2013-03-28 wildhaus
+2013-03-29 wildhaus
+
+2013-03-30 8:17-11:58 wildhaus-loe
+2013-03-30 13:00 sweat lodge
+2013-03-31 10:00 easter brunch
+#2013-03-31 19:00 dinner lina ben christopher
+2013-04-01 09:00 breakfast lina ben
+2013-04-01 wildhaus end
+
+2013-04-03 bafudi
+
+#2013-04-01 9:00-20:00 pilar
+#2013-04-02 9:00-20:00 pilar
+#2013-04-03 9:00-20:00 pilar
+#2013-04-04 9:00-20:00 pilar
+#2013-04-05 9:00-20:00 pilar
+#2013-04-06 9:00-20:00 pilar
+#2013-04-07 9:00-20:00 pilar
+
+2013-04-05 22:00 eva
+2013-04-06 10:00 dajekamimoth@eva
+2013-04-06 22:00 feuerfest # /j/tmp/feuerfest_2013-04-06.jpeg
+2013-04-07 13:00-18:00 sunahla # Altkircherstrasse 19, 4054 Basel sunahla@sunahla.ch gsthioul@sthioulmedia.ch +41 78 859 39 88, Sunahla Nicola Marchesi Sthioul <sunahla@sunahla.ch>, Govinda Guy-Claude Sthioul <gsthioul@gmx.ch>
+2013-04-07 17:00-22:00 tantrische wave # hans, oerlikerhus an der thurgauerstrasse 72 in zürich oerlikon, yogaraum von maya höliner
+2013-04-08 8:20 marie
+
+2013-04-09 11:00 jan liska # nitrogen and oxygen
+
+#2013-04-10 be-ne
+
+2013-04-11 9:00 christian
+2013-04-11 19:00 dav
+
+2013-04-13 skitour jogi # Il Chapütschin - Piz Glüschaint - Piz Morteratsch, Jürgen Kühnöl
+2013-04-14 skitour jogi
+2013-04-15 skitour jogi
+
+# Drei große Gipfel im Engadin. Anspruchsvolle Skihochtour für geübte und konditionsstarke Skitourengänger. Übernachtet wird einmal auf der bewirteten Coaz Hütte und auf der Selbstversorgerhütte Tschierva
+
+2013-04-20 17:00 georg antonia 140 # alten Güterbahnhof von Traisa Darmstadt Mühltal Am Bahnhof 4, D-64367 Mühltal Odenwaldstr. 31
+
+2013-04-20 tel chlotisberg
+2013-04-21 tel chlotisberg
+2013-04-21 17:00-19:00 tango nellie
+
+2013-04-23 20:00 beate
+
+2013-04-24 ne stephen
+2013-04-24 18:30 bafudisitzung
+
+2013-04-26 18:00 heiner
+
+2013-04-27 10:00-17:00 yogadance # cristina hagmann, im dachraum vom quartiertreffpunkt lola, lothringerstrasse 63, 4056 basel
+2013-04-27 15:00 christian waechter # alte schule mr-ockershausen stiftstrasse 26
+2013-04-27 19:30 atmo@ft
+2013-04-28 men@jeremy
+2013-04-29 19:30 mainx
+
+2013-05-01 20:00 bafudi wave j+m
+
+2013-05-04 10:00 dajekamimoth@karin
+2013-05-04 11:00 sweat lodge loic
+2013-05-05 10:00-19:30 warteck tanzfest
+
+2013-05-07 16:00 moni vertiefung begin # klotisberg
+2013-05-08 19:00 christian 50 geburi
+2013-05-12 14:00 moni vertiefung end # klotisberg
+2013-05-12 17:00 tango@nellie
+2013-05-13 dentist
+2013-05-13 corinna
+2013-05-13 19:30 thomas & veena
+
+2013-05-15 16:00 tech summit dry run
+
+2013-05-17 19:00 bloessling
+2013-05-18 bloessling
+2013-05-19 bloessling
+2013-05-19 17:00 tango@nellie
+2013-05-20 bloessling
+
+2013-05-22 9:15 be russian visa # Visa Handling Services, Bern, Eigerstrasse 80, Telefon 031 370 13 00
+2013-05-23 16:00 vogt heizungsbau
+2013-05-23 20:00 ma valise@nellie
+
+2013-05-29 9:15 be russian visa # Visa Handling Services, Bern, Eigerstrasse 80, Telefon 031 370 13 00
+2013-05-30 14:40-15:56 bsl-zrh # Basel (ZDH) - Zürich (ZRH) LX 7417 14:40 ZDH - 15:56 ZRH
+2013-05-30 17:30-19:55 zrh-bos # Zürich (ZRH) - Boston (BOS) LX 52 17:30 ZRH - 19:55 BOS
+
+#Car Rental at Boston (BOS) Thu May 30 Hertz
+#Pick Up: Thu May 30 8:30 PM
+#Return: Tue Jun 11 8:30 PM
+#Pick-up at: Boston (BOS) Returning to:Boston (BOS)
+#Confirmation: F8531620079
+#Status:Confirmed
+#Rate: $241.00 USD weekly rate, unlimited miles; $41.55 USD extra daily rate, unlimited miles; $24.93 USD extra hourly rate, unlimited miles
+#Total rate: $448.75 USD
+#Frequent Guest Number: XXXXXX3249 Corporate Discount:223874
+#Rate Code:AUAWU
+
+2013-06-02 tech summit # Hyatt Regency Cambridge,  Address: 575 Memorial Dr, Cambridge, MA 02139, +1 617-492-1234
+2013-06-03 tech summit
+2013-06-04 tech summit
+2013-06-05 tech summit
+
+2013-06-11 21:45-10:55+1 bos-zrh # Boston (BOS) - Zürich (ZRH) LX 53 21:45 BOS - 10:55+1 ZRH
+2013-06-12 12:04-13:23 zrh-bsl # Zürich (ZRH) - Basel (ZDH) Mi. 12.06.2013 LX 7410 12:04 ZRH - 13:23 ZDH
+
+2013-06-14 16:00 gerardo
+2013-06-14 18:30 gellert
+2013-06-15 dajekamimoth@michelle
+
+2013-06-15 sitzberg tanznacht # /j/tmp/hans_tanznacht_sitzberg.doc
+2013-06-15 16:00 heiner tanzfest # /j/tmp/heiner_tanzfest_ostquai.doc
+2013-06-15 20:00 in joy chor # konzert ev. heilig-geist-kirche, schauinsland str. 8. in kirchzarten
+2013-06-16 10:30-13:30 andreas + michael catwalk winti # Untere Vogelsangstrasse 7, vis a vis Parkhaus Arch Hintereingang, Zu Fuss keine fuenf Minuten vom bahnhof entfernt
+2013-06-16 sitzberg tanznacht
+2013-06-17 17:00 lomi@nicole # Magnolienpark 12 4052 Basel 078 901 08 09 http://www.doodle.com/m2cgi3u3wbm2mxb6
+
+2013-06-18 hugo & seraina
+2013-06-19 18:30 bafudi
+
+2013-06-21 20:00 contrapunkt chor # katholische kirche muttenz
+
+2013-06-22 kreativ@rose
+2013-06-22 16:00 karen
+2013-06-23 kreativ@rose
+2013-06-23 16:00 schnupperkurs
+2013-06-23 17:00 tango@nellie
+
+2013-06-24 13:40-18:50 zrh-svo # Moscow Sheremetyevo Terminal F International Aeroflot (SU) Flight Number 2391
+
+#Booking Locator: ZKTCVS
+#Monday, 24/06/13
+#Aeroflot (SU) Flight Number: 2391
+#From: Zurich, Switzerland Depart: 13:40
+#To: Moscow Sheremetyevo, Russia Arrive: 18:50
+#Duration: 3 hour(s) 10 minute(s)
+#ARRIVES SVO TERMINAL F - INTERNATIONAL
+#Aeroflot Confirmation number is EDIMQA
+#
+#Wednesday, 26/06/13
+#Aeroflot (SU) Flight Number: 2390 Class: Coach/Economy
+#From: Moscow Sheremetyevo, Russia Depart: 11:05
+#To: Zurich, Switzerland Arrive: 12:35
+#Duration: 3 hour(s) 30 minute(s)
+#DEPARTS SVO TERMINAL F - INTERNATIONAL
+#Aeroflot Confirmation number is EDIMQA
+#
+#eTicket Receipt(s)
+#5553928231806 - TAMMI/J
+
+# address of flat: Tverskoy Boulevard 20 Str., bld. 4, apt. 11, 2nd floor, Moscow, Russia
+
+2013-06-25 moscow devcamp russia
+2013-06-26 11:05-12:35 svo-zrh # Moscow Sheremetyevo Terminal F International Aeroflot (SU) Flight Number 2390
+2013-06-26 19:30 cristina@bafudi
+
+2013-06-27 15:30 mikako
+
+2013-06-29 fete@mathias
+
+2013-07-03 18:00 nik & nicole
+2013-07-04 18:00 samsara@jeremy
+
+2013-07-06 6:00 martin@muttenhorn
+2013-07-07 12:00 men@klaus
+
+2013-07-10 19:10-20:30 checkin easyjet
+2013-07-10 21:10-21:40 bsl-gatwick north # easyjet 8438
+2013-07-12 football # Royal Holloway, University of London, Egham Hill, EGHAM TW20 0EX
+2013-07-13 football
+2013-07-14 16:10-17:30 checkin easyjet
+2013-07-14 18:10-20:45 gatwick north-bsl # easyjet 8437
+2013-07-14 piazzogna begin
+
+2013-07-18 20:00 medispaziergang
+
+2013-07-19 20:00 jogi furka travel
+2013-07-20 klettern furka # die grossen grate am furkapass, jürgen kühnöl
+2013-07-21 klettern furka
+# Sa: Gross Bielenhorn über den SE-Grat
+# So. Gross Furkahorn über den ESE-Grat
+# Anreise: Freitagabend Biwakieren am Furkapass, Samstag Übernachtung Siedelenhütte
+
+2013-07-21 piazzogna end
+
+2013-07-21 22:15-6:20+1 zrh-dbx # Zurich-Dubai Qantas Airways 8086 Operated by: Emirates Air; Duration 6:05; eTicket Receipt 0813928362887 - TAMMI/J
+2013-07-22 9:20-5:10+1 dbx-syd # dubai-sydney Qantas Airways 2 Duration: 13:50
+
+# http://www.marriott.com.au/hotels/travel/sydry-courtyard-north-ryde/
+# Courtyard North Ryde
+# 7-11 Talavera Road · North Ryde, New South Wales 2113 Australia
+
+2013-07-23 sydney rvt api
+2013-07-24 sydney rvt api
+2013-07-25 15:50-00:35+1 syd-dbx # sydney TERMINAL 1 INTERNATIONAL - dubai Terminal:3 Qantas Airways 1 Duration: 14:45
+2013-07-26 8:40-13:20 dbx-zrh # dubai term. 3 - zrh Qantas Airways 8087 Operated by: Emirates Air Duration: 6:40
+
+2013-07-25 jura sommercamp begin
+2013-07-27 dajekamimoth@jura jeremy
+2013-07-29 moni holiday begin
+2013-08-03 jura sommercamp end
+2013-08-04 15:00 jogi 50
+2013-08-09 moni holiday end
+
+2013-08-10 muehlital tanznacht
+2013-08-11 12:00 music johannes@furtwangen
+
+2013-08-15 18:30 gemeinschaft@nicole
+2013-08-16 18:30 free open
+
+2013-08-17 dajekamimoth@thomas
+2013-08-17 18:30 free open
+
+2013-08-19 15:00 franziska@rhein # /j/tmp/franziska_44_geburi.pdf
+
+2013-08-20 18:00 gerardo
+2013-08-20 19:30 vollmondfeuer
+
+2013-08-21 franziska@bafudi
+
+2013-08-23 18:30 free open
+2013-08-24 18:30 free open
+
+2013-08-23 tel@glarisegg
+2013-08-24 tel@glarisegg # /j/tmp/tel/2013-08-24_glarisegg_einladung.doc
+2013-08-25 tel@glarisegg
+
+2013-08-28 17:00 moni@rhy
+
+#2013-08-31 moni_frauen@bern
+#2013-08-31 gisela_fest@bern
+2013-08-31 moni kurs
+2013-09-01 ping-pong@moni
+
+2013-09-02 20:30 tango@nellie
+2013-09-08 17:00 tango@nellie
+2013-09-09 20:30 tango@nellie
+2013-09-16 20:30 tango@nellie
+2013-09-22 17:00 tango@nellie
+2013-09-23 20:30 tango@nellie
+2013-09-30 20:30 tango@nellie
+2013-10-06 17:00 tango@nellie
+2013-10-07 20:30 tango@nellie
+2013-10-14 20:30 tango@nellie
+2013-10-20 17:00 tango@nellie
+2013-10-21 20:30 tango@nellie
+2013-11-03 17:00 tango@nellie
+2013-11-24 17:00 tango@nellie
+2013-12-01 17:00 tango@nellie
+2013-12-22 17:00 tango@nellie
+
+2013-09-04 8:30 gerardo
+2013-09-04 19:30 beate
+
+2013-09-06 10:00 anna
+2013-09-06 16:30 adsk party # La bonne Franquette (Tennis Des Cadolles), Rue du Plan 24, 2000 Neuchatel
+2013-09-06 14:57 urs@ziegelbruecke # wiesendanger zrh ab 14:12 Richtung Chur, Ziegelbrücke an 14:57
+
+2013-09-07 moni kurs
+2013-09-07 berg ruft
+
+2013-09-11 10:00 dina jost
+2013-09-11 18:00 lomi
+
+2013-09-13 hackathon
+
+2013-09-13 18:30 vernissage # wohnresidenz
+
+2013-09-14 hackathon
+
+2013-09-14 moni vacation begin
+2013-09-14 16:30 katja garten # /j/tmp/katja_garten_abend.pdf
+2013-09-14 sitzberg tanznacht # /j/tmp/hans_tanznacht_sitzberg.doc
+2013-09-15 sitzberg tanznacht
+
+2013-09-15 16:45-19:25 bsl-malaga # easyjet flug 1067 check-in schließt 16:05
+
+2013-09-22 andreas@ekirche
+2013-09-23 moni vacation end
+
+2013-09-24 19:40-22:20 malaga-bsl # malaga nach basel flug #1068 check-in schließt 19:00
+2013-09-25 19:00 gemeinschaft@markus
+
+2013-09-26 20:00 angela@dav # vorbesprechung diechterhorn
+
+2013-09-27 16:00 vanguard meeting
+2013-09-27 19:00 cristina_pete@loe
+
+2013-09-27 rtc@delft
+2013-09-28 rtc@delft
+
+2013-09-28 dajekamimoth@beat
+2013-09-28 19:00 toc basel # www.tanz-freiburg.net oder www.neuland-tanzbasel.ch, GDS (Gymnastik Diplom-Schule) Basel, Eulerstrasse 55, 4051 Basel
+2013-09-29 10:30 mh family@gruen80
+
+2013-10-01 tessin begin
+2013-10-04 tessin end
+
+2013-10-05 diechterhorn # angemeldet
+2013-10-06 diechterhorn
+
+2013-10-05 frauentreff@muelital
+2013-10-06 frauentreff@muelital
+
+2013-10-09 8:30 moreno
+
+2013-10-10 20:00 beate und wer?
+
+2013-10-11 16:00 damiano
+2013-10-12 damiano
+2013-10-13 damiano
+2013-10-13 marc straub sustenpass # nicht angemeldet
+2013-10-13 18:00 juergen+tatjana@moni
+
+2013-10-28 20:30 tango
+2013-11-04 20:30 tango
+2013-11-11 20:30 tango
+2013-11-18 20:30 tango
+2013-11-25 20:30 tango
+#2013-12-02 20:30 tango
+#2013-12-09 20:30 tango
+#2013-12-16 20:30 tango
+
+2013-10-16 9:45 juergen@bhf_schopfheim # hirschen besichtigen`
+
+2013-10-18 19:00 gemeinschaft@moni
+2013-10-19 * moni bday
+2013-10-19 9:00 dajekamimoth@moni
+2013-10-19 18:00 vollmond@tuellinger
+2013-10-20 11:00 brunch@moni
+2013-10-20 12:00 telplanung
+2013-10-21 18:00 lomi
+
+2013-10-23 16:00 hirschen@wiechs
+
+2013-10-23 20:00 moni@bafudi
+2013-10-24 19:00 andrea
+
+2013-10-26 19:00 toc basel # www.tanz-freiburg.net oder www.neuland-tanzbasel.ch, GDS (Gymnastik Diplom-Schule) Basel, Eulerstrasse 55, 4051 Basel
+
+#2013-11-01 16:00 men@stefan
+
+2013-11-02 flohmi@pratteln
+2013-11-02 fest@andrea_b
+
+2013-11-05 8:10 sabine
+2013-11-05 19:00 rose
+2013-11-08 20:30 tango@fws-loe
+
+2013-11-09 matti@moni
+2013-11-09 13:30 rose@gruett
+2013-11-09 14:00 remigia@hirschen
+2013-11-10 matti@moni
+
+2013-11-15 11:00 otto
+2013-11-15 17:00-20:00 euro 40,- Norbekov # Gesundheitskurs Stufe 1, Kanghua Zürich, Uetlibergstrasse 24, 8045 Zürich
+
+2013-11-16 dajekamimoth@eva
+
+2013-11-17 10:30 madlee
+#2013-11-17 16:00 iris + hanna
+
+2013-11-19 20:00 gemeinschaft@markus
+
+2013-11-20 18:00 bafudi
+
+2013-11-22 12:00 tobias@ganges
+
+2013-11-23 party@huenerberg
+2013-11-23 19:00 toc basel # www.tanz-freiburg.net oder www.neuland-tanzbasel.ch, GDS (Gymnastik Diplom-Schule) Basel, Eulerstrasse 55, 4051 Basel
+2013-11-24 sweatlodge@huenerberg
+
+2013-11-27 19:00 heiner@kollosaldigital # kleine buehne
+
+2013-11-30 12:30-19:00 symposium@fr # Kolping-Kolleg, Hildastraße 39, 79102 Freiburg in der Aula unterm Dach
+2013-11-30 19:00 sonjageburi@fr
+2013-12-01 7:49-10:06 fr-ffm # Auftragsnummer DK431K /a/doc/expense/receipt/au/train_ticket_fr_ffm.pdf
+2013-12-01 11:35-14:35 fra-las # condor DE 7082 eTicket 8814373905020 - TAMMI/J Airline Reservation Code Z5MGHL
+
+2013-12-02 8:00 devday@au
+2013-12-02 18:00 adn social
+2013-12-02 18:30-21:00 speaker social@tao # TAO Restaurant, located in the Grand Canal Shoppes at The Venetian Hotel
+
+# Autodesk University, December 3-5, 2013, at The Venetian Hotel in Las Vegas.
+
+2013-12-03 au@venetian
+2013-12-03 8:00 DV2010 rvt 2014 api Murano 3205 #  Advanced Revit 2014 API Features and Samples 90 Minutes Lecture Primary Speaker, Session Owner
+2013-12-03 13:00-17:30 devlab@au casanova 601-604 level 1
+2013-12-03 opening party in the exhibitors hall
+2013-12-03 18:00 case bim hackathon@rockhouse # at the Venetian, 3355 S Las Vegas Blvd, Las Vegas, NV 89109, http://content.case-inc.com/au-hackathon-2013
+
+2013-12-04 au@venetian
+2013-12-04 7:30-8:30 emea breakfast
+2013-12-04 10:00-11:30 scott murano 3205 DV1888 Revit Add-ins That Cooperate with Worksharing
+2013-12-04 13:00 DV3464-R roundtable co Zeno 4601 # Making Revit Add-ins That Cooperate with Worksharing: A Roundtable Session 60 Minutes Roundtable Co-Speaker
+2013-12-04 14:30 DV1914 roundtable primary Marcello 4404 # Revit API Expert Roundtable: Open House on the Factory Floor 60 Minutes Panel Primary Speaker, Session Owner
+2013-12-04 18:00 itw@bassano 2605 Level 2
+2013-12-04 20:00 guido@el segundo sol
+2013-12-04 case party # http://content.case-inc.com/au-party-2013
+2013-12-04 22:00 cyrille@poker
+2013-12-04 abel smit, kean et al
+
+2013-12-05 au@venetian
+2013-12-05 8:00 DV1736 revit cloud Marcello 4405 # Cloud-Based, Real-Time, Round-Trip, 2D Revit Model Editing on Any Mobile Device 90 Minutes Lecture Primary Speaker, Session Owner
+#2013-12-05 11:30 itw
+2013-12-05 17:20-13:30+1 las-fra # condor
+
+2013-12-06 18:00 ne xmas party
+
+2013-12-07 10:00 wuestentag@zug # beim reformierten Kirchgemeindehaus /a/doc/travel/trip/zug/gemeindehaus.gif
+2013-12-07 jk
+
+2013-12-08 12:25-13:45 zrh-paris swiss 0638
+
+2013-12-09 devday@paris
+2013-12-09 19:15-20:45 easyjet 2790 # Paris Charles de Gaulle (Terminal 2D) to Milan Malpensa (Terminal 2)
+2013-12-10 devday@milan
+2013-12-10 18:55-19:55 linate-lhr ba 0569
+2013-12-11 devday@farnborough
+2013-12-11 20:05-22:55 lhr-muc ba 0958
+2013-12-12 devday@munich
+2013-12-13 devlab@munich
+2013-12-14 9:40-10:45 muc-zrh swiss 1101 # booking locator djskse, confirmation number ejmnh8
+
+2013-12-14 dajekamimoth@karin
+2013-12-14 19:00 toc basel # www.tanz-freiburg.net oder www.neuland-tanzbasel.ch, GDS (Gymnastik Diplom-Schule) Basel, Eulerstrasse 55, 4051 Basel
+2013-12-14 20:41 remo@bern # Remo Kissling, Brückenpfeiler, Dalmaziquai 69, Bern
+
+2013-12-15 17:25-19:15 zrh-copenhagen swiss 3506
+2013-12-15 21:00-21:50 copenhagen-got sk 0446
+
+2013-12-16 devday@gothenburg
+
+2013-12-17 12:40-13:30 got-copenhagen sk 0437
+2013-12-17 14:45-16:35 copenhagen-zrh swiss 3505
+2013-12-17 17:17 michael@altstetten # berner strasse nord 152
+
+2013-12-17 travel from gothenburg
+
+2013-12-18 devday@moscow
+2013-12-18 11:00-13:00 progman oy # https://global.gotomeeting.com/join/317760805
+
+2013-12-20 18:00 xmasconcert@andreabalint
+2013-12-21 wintersonnenwende@tatjana
+
+2013-12-22 17:00 practica
+
+2013-12-24 21:00 life of brian@free
+2013-12-25 19:30 xmasbafudi
+
+year 2014
+even thursdays in year 20:30 tanz
+
+2014-01-02 14:00 eva + pascal
+
+2014-01-04 13:30 anja@moni
+2014-01-04 18:30 rose
+2014-01-04 19:00 tok@hebel
+
+2014-01-05 tel schokimassage@gisela
+2014-01-05 13:00 men@stefan
+
+2014-01-07 20:00 gemeinschaft@markus
+
+2014-01-11 20:00 krueppel von inishmaan # nellie /j/tmp/ticket_krueppel_inishman.pdf
+2014-01-12 la palma begin # train to spain
+2014-01-14 17:00 boat to la palma begin # http://www.trasmediterranea.es/es/ruta/cadiz-s-c--de-la-palma
+2014-01-17 8:00 boat to la palma end
+# wandern http://wandern-in-lapalma.de
+2014-01-24 la palma end # Airberlin Teneriffa - Basel
+
+2014-01-31 tel@luetzelflueh
+
+2014-01-24 axel@jaunpass begin
+
+2014-01-24 16:25-21:35 tfs-bsl # air berlin AB 3611 Tenerife South - Basel 745-2335049770 / TAMMIK/JEREMY MR 1304300839/1 8GYDSE
+
+2014-01-25 bejekamimoth@michelle
+2014-01-26 11:00 gemeinschaft@allschwil tram 6
+2014-01-26 axel@jaunpass end
+
+2014-01-27 19:00-21:00 tango # Cèsars Studio, Nauenstraße 71, Basel, kein Schild, Tür ist offen, EG rechts
+
+2014-01-29 10:00-11:10 zrh-fra # Lufthansa 1185 Confirmation 4WNEUV eTicket Receipt 2204669882567 - TAMMI/J
+2014-01-29 12:25-14:05 fra-got # Lufthansa 816
+2014-01-30 cad-q cloud workshop
+2014-01-30 19:00 cad-q kick-off # http://www.sanktjorgenpark.se
+2014-01-31 9:40-11:30 got-fra # Lufthansa 813 Confirmation: 4WNEUV
+2014-01-31 12:35-13:30 fra-zrh #  Lufthansa 1190
+
+2014-02-01 tel@luetzelflueh
+2014-02-02 tel@luetzelflueh
+
+2014-02-05 14:00 beat
+
+2014-02-07 16:00-17:30 hsb revit vanguard meeting
+
+2014-02-08 14:00 georg + antonia
+
+2014-02-09 11:00 sabine bday
+2014-02-09 18:00 hanna + iris
+
+2014-02-10 20:00 tango@mellie
+
+2014-02-11 9:15-10:15 bsl-muc # Lufthansa 2393 Munich Intl Arpt Terminal 2
+2014-02-11 11:05-13:35 muc-tsr # Lufthansa 1658 Munich Intl Arpt Terminal 2 Timisoara Arpt (TSR) Confirmation: 2GA63G
+2014-02-12 dietrichs@timisoara # rumania
+2014-02-13 dietrichs@timisoara # rumania
+2014-02-14 7:55-8:25 tsr-muc # Lufthansa 1663 Timisoara Arpt (TSR) Munich Intl Arpt (MUC) Terminal:2 Confirmation: 2GA63G
+2014-02-14 11:15-12:10 muc-bsl # Lufthansa 2394 Munich Intl Arpt (MUC) Terminal:2 Confirmation: 2GA63G
+
+2014-02-15 bejekamimoth@jeremy
+
+2014-02-19 14:15 bern svensktpass
+2014-02-19 20:00 bafudi
+
+2014-02-20 mammutbaum faellen # axel hugenschmidt + nachbar thomas tel. 169038
+
+2014-02-21 16:30-18:00 cet 9:30 cst itw revit vanguard meeting
+
+2014-02-22 men@wueste begin
+2014-02-22 11:15 zrh check-in
+2014-02-22 12:45-15:15 zrh-rak # marrakesh edelweiss
+2014-03-11 men@wueste end
+2014-03-11 12:35-17:00 rak-zrh
+
+2014-03-08 otc begin
+2014-03-08 wildhaus begin
+2014-03-14 otc end
+
+2014-03-15 wildhaus end
+2014-03-15 13:00 astrid + thomas
+2014-03-16 11:00 vernissage@pratteln # Restaurant Engel, Hauptstrasse 46, Pratteln, Buch-Vernissage In memoriam Heinz Hüper 'Himmelbett-Geschichten'
+2014-03-16 14:00 iris + hanna
+
+2014-03-18 20:00 tangoanleitung
+2014-03-18 21:00 tango frei
+
+2014-03-21 16:30 TED live viewing party # Boaz Heller Avrahami, Pilgerstr. 21, Dättwil, Baden, Switzerland
+
+2014-03-22 bejekamimoth@thomas
+
+2014-03-22 10:00-17:00 ci + wasser # http://www.earthandwaterdance.com/uploads/1/0/2/0/1020167/e_lightness_flow_bilingue.pdf
+2014-03-23 10:00-17:00 ci + wasser # Bern, Studio Freiform und Therapiebad vom Inselspital
+
+2014-03-25 emea@ne
+2014-03-26 emea@ne
+2014-03-27 emea@ne
+
+2014-03-30 frank + erika
+2014-03-31 frank + erika
+2014-03-31 tech summit airline reservation
+
+2014-04-02 5:38-10:42 bsl-koeln # /a/doc/travel/trip/koeln/basel_koeln_ticket_db_FLT_3BAK2X27695_0.pdf
+2014-04-02 noralinaben
+2014-04-03 noralinaben
+2014-04-03 12:47-17:28 koeln-munich # /a/doc/travel/trip/koeln/koeln_munich_ticket_db_FLT_KXVKFG11889_0.pdf
+2014-04-03 17:30 peter@munich_hbf # +49 151 62828 871
+2014-04-03 19:00 ultracode@munich #  'Ultracode, IoT & Robotics enthusiasts pres. Galileo, thethings.io & Veterobot', Werk1, Grafinger Straße 6, 81671, München
+
+2014-04-05 07:00-16:00 moni flohmi
+
+2014-04-09 20:00 maennertanztheater # http://www.jungestheaterbasel.ch/jtb/show.php?show_id=1093
+2014-04-10 20:00 eiselin@union
+
+2014-04-11 20:00 christiane + andreas # Hermann-Albrecht-Str. 25, Lö-Stetten, Eckhaus zur Griengasse
+
+2014-04-13 12:15 crashkurs
+2014-04-13 14:00 jam@warteck
+
+2014-04-14 full moon fire?
+2014-04-15 helene depart?
+2014-04-16 helene begin
+2014-04-18 tech summit final presentation title
+2014-04-21 helene end
+2014-04-22 breakfast lina + marie
+2014-04-22 20:00 tango@nellie
+
+2014-04-24 17:30 hackergarten # Canoo Engineering AG, Kirschgartenstrasse 5, above the "Alinea" furniture shop
+
+2014-04-25 16:00 andreas + michael@zuri
+2014-04-26 bejekamimoth@beat
+2014-04-26 20:58 klaus@bhf
+2014-04-27 men@jeremy
+
+2014-04-30 18:30 bafudi
+2014-04-30 20:30 bafudi
+2014-05-01 10:00 vernissage
+2014-05-01 19:30-22:00 wave@bachletten # Marika Heinemann, Feet first... 5Rhythmen, Quartierzentrum Bachletten, QuBa, Bachlettenstrasse 2, 4054 Basel
+
+2014-05-02 wuestenmaenner@thomas
+2014-05-03 wuestenmaenner@thomas
+2014-05-04 wuestenmaenner@thomas
+
+2014-05-06 20:00 tango@nellie
+
+2014-05-10 frauenschwitzhuette@muelital
+
+2014-05-10 fashion_hackathon@london # http://www.eventbrite.co.uk/e/decoded-fashion-hackathon-london-tickets-10269617703
+2014-05-10 17:00 men@hammam # volkshaus zuri
+2014-05-11 fashion_hackathon@london
+
+2014-05-16 9:50-12:35 zrh-jfk # Zurich (ZRH) to New York, NY (JFK) SWISS 16 Duration: 8 hours, 45 minutes John F Kennedy Intl (JFK) Terminal 4 Confirmation: F4ZQSF Trip Record Locator : ZXZRYD
+# Holiday Inn New York City, Wall Street, 51 Nassau Street, New York, New York, 10038, US 212227-3007
+2014-05-16 new york aec symposium
+2014-05-17 aec hackathon
+2014-05-18 aec hackathon
+2014-05-18 21:00-10:50+1 jfk-zrh # New York, NY (JFK) to Zurich (ZRH) SWISS 15 John F Kennedy Intl (JFK) Terminal 4 Duration: 7 hours, 50 minutes Zurich Airport (ZRH) Confirmation: F4ZQSF
+
+2014-05-19 19:30 mumbo-jumbo@tinguely-brunnen
+
+2014-05-20 20:00 tango@nellie
+
+2014-05-21 9:45-10:30 channel summit revit api q&a
+2014-05-22 18:00 hackergarten@canoo # May Hackergarten, Canoo, Kirschgartenstrasse 5, Basel
+
+2014-05-23 tel@chlotisberg
+2014-05-24 tel@chlotisberg
+2014-05-25 tel@chlotisberg
+
+2014-05-23 tech summit final presentation material + pre-recording
+2014-05-24 bejekamimoth@eva
+2014-05-25 klettern mit jogi
+
+2014-05-27 moni leben in essenz begin
+
+2014-05-29 16:30 jim one on one
+
+#2014-05-31 angelhack@berlin # Rainmaking Loft https://www.eventbrite.com/e/angelhack-berlin-spring-2014-tickets-10848089929
+#2014-06-01 angelhack@berlin
+
+2014-05-31 13:00 schwitzhuette@wiechs
+
+2014-06-01 moni leben in essenz end
+2014-06-01 12:15 crashkurs
+2014-06-01 14:00 jam@basel
+
+2014-06-03 10:00-12:50 zrh-yyz toronto # Air Canada 879 Confirmation: P7JKYA eTicket Receipt 0145039098772 - TAMMI/J  Air Canada Confirmation number is P7JKYA
+2014-06-04 tech summit toronto # Fairmont Royal York, 100 Front St W, Toronto, Ontario M5J 1E3
+2014-06-05 tech summit toronto
+2014-06-05 17:10 boarding
+2014-06-05 18:10-7:50+1 yyz-zrh # Air Canada 878 Confirmation: P7JKYA
+
+2014-06-06 bejekamimoth@muelital begin
+2014-06-07 14:00 gisela bummel
+2014-06-07 18:00 dj gisela@bern
+2014-06-09 bejekamimoth end
+
+2014-06-10 moni vacation begin
+2014-06-10 12:50-15:15 zrh-arn # swiss LX 1250 stockholm arlanda buchungsreferenz CWGXN4
+
+2014-06-19 rtc us
+2014-06-20 rtc us
+2014-06-21 rtc us
+
+2014-06-22 9:45-12:10 arn-zrh # swiss LX 1249
+2014-06-22 moni vacation end
+
+2014-06-24 16:00 mikako
+2014-06-24 16:30 stephen
+2014-06-24 17:00 adn all
+
+2014-06-27 10:30 nicole umzug
+2014-06-28 14:00 kreativ@rose
+2014-06-29 kreativ@rose
+2014-06-29 12:15 crashkurs
+2014-06-29 14:00 jam
+
+2014-07-01 18:00 heiner
+
+2014-07-04 tessin departure
+2014-07-05 furkapass
+2014-07-12 bejekamimoth@tessin
+2014-07-13 tessin end
+
+2014-07-11 adsk_football@munich
+2014-07-12 adsk_football@munich
+2014-07-13 adsk_football@munich
+
+2014-07-18 xopher begin
+2014-07-19 19:00 nicol-yvonne
+2014-07-19 juergen@gspaltenhorn # Klaus Breinlinger 07621/167621 klaus.breinlinger@gmx.de Jürgen Kühnöl 07621/165906 juergenkuehnoel@web.de
+2014-07-19 mathias party # Jean le Moine
+2014-07-20 juergen@gspaltenhorn
+2014-07-20 16:00 nicole
+2014-07-21 xopher end
+2014-07-22 11:00 rose
+
+2014-07-24 cornelius arrival
+2014-07-24 18:00 hackergarten@canoo
+
+2014-07-25 6:45 jogi@wiwanni
+2014-07-26 jogi@wiwanni
+2014-07-26 katja gartenfest
+2014-07-27 jogi@wiwanni
+2014-07-26 cornelius
+2014-07-27 cornelius
+2014-07-27 19:00 beate
+2014-07-28 9:00 lina
+
+2014-07-29 20:30 Tempus Fugit Und Tschuess! Premiere # https://www.facebook.com/n/?events%2F1440322836242464%2F&aref=95498403&medium=email&mid=a33260aG3cc9e262G5b130a3G6bG7da8&bcode=1.1405692148.Abl0mNcwUT8WjeQD&n_m=jeremy.tammik%40eur.autodesk.com
+
+2014-07-30 9:00 cornelius + seul
+2014-07-30 19:00 basel.js meetup
+
+2014-07-31 moni vacation begin
+2014-07-31 jusoca begin
+2014-07-31 jurte decken begin
+2014-08-07 jurte decken end
+2014-08-07 waldhuette begin
+2014-08-09 jusoca end
+2014-08-10 waldhuette end
+
+2014-08-11 18:30 nik
+
+2014-08-12 healing heart festival begin # http://www.healingheartfestival.de
+2014-08-16 gartenfest karen
+2014-08-17 healing heart festival end
+2014-08-17 moni vacation end
+
+2014-08-18 14:30 dentist # zahnarzt dr. richter
+
+2014-08-20 20:00 bafudi
+2014-08-21 10:00 geburi@anja
+
+2014-08-22 freeopen
+2014-08-23 freeopen
+
+2014-08-23 kids@katja begin
+
+#2014-08-23 bejekamimoth@wiechs
+#2014-08-24 bejekamimoth@wiechs
+2014-08-23 bejekamimoth@beat
+
+2014-08-27 14:00 men@jeremy
+2014-08-28 18:30 franziska
+
+#2014-08-29 renate + hans moving bodies
+#2014-08-30 renate + hans moving bodies
+
+#2014-08-29 andreas + michael
+2014-08-29 cornelius depart
+2014-08-29 moni grillfest
+2014-08-30 12:00 men@andreas + michael
+2014-08-30 12:00 urs maennerfesttag # urs falk in steinhausen
+2014-08-30 kids@katja end
+2014-08-31 andreas wave
+
+2014-08-30 didi+janine@wasserfallen
+2014-08-31 didi+janine@wasserfallen
+
+2014-09-01 marie@loe?
+2014-09-01 11:00 hackathon meeting
+2014-09-03 11:00 otto geburi
+2014-09-04 19:00 thomas + veena
+2014-09-05 19:00 herzfeuer@burg
+2014-09-06 tanznacht@sitzberg # http://naturismus-sitzberg.jimdo.com
+2014-09-06 sweat lodge@wiechs
+2014-09-07 tanznacht@sitzberg
+2014-09-09 10:00 otto book + david book
+2014-09-09 19:30 camp caesar # augusta raurica http://www.jungestheaterbasel.ch
+
+2014-09-11 denkfest@zrh # http://denkfest.ch/programm
+2014-09-11 18:30 franziska
+
+2014-09-13 bejekamimoth@beat
+2014-09-13 18:00 marion geburi # Kerbers Straussi https://www.google.de/maps/place/Heinrich+Kerber/@47.8932,7.73664,17z/data=!3m1!4b1!4m2!3m1!1s0x4791060e99de648d:0x2566212b4553821f
+2014-09-13 19:30 toc # BZBG, Eulerstrasse 55, 4051 Basel
+2014-09-14 andreas@ekirche
+
+2014-09-19 au germany ppt
+2014-09-19 19:30 niko paech befreiung vom ueberfluss # Murghalle, Murg
+
+2014-09-20 18:00 hackathon
+2014-09-20 18:00 apero
+2014-09-20 19:00 filmabend frohes schaffen
+2014-09-21 hackathon
+2014-09-21 14:00 coffee@moni
+2014-09-21 17:00 revit api round table
+2014-09-22 1:00 hackathon end
+
+2014-09-25 19:00 hackergarten # Canoo Engineering AG Kirschgartenstrasse 5 Basel
+
+2014-09-26 lina begin
+2014-09-26 nik
+2014-09-27 nik
+2014-09-28 climbing? # http://www.meetup.com/Switzerland-Outdoor-Climbing/events/208796312 -- http://www.swissmountains.ch/typo2/index.php?id=le-paradis
+2014-09-28 nik
+2014-09-28 20:00 Hannas Reise@free
+2014-09-29 lina end
+2014-09-29 11:00 claude predigerhof bruderholz
+
+2014-10-02 falk begin
+2014-10-03 dav sewo begin # melchsee-frutt anmelden bei Marc: freak.cycles@gmail.com
+2014-10-03 18:30 barcamp@glarisegg begin # http://schloss-glarisegg.ch/seminarzentrum/seminare-und-events/kalender/eventeinzelheiten/87/-/3-barcamp-schloss-glarisegg-open-space-motto-teilen
+#2014-10-04 moni vacation begin
+2014-10-04 17:00 ben geburi
+2014-10-04 dav sewo
+2014-10-04 nick begin # costa blanca http://www.ownersdirect.co.uk/spain/s17612.htm
+2014-10-04 prepare altmetall
+2014-10-05 dav sewo end
+2014-10-05 16:00 barcamp@glarisegg end
+2014-10-05 falk end
+
+#beekite.eu
+#4 tage
+#450
+#Castelletto di Brenzone
+#Brenzone sul Garda
+#http://www.beekite.eu/en/index.php
+#https://www.airbnb.com/rooms/2706179?s=WBPH
+#https://maps.google.it/maps/ms?ie=UTF8&t=h&oe=UTF8&msa=0&msid=213222664708872653617.0004d64f67837daf89844&dg=feature
+#https://www.google.ch/maps/@45.6603101,10.6938249,10z?hl=en
+#https://www.google.ch/maps/dir/Torri+del+Benaco+VR,+Italy/Castelletto+di+Brenzone+VR,+Italy/@45.6488028,10.6845759,12z/data=!4m14!4m13!1m5!1m1!1s0x4781f30d1afcc68b:0x5c1be65f675411e!2m2!1d10.6868256!2d45.6101029!1m5!1m1!1s0x4781f596951eae4f:0xbf945459bcd6288d!2m2!1d10:74956!2d45:6865766!3e3
+
+2014-10-07 moni holiday begin
+2014-10-07 altmetall
+#2014-10-07 internet gekuendigt
+2014-10-07 vollmondfeuer?
+
+2014-10-10 moni wandern
+2014-10-11 moni wandern
+2014-10-11 nick end
+#2014-10-12 moni vacation end
+
+2014-10-10 12:00 zrh kronenhalle # http://blog.dasmagazin.ch/2014/09/20/kronenhalle-der-schoepfung (2014) http://www.christianseiler.com/zurichs-legende.html (2011) http://www.christianseiler.com/das-tor-zur-schweiz.html (2012)
+2014-10-10 14:30 hackzurich setup # company stand
+2014-10-10 16:00 hack@zrh # http://hackzurich.com Technopark, Zurich /a/doc/travel/trip/zrh/technopark_hack_zrh.png
+2014-10-10 18:00 Opening
+2014-10-10 19:15 Food
+2014-10-10 20:15 Workshop 1
+2014-10-10 21:30 Workshop 2
+2014-10-10 22:30 Team up
+2014-10-10 23:30 Hacking!
+2014-10-11 hack@zrh
+2014-10-12 10:00 climb@noirmont # http://www.meetup.com/Switzerland-Outdoor-Climbing
+2014-10-12 14:00 hack@zrh end
+2014-10-12 moni@lenk
+
+2014-10-14 lina@koeln
+2014-10-15 lina@koeln
+2014-10-16 lina@koeln
+2014-10-17 10:00 hack@brussels # http://www.transformabxl.be/agenda/event/hackathon-open-data-brussels, Avenue du Pérou, 80 Perulaan, B-1000 Brussels
+2014-10-18 hack@brussels
+2014-10-18 20:05-21:15 bru-zrh # LX 789 Operated by AUSTRIAN EUR 139 Trip Record Locator TAUTWB Confirmation DZMRVB eTicket Receipt 7245827824619 - TAMMI/J
+
+2014-10-19 moni geburi
+2014-10-19 moni holiday end
+
+2014-10-21 xopher@offenbach
+2014-10-22 george
+2014-10-23 au@darmstadt # https://cluster.ems-secure.de/registrations/autodesk/au.2014/ems.registration.php
+2014-10-24 au@darmstadt
+
+2014-10-25 9:00 hack@berlin # http://www.meetup.com/TechMeetups-Berlin/events/161213342, Windscheidstraße 18, 10627 Berlin, /a/doc/travel/trip/berlin/emser-windscheid.png
+2014-10-25 19:30 toc # BZBG, Eulerstrasse 55, 4051 Basel
+2014-10-26 19:00 hack@berlin end
+
+2014-10-27 marie@berlin visit?
+
+2014-10-26 bejekamimoth@pascal
+
+2014-10-30 15:00 rose
+2014-10-30 18:00 hackergarten@canoo
+
+2014-10-31 norbekov begin # mo-fr 17:30-21:30 und sa-so 11-15 uhr
+2014-10-31 moni@zrh
+2014-11-01 11:00 eva + pascal + ilian serafin
+
+2014-11-03 11:00 jan@skype
+2014-11-03 19:00 functional programming in js workshop@canoo
+2014-11-04 10:00 andreas@skype
+2014-11-04 15:00 men@hugo
+2014-11-04 18:30 hugo geburi abendessen
+2014-11-05 18:45 dav hallentraining # Turnhalle Theodor-Heuss-Realschule (THR), Schützenstrasse 22, schräg gegenüber der alten HTG-Halle, fahre von der Kreuzstrasse in die Schützenstrasse und dann in den Schulhof
+2014-11-05 20:30 franziska@bafudi
+2014-11-06 vollmondfeuer?
+2014-11-07 18:30 andreas@stauffacher
+2014-11-07 19:00-22:00 somosorganicos@zrh # Prema Yoga, Stauffacherstr. 28, 8004 Zürich, /j/tmp/Be_Ecstatic_Live_in_Zürich_mit_Somos_Organicos.docx
+2014-11-07 22:30 moni@cafelang
+
+2014-11-09 norbekov end
+2014-11-09 12:00-18:30 gemeinwohl@derendingen # Schützenstrasse 7, CH-4552 Derendingen, ehemalige Schreinerei, Eingang Brockenstube, mit Bus Nr. 1 (Richtung Recherswil, Pestalozziplatz aussteigen) vom Bahnhof Solothurn in Kürze erreichbar.
+
+2014-11-11 17:00-19:00 moni@mainx
+2014-11-12 lina@loe
+2014-11-12 claude@bafudi
+2014-11-13 lina@loe
+2014-11-14 lina@loe
+2014-11-14 urs falk
+2014-11-14 au handout + material
+
+2014-11-15 urs falk
+2014-11-15 beni + christa # christa.zantour@lignum.ch
+2014-11-15 19:30 madlee geburi@feuerwache # Gemeindehaus Alte Feuerwache, Burghof 2, 79539 Lörrach
+2014-11-16 urs falk
+
+2014-11-14 aec hackathon@nyc
+2014-11-15 aec hackathon@nyc
+2014-11-16 aec hackathon@nyc
+2014-11-17 16:00 wolfgang@mainx
+
+2014-11-21 xopher
+2014-11-21 12:00 tobias@india # http://www.indienpalace-loerrach.de
+2014-11-22 nonbday?
+2014-11-22 19:30 toc # BZBG, Eulerstrasse 55, 4051 Basel
+2014-11-23 sweat lodge?
+
+2014-11-27 georg lieferung
+2014-11-28 9:00 otto
+2014-11-28 11:35-12:25 bsl-lhr t5 BA753 # Booking Locator: CZMFII, eTicket Receipt 1255427601574 - TAMMI/J
+2014-11-28 15:50-18:20 lhr t5-las BA275
+
+2014-11-30 bejekamimoth@thomas
+
+2014-12-01 devday@au
+2014-12-01 14:00 bim360
+2014-12-01 15:00 revit and civil 3d
+2014-12-01 16:00 programmers corner
+2014-12-01 18:30-21:00 Speaker Social # MIX Lounge, at the top of the Delano Hotel, next door to Mandalay Bay
+2014-12-01 21:00-22:30 mixer # AutoCAD and Cloud Team Mixer, Delano Hotel, Franklin Lounge (off of the lobby)
+2014-12-02 au # http://au.autodesk.com/las-vegas/international
+2014-12-02 13:30 SD5156 # revit api panel, South Seas C, Level 3
+2014-12-03 au
+2014-12-03 10:00 hsbcad south seas level 3b
+2014-12-03 11:30-13:30 booth Foosball/PS2 Area
+2014-12-03 13:30-15:00 booth PaaS Google Cardboard glasses
+2014-12-03 20:00 Blogger & Social Meetup
+2014-12-04 au
+2014-12-04 12:30 mikako@meetup area level 2
+2014-12-04 20:30-14:10+1 las t3-lhr BA274 # Your booking reference: 8RLAGO, McCarran International, Las Vegas, Terminal 3
+2014-12-05 17:05-19:35 lhr-bsl BA750
+2014-12-05 17:50-20:00 lhr-paris AF1281 # LHR T4 - Paris CDG Aerogare 2 Terminal E, Air France Confirmation number 6E9A6T
+
+2014-12-05 19:05 moni@gare de l'est an
+2014-12-05 19:37 moni@gare du lyon an
+2014-12-06 moni@paris
+2014-12-07 18:23 moni@gare de l'est ab
+
+2014-12-08 8:30 paris devday + meetup
+2014-12-09 13:25-13:45 paris - london: AF1780 # Paris De Gaulle Aerogare 2 Terminal E, London Heathrow Terminal 4
+2014-12-09 london travel + meetup
+2014-12-10 8:30 london devday
+2014-12-10 18:40-21:40 london - gothenburg: SK0522 # London Heathrow Terminal 2, Gothenburg GOT Sweden
+2014-12-11 8:30 gothenburg devday + meetup
+2014-12-12 19:00-20:45 + 21:35-22:25 gothenburg - frankfurt - basel: SAS SK 3685 + 3108
+2014-12-13 18:45-20:40 gothenburg - munich # SAS SK 3683 Gothenburg Landvetter Apt to Munich International Airport duration 1:55, Scandinavian Airlines Confirmation number is 6E9A6T
+2014-12-14 travel
+2014-12-15 8:30 munich devday + meetup
+2014-12-16 11:40-11:45 munich - milano: LH1856 # Munich Terminal 2, Milan Malpensa Terminal 1 6E9A6T
+2014-12-16 milano travel + meetup
+2014-12-17 8:30 milano devday
+2014-12-17 17:29-18:44 Milano-Verbania # Regionale 2152, eur 8.90
+2014-12-18 18:30 sunset-heller # Sunset Residence meets Hellers Home
+2014-12-19 day off
+2014-12-20 9:00 lina + nora
+2014-12-20 13:00 sweatlodge@wiechs
+2014-12-21 bejekamimoth@michelle
+2014-12-21 15:00-17:00 waedel@kuenisbergfels # weit hinten in den jura hügeln, mit feuer etc., den ort findet ihr oberhalb nenzlingen im birstal
+2014-12-21 18:00 wintersonnenwende@tatjana
+2014-12-23 11:15 vhs@bern # Eigerstrasse 80 3007 Bern, Anmeldung nr. 19203753
+2014-12-24 20:00 xmasbafudi
+2014-12-25 18:00 rose@huenerberg
+2014-12-26 kids begin
+2014-12-26 14:00 hash # Hares: Out of Africa and Meryl Strip, Restaurant Alte Post, Centralbahnstrasse 21, Basel, phone 079 797 88 12, http://www.meetup.com/Basel-Hash/events/218906219
+2014-12-27 19:30 toc # BZBG, Eulerstrasse 55, 4051 Basel
+2014-12-29 blonay begin
+
+year 2015
+#even thursdays in year 20:30 tanz
+# from march onwards:
+#odd thursdays in year 20:30 tanz
+
+2015-01-03 blonay + kids end
+
+2015-01-08 20:30 tanz # LerchenWave-2015-01.m3u
+
+2015-01-10 19:00-21:30 heisenberg # Eulerhof, roter Saal 2. Stock, Eulerstrasse 55, 4051 Basel, Nähe Brausebad, Kleidung zum Wechseln, Sektglas, Duschen vorhanden
+2015-01-10 skitour@hunds-, ross- oder hagelstock # dav mit bastian feifel, anmeldung ab sofort
+
+2015-01-10 12:00-18:00 movingbody@fr # moeslepark waldsee /j/tmp/hans_weber_waldkurbad_tantra_massage.ppt
+
+2015-01-15 18:00 hackergarten@canoo
+
+2015-01-17 bejekamimoth@eva
+2015-01-18 11:00 annemarie geburi
+2015-01-18 12:00-19:00 gemeinwohltreffen # Schützenstrasse 7, 4552 Derendingen, Bus Nr. 1 vom Bahnhof Solothurn Richtung Recherswil, Pestalozziplatz aussteigen, fährt jeweils 03 und 33, /j/tmp/2015-01-15_gemeinwohltreffen.pdf
+
+2015-01-15 13:35-15:15 bsl-napoli # Booking reference ENLN1PG, ONE cabin bag up to 50 x 40 x 20 cm will travel with you in the cabin, up to 56 x 45 x 25 cm your bag may have to go in the hold
+2015-01-22 15:50 17:40 napoli-bsl
+
+2015-01-23 18:00 tel@luetzelflueh
+2015-01-24 tel@luetzelflueh
+2015-01-25 tel@luetzelflueh
+2015-01-26 15:45 dentist scherble
+
+#2015-01-28 moscow begin
+2015-01-28 12:20-17:50 zrh-moscow dme # SWISS zrh - Moscow Domodedovo Apt, Russland SWISS LX 1326, Confirmation CBWPTQ, Trip Record Locator WILAQG, E-ticket 7246562148351
+# airbnb Olga +7 985 766 41 83 olga-ysqao6ynsl9n5zaj@host.airbnb.com, Arbat Street, Home 19, apartment 6, a 5-minute walk from the metro station "Arbatskaya"
+2015-01-29 devday@moscow
+2015-01-29 meetup@moscow
+2015-01-30 09:05-10:50 moscow dme-zrh # SWISS Moscow Domodedovo Apt - zrh SWISS LX 1325
+#2015-01-30 moscow end
+
+#2015-01-30 hackathon@moscow
+#2015-01-31 hackathon@moscow
+#2015-02-01 hackathon@moscow
+#2015-02-03 meetup@moscow
+#2015-02-04 moscow end
+
+#2015-01-30 michael@zrh?
+#2015-01-31 michael@selun?
+2015-01-31 paragliding # http://www.meetup.com/Basel-Sports-Community/events/218978216/
+2015-01-31 18:00 wave@fr
+#2015-02-01 michael@wildhaus?
+
+2015-02-05 milano begin
+2015-02-06 13:30 last supper # Piazza Santa Maria delle Grazie, 2
+2015-02-06 17:00 adva walkthrough # https://global.gotomeeting.com/join/535298189 +1 (872) 240-3412
+2015-02-06 21:37 moni@milanocentrale
+2015-02-07 moni@milano
+2015-02-08 milano
+2015-02-09 milano
+2015-02-09 17:23 moni@milanocentrale
+2015-02-10 17:30 giorgio@binario 11 # giorgio mazzucchelli <giorgio.maz@gmail.com>, via paleocapra 1 (mm cadorna)
+2015-02-10 18:30 maurizio@jobrapido # maurizio mangione <granzebru@gmail.com>, jobrapido, via pietro paleocapa 7
+2015-02-10 19:00 meetup@milano
+2015-02-12 milano end
+
+2015-02-12 8:58-9:27 cadorna-malpensa
+2015-02-12 10:35 boarding
+2015-02-12 11:20-13:35 milan-madrid # UX 1066 - AIR EUROPA MILAN, IT (MALPENSA), TERMINAL 1 to MADRID, ES (ADOLFO SUAREZ BARAJAS), TERMINAL 2, FLUG-BUCHUNGSREF UX/EBD9B, UX/ETKT 996 6575808654, DAUER 2:15
+# train every ten minutes from airport T3 to train station in malaga, then bus to nerja
+2015-02-12 14:35-16:05 madrid-malaga # UX 5039 - AIR EUROPA, MADRID, ES (ADOLFO SUAREZ BARAJAS), TERMINAL 2 to MALAGA, ES (MALAGA AIRPORT), TERMINAL 3, FLUG-BUCHUNGSREF UX/EBD9B, UX/ETKT 996 6575808654, DAUER 1:30
+
+2015-02-14 12:00-18:00 movingbody@fr # moeslepark waldsee /j/tmp/hans_weber_waldkurbad_tantra_massage.ppt
+2015-02-14 19:00 heisenbergtanzt
+
+#14:55-16:30 nerja-malaga maria zambrano
+#16:25-17:30 nerja-malaga maria zambrano
+
+2015-02-16 18:45 bag drop closes
+2015-02-16 19:25-22:05 malaga-bsl # Flight EZS1068, Booking reference ENNQTGM, Malaga 19:25 to Basel-Mulhouse-Freiburg 22:05
+
+2015-02-19 rtceu abstract
+2015-02-19 18:00 webglintro@bern # bern software developers meetup
+
+2015-02-21 wildhaus begin
+#2015-02-21 winterschmaus langwies begin # 1317 müm /j/tmp/winterschmaus_2015.pdf
+2015-02-22 michael@selun
+#2015-02-28 winterschmaus langwies end
+2015-02-28 wildhaus end
+
+2015-02-28 intensiv@beat
+2015-02-28 13:00 schwitzhuette@tatjana
+
+#2015-02-27 biwak@valmuestair # dav mit carsten hein, anmeldung ab sofort, zugesagt, abgesagt
+#2015-02-28 val muestair
+#2015-03-01 val muestair
+
+2015-03-01 ueberschreitung@jaunpass # dav mit michael fischer, anmeldung ab sofort
+
+2015-03-01 men@stefan?
+
+2015-03-03 techsummit proposal
+
+2015-03-06 6:59-11:06 bsl-gemmipass
+2015-03-06 skitourenwe # dav mit jogi, anmeldung ab sofort, angefragt, zugesagt
+2015-03-07 skitourenwe
+2015-03-08 skitourenwe
+2015-03-08 16:54-19:29 sunnbuel-bsl
+
+#2015-03-07 ueberschreitung@aabeberg # dav mit eckhard lindner, anmeldung ab sofort
+
+2015-03-11 12:00-18:00 movingbody@fr # moeslepark waldsee /j/tmp/hans_weber_waldkurbad_tantra_massage.ppt
+
+2015-03-14 12:00-18:00 movingbody@fr # moeslepark waldsee /j/tmp/hans_weber_waldkurbad_tantra_massage.ppt
+
+#2015-03-14 skitour@sedrun # dav mit bastian feifel, anmeldung ab sofort, angefragt, tour faellt aus
+#2015-03-15 sedrun
+
+2015-03-12 15:30 wolfgang?
+
+2015-03-13 13:30 men@stefan
+#2015-03-14 schneeschuh@gotthard # dav mit carsten hein, anmeldung ab sofort, angefragt, zugesagt, abgesagt
+2015-03-14 gartenarbeit@huenerberg
+2015-03-15 schneeschuh@gotthard # föisc bei airolo besteigen, dav mit carsten hein, anmeldung ab sofort, angefragt, zugesagt
+2015-03-15 moni@loe
+
+2015-03-18 15:00 hsb demo
+
+2015-03-20 skitour@graubuenden rheinwaldgebiet # dav mit rupert, anmeldung ab 2015-01-15, zugesagt
+2015-03-20 7:00 bahnhof in hauingen/brombach
+2015-03-21 graubuenden
+2015-03-22 graubuenden
+
+#2015-03-21 schoene skitour # dav mit tim birken, anmeldung ab sofort
+#2015-03-22 skitour
+
+2015-03-24 16:00-17:00 dan zucker # Beyond ADN - Hear and learn from Autodesk's Social Media Guru Dan Zucker https://meet.autodesk.com/jim.quanci/SM75MNR5
+
+2015-03-25 17:30 bafudi@hirscheneck
+2015-03-25 20:10 bafudi@warteck
+2015-03-26 18:00 hackergarten@canoo
+
+2015-03-28 intensiv@moni
+
+2015-03-30 14:37-15:45 bsl-cdg hop # Air France 7745 Record Locator UMXMFC Confirmation: ZR6ACC
+2015-03-30 16:35-17:50 cdg-bes af # Air France 7738
+2015-03-31 emea@bretagne
+2015-03-31 8:00-9:00 hongye vanguard # aaron lu, https://global.gotomeeting.com/join/590133029
+2015-04-01 emea@bretagne
+2015-04-02 emea@bretagne
+2015-04-02 13:10-14:30 bes-cdg af # Air France 7739
+2015-04-02 15:40-16:48 cdg-bsl hop # Air France 7746
+
+2015-04-01 wildhaus?
+2015-04-02 wildhaus?
+2015-04-06 wildhaus end?
+
+2015-04-07 17:00 traktor@fraenzi
+#2015-04-08 19:00 distributed programming in js@magnolia, st johanns-vorstadt 38
+2015-04-09 20:30 tanz # LerchenWave-2015-04.m3u
+
+2015-04-02 osterimprofestival begin # goettingen http://osterimprofestival.info
+2015-04-06 osterimprofestival end
+
+2015-04-10 14:00 mainx@huenerberg
+
+2015-04-12 11:00 brunch@christiane # Gieseking <cga@gmx.de>, Stockacker 94, 79252 Stegen
+
+2015-04-16 14:00 schnabel@hitzfeld
+
+2015-04-17 19:00 beate
+2015-04-18 9:00 biwak@schwarwald # dav mit marc straub, anmeldung ab 2015-03-01, zugesagt, treffpunkt in zell, fahrschein bis hebelhof
+2015-04-19 schwarwald
+2015-04-19 18:00 falk & gabi
+
+2015-04-23 18:00 hackergarten@canoo
+
+#2015-04-23 urner haute route # dav mit rupert, anmeldung ab sofort, angefragt, zugesagt, abgesagt wegen schlecht wetter
+#2015-04-24 urner haute route
+#2015-04-25 urner haute route
+#2015-04-26 urner haute route
+
+2015-04-29 johannes@bafudi
+2015-04-30 20:30 lerchenwave
+
+2015-05-01 nik
+2015-05-02 nik
+2015-05-03 nik
+2015-05-01 skitour@gauli # dav mit gerson pfaff, anmeldung ab 2015-02-01
+2015-05-02 skitour@gauli
+2015-05-03 skitour@gauli
+2015-05-04 skitour@gauli
+
+2015-05-02 14:30 telvorbereitung@piarene # piarenefrankerika, Sennrütistrasse 23, CH-9113 Degersheim
+2015-05-03 telvorbereitung@piarene
+2015-05-03 vollmondfeuer?
+
+2015-05-04 18:30 ca. arrival lina
+2015-05-05 lina
+2015-05-06 lina
+2015-05-06 11:30 koeln messe deutz
+2015-05-06 15:25-23:55 dus-dxb # Flughafen Düsseldorf International, Deutschland - Dubai International Airport, Vereinigte Arabische Emirate Direkt 06:30, eTicket 1698950074574 - TAMMI/J, reservation code UGKAHO, emirates airlines confirmation number FIVLSN
+2015-05-07 19:00 angelhack@dubai
+2015-05-08 dubai
+2015-05-09 dubai
+2015-05-10 15:00-19:45 dxb-dus ek057 # Dubai, Vereinigte Arabische Emirate - Düsseldorf, Deutschland - Direkt 06:45
+2015-05-10 lina
+2015-05-11 lina
+
+2015-05-12 moni essenz begin
+
+#2015-05-15 techsummit presentation
+
+2015-05-17 dreilaenderlauf
+2015-05-17 16:00 moni essenz end
+
+2015-05-20 20:00 bafudi
+
+2015-05-21 18:00 besichtigung
+2015-05-21 juergen tatjana begin
+2015-05-22 17:00 abfahrt@pratteln
+2015-05-23 intensiv@muelital
+2015-05-24 intensiv@muelital
+2015-05-26 au proposal # call for proposals deadline for submissions
+2015-05-28 20:30 lerchenwave
+2015-05-31 juergen tatjana end
+
+2015-06-01 vollmondfeuer
+
+2015-06-02 11:00-14:40 zrh-ath # Zurich (ZRH) to Athens (ATH) Aegean Air 825 Duration: 2 hours, 40 minutes, Confirmation: 6EBGGM, ticket nr. 3908950074706 - TAMMI/J, agency record locator COUXGU
+2015-06-05 angelhack@athens
+2015-06-06 angelhack@athens
+2015-06-06 10:30 opening announcements, sponsor talks and team pitches
+2015-06-06 12:00 hackathon begins
+2015-06-06 13:00 lunch is served
+2015-06-06 14:00 sponsor breakout sessions
+2015-06-06 19:00 dinner is served
+2015-06-07 08:35-10:15 ath-zrh # Aegean Air 824 Duration: 2 hours, 40 minutes
+
+2015-06-07 18:00 makinglove@luetzelflueh begin
+#2015-06-12 techsummit recording
+2015-06-13 intensiv@thomas
+2015-06-13 sommerfete@mathias
+2015-06-14 13:00 makinglove@luetzelflueh end
+
+2015-06-15 11:00-23:00 liste@art # http://www.liste.ch/fair/vip
+
+2015-06-16 9:00-13:10 relux
+
+2015-06-18 10:30-16:00 reboot@ne
+
+2015-06-19 ateliernacht@kesselhaus # /j/tmp/2015-06-19_ateliernacht_kesselhaus.pdf
+2015-06-19 23:00 wave@kesselhaus
+
+#2015-06-19 hackday@saransk
+#2015-06-20 hackday@saransk
+#2015-06-21 hackday@saransk
+
+#2015-06-19 hackathon@london
+#2015-06-20 hackathon@london
+#2015-06-21 hackathon@london
+
+#2015-06-19 football@bardolino
+#2015-06-20 football@bardolino
+#2015-06-21 football@bardolino
+
+2015-06-22 18:00 isabelle + peter
+
+#2015-06-24 techsummit
+#2015-06-25 techsummit
+
+2015-06-24 16:00-22:15 bitcoins # LaunchLabs, Halle 8, Gundeldingerfeld, Dornacherstrasse 192, Basel http://www.meetup.com/webilea/events/222836959
+2015-06-24 19:15-22:15 bitcoins # LaunchLabs, Halle 8, Gundeldingerfeld, Dornacherstrasse 192, Basel http://www.meetup.com/webilea/events/222836959
+2015-06-24 20:30 santigglaus@bafudi
+2015-06-25 18:00 hackergarten@canoo
+2015-06-25 lerchenwave@gruett
+
+2015-06-27 brisen
+2015-06-27 17:00 klaus@bern
+2015-06-27 19:30 toc@basel
+
+2015-06-26 milano travel
+2015-06-27 giorgio@milano
+2015-06-28 milano travel
+
+2015-07-01 8:30 jirot@centramed # dr. jirot nuechtern krankenkassenkaertli
+2015-07-01 17:45 bafudi
+#2015-07-02 travel london
+
+2015-07-02 rosetanz@gruett
+2015-07-02 17:00 heiner geburi
+2015-07-02 19:00 heiner@lange_erlen
+
+2015-07-03 kreativ@rose begin
+2015-07-03 20:00 fimimpro # in der alten Rumfabrik, Güterstr. 145, Basel
+
+#2015-07-03 klettern@windegghuette # dav mit jogi, anmeldung ab 2015-05-01 bei cfuertenberger@gmx.ch, angefragt, abgelehnt
+#2015-07-04 klettern
+#2015-07-05 klettern
+
+#2015-07-03 visit nick
+#2015-07-03 aechack@london
+#2015-07-04 aechack@london
+#2015-07-05 aechack@london
+#2015-07-05 meet nick
+#2015-07-06 climb@nick
+#2015-07-07 nick end
+
+2015-07-04 19:00 beate@gruett mit glas und decke
+
+2015-07-07 8:30 jirot@centramed # dr. jirot krankenkassenkaertli
+2015-07-08 kreativ@rose end
+#2015-07-08 20:00 beate@gruett
+
+2015-07-09 lerchenwave@gruett
+
+2015-07-11 intensiv@pascal
+2015-07-11 9:00 hochtour@alphubel # dav mit klaus breinlinger, anmeldung ab sofort, angefragt, zugesagt, nachtigallenweg 23, stetten
+2015-07-12 alphubel
+
+2015-07-13 18:00 tessin begin
+
+2015-07-14 moni holiday begin
+2015-07-14 dani@pallanza
+
+2015-07-17 hochtour@montblanc # dav mit jogi, anmeldung ab 2015-04-01, zugesagt
+2015-07-18 mont blanc
+2015-07-19 mont blanc
+2015-07-19 nik@tessin
+2015-07-21 andrea@tessin
+
+2015-07-24 nik + andrea end
+2015-07-24 querung@pizstella # dav mit rupert, anmeldung ab 2015-04-01, angefragt, zugesagt
+2015-07-25 piz stella
+2015-07-26 piz stella
+2015-07-25 tessin end
+
+2015-07-30 jusoca begin
+2015-07-30 19:30 basti@kesselhaus # vorbesprechung leventina-val sambuco im kulturcafé kesselhaus in weil am rhein
+2015-08-04 18:00 piarene
+2015-08-05 telvorbereitung # piarenefrankerika
+2015-08-08 jusoca end
+2015-08-09 moni holiday end
+
+2015-08-06 trekking@leventina-valsambuco # dav mit bastian feifel, anmeldung ab 2015-03-01, zugesagt
+2015-08-07 leventina - val sambuco
+2015-08-08 leventina - val sambuco
+2015-08-09 leventina - val sambuco
+
+2015-08-12 17:15 natascha geburi # picnic am rhein am warteck
+
+2015-08-14 tel@glarisegg
+2015-08-15 tel@glarisegg
+2015-08-15 intensiv@jeremy
+2015-08-16 tel@glarisegg
+
+2015-08-19 17:00 franziska geburi # solothurnerstrasse 65
+
+2015-08-21 16:00 singen@schweibenalp # Heilkraft Singen und Gemeinschaft, Hagara Feinbier, http://come-together-songs.de/veranstaltungen/come-together-songs-seminare/21-23-08-2015-heilkraft-singen-und-gemeinschaft
+2015-08-22 singen@schweibenalp
+2015-08-22 geburi@amira
+2015-08-23 14:00 singen@schweibenalp end
+
+2015-08-25 18:00 hackergarten # Canoo Engineering AG Kirschgartenstrasse 5
+
+2015-08-28 vollmondfeuer
+2015-08-29 lina begin
+2015-08-29 19:00 beat und kaethi # Geburtstags-Tanz-Party Jugendzentrum Badhuesli St. Johann, Elsässerstrasse 2, Basel, neben dem St. Johanns-Tor / St. Johanns-Park, /j/tmp/2015-08-29_beat_tanzparty.pdf
+
+2015-08-30 10:00 paare@jeremy # making love -- coming: peter + isabelle, hugo + seraina; not coming: beat + madelaine? sonja?
+2015-08-31 8:30 lina
+2015-08-31 lina end
+
+2015-09-04 11:00 rose 60 geburi
+2015-09-04 nik wandern
+2015-09-05 nik wandern
+2015-09-05 8:00 marie breakfast
+2015-09-06 nik wandern
+
+2015-09-08 11:00-12:00 web server # gotomeeting Mounting a WEB server in a few minute by Philippe Leefsma & Cyrille Fauvel, Access Code: 747-475-709, https://global.gotomeeting.com/join/747475709
+
+2015-09-09 17:30-18:30 alex cloud # accelerator gotomeeting Alexander Bicalho Testing in the cloud
+
+2015-09-09 18:00 bsl stadtfuehrung # /j/tmp/2015-09-09_iris_stadtwandern_basel.pdf Stadtspaziergang von Klein- nach Großbasel, Treffpunkt Wettsteinbrunnen am Wettsteinplatz
+2015-09-09 19:30 Buchvernissage # und Apéro, Buchhandlung Bider & Tanner, Aeschenvorstadt 2, 4010 Basel
+2015-09-09 19:00 nik@hirscheneck
+
+2015-09-10 17:30-18:30 UX design # gotomeeting UX Design - Working with Developers by Jay Behr, Access Code: 431-980-269, https://global.gotomeeting.com/join/431980269
+
+2015-09-11 11:00-12:00 3D web # gotomeeting 3D web – showing the various 3D web technologies available by Cyrille Fauvel, Access Code: 747-139-253, https://global.gotomeeting.com/join/747139253
+
+2015-09-11 nik wandern
+
+2015-09-12 nik wandern
+
+2015-09-13 accelerator@prague begin
+2015-09-13 12:35-13:55 zrh-prg # lx1486, confirmation GEHIDB, trip record locator SOXPYN
+2015-09-13 19:00 dinner # Brasileiro Slovanský dům, Na Příkopě 22, 110 00 Praha 1
+2015-09-14 prague
+2015-09-15 prague
+2015-09-16 prague
+2015-09-17 prague
+2015-09-17 rosetanz@gruett
+2015-09-18 accelerator@prague end
+2015-09-18 13:00 florenc # metro B florenc-zlicin + bus 100 zlicin-airport
+2015-09-18 14:45-16:05 prg-zrh # lx1487
+
+2015-09-19 intensiv@beat
+
+#2015-09-19 hochtour@gspaltenhorn # dav mit jogi, anmeldung ab 2015-05-01, angemeldet, zugesagt, abgesagt
+#2015-09-20 gspaltenhorn
+
+2015-09-24 18:00 hackergarten # Canoo Engineering AG Kirschgartenstrasse 5
+2015-09-25 18:30 tillsammans!
+#2015-09-26 9:00 hochtour@pizmedel # dav mit angela rosin, anmeldung ab 2015-05-01, angemeldet, zugesagt, abgesagt
+#2015-09-27 piz medel
+2015-09-26 19:30 toc@basel
+2015-09-27 18:30 vollmondfeuer
+
+2015-09-30 20:00 singmantra@nellie
+
+2015-10-01 16:00 xopher@skype
+
+2015-10-02 hackzurich # http://www.hackzurich.com
+2015-10-02 20:00 fimimpro # alten Rumfabrik, Güterstr. 145
+2015-10-03 moni holiday begin
+2015-10-03 geburi nina holz@robert
+2015-10-03 hackzurich
+2015-10-04 hackzurich
+2015-10-04 13:00 sweatlodge@wiechs
+2015-10-04 17:30 ben geburi
+
+2015-10-05 9:40-12:20 zrh-agp # LX 2110, SWISS ZURICH MALAGA BUCHUNGSREF. LX/C4D4D6 DAUER: 02:40
+2015-10-05 14:00 car@malaga
+2015-10-05 18:30 pat@nerja
+
+2015-10-12 12:00 rosanne@almunecar
+
+2015-10-13 au@darmstadt
+2015-10-14 au@darmstadt
+2015-10-15 rtceu material
+2015-10-15 rosetanz@gruett
+
+2015-10-16 16:00 car@nerja
+
+2015-10-17 20:10-22:45 agp-zrh # LX 2117 MALAGA ZURICH DAUER: 02:35
+2015-10-18 moni holiday end
+2015-10-18 16:00 ben@moni
+2015-10-18 19:00 joel@moni
+
+2015-10-19 moni geburi
+2015-10-19 17:00 cedric@moni
+
+2015-10-21 8:40 wolfgang@rathaus
+2015-10-21 9:00-10:00 fr. biengemer bauamt@rathaus
+#2015-10-21 11:30-13 bauamt@loe
+
+2015-10-21 19:30 moni@bafudi # geburifete
+2015-10-22 michelle + thomas@moni
+2015-10-22 20:00 lerchenwave
+
+2015-10-24 intensiv@moni
+2015-10-24 16:00 party@basti # Haltingerstr 7, 79576 Weil
+2015-10-24 19:30 toc@basel
+
+2015-10-26 15:00 domschat
+2015-10-26 16:30 vollmondfeuer #  mond auf 17:04, sonne unter 17:23: http://www.mondkalender-online.de/sonnenaufgang.asp?ort=Basel&Lon=7.6&Lat=47.56&zeitzone=1&monat=10&jahr=2015
+
+2015-10-27 16:00 moni
+
+2015-10-28 11:20-12:55 bsl-bud # easyJet 1233 1:35, Basel Euroairport, Basel-Mülhausen Ferihegy, Budapest, Confirmation EPKZJCJ, Trip Record Locator OODCEI
+2015-10-28 hotel # /a/doc/expense/receipt/2015/2015-10-28_rtc_hotel.pdf
+2015-10-28 12:00 rtceu@budapest
+2015-10-28 19:00 rtc speaker event
+2015-10-29 rtceu@budapest # RTC Europe 2015, Corinthia Hotel, Budapest
+2015-10-29 11:30-12:45 macros # Session 1.2 LAB: Getting Started with Revit Macros (Class seating) -- Michael Kilkelly
+2015-10-29 13:45-15:00 cloud # Session 1.3 Cloud-Based Universal Component and Asset Usage Analysis, Visualisation and Reporting
+2015-10-30 rtceu@budapest
+2015-10-30 andrea herbstfest # Hadid Pavillon, Mattrain 1, 79576 Weil am Rhein
+2015-10-31 rtceu@budapest
+2015-10-31 14:30-15:45 revit api # Session 3.4 All you Ever Wanted to ask about the Revit API, The Building Coder, and all Other Non-UI Revit Topics
+2015-11-02 12:35-14:20 bud-bsl # easyJet 1234 1:45, Ferihegy, Budapest, Basel Euroairport, Basel-Mülhausen, Confirmation EPKZJCJ
+2015-11-02 18:30 klimafreunde@nellie # https://klimafreundeloerrach.wordpress.com
+
+#2015-11-04 17:00 wolfgang
+#2015-11-04 19:00 marion
+
+2015-11-06 aec hackathon@helsinki begin
+2015-11-06 11:00 wolfgang
+2015-11-06 13:00 domschat
+2015-11-06 19:30 klimafreunde@gemeindehaus # https://klimafreundeloerrach.wordpress.com, www.klimafreunde-loerrach.de, Lörrach, Evang. Gemeindehaus der Friedensgemeinde, Bächlinweg 1, Referent Frank Leichsenring, /j/tmp/karlgeck/klimapilger/Klimapilgern_2015_Faltblatt_Pilgerweg_Markgraeflerland.pdf
+2015-11-06 20:00 fimimpro # in der alten Rumfabrik, Güterstr. 145, Basel
+2015-11-07 telvorbereitung@erikafrank # piarenefrankerika
+2015-11-08 telvorbereitung@erikafrank
+2015-11-08 15:00 hhh@delemont # November Run, Delemont Station, Near Main entrance, A to B run from Delémont station, return via public transport, no bag car, hare likkmmlikkmm@harrier.ch, http://www.meetup.com/basel-hash/events/226254980
+2015-11-08 aec hackathon@helsinki end
+2015-11-09 10:30 bafudiflyer@moni
+2015-11-09 15:00 doko@rose?
+
+2015-11-12 06:00 martina@moni # pick up car and drive to bern
+2015-11-12 07:30 ben@bern # pick up ben and drive to neuchatel
+2015-11-12 08:30 ben@ne # pick up ben and drive to neuchatel
+2015-11-12 08:45-13:00 kids@work
+2015-11-12 lerchenwave
+2015-11-13 12:00 tobias
+
+2015-11-14 16:00 klima@kaltenbach # Klimafreunde Pavilion der Kaltenbachstiftung
+2015-11-15 nik@niesen
+2015-11-16 nik?
+
+2015-11-18 moni@bafudi
+2015-11-19 rosetanz@gruett
+
+2015-11-21 party
+2015-11-22 sweat lodge
+
+2015-11-23 15:30 vollmondfeuer # mond auf 15:35, sonne unter 16:46: http://www.mondkalender-online.de/sonnenaufgang.asp?ort=Basel&Lon=7.6&Lat=47.56&zeitzone=1&monat=11&jahr=2015
+
+2015-11-24 15:30 revi api call
+2015-11-24 16:30-18:00 AU/DevDays Roles and Responsibilities
+
+2015-11-26 07:00-07:30 bsl-lgw # easyJet 8430 Outbound flight:  Basel, Switzerland (BSL)  -  London, England , United Kingdom (LGW)   Thu, Nov 26 Basel Mulhouse Arpt (BSL) Depart: Thursday,  07:00 am Gatwick Arpt (LGW) Arrive: Thursday, 07:30 am Duration: 1h 30m Agency Record Locator:	ZWLAXA Confirmation: EPTRMFB
+2015-11-26 11:20-14:05 lgw-las # VS043 London (LGW) to Las Vegas (LAS) Booking reference D6QVEY
+2015-11-26 15:00 car@las # Avis Car Rental at: Las Vegas US (LAS) Confirmation: 21201583CH4
+2015-11-28 intensiv@karin
+2015-11-28 19:30 toc@basel
+2015-11-29 15:00 car return # 3325 SOUTH LAS VEGAS BLVD LAS VEGAS, NV, 89109 US
+2015-11-30 08:00-13:00 devday@Palazzo J, Level 5
+2015-11-30 14:00-17:00 aec@Marcello 4505-4506, Level 4
+2015-11-30 18:00-20:30 party@El Segundo Sol
+2015-12-01 12:00-12:45 cloud services aec
+2015-12-01 12:45-17:30 devhack # Casanova 602-604, Level 1
+2015-12-01 15:00-16:00 SD10752 # Revit External Services—Make Built-in Features Behave Your Way, Murano 3306, Level 3, Arnost Lobel
+2015-12-01 17:00-18:00 SD10181 # Revit API Expert Roundtable: Open House on the Factory Floor, Lido 3103, Level 3
+2015-12-02 au
+2015-12-02 8:00-9:30 SD10776-L # The Ultimate Hands-on Lab to Get Started with the View and Data API, San Polo 3503, Level 3
+2015-12-02 10:45-11:15 sasha # Revit 2017 API Catch-Up in the Ad Hoc Area
+2015-12-02 12:00-13:00 cstb emmanuel # CSTB - Strategic Partnership with Autodesk with Emmanuel Di Giacomo
+2015-12-02 15:00-16:00 SD9731 # Autodesk's Cloud and Mobile API/Technologies—Meet the Experts, Murano 3206, Level 3
+2015-12-02 17:00 paavo thord bosse # public house right beside AU
+2015-12-02 19:00-21:00 michael kilkelly
+2015-12-03 au
+2015-12-03 08:00-19:00 adn summit # Marco Polo 703, Level 1
+2015-12-03 08:00-09:30 GEN9663 # From AutoCAD I/O to View and Data, Marcello 4406, Level 4, Fernando Malard
+2015-12-03 10:00-11:30 SD11048 # Connect Desktop and Cloud: Analyze, Visualize, and Report Universal Component Usage, Delfino 4005, Level 4
+#2015-12-03 13:30-15:00 cloud services aec booth duty
+#2015-12-03 21:00-23:00 case@rockhouse
+2015-12-04 06:00-16:00 tim@fire valley
+2015-12-04 16:35-10:35+1 las-lgw # VS044 Las Vegas (LAS) to London (LGW)
+2015-12-07 08:10-10:45 lgw-bsl # easyJet #8431 Return flight:  London, England , United Kingdom (LGW)  -  Basel, Switzerland (BSL)   Mon, Dec 7 Gatwick Arpt (LGW) Depart: Monday,  08:10 am Basel Mulhouse Arpt (BSL) Arrive: Monday, 10:45 am Duration: 1h 35m
+
+2015-12-09 07:30 kaminfeger # feuerstaettenschau
+2015-12-09 08:30 rose
+2015-12-09 19:00 tim@basel
+
+2015-12-10 18:00 hackergarten@canoo
+2015-12-10 20:20 lerchenwave@gruett
+
+2015-12-11 18:00-23:00 xmas@ne
+2015-12-11 19:30 basti@altstazione
+
+2015-12-12 10:00 karin@zrh
+2015-12-12 14:00 h3@glattbrugg # zrh The Great Northern Swiss Hashmas Casa Alegria Schaffhauserstrasse 116, 8152 Glattbrugg, Zürich http://www.meetup.com/The-Zurich-Hash-House-Harriers/events/225155265/
+2015-12-12 18:00 christine + daniel
+2015-12-13 14:00 h3@liestal # Hashmas Hangover run Basel Hash House Harriers Bahnhof Liestal Bahnhofplatz Liestal http://www.meetup.com/Basel-Hash/events/226867168
+
+2015-12-14 15:30-16:30 hsbTimber # https://global.gotomeeting.com/join/905646813
+
+2015-12-17 18:30 isabelle
+2015-12-19 intensiv@eva
+
+2015-12-20 16:00 cafe@huenerberg
+2015-12-21 10:15 dentist scherble
+2015-12-21 18:00 maerchen wintersonnenwende # tatjana und juergen
+2015-12-22 xopher + chris
+2015-12-23 20:00 bafudi
+2015-12-24 17:00 martina
+2015-12-25 xmas@katja
+2015-12-26 xmas@jeremy
+2015-12-26 19:30 toc@basel
+
+2015-12-27 12:00 michaelle + thomas
+2015-12-27 18:00 wildhaus begin
+
+2015-12-30 stuttgrter 8916
+
+2016-01-03 wildhaus end
+
+2016-01-04 luetzelfluehplanung@moni
+
+2016-01-05 18:05 beat fehr
+
+2016-01-06 18:00 drupal # Wondrous, Margarethenstrasse 87, Basel -- http://www.meetup.com/Basel-Drupal-Meetup/events/227495268
+2016-01-07 19:00 grundeinkommen@heiner
+2016-01-07 20:00 lerchenwave
+
+2016-01-09 skitour@bunderspitz # dav skitour mit jogi, angemeldet, zugesagt
+
+2016-01-10 luetzelfluehplanung@moni
+2016-01-10 14:00 geburi@martina
+
+2016-01-13 10:13-14:05 bsl-koeln
+2016-01-13 lina begin
+2016-01-16 gisela hausuebergabe
+
+2016-01-17 lina end
+2016-01-17 12:31-17:04 koeln-munich
+2016-01-17 19:00 dinner@angelo
+2016-01-18 08:30-17:00 devday@munich
+2016-01-19 08:30-18:00 accelerator@munich begin
+2016-01-20 munich
+2016-01-21 munich
+2016-01-21 19:30 wave # jeden Donnerstag, Ganghoferstr. 68
+2016-01-22 17:00 accelerator@munich end
+
+2016-01-24 intensiv@jeremy
+
+2016-01-25 10:00 gate closes
+2016-01-25 10:30-12:50 bsl-mad # Easyjet, Basel Euroairport, Basel-Mülhausen, Adolfo Suárez Madrid - Barajas, Madrid, 2h 20m, EQ3G4WJ
+2016-01-25 travel madrid
+2016-01-26 webserviceapi@madrid
+2016-01-27 webserviceapi@madrid
+2016-01-28 travel madrid
+2016-01-29 13:10-15:25 mad-bsl # Easyjet, Adolfo Suárez Madrid - Barajas, Madrid, Basel Euroairport, Basel-Mülhausen, 2h 15m 
+2016-01-29 16:00 tel@luetzelflueh
+2016-01-30 tel@luetzelflueh
+2016-01-31 tel@luetzelflueh
+
+2016-02-01 boden@moni
+
+2016-02-03 17:00 bafudikern # kulturbeiz 113 im warteckturm
+
+2016-02-05 13:17-14:24 pratteln-bern
+2016-02-05 15:00-17:00 stallman@unibern # Richard M Stallman: For A Free Digital Society http://www.digitale-nachhaltigkeit.unibe.ch/veranstaltungen/richard_m_stallman/index_ger.html http://www.digitale-nachhaltigkeit.unibe.ch/unibe/portal/fak_wiso/a_bwl/inst_wi/abt_digital/content/e303953/e359189/e370648/RMS_ForAFreeDigitalSociety_ger.pdf, hashtag #RMS, research center Twitter account @researchdigisus
+2016-02-05 20:00 fimimpro # in der alten Rumfabrik, Güterstr. 145, Basel
+
+2016-02-06 skitour@furka # dav mit christian tritschler, anmeldung bis 2015-12-23, angemeldet, zugesagt, abgesagt wegen sturm
+2016-02-07 skitour@furka
+
+#2016-02-06 skitour@davos # dav mit wolfgang wagner, anmeldung ab 2016-01-01, angemeldet, zugesagt, abgesagt
+#2016-02-07 skitour@davos
+
+2016-02-08 chinese new year
+2016-02-08 17:00-18:00 rvt devdays online # Revit - Features and APIs
+2016-02-09 17:00-18:00 bim360 devdays online
+2016-02-09 17:00 geburi@sabine # adelsberg, 59 geburi; ab 19:00 ist die Durchfahrt in Zell wegen dem Altwiiberrenne gesperrt. Kommt also vorher oder über das kleine Wiesental, in Tegernau rechts über Gresgen.
+
+2016-02-10 16:16 loe
+2016-02-10 16:30 Basel Bad Bf
+2016-02-10 17:15 monika@badkrozingen
+
+2016-02-11 10:00 wolfgang + statik
+
+2016-02-11 20:20 lerchenwave@gruett
+2016-02-11 nice
+
+#2016-02-13 skitour mit joerg # dav mit joerg gutowski, anmeldung ab 2016-01-11, nicht angemeldet
+#2016-02-14 skitour mit joerg
+
+2016-02-13 moni holiday begin
+2016-02-13 fasnacht@wildhaus begin # m + d + j + klara + sophie + franziska + 1-2 toechter
+2016-02-19 fasnacht@wildhaus end
+2016-02-20 moni holiday end
+
+2016-02-19 techsummit call for proposal deadline
+
+#2016-02-19 skitour@gotthard # dav mit bastian feifel, anmeldung ab 2015-12-01, angemeldet, warteliste
+#2016-02-20 skitour@gotthard
+#2016-02-21 skitour@gotthard
+
+2016-02-21 skitour albristhorn # with sam shaheen
+
+2016-02-22 19:00 ofenrohr@karen
+
+2016-02-24 20:00 clara@bafudi
+2016-02-25 18:00 hackergarten@canoo # http://www.meetup.com/Hackergarten-Basel/events/228425406
+
+#2016-02-26 skitourenwochenende # dav mit barbara ploetz, anmeldung ab 2015-12-01
+#2016-02-27 skitourenwochenende
+#2016-02-28 skitourenwochenende
+
+2016-02-26 ofenrohr@karen
+2016-02-27 ofenrohr@karen
+2016-02-27 13:00 sweatlodge@tatjana
+2016-02-28 10:00 brunch@sabine # adelsberg
+
+2016-02-28 09:30 intensiv@beat
+
+2016-02-29 08:17-09:24 pratteln-bern # via basel sbb
+2016-02-29 09:24 sam's bottle
+2016-02-29 09:45-10:00 sverige@bern # bokningskod JETA-9034, 165 CHF kontant eller med Postfinance
+2016-02-29 10:30 monikoch@coop_ryfflihof # restaurant
+2016-02-29 11:56 sam's bottle # Gleis 6 IC 968 Richtung Basel SBB
+2016-02-29 12:04-13:17 bern-pratteln # via liestal
+
+2016-03-03 16:00 moni
+
+2016-03-04 20:00 fimimpro # in der alten Rumfabrik, Güterstr. 145, Basel
+
+2016-03-04 06:04 skitour@sedrun # dav mit bastian feifel, anmeldung ab 2015-12-01, angemeldet, zugesagt,
+2016-03-05 skitour@sedrun
+2016-03-06 skitour@sedrun
+
+#2016-03-06 skitour@hagelstock # dav mit tim birken, anmeldung ab 2016-01-01
+
+2016-03-06 wanderung
+2016-03-06 thomas wili znacht
+
+2016-03-07 niederlassungsbewilligung # pass, id, migrationsamt, parkstr 2, 4402 frenkendorf
+
+2016-03-08 travel london
+2016-03-08 07:00-07:40 bsl-lhr # Terminal 5, Duration 1:40, Confirmation 2H3338, Trip Record Locator PPYQJS, eTicket 1259704867068 BRITISH AIRWAYS
+2016-03-09 emea@london
+2016-03-10 emea@london
+2016-03-10 travel london
+2016-03-10 14:00-16:35 lhr-bsl T5 # Terminal 5 Duration 1:35
+
+2016-03-10 20:20 lerchenwave@gruett
+
+2016-03-11 skitour@malbun # dav mit rupi, skitouren vom berghaus malbun am 11-13.3, anmeldung ab 2016-01-18, angemeldet, zugesagt
+2016-03-12 skitour@malbun
+2016-03-13 skitour@malbun
+
+2016-03-14 philipp_mueller@eth?
+2016-03-15 philipp_mueller@eth?
+
+2016-03-14 dan geburi
+2016-03-14 moni abschlussarbeit
+2016-03-14 21:15 klaus
+2016-03-15 10:00-12:00 block@eth # ETH Block Research Group, Stefano-Franscini-Platz 5: Philippe Block und sein Research Team, das „who is who“ der Grasshopper Szene, beschäftigen sich mit Formoptimierung, ich habe Philippe angesprochen auch in Richtung BIM zu gehen und er ist interessiert tiefer in das Thema einzutauchen.
+2016-03-15 klaus
+2016-03-16 klaus
+2016-03-16 moni abschlussarbeit
+
+2016-03-17 10:00 men begin
+2016-03-18 12:00 men end
+
+2016-03-18 18:00 call markus
+
+2016-03-19 skitour@wildstrubel # dav with markus mueller, skitouren im wildstrubelgebiet, angemeldet, zugesagt
+2016-03-20 skitour@wildstrubel
+2016-03-21 skitour@wildstrubel
+
+2016-03-20 intensiv@michelle
+
+2016-03-22 11:00 sverige konsulat # http://www.skbasel.ch
+
+#2016-03-22 14:45-15:45 lars # Sevogelstrasse 42 www.shiatsu-hand-basel.ch www.shiatsu-institut.ch
+
+2016-03-23 16:00 j vipassana begin # application reference T15L1N http://www.dhamma.org http://www.sumeru.dhamma.org Dhamma Sumeru, Vipassana Zentrum, No 140, CH-2610 Mont-Soleil, Tel. +41 (0)32 941 16 70, info@sumeru.dhamma.org
+2016-03-23 19:00 basel.js@magnolia # Intro to React, Redux & Flux, Magnolia HQ - New location, Oslo-Strasse 2, Basel
+2016-03-24 moni vipassana begin # beatenberg
+2016-03-24 marie lina co. begin
+2016-03-28 lina end
+2016-03-30 marie end
+2016-03-31 18:00 hackergarten@canoo # http://www.meetup.com/Hackergarten-Basel/events/229280644/
+2016-04-02 moni vipassana end
+2016-04-03 09:30 j vipassana end
+2016-04-03 dan's day
+
+2016-04-07 10:30 wolfgang
+2016-04-07 17:00 skitour@ostwallis
+2016-04-07 18:00 andreas@schwaibenalp begin
+2016-04-08 skitour@ostwallis # dav mit rupi, anmeldung ab 2016-02-15, angemeldet, zugesagt
+2016-04-08 19:00 wave@eulerhof # Eulerstrasse 55, Basel
+2016-04-09 skitour@ostwallis
+2016-04-10 skitour@ostwallis
+2016-04-10 13:00 andreas@schwaibenalp end
+2016-04-10 14:00 h3 # Run a Tri-Country Hash Voltaplatz Basel http://www.meetup.com/Basel-Hash/events/229991155
+2016-04-10 14:00 rose
+
+2016-04-11 11:00 bim360 a360 api
+2016-04-11 17:15 nik@HouseOfSounds # Nauenstrasse 63, bei der Peter-Merian-Strasse, in der Filiale in der Ecke des roten Postgebäudes, nicht ggü
+
+2016-04-11 20:00 klaus
+2016-04-12 08:30 dentist scherble
+2016-04-12 09:30 otto
+2016-04-12 13:30 thoeni
+2016-04-12 18:00 klaus
+2016-04-13 19:00 basel.js@magnolia # Pure Functional Programming in ES6 (Workshop), Magnolia HQ in New location, Oslo-Strasse 2, Basel, http://www.meetup.com/basel-js/events/229316305
+2016-04-13 20:30 djane_momo@bafudi
+2016-04-14 20:20 lerchenwave@gruett
+2016-04-15 18:00 axel
+
+2016-04-17 intensiv@moni
+
+2016-04-20 11:00-12:00 lars # Sevogelstrasse 42 www.shiatsu-hand-basel.ch www.shiatsu-institut.ch
+
+2016-04-20 klettertheorie # dav fuer kletteraufbaukurs
+2016-04-21 vollmondfeuer
+
+2016-04-23 neroman@wiesbaden # 500 m swim 21 km bike 5.5 km run
+2016-04-23 15:00 nik
+2016-04-23 19:00 dinner@beate
+
+2016-04-24 klaus
+
+2016-04-26 09:00 belz # dentist scherble schiene abholen
+2016-04-26 17:30 klettern@tuefleten # muttenz 47.5303,7.628396
+
+2016-04-27 18:00 hackergarten@canoo # http://www.meetup.com/Hackergarten-Basel/events/229280644/
+2016-04-27 20:00 laemmer@kleine_buehne
+
+2016-04-28 19:00 maennerbande@bern # google maps 46.984335,7.446175
+
+2016-04-29 10:30 ritter # zimmerei
+2016-04-29 18:00 kulturnacht@kesselhaus # http://www.rosethurow.com
+2016-04-29 19:00 joelle
+2016-04-29 19:30-23:30 welttanztag@hotel_bauer # Müllheim im Hotel Bauer gegenüber vom Bahnhof
+
+2016-04-29 kletteraufbaukurs # dav mit jogi, anmeldung ab 2016-02-01
+2016-04-30 kletteraufbaukurs
+2016-05-01 kletteraufbaukurs
+
+2016-04-30 papiersammlung # http://www.loerrach-landkreis.info/Muellkalender/pages/ShowKalender.asp?s_Monat=4&s_Jahr=10&s_Region=2
+
+2016-04-30 skitour@moench # dav mit gerson pfaff, anmeldung ab 2016-02-01, angemeldet, warteliste
+2016-04-30 15:00 walpurgis@girspel # oberhalb magden, weg ab restaurant dornhof ausgeschildert
+2016-04-30 17:00 braeteln
+2016-04-30 21:15 big fire
+2016-05-01 skitour@moench
+2016-05-01 09:00-14:00 moni@anne-marie
+2016-05-01 11:00 lomi@juergen # hardstrasse 24 4052 basel http://atlifestyle.ch
+
+2016-05-05 rene_pia@loe
+2016-05-05 ne_holiday
+2016-05-06 ne_holiday
+
+2016-05-08 h3@muttenz # Tramstation Rothausstrasse, Rothausstrasse 4132, Muttenz, http://www.meetup.com/Basel-Hash/events/230511313
+
+2016-05-04 gelber sack # http://www.loerrach-landkreis.info/Muellkalender/pages/ShowKalender.asp?s_Monat=5&s_Jahr=10&s_Region=2
+
+2016-05-08 klaus + nicole
+2016-05-09 baustelle vorbereiten begin
+
+2016-05-11 09:00 andreas@bau
+
+2016-05-12 18:00 almut@rheinfelden # feuer im stadtpark ost rheinfelden-ch or pizzeria am markt, rheinfelden-d
+2016-05-13 baustelle vorbereiten end
+
+2016-05-13 16:30 muelital travel
+2016-05-14 intensiv@muelital
+2016-05-14 cykeltur stockholm?
+2016-05-15 intensiv@muelital
+2016-05-16 ne_holiday
+2016-05-16 intensiv@muelital end
+
+2016-05-16 accelerator@barca begin
+2016-05-16 13:10-14:45 bsl-bcn # vueling VY6241, código de reserva VYJDHJ, asiento disponible entre 7 días y 4 horas antes de la salida del vuelo
+2016-05-17 barca
+2016-05-18 barca
+2016-05-19 barca
+2016-05-20 accelerator@barca end
+2016-05-20 17:25-19:20 bcn-bsl # Barcelona Terminal 2C easyjet flight EZS1072, booking EQJ5B1X, check in closes 40 mins before departure
+
+2016-05-21 14:00 geburi barbara@sion # Chalet des Eclaireurs, ehemaliges Pfadihaus zwischen Ayent und Anzère auf 1200m
+2016-05-22 14:00 barbara end
+
+2016-05-23 no zimmermann@loe # due to rain
+2016-05-24 zimmermann@loe
+2016-05-25 zimmermann@loe
+
+2016-05-24 techsummit@montreal
+2016-05-25 techsummit@montreal
+2016-05-26 techsummit@montreal
+
+2016-05-29 monikids@loe
+2016-05-30 falk decke zange
+
+2016-05-31 travel athen
+2016-06-01 lmvmeetup@athens
+2016-06-02 lmvworkshop@athens
+2016-06-03 travel athen
+2016-06-03 17:00 moni@rats
+
+2016-06-05 dav triathlon
+2016-06-05 15:00 h3 # http://www.meetup.com/Basel-Hash/events/230627585
+
+2016-06-06 falk
+2016-06-07 falk
+2016-06-08 falk
+
+2016-06-09 13:00-14:40 zrh-yvr # Swiss 8010, confirmation 4XQQYJ
+
+2016-06-10 11:00 football@zrh begin # Unterriet
+2016-06-11 09:00 hol+bring
+2016-06-11 12:00 moni@muelital # female sweat lodge
+2016-06-11 football@zrh
+2016-06-12 11:00 football@zrh end
+
+2016-06-09 boulder@fontainebleu begin # dav mit harald erbacher, anmeldung ab 2016-04-02
+2016-06-11 mathias@JeanLeMoine
+2016-06-12 boulder@fontainebleu end
+
+2016-06-13 08:55-11:25 yvr-sfo # Vancouver BC to San Francisco CA United 8255 Operated by: Air Canada, duration 2:30, confirmation PYVYHM
+2016-06-13 18:00 meetup@sf
+2016-06-14 vip meeting
+2016-06-15 07:30 devcon@sf # Forge DevCon, Fort Mason, San Francisco, http://forge.autodesk.com/conference
+2016-06-15 16:00-21:30 3dwebfest # http://www.3dwebfest.com
+2016-06-16 devcon@sf
+2016-06-16 meetups
+
+#2016-06-17 alpinklettern # dav mit jochen kuri, anmeldung ab 2016-03-01, angemeldet, abgelehnt
+#2016-06-18 alpinklettern
+#2016-06-19 alpinklettern
+
+#2016-06-16 spezialkurs alpinklettern anreise
+#2016-06-17 spezialkurs alpinklettern # dav mit ralf hermann und stefan schmoekel, anmeldung ab sofort, angemeldet, zugesagt, abgesagt
+#2016-06-18 spezialkurs
+#2016-06-19 spezialkurs
+
+2016-06-18 intensiv@thomas
+
+2016-06-20 forge accelerator begin
+2016-06-21 forge
+2016-06-22 forge
+2016-06-23 forge
+2016-06-24 moni diplomfeier
+2016-06-24 forge end
+2016-06-25 09:20-11:42 sfo-yvr # San Francisco Intl Arpt (SFO) Terminal 3 to Vancouver, BC (YVR) United 784, duration 2:22, confirmation PYVYHM
+2016-06-28 20:25-15:40+1 yvr-zrh # Swiss 8011, confirmation 4XQQYJ
+2016-06-29 15:40 yvr-zrh arrival
+
+2016-07-01 klettern@douglashuette # dav mit harald erbacher, anmeldung ab 2016-05-01, angemeldet, zugesagt
+2016-07-02 klettern@douglashuette
+2016-07-03 klettern@douglashuette
+
+#2016-07-01 aufbaukurs_bergsteigen # dav mit stefan schmoekel und angela rosin, anmeldung ab 2016-04-01
+#2016-07-02 aufbaukurs_bergsteigen
+#2016-07-03 aufbaukurs_bergsteigen
+#2016-07-04 aufbaukurs_bergsteigen
+
+2016-07-08 klettern@bergsee # dav mit jogi, anmeldung ab 2016-03-01, angemeldet, zugesagt
+2016-07-09 klettern@bergsee
+2016-07-10 klettern@bergsee
+
+2016-07-09 intensiv@pascal
+
+#2016-07-16 galenstock se-sporn # dav mit stefan schmoekel, anmeldung ab 2016-05-02, nicht angemeldet
+#2016-07-17 galenstock
+
+2016-07-21 cornelius arrival
+2016-07-23 moni holiday begin
+2016-07-23 jusoca begin
+2016-07-30 kids@katja begin # todtnauberg
+2016-08-01 ne_holiday
+2016-08-06 kids@katja end
+2016-08-02 jusoca end
+2016-08-02 ticino begin
+2016-08-13 ticino end
+2016-08-14 moni holiday end
+
+2016-08-14 klettern@wetterstein begin # dav mit angela, kletterwoche im wetterstein, angemeldet, zugesagt
+2016-08-21 klettern@wetterstein end
+
+2016-08-19 08:00 travel to cologne # include loudspeakers, prepare playlist
+2016-08-19 14:00 lina preparation
+2016-08-20 14:00 lina + ben # Schloss Auel, Haus Auel 1, 53797 Lohmar, Germany
+
+2016-08-25 cornelius departure
+
+2016-09-09 aag16@eth begin # http://www.architecturalgeometry.org/aag16
+2016-09-13 aag16@eth begin # hhttp://www.dfab.ch
+
+2016-09-19 ne_holiday
+
+2016-09-27 ca. lmvmeetup@dubai
+2016-09-28 ca. lmvworkshop@dubai
+
+2016-09-30 rtc material
+
+2016-10-08 moni holiday begin
+2016-10-12 au@darmstadt
+2016-10-13 au@darmstadt
+2016-10-16 moni holiday end
+
+2016-10-13 rtc presentation
+
+2016-10-20 rtc@porto begin # Alfandega Centro de Congresos, Porto, Portugal
+2016-10-21 rtc@porto
+2016-10-22 rtc end
+
+2016-10-24 accelerator@berlin begin # Autodesk, Leipziger Platz 11, 6th floor, view over Potsdamer Platz, incl. Conference room, Training room and one more smaller office room
+2016-10-25 berlin
+2016-10-26 berlin
+2016-10-27 berlin
+2016-10-28 berlin end
+
+2016-11-04 forge@tu darmstadt?
+2016-11-07 forge@tu darmstadt?
+
+2016-11-11 las travel
+2016-11-15 au@las_vegas
+2016-11-16 au@las_vegas
+2016-11-17 au@las_vegas
+2016-11-18 las travel
