@@ -1193,7 +1193,7 @@ odd tuesdays in year 8:00 triage
 2007-03-07 prepare .net
 2007-03-08 ne + mail to frey
 2007-03-08 prepare arx
-2007-03-08 20:00 dav vortrag ljarczyk@aol.com
+2007-03-08 20:00 dav vortrag 
 2007-03-09 9:00 vb3 wiese
 2007-03-09 travel to munich
 2007-03-10 21:00 dance up kesselh
@@ -1411,7 +1411,7 @@ odd tuesdays in year 8:00 triage
 
 2007-09-21 rabia
 
-2007-09-22 maennerfeuer ralph.struve@web.de
+2007-09-22 maennerfeuer ralph struve
 
 2007-09-26 11:45 dentist scherble
 
@@ -1701,7 +1701,7 @@ odd tuesdays in year 8:00 triage
 2008-05-31 18:00 jazz auf der burg
 
 2008-06-03 12:00 football
-2008-06-03 18:15 energiesparcheck # 07621-550210 yvonne.meyer-herrmann@t-online.de
+2008-06-03 18:15 energiesparcheck # yvonne meyer-herrmann
 
 2008-06-04 zwoelftklassspiel
 2008-06-05 18:00 stadtlauf
@@ -1781,7 +1781,7 @@ odd tuesdays in year 8:00 triage
 
 2008-08-08 kt wandern end
 2008-08-08 sweat lodge
-2008-08-08 19:00 vernissage + performance # Karola Stettler, Hotel Radisson SAS Steinentorstr. 25 in Basel Tramhaltestelle Heuwaage, bitte anmelden karola_arte@yahoo.de oder tel. 076/5890059
+2008-08-08 19:00 vernissage + performance # Karola Stettler, Hotel Radisson SAS Steinentorstr. 25 in Basel Tramhaltestelle Heuwaage, bitte anmelden karola arte
 2008-08-09 8:30 epona flueh klettern
 
 2008-08-14 17:00 basel
@@ -2243,7 +2243,7 @@ odd tuesdays in year 8:00 triage
 #2009-07-08 acapella mit birte
 
 2009-07-09 11:00 lead emea devtech call
-2009-07-09 18:30 dragica # Dragica Marcius, Markgr‰flerstr. 64, CH-4057 Basel, Tel. 061 322 48 80, 0041 76 522 38 42, marcius_dr@hotmail.com
+2009-07-09 18:30 dragica
 
 2009-07-11 schmalstoeckli # climbed the route 'Kurze Kombination 4c' with robert hett
 
@@ -2282,7 +2282,7 @@ odd tuesdays in year 8:00 triage
 2009-07-28 hochtour tschingelhorn
 2009-07-29 hochtour tschingelhorn
 # reichenbach, griesalp, gamchi scharte, mutthorn, mutthornhuette, tschingelhorn, gasterental, stalten, kandersteg, reichenbach
-# rupert, jogi, joerg: rupert.wagner@mountains.de, juergenkuehnoel@web.de, joerg_gutowski@web.de
+# rupert, jogi, joerg
 
 2009-07-31 19:30 wave # Tanzpalast Gueterstr. 82
 
@@ -2330,7 +2330,7 @@ odd tuesdays in year 8:00 triage
 2009-08-29 17:00 katja gartenfest
 2009-08-29 17:30 rose volleyball
 2009-08-29 19:30 gurdjieff concert # gemeindesaal christuskirche freiburg-wiehre maienstr. 2
-2009-08-29 19:45 tanzen und so # Warteck, Burgweg 7, Basel, Nicole 061 331 50 03,waldnicole@hotmail.com, C:\tmp\TUS_einladungsflyer_29_august.pdf
+2009-08-29 19:45 tanzen und so # Warteck, Burgweg 7, Basel, C:\tmp\TUS_einladungsflyer_29_august.pdf
 
 2009-08-30 11:00 rose malen im garten
 2009-08-30 14:00 spielen Schorenmatte beim Eglisee # Sonntag Nachmittag wird gespielt auf der Schorenmatte (beim Eglisee). Dazu kannst du in- und outdoortaugliche Spiele mitbringen oder dich Spielbegeisterten anschliessen. Wir beginnen um 14 Uhr beim Sportplatz Schorenmatte und verteilen uns dann auf die verschiedenen Spielst‰tten rund um die Schorenmatte. Bitte teile mir mit wenn du kommen mˆchtest und welche Spiele du magst.
@@ -3193,7 +3193,7 @@ odd fridays in year education day
 2011-05-27 19:45 wave # deeper disco matthias circomflex friday warteck
 2011-05-28 14:00 gastspiel heiner
 2011-05-30 18:45 hartmut # bahnhof steinen
-2011-05-30 19:30 karl geck # h.artmutbick@web.de +49-1722367818
+2011-05-30 19:30 karl geck
 2011-05-31 20:30 beate
 
 2011-06-01 8:30 mwiss
@@ -3244,7 +3244,7 @@ odd fridays in year education day
 
 #2011-07-07 Willkommen im Sein mit Stefan auf Schloss Glarisegg # Tagesworkshop als Einfuehrung zum Sommerfest am 8.-10. Juli, ebenfalls auf Schloss Glarisegg
 2011-07-08 Glarisegg Sommerfest
-2011-07-08 19:30 musikprojektidee # Bobby Hansjuergen W‰ldele <h.waeldele@t-online.de> Andrea Balint [andrea.balint@web.de]: junge kantorei vorstellung einer musikprojektidee, Musiksaal der Freien Waldorfschule Lˆrrach
+2011-07-08 19:30 musikprojektidee # Bobby Hansjuergen W‰ldele Andrea Balint: junge kantorei vorstellung einer musikprojektidee, Musiksaal der Freien Waldorfschule Lˆrrach
 #2011-07-09 glarisegg sommerfest
 2011-07-09 dragica geburi
 2011-07-10 11:00 beate party nellie
@@ -3283,7 +3283,7 @@ odd fridays in year education day
 
 2011-08-05 andrea + falk sommerfest # C:\tmp\andrea_sommerfest.pdf
 
-2011-08-04 18:45 hartmut # bahnhof steinen h.artmutbick@web.de +49-1722367818
+2011-08-04 18:45 hartmut # bahnhof steinen
 2011-08-04 19:30 karl geck # 150 euro + 5 + 10 bar
 
 2011-08-05 karl geck sommer
@@ -4134,7 +4134,7 @@ even thursdays in year 20:30 tanz
 2013-04-05 22:00 eva
 2013-04-06 10:00 dajekamimoth@eva
 2013-04-06 22:00 feuerfest # /j/tmp/feuerfest_2013-04-06.jpeg
-2013-04-07 13:00-18:00 sunahla # Altkircherstrasse 19, 4054 Basel sunahla@sunahla.ch gsthioul@sthioulmedia.ch +41 78 859 39 88, Sunahla Nicola Marchesi Sthioul <sunahla@sunahla.ch>, Govinda Guy-Claude Sthioul <gsthioul@gmx.ch>
+2013-04-07 13:00-18:00 sunahla
 2013-04-07 17:00-22:00 tantrische wave # hans, oerlikerhus an der thurgauerstrasse 72 in zürich oerlikon, yogaraum von maya höliner
 2013-04-08 8:20 marie
 
@@ -4165,7 +4165,7 @@ even thursdays in year 20:30 tanz
 2013-04-26 18:00 heiner
 
 2013-04-27 10:00-17:00 yogadance # cristina hagmann, im dachraum vom quartiertreffpunkt lola, lothringerstrasse 63, 4056 basel
-2013-04-27 15:00 christian waechter # alte schule mr-ockershausen stiftstrasse 26
+2013-04-27 15:00 christian waechter
 2013-04-27 19:30 atmo@ft
 2013-04-28 men@jeremy
 2013-04-29 19:30 mainx
@@ -4228,7 +4228,7 @@ even thursdays in year 20:30 tanz
 2013-06-15 20:00 in joy chor # konzert ev. heilig-geist-kirche, schauinsland str. 8. in kirchzarten
 2013-06-16 10:30-13:30 andreas + michael catwalk winti # Untere Vogelsangstrasse 7, vis a vis Parkhaus Arch Hintereingang, Zu Fuss keine fuenf Minuten vom bahnhof entfernt
 2013-06-16 sitzberg tanznacht
-2013-06-17 17:00 lomi@nicole # Magnolienpark 12 4052 Basel 078 901 08 09 http://www.doodle.com/m2cgi3u3wbm2mxb6
+2013-06-17 17:00 lomi@nicole
 
 2013-06-18 hugo & seraina
 2013-06-19 18:30 bafudi
@@ -4539,7 +4539,7 @@ even thursdays in year 20:30 tanz
 
 2013-12-14 dajekamimoth@karin
 2013-12-14 19:00 toc basel # www.tanz-freiburg.net oder www.neuland-tanzbasel.ch, GDS (Gymnastik Diplom-Schule) Basel, Eulerstrasse 55, 4051 Basel
-2013-12-14 20:41 remo@bern # Remo Kissling, Brückenpfeiler, Dalmaziquai 69, Bern
+2013-12-14 20:41 remo@bern
 
 2013-12-15 17:25-19:15 zrh-copenhagen swiss 3506
 2013-12-15 21:00-21:50 copenhagen-got sk 0446
@@ -4629,7 +4629,7 @@ even thursdays in year 20:30 tanz
 2014-02-19 14:15 bern svensktpass
 2014-02-19 20:00 bafudi
 
-2014-02-20 mammutbaum faellen # axel hugenschmidt + nachbar thomas tel. 169038
+2014-02-20 mammutbaum faellen # axel hugenschmidt + nachbar thomas
 
 2014-02-21 16:30-18:00 cet 9:30 cst itw revit vanguard meeting
 
@@ -4678,7 +4678,7 @@ even thursdays in year 20:30 tanz
 2014-04-09 20:00 maennertanztheater # http://www.jungestheaterbasel.ch/jtb/show.php?show_id=1093
 2014-04-10 20:00 eiselin@union
 
-2014-04-11 20:00 christiane + andreas # Hermann-Albrecht-Str. 25, Lö-Stetten, Eckhaus zur Griengasse
+2014-04-11 20:00 christiane + andreas
 
 2014-04-13 12:15 crashkurs
 2014-04-13 14:00 jam@warteck
@@ -4794,7 +4794,7 @@ even thursdays in year 20:30 tanz
 
 2014-07-18 xopher begin
 2014-07-19 19:00 nicol-yvonne
-2014-07-19 juergen@gspaltenhorn # Klaus Breinlinger 07621/167621 klaus.breinlinger@gmx.de Jürgen Kühnöl 07621/165906 juergenkuehnoel@web.de
+2014-07-19 juergen@gspaltenhorn
 2014-07-19 mathias party # Jean le Moine
 2014-07-20 juergen@gspaltenhorn
 2014-07-20 16:00 nicole
@@ -4906,7 +4906,7 @@ even thursdays in year 20:30 tanz
 2014-09-29 11:00 claude predigerhof bruderholz
 
 2014-10-02 falk begin
-2014-10-03 dav sewo begin # melchsee-frutt anmelden bei Marc: freak.cycles@gmail.com
+2014-10-03 dav sewo begin
 2014-10-03 18:30 barcamp@glarisegg begin # http://schloss-glarisegg.ch/seminarzentrum/seminare-und-events/kalender/eventeinzelheiten/87/-/3-barcamp-schloss-glarisegg-open-space-motto-teilen
 #2014-10-04 moni vacation begin
 2014-10-04 17:00 ben geburi
@@ -5006,7 +5006,7 @@ even thursdays in year 20:30 tanz
 2014-11-14 au handout + material
 
 2014-11-15 urs falk
-2014-11-15 beni + christa # christa.zantour@lignum.ch
+2014-11-15 beni + christa
 2014-11-15 19:30 madlee geburi@feuerwache # Gemeindehaus Alte Feuerwache, Burghof 2, 79539 Lörrach
 2014-11-16 urs falk
 
@@ -5137,8 +5137,8 @@ year 2015
 2015-02-08 milano
 2015-02-09 milano
 2015-02-09 17:23 moni@milanocentrale
-2015-02-10 17:30 giorgio@binario 11 # giorgio mazzucchelli <giorgio.maz@gmail.com>, via paleocapra 1 (mm cadorna)
-2015-02-10 18:30 maurizio@jobrapido # maurizio mangione <granzebru@gmail.com>, jobrapido, via pietro paleocapa 7
+2015-02-10 17:30 giorgio@binario 11
+2015-02-10 18:30 maurizio@jobrapido
 2015-02-10 19:00 meetup@milano
 2015-02-12 milano end
 
@@ -5242,7 +5242,7 @@ year 2015
 
 2015-04-10 14:00 mainx@huenerberg
 
-2015-04-12 11:00 brunch@christiane # Gieseking <cga@gmx.de>, Stockacker 94, 79252 Stegen
+2015-04-12 11:00 brunch@christiane
 
 2015-04-16 14:00 schnabel@hitzfeld
 
@@ -5372,7 +5372,7 @@ year 2015
 2015-07-03 kreativ@rose begin
 2015-07-03 20:00 fimimpro # in der alten Rumfabrik, Güterstr. 145, Basel
 
-#2015-07-03 klettern@windegghuette # dav mit jogi, anmeldung ab 2015-05-01 bei cfuertenberger@gmx.ch, angefragt, abgelehnt
+#2015-07-03 klettern@windegghuette # dav mit jogi, anmeldung ab 2015-05-01, angefragt, abgelehnt
 #2015-07-04 klettern
 #2015-07-05 klettern
 
@@ -5538,7 +5538,7 @@ year 2015
 2015-10-22 20:00 lerchenwave
 
 2015-10-24 intensiv@moni
-2015-10-24 16:00 party@basti # Haltingerstr 7, 79576 Weil
+2015-10-24 16:00 party@basti
 2015-10-24 19:30 toc@basel
 
 2015-10-26 15:00 domschat
@@ -5570,7 +5570,7 @@ year 2015
 2015-11-06 20:00 fimimpro # in der alten Rumfabrik, Güterstr. 145, Basel
 2015-11-07 telvorbereitung@erikafrank # piarenefrankerika
 2015-11-08 telvorbereitung@erikafrank
-2015-11-08 15:00 hhh@delemont # November Run, Delemont Station, Near Main entrance, A to B run from Delémont station, return via public transport, no bag car, hare likkmmlikkmm@harrier.ch, http://www.meetup.com/basel-hash/events/226254980
+2015-11-08 15:00 hhh@delemont # November Run, Delemont Station, Near Main entrance, A to B run from Delémont station, return via public transport, no bag car, http://www.meetup.com/basel-hash/events/226254980
 2015-11-08 aec hackathon@helsinki end
 2015-11-09 10:30 bafudiflyer@moni
 2015-11-09 15:00 doko@rose?
@@ -5953,6 +5953,7 @@ year 2015
 
 2016-06-05 dav triathlon
 2016-06-05 15:00 h3 # http://www.meetup.com/Basel-Hash/events/230627585
+2016-06-05 20:00 
 
 2016-06-06 falk
 2016-06-07 falk
