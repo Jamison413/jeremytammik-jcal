@@ -5942,13 +5942,20 @@ year 2015
 2016-05-25 techsummit@montreal
 2016-05-26 techsummit@montreal
 
+2016-05-25 16:00 devcon prep
+
 2016-05-29 monikids@loe
-2016-05-30 falk decke zange
+2016-05-30 falk
+2016-05-30 15:00 devcon prep
+2016-05-30 15:30 tu darmstadt
 
 2016-05-31 travel athen
 2016-06-01 lmvmeetup@athens
 2016-06-02 lmvworkshop@athens
 2016-06-03 travel athen
+
+2016-06-03 17:00 devcon prep
+
 2016-06-03 17:00 moni@rats
 
 2016-06-05 dav triathlon
