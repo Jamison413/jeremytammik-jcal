@@ -5952,7 +5952,7 @@ year 2015
 2016-05-31 travel athen
 2016-06-01 lmvmeetup@athens
 2016-06-02 lmvworkshop@athens
-2016-06-03 travel athen
+2016-06-03 13:45-15:35 ath-zrh # Flight Athens (ATH) to Zurich (ZRH) Aegean Air 824 Eleftherios Venizielos Intl Arpt, duration 2:50, confirmation 64EDXU
 
 2016-06-03 17:00 devcon prep
 
