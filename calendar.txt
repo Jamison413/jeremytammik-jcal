@@ -5962,9 +5962,11 @@ year 2015
 2016-06-05 15:00 h3 # http://www.meetup.com/Basel-Hash/events/230627585
 2016-06-05 19:00 contrapunkt # Oekolampad, Allschweiler Platz, Basel (Tramhaltestelle 6), http://www.contrapunkt.ch
 
-2016-06-06 falk
+2016-06-06 07:30 falk
+2016-06-06 10:00 forge-dm meeting
 2016-06-06 14:00 wg + huenenberger
 2016-06-07 falk
+2016-06-07 devcon final content complete
 2016-06-08 falk
 
 2016-06-09 13:00-14:40 zrh-yvr # Swiss 8010, confirmation 4XQQYJ
