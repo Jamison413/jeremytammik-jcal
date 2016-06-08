@@ -4980,7 +4980,7 @@ even thursdays in year 20:30 tanz
 
 2014-10-31 norbekov begin # mo-fr 17:30-21:30 und sa-so 11-15 uhr
 2014-10-31 moni@zrh
-2014-11-01 11:00 eva + pascal + ilian serafin
+2014-11-01 11:00 tel e+p+is
 
 2014-11-03 11:00 jan@skype
 2014-11-03 19:00 functional programming in js workshop@canoo
@@ -5984,10 +5984,13 @@ year 2015
 2016-06-13 08:55-11:25 yvr-sfo # Vancouver BC to San Francisco CA United 8255 Operated by: Air Canada, duration 2:30, confirmation PYVYHM
 2016-06-13 18:00 meetup@sf
 2016-06-14 vip meeting
-2016-06-15 07:30 devcon@sf # Forge DevCon, Fort Mason, San Francisco, http://forge.autodesk.com/conference
+2016-06-15 devcon@sf # Forge DevCon, Fort Mason, San Francisco, http://forge.autodesk.com/conference
+2016-06-15 07:30-09:00 bim table
 2016-06-15 16:00-21:30 3dwebfest # http://www.3dwebfest.com
 2016-06-16 devcon@sf
+2016-06-16 07:30-09:00 bim table
 2016-06-16 13:00-14:00 free your bim data # room festival breakout 3
+2016-06-16 15:05-15:55 bim table
 2016-06-16 meetups
 
 #2016-06-17 alpinklettern # dav mit jochen kuri, anmeldung ab 2016-03-01, angemeldet, abgelehnt
