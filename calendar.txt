@@ -5993,6 +5993,7 @@ year 2015
 2016-06-16 07:30-09:00 bim table
 2016-06-16 13:00-14:00 free your bim data # room festival breakout 3
 2016-06-16 15:05-15:55 bim table
+2016-06-16 17:05-18:00 bim table # session 5
 2016-06-16 meetups
 
 #2016-06-17 alpinklettern # dav mit jochen kuri, anmeldung ab 2016-03-01, angemeldet, abgelehnt
