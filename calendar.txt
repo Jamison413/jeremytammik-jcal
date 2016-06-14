@@ -5983,7 +5983,7 @@ year 2015
 2016-06-11 mathias@JeanLeMoine
 2016-06-12 boulder@fontainebleu end
 
-2016-06-13 08:55-11:25 yvr-sfo # Vancouver BC to San Francisco CA United 8255 Operated by: Air Canada, duration 2:30, confirmation PYVYHM
+2016-06-13 08:55-11:25 yvr-sfo # Vancouver BC to San Francisco CA United 8255 Operated by: Air Canada, duration 2:30, confirmation PYVYHM air canada confirmation PZ53SI
 2016-06-13 18:00 meetup@sf
 2016-06-14 vip meeting
 2016-06-15 devcon@sf # Forge DevCon, Fort Mason, San Francisco, http://forge.autodesk.com/conference
