@@ -1193,7 +1193,7 @@ odd tuesdays in year 8:00 triage
 2007-03-07 prepare .net
 2007-03-08 ne + mail to frey
 2007-03-08 prepare arx
-2007-03-08 20:00 dav vortrag 
+2007-03-08 20:00 dav vortrag
 2007-03-09 9:00 vb3 wiese
 2007-03-09 travel to munich
 2007-03-10 21:00 dance up kesselh
@@ -5987,13 +5987,13 @@ year 2015
 2016-06-13 18:00 meetup@sf
 2016-06-14 vip meeting
 2016-06-15 devcon@sf # Forge DevCon, Fort Mason, San Francisco, http://forge.autodesk.com/conference
-2016-06-15 07:30-09:00 bim table
+2016-06-15 07:30-09:00 bim expert table
+2016-06-15 15:05-15:55 bim expert table
 2016-06-15 16:00-21:30 3dwebfest # http://www.3dwebfest.com
 2016-06-16 devcon@sf
-2016-06-16 07:30-09:00 bim table
+2016-06-16 07:30-09:00 bim expert table
 2016-06-16 13:00-14:00 free your bim data # room festival breakout 3
-2016-06-16 15:05-15:55 bim table
-2016-06-16 17:05-18:00 bim table # session 5
+2016-06-16 17:05-18:00 bim expert table # session 5
 2016-06-16 meetups
 
 #2016-06-17 alpinklettern # dav mit jochen kuri, anmeldung ab 2016-03-01, angemeldet, abgelehnt
