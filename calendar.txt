@@ -6059,7 +6059,8 @@ year 2015
 2016-08-01 ne_holiday
 2016-08-06 kids@katja end
 2016-08-02 jusoca end
-2016-08-02 ticino begin
+2016-08-02 moni@dan
+2016-08-03 ticino begin
 2016-08-13 ticino end
 2016-08-14 moni holiday end
 
