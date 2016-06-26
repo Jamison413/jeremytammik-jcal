@@ -6054,6 +6054,9 @@ year 2015
 #2016-07-16 galenstock se-sporn # dav mit stefan schmoekel, anmeldung ab 2016-05-02, nicht angemeldet
 #2016-07-17 galenstock
 
+2016-07-18 fluhseehuette
+2016-07-19 fluhseehuette
+
 2016-07-21 cornelius arrival
 2016-07-23 moni holiday begin
 2016-07-23 jusoca begin
