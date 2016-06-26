@@ -6021,7 +6021,8 @@ year 2015
 2016-06-25 09:20-11:42 sfo-yvr # San Francisco Intl Arpt (SFO) Terminal 3 to Vancouver, BC (YVR) United 784, duration 2:22, confirmation PYVYHM
 2016-06-28 20:25-15:40+1 yvr-zrh # Swiss 8011, confirmation 4XQQYJ
 2016-06-29 15:40 yvr-zrh arrival
-2016-06-29 18:00 falk@feuer
+
+2016-06-30 18:00 falk+karen@feuer
 
 2016-07-01 10:00 krisztian forge
 
