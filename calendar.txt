@@ -6045,12 +6045,14 @@ year 2015
 2016-07-09 klettern@bergsee
 2016-07-10 klettern@bergsee
 
-2016-07-10 15:00 h3@delemont # summer run/walk/hike in the Jura, Basel Hash House Harriers, Delemont Station Near Main entrance, http://www.meetup.com/Basel-Hash/events/232115487/?rv=ea1&_af=event&_af_eid=232115487&https=off
+#2016-07-10 15:00 cancelled h3@delemont # summer run/walk/hike in the Jura, Basel Hash House Harriers, Delemont Station Near Main entrance, http://www.meetup.com/Basel-Hash/events/232115487/?rv=ea1&_af=event&_af_eid=232115487&https=off
 
 2016-07-09 intensiv@pascal
 
 2016-07-09 kreativ@rose begin
 2016-07-13 kreativ@rose end
+
+2016-07-14 16:00 Forge Forschungssponsoring # Philipp Mueller <philipp.mueller@autodesk.com>; Leifgen, Christian <leifgen@iib.tu-darmstadt.de>; Peter Schlipf <peter.schlipf@autodesk.com>
 
 #2016-07-16 galenstock se-sporn # dav mit stefan schmoekel, anmeldung ab 2016-05-02, nicht angemeldet
 #2016-07-17 galenstock
