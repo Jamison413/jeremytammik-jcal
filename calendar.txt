@@ -6023,7 +6023,11 @@ year 2015
 2016-06-28 20:25-15:40+1 yvr-zrh # Swiss 8011, confirmation 4XQQYJ, eticket 7249704867470
 2016-06-29 15:40 yvr-zrh arrival
 
-2016-06-30 18:00 falk+karen@feuer
+2016-06-29 18:00 falk+karen@feuer
+
+2016-06-29 11:00 emea meeting
+2016-06-29 14:30 partial_retirement # skype, Maria Elena Santoyo Torres
+2016-06-29 16:30 cloud_core
 
 2016-07-01 10:00 krisztian forge
 
