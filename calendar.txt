@@ -6025,7 +6025,6 @@ year 2015
 
 2016-06-29 18:00 falk+karen@feuer
 
-2016-06-30 11:00 emea meeting
 2016-06-30 14:30 partial_retirement # skype, Maria Elena Santoyo Torres
 2016-06-30 16:30 cloud_core
 
