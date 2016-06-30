@@ -6030,13 +6030,15 @@ year 2015
 
 2016-07-01 10:00 krisztian forge
 
+2016-07-01 14:00 harald@impulsiv
+
 2016-07-01 19:00 tanz@heiner
 
 2016-07-02 15:00 georg # schneider fenster
 
-2016-07-01 klettern@douglashuette # dav mit harald erbacher, anmeldung ab 2016-05-01, angemeldet, zugesagt
-2016-07-02 klettern@douglashuette
-2016-07-03 klettern@douglashuette
+#2016-07-01 klettern@douglashuette # dav mit harald erbacher, anmeldung ab 2016-05-01, angemeldet, zugesagt
+#2016-07-02 klettern@douglashuette
+#2016-07-03 klettern@douglashuette
 
 #2016-07-01 aufbaukurs_bergsteigen # dav mit stefan schmoekel und angela rosin, anmeldung ab 2016-04-01
 #2016-07-02 aufbaukurs_bergsteigen
