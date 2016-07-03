@@ -6031,10 +6031,8 @@ year 2015
 2016-07-01 10:00 krisztian forge
 
 2016-07-01 14:00 harald@impulsiv
-
+2016-07-01 18:00 georg # schneider fenster
 2016-07-01 19:00 tanz@heiner
-
-2016-07-02 15:00 georg # schneider fenster
 
 #2016-07-01 klettern@douglashuette # dav mit harald erbacher, anmeldung ab 2016-05-01, angemeldet, zugesagt
 #2016-07-02 klettern@douglashuette
@@ -6045,11 +6043,13 @@ year 2015
 #2016-07-03 aufbaukurs_bergsteigen
 #2016-07-04 aufbaukurs_bergsteigen
 
+2016-07-03 08:00 harald@weil
+
 2016-07-04 falk
 2016-07-05 falk
 2016-07-06 falk
 
-2016-07-02 15:00 uni_augsburg
+2016-07-05 15:00 uni_augsburg
 
 2016-07-07 20:20 lerchenwave@gruett
 
@@ -6076,6 +6076,7 @@ year 2015
 2016-07-21 cornelius arrival
 2016-07-23 moni holiday begin
 2016-07-23 jusoca begin
+2016-07-27 yellow sack
 2016-07-30 kids@katja begin # todtnauberg
 2016-08-01 ne_holiday
 2016-08-06 kids@katja end
