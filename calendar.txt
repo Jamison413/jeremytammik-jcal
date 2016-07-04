@@ -6118,6 +6118,8 @@ year 2015
 2016-10-21 rtc@porto
 2016-10-22 rtc end
 
+2016-10-24 altmetall
+
 2016-10-24 accelerator@berlin begin # Autodesk, Leipziger Platz 11, 6th floor, view over Potsdamer Platz, incl. Conference room, Training room and one more smaller office room
 2016-10-25 berlin
 2016-10-26 berlin
