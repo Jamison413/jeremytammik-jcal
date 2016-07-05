@@ -6056,7 +6056,7 @@ year 2015
 2016-07-08 10:00 geruestabbau # goering 07622/666833
 
 2016-07-08 16:30 jogi # abfahrt gross spannort
-2016-07-08 gross spannort # hochtour mit jogi
+2016-07-09 gross spannort # hochtour mit jogi
 
 #2016-07-08 klettern@bergsee # dav mit jogi, anmeldung ab 2016-03-01, angemeldet, zugesagt
 #2016-07-09 klettern@bergsee
