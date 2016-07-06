@@ -6046,7 +6046,6 @@ year 2015
 2016-07-03 08:00 harald@weil
 
 2016-07-04 falk
-2016-07-05 falk
 2016-07-06 falk
 
 2016-07-05 15:00 uni_augsburg
