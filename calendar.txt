@@ -6053,6 +6053,7 @@ year 2015
 2016-07-07 20:20 lerchenwave@gruett
 
 2016-07-08 10:00 geruestabbau # goering 07622/666833
+2016-07-08 11:00-13:00 madlee
 
 2016-07-08 16:30 jogi # abfahrt gross spannort
 2016-07-09 gross spannort # hochtour mit jogi
