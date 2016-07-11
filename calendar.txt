@@ -6106,6 +6106,8 @@ year 2015
 
 2016-08-25 cornelius departure
 
+2016-08-28 intensiv@moni
+
 2016-08-29 schiebetuer
 
 2016-09-01 halbtax expiry
@@ -6119,6 +6121,8 @@ year 2015
 2016-09-28 ca. lmvworkshop@dubai
 
 2016-09-30 rtc material
+
+2016-10-01 intensiv@michelle
 
 2016-10-08 moni holiday begin
 2016-10-12 au@darmstadt
@@ -6143,7 +6147,12 @@ year 2015
 2016-11-07 forge@tu darmstadt?
 
 2016-11-11 las travel
+
+2016-11-13 intensiv@thomas
+
 2016-11-15 au@las_vegas
 2016-11-16 au@las_vegas
 2016-11-17 au@las_vegas
 2016-11-18 las travel
+
+2016-12-17 intensiv@eva
