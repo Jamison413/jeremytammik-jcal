@@ -6071,6 +6071,7 @@ year 2015
 2016-07-13 kreativ@rose end
 
 2016-07-14 16:00 Forge Forschungssponsoring # Philipp Mueller <philipp.mueller@autodesk.com>; Leifgen, Christian <leifgen@iib.tu-darmstadt.de>; Peter Schlipf <peter.schlipf@autodesk.com>
+2016-07-15 falk weg
 
 #2016-07-16 galenstock se-sporn # dav mit stefan schmoekel, anmeldung ab 2016-05-02, nicht angemeldet
 #2016-07-17 galenstock
@@ -6088,6 +6089,7 @@ year 2015
 2016-08-02 jusoca end
 2016-08-02 moni@dan
 2016-08-03 ticino begin
+2016-08-06 falk zurueck
 2016-08-13 ticino end
 2016-08-14 moni holiday end
 
@@ -6099,6 +6101,8 @@ year 2015
 2016-08-20 14:00 lina + ben # Schloss Auel, Haus Auel 1, 53797 Lohmar, Germany
 
 2016-08-25 cornelius departure
+
+2016-08-29 schiebetuer
 
 2016-09-01 halbtax expiry
 
