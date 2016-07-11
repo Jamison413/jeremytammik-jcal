@@ -6068,6 +6068,10 @@ year 2015
 
 2016-07-09 kreativ@rose begin
 2016-07-10 14:00 daniel # Daniel Börlin, Laufenstrasse 1, 4142 Münchenstein, 061/301 13 85, 079/428 79 89
+2016-07-12 08:00 andrea
+2016-07-12 falk
+2016-07-13 falk
+2016-07-14 falk
 2016-07-13 kreativ@rose end
 
 2016-07-14 16:00 Forge Forschungssponsoring # Philipp Mueller <philipp.mueller@autodesk.com>; Leifgen, Christian <leifgen@iib.tu-darmstadt.de>; Peter Schlipf <peter.schlipf@autodesk.com>
