@@ -6108,6 +6108,8 @@ year 2015
 2016-08-19 14:00 lina preparation
 2016-08-20 14:00 lina + ben # Schloss Auel, Haus Auel 1, 53797 Lohmar, Germany
 
+2016-08-23 06:30 medi
+2016-08-23 08:00 xopher breakfast
 2016-08-23 xopher departure
 2016-08-25 cornelius departure
 
