@@ -6147,8 +6147,8 @@ year 2015
 2016-10-28 berlin end
 
 2016-11-04 darmstadt
-2016-11-04 10:00-11:30 forge@tu vortrag
-2016-11-04 10:00-11:30 forge@tu workshop
+2016-11-04 10:00-12:00 forge+revit@tu vortrag
+2016-11-04 13:00-17:00 forge+revit@tu workshop
 
 2016-11-11 las travel
 
