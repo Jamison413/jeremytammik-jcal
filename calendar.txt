@@ -6047,16 +6047,18 @@ year 2015
 
 2016-07-04 falk
 2016-07-06 falk
+2016-07-08 falk
 
 2016-07-05 15:00 uni_augsburg
 
 2016-07-07 20:20 lerchenwave@gruett
 
-2016-07-08 10:00 geruestabbau # goering 07622/666833
 2016-07-08 11:00-13:00 madlee
 
 2016-07-08 16:30 jogi # abfahrt gross spannort
 2016-07-09 gross spannort # hochtour mit jogi
+
+2016-07-09 geruestabbau # goering 07622/666833
 
 #2016-07-08 klettern@bergsee # dav mit jogi, anmeldung ab 2016-03-01, angemeldet, zugesagt
 #2016-07-09 klettern@bergsee
@@ -6071,10 +6073,11 @@ year 2015
 2016-07-12 08:00 andrea
 2016-07-12 falk
 2016-07-13 falk
-2016-07-14 falk
+2016-07-13 15:00 xopher
+2016-07-13 15:30 Forge Forschungssponsoring # Forge Workshop TU Darmstadt - Nov, Philipp Mueller <philipp.mueller@autodesk.com>; Leifgen, Christian <leifgen@iib.tu-darmstadt.de>; Peter Schlipf <peter.schlipf@autodesk.com>
 2016-07-13 kreativ@rose end
 
-2016-07-14 16:00 Forge Forschungssponsoring # Philipp Mueller <philipp.mueller@autodesk.com>; Leifgen, Christian <leifgen@iib.tu-darmstadt.de>; Peter Schlipf <peter.schlipf@autodesk.com>
+2016-07-14 falk
 2016-07-15 falk weg
 
 #2016-07-16 galenstock se-sporn # dav mit stefan schmoekel, anmeldung ab 2016-05-02, nicht angemeldet
