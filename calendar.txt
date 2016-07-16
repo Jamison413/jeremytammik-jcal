@@ -6087,6 +6087,7 @@ year 2015
 2016-07-17 fluhseehuette
 2016-07-18 fluhseehuette
 
+2016-07-20 20:00 bafudi
 2016-07-21 18:00 cornelius arrival
 2016-07-23 moni holiday begin
 2016-07-23 jusoca begin
