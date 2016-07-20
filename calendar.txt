@@ -6165,4 +6165,10 @@ year 2015
 2016-11-17 au@las_vegas
 2016-11-18 las travel
 
+2016-12-05 devday@munich # Ramada Hotel Messe 
+2016-12-06 accelerator@munich
+2016-12-07 accelerator@munich
+2016-12-08 accelerator@munich
+2016-12-09 accelerator@munich
+
 2016-12-17 intensiv@eva
