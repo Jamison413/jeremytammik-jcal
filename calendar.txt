@@ -6102,6 +6102,8 @@ year 2015
 2016-08-13 ticino end
 2016-08-14 moni holiday end
 
+2016-08-16 09:00 followme # simpel richten
+
 #2016-08-14 klettern@wetterstein begin # dav mit angela, kletterwoche im wetterstein, angemeldet, zugesagt, abgesagt
 #2016-08-21 klettern@wetterstein end
 
