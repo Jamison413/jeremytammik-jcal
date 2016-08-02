@@ -6119,7 +6119,7 @@ year 2015
 
 2016-08-28 intensiv@moni
 
-2016-08-29 schiebetuer
+2016-08-31 fenstermontage # schiebetuer
 
 2016-09-01 halbtax expiry
 
@@ -6142,6 +6142,7 @@ year 2015
 
 2016-10-13 rtc presentation
 
+2016-10-19 forge@isepbim # porto 
 2016-10-20 rtc@porto begin # Alfandega Centro de Congresos, Porto, Portugal
 2016-10-21 rtc@porto
 2016-10-22 rtc end
