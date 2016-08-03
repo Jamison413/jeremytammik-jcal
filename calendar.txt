@@ -6111,6 +6111,7 @@ year 2015
 2016-08-19 08:00 travel to cologne # include loudspeakers, prepare playlist
 2016-08-19 14:00 lina preparation
 2016-08-20 14:00 lina + ben # Schloss Auel, Haus Auel 1, 53797 Lohmar, Germany
+2016-08-21 15:00 geburi@anja
 
 2016-08-23 06:30 medi
 2016-08-23 08:00 xopher breakfast
@@ -6122,6 +6123,9 @@ year 2015
 2016-08-31 fenstermontage # schiebetuer
 
 2016-09-01 halbtax expiry
+
+2016-09-06 hackathon@adsk
+2016-09-07 hackathon@adsk
 
 2016-09-09 aag16@eth begin # http://www.architecturalgeometry.org/aag16
 2016-09-13 aag16@eth begin # hhttp://www.dfab.ch
