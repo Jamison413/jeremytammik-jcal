@@ -6108,10 +6108,11 @@ year 2015
 #2016-08-21 klettern@wetterstein end
 
 2016-08-19 xopher arrival
-2016-08-19 08:00 travel to cologne # include loudspeakers, prepare playlist
+2016-08-19 07:13-11:05 sbb-koeln # include loudspeakers, prepare playlist
 2016-08-19 14:00 lina preparation
 2016-08-20 14:00 lina + ben # Schloss Auel, Haus Auel 1, 53797 Lohmar, Germany
 2016-08-21 15:00 geburi@anja
+2016-08-22 14:55-18:47 koeln-sbb
 
 2016-08-23 06:30 medi
 2016-08-23 08:00 xopher breakfast
