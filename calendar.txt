@@ -6104,7 +6104,11 @@ year 2015
 
 2016-08-14 15:00 h3@delemont # train station near main entrance 
 
+2016-08-15 19:00 axel
+
 2016-08-16 09:00 followme # simpel richten
+
+2016-08-16 10:00-14:00 solnhofer steinlieferung
 
 #2016-08-14 klettern@wetterstein begin # dav mit angela, kletterwoche im wetterstein, angemeldet, zugesagt, abgesagt
 #2016-08-21 klettern@wetterstein end
