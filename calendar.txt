@@ -6133,6 +6133,13 @@ year 2015
 
 2016-09-01 halbtax expiry
 
+2016-09-01 19:00 heizenberg@siloterasse
+2016-09-02 19:00 heizenberg@siloterasse
+2016-09-03 19:00 heizenberg@siloterasse
+2016-09-08 19:00 heizenberg@siloterasse
+2016-09-09 19:00 heizenberg@siloterasse
+2016-09-10 19:00 heizenberg@siloterasse
+
 2016-09-06 hackathon@adsk
 2016-09-07 hackathon@adsk
 
