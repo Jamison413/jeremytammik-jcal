@@ -6186,9 +6186,11 @@ year 2015
 
 2016-11-13 intensiv@thomas
 
+2016-11-14 checkin@palazzo # The Palazzo Resort Hotel Casino
 2016-11-15 au@las_vegas
 2016-11-16 au@las_vegas
 2016-11-17 au@las_vegas
+2016-11-17 checkout@palazzo
 2016-11-18 las travel
 
 2016-12-05 devday@munich # Ramada Hotel Messe 
