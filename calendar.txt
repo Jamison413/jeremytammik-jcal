@@ -6177,6 +6177,7 @@ year 2015
 2016-10-26 berlin
 2016-10-27 berlin
 2016-10-28 berlin end
+2016-10-28 au handout
 
 2016-11-04 darmstadt
 2016-11-04 10:00-12:00 forge+revit@tu vortrag
@@ -6185,11 +6186,14 @@ year 2015
 2016-11-11 las travel
 
 2016-11-13 intensiv@thomas
+2016-11-14 au slides
 
 2016-11-14 checkin@palazzo # The Palazzo Resort Hotel Casino
 2016-11-15 au@las_vegas
 2016-11-16 au@las_vegas
+2016-11-16 16:45-17:45 revit api panel
 2016-11-17 au@las_vegas
+2016-11-17 08:00-09:30 connect desktop cloud
 2016-11-17 checkout@palazzo
 2016-11-18 las travel
 
