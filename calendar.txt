@@ -6165,7 +6165,7 @@ year 2015
 
 2016-10-13 rtc presentation
 
-2016-10-19 forge@isepbim # porto 
+2016-10-19 12:15-13:30 forge@isepbim # porto 
 2016-10-20 rtc@porto begin # Alfandega Centro de Congresos, Porto, Portugal
 2016-10-21 rtc@porto
 2016-10-22 rtc end
