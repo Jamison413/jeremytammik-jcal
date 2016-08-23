@@ -6127,6 +6127,8 @@ year 2015
 2016-08-23 08:00 xopher breakfast
 2016-08-23 xopher departure
 2016-08-25 cornelius departure
+2016-08-25 18:00 food
+2016-08-25 20:00 film
 
 2016-08-28 intensiv@moni
 
