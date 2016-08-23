@@ -6153,6 +6153,8 @@ year 2015
 
 2016-09-19 ne_holiday
 
+2016-09-22 18:00 hackergarten@canoo # http://www.meetup.com/Hackergarten-Basel/events/233558076/
+
 2016-09-27 ca. lmvmeetup@dubai
 2016-09-28 ca. lmvworkshop@dubai
 
