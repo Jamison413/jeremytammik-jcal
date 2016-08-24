@@ -6132,7 +6132,7 @@ year 2015
 
 2016-08-28 intensiv@moni
 
-2016-08-31 fenstermontage # schiebetuer
+2016-08-31 08:00 fenstermontage # schiebetuer
 
 2016-09-01 halbtax expiry
 
