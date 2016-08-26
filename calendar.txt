@@ -6148,8 +6148,8 @@ year 2015
 
 2016-09-08 20:20 lerchenwave@gruett
 
-2016-09-09 aag16@eth begin # http://www.architecturalgeometry.org/aag16
-2016-09-13 aag16@eth begin # hhttp://www.dfab.ch
+2016-09-12 aag16@eth # http://www.architecturalgeometry.org/aag16
+2016-09-13 aag16@eth # hhttp://www.dfab.ch
 
 2016-09-19 ne_holiday
 
