@@ -6179,11 +6179,11 @@ year 2015
 
 2016-10-24 altmetall
 
-2016-10-24 accelerator@berlin begin # Autodesk, Leipziger Platz 11, 6th floor, view over Potsdamer Platz, incl. Conference room, Training room and one more smaller office room
-2016-10-25 berlin
-2016-10-26 berlin
-2016-10-27 berlin
-2016-10-28 berlin end
+2016-10-24 accelerator@munich begin # Autodesk, Leipziger Platz 11, 6th floor, view over Potsdamer Platz, incl. Conference room, Training room and one more smaller office room
+2016-10-25 munich
+2016-10-26 munich
+2016-10-27 munich
+2016-10-28 munich end
 2016-10-28 au handout
 
 2016-11-04 darmstadt
