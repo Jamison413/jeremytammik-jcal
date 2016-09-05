@@ -6141,6 +6141,7 @@ year 2015
 2016-09-01 19:00 heisenberg@siloterasse
 2016-09-02 19:00 heisenberg@siloterasse
 2016-09-03 19:00 heisenberg@siloterasse
+2016-09-08 10:00-11:00 sapa jira # Maria Oskarsson <maria.oskarsson@autodesk.com>
 2016-09-08 19:00 heisenberg@siloterasse
 2016-09-09 19:00 heisenberg@siloterasse
 2016-09-10 19:00 heisenberg@siloterasse
