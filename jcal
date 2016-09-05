@@ -5,7 +5,7 @@
 DIR="/j/doc/db/jcal"
 
 #MONTH=1214
-MONTH=0816
+MONTH=0916
 
 #echo $DIR
 #echo $MONTH
