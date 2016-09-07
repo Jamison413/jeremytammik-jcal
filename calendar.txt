@@ -6156,7 +6156,7 @@ year 2015
 2016-09-12 aag16@eth # http://www.architecturalgeometry.org/aag16
 2016-09-13 aag16@eth # hhttp://www.dfab.ch
 
-2016-09-17 toc@fr # http://www.5rhythmen-freiburg.de/termine.htm
+2016-09-17 19:00 toc@fr # http://www.5rhythmen-freiburg.de/termine.htm -- atmo -- http://tanz-freiburg.net -- toc
 
 2016-09-19 ne_holiday
 
@@ -6169,6 +6169,7 @@ year 2015
 2016-09-30 rtc material
 
 2016-10-01 intensiv@thomas
+2016-10-01 fete@mathias # Jean le Moine
 
 2016-10-08 moni holiday begin
 2016-10-12 au@darmstadt
