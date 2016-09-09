@@ -6166,7 +6166,7 @@ year 2015
 2016-09-27 ca. lmvmeetup@dubai
 2016-09-28 ca. lmvworkshop@dubai
 
-2016-09-30 rtc material
+2016-09-29 rtc material
 
 2016-10-01 intensiv@thomas
 2016-10-01 fete@mathias # Jean le Moine
@@ -6176,7 +6176,7 @@ year 2015
 2016-10-13 au@darmstadt
 2016-10-16 moni holiday end
 
-2016-10-13 rtc presentation
+2016-10-17 rtc presentation
 
 2016-10-19 12:15-13:30 forge@isepbim # porto 
 2016-10-20 rtc@porto begin # Alfandega Centro de Congresos, Porto, Portugal
