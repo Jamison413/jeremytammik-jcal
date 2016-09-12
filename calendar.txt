@@ -6157,6 +6157,7 @@ year 2015
 2016-09-12 aag16@eth # http://www.architecturalgeometry.org/aag16
 2016-09-13 aag16@eth # hhttp://www.dfab.ch
 
+2016-09-17 08:00 wieslaw
 2016-09-17 19:00 toc@fr # http://www.5rhythmen-freiburg.de/termine.htm -- atmo -- http://tanz-freiburg.net -- toc
 
 2016-09-19 ne_holiday
