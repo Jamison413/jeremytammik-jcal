@@ -6194,6 +6194,10 @@ year 2015
 2016-10-28 munich end
 2016-10-28 au handout
 
+2016-10-28 tel@trogen
+2016-10-29 tel@trogen
+2016-10-30 tel@trogen
+
 2016-11-04 darmstadt
 2016-11-04 10:00-12:00 forge+revit@tu vortrag
 2016-11-04 13:00-17:00 forge+revit@tu workshop
