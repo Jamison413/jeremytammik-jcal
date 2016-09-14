@@ -6216,6 +6216,7 @@ year 2015
 2016-11-17 checkout@palazzo
 2016-11-18 las travel
 
+2016-12-04 munich travel
 2016-12-05 devday@munich # Ramada Hotel Messe 
 2016-12-06 accelerator@munich
 2016-12-07 accelerator@munich
