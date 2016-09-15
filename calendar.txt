@@ -6181,6 +6181,7 @@ year 2015
 
 2016-10-17 rtc presentation
 
+2016-10-19 bcs@porto # Building Content Summit Europe 2016, Alfandega Centro de Congressos, Porto, Portugal, #GotContentTroubles
 2016-10-19 12:15-13:30 forge@isepbim # porto 
 2016-10-20 rtc@porto begin # Alfandega Centro de Congresos, Porto, Portugal
 2016-10-21 rtc@porto
