@@ -5597,7 +5597,7 @@ year 2015
 2015-11-24 15:30 revi api call
 2015-11-24 16:30-18:00 AU/DevDays Roles and Responsibilities
 
-2015-11-26 07:00-07:30 bsl-lgw # easyJet 8430 Outbound flight:  Basel, Switzerland (BSL)  -  London, England , United Kingdom (LGW)   Thu, Nov 26 Basel Mulhouse Arpt (BSL) Depart: Thursday,  07:00 am Gatwick Arpt (LGW) Arrive: Thursday, 07:30 am Duration: 1h 30m Agency Record Locator:	ZWLAXA Confirmation: EPTRMFB
+2015-11-26 07:00-07:30 bsl-lgw # easyJet 8430 Outbound flight:  Basel, Switzerland (BSL)  -  London, England , United Kingdom (LGW)   Thu, Nov 26 Basel Mulhouse Arpt (BSL) Depart: Thursday,  07:00 am Gatwick Arpt (LGW) Arrive: Thursday, 07:30 am Duration: 1h 30m Agency Record Locator: ZWLAXA Confirmation: EPTRMFB
 2015-11-26 11:20-14:05 lgw-las # VS043 London (LGW) to Las Vegas (LAS) Booking reference D6QVEY
 2015-11-26 15:00 car@las # Avis Car Rental at: Las Vegas US (LAS) Confirmation: 21201583CH4
 2015-11-28 intensiv@karin
@@ -6161,6 +6161,7 @@ year 2015
 2016-09-17 19:00 toc@fr # http://www.5rhythmen-freiburg.de/termine.htm -- atmo -- http://tanz-freiburg.net -- toc
 
 2016-09-19 ne_holiday
+2016-09-19 20:00 pyr@nellie
 
 2016-09-21 yellow sack
 2016-09-22 18:00 hackergarten@canoo # http://www.meetup.com/Hackergarten-Basel/events/233558076/
@@ -6177,10 +6178,11 @@ year 2015
 2016-10-06 20:20 lerchenwave@gruett
 
 2016-10-08 moni holiday begin
+2016-10-10 13:45-15:20 zrh-opo # vueling VY7581 Zúrich (ZRH) - Oporto (OPO) Código de reserva O3H4XR moni BBLZHD jeremy
 2016-10-12 au@darmstadt
 2016-10-13 au@darmstadt
 2016-10-16 moni holiday end
-
+2016-10-17 09:40-13:10 opo-zrh # vueling VY7580 Oporto (OPO) - Zúrich (ZRH) Código de reserva O3H4XR moni
 2016-10-17 rtc presentation
 
 2016-10-19 bcs@porto # Building Content Summit Europe 2016, Alfandega Centro de Congressos, Porto, Portugal, #GotContentTroubles
@@ -6190,7 +6192,7 @@ year 2015
 2016-10-21 rtc@porto
 2016-10-21 09:00-10:15 revit api panel
 2016-10-22 rtc end
-
+2016-10-23 09:35-13:25 opo-muc # transavia HV9228 Porto - Munique número de reserva J1S7TB Duração de voo 2h50
 2016-10-24 altmetall
 
 2016-10-24 accelerator@munich begin # Autodesk, Leipziger Platz 11, 6th floor, view over Potsdamer Platz, incl. Conference room, Training room and one more smaller office room
