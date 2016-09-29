@@ -6175,6 +6175,8 @@ year 2015
 2016-10-01 intensiv@thomas
 2016-10-01 fete@mathias # Jean le Moine
 
+2016-10-05 19:00 angular@magnolia # Intro 2 Angular 2, Magnolia, Oslo-Strasse 2, Basel, http://www.meetup.com/basel-js/events/234436988
+
 2016-10-06 20:20 lerchenwave@gruett
 2016-10-07 lina + marie begin
 2016-10-08 moni holiday begin
@@ -6213,6 +6215,8 @@ year 2015
 2016-11-04 darmstadt
 2016-11-04 10:00-12:00 forge+revit@tu vortrag
 2016-11-04 13:00-17:00 forge+revit@tu workshop
+
+2016-11-05 12:30 breakout@bsl
 
 2016-11-11 las travel
 
