@@ -6175,7 +6175,7 @@ year 2015
 2016-10-01 intensiv@thomas
 2016-10-01 fete@mathias # Jean le Moine
 
-2016-10-05 pia + rene
+2016-10-05 15:00 pia + rene
 
 2016-10-05 19:00 angular@magnolia # Intro 2 Angular 2, Magnolia, Oslo-Strasse 2, Basel, http://www.meetup.com/basel-js/events/234436988
 
