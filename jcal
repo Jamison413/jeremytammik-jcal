@@ -5,7 +5,9 @@
 DIR="/j/doc/db/jcal"
 
 #MONTH=1214
-MONTH=0916
+#MONTH=0916
+
+MONTH=`date "+%y%m"`
 
 #echo $DIR
 #echo $MONTH
@@ -40,7 +42,8 @@ if [ "$1" = "-m" ]
 then
   #"/Applications/Komodo Edit 8.app/Contents/MacOS/komodo" $0
   #k $0 # --> /j/doc/db/jcal/jcal: line 42: k: command not found
-  "$EDITOR" $0
+  #"$EDITOR" $0
+  open -a Komodo\ Edit\ 8 $0
   exit 0
 fi
 
