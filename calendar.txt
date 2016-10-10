@@ -6185,7 +6185,8 @@ year 2015
 2016-10-08 moni holiday begin
 2016-10-09 lina + marie end
 2016-10-10 13:45-15:20 zrh-opo # vueling VY7581 Zúrich (ZRH) - Oporto (OPO) Código de reserva O3H4XR moni BBLZHD jeremy
-2016-10-10 16:20-17:47 zrh-opo delayed #
+2016-10-10 16:20-17:47 zrh-opo delayed
+2016-10-10 17:36-19:03 zrh-opo delayed further
 2016-10-10 15:00 car # Aeropuerto de Oporto
 2016-10-12 au@darmstadt
 2016-10-13 au@darmstadt
@@ -6222,8 +6223,8 @@ year 2015
 2016-11-02 kuechenplatte@krueckels
 
 2016-11-04 darmstadt
-2016-11-04 10:00-12:00 forge+revit@tu vortrag
-2016-11-04 13:00-17:00 forge+revit@tu workshop
+2016-11-04 10:45-12:25 forge+revit@tu vortrag
+2016-11-04 13:15-17:00 forge+revit@tu workshop
 
 2016-11-05 12:30 breakout@bsl
 
