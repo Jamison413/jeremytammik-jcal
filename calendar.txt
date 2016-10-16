@@ -6232,6 +6232,7 @@ year 2015
 
 2016-11-10 12:15-15:15 ffm-las # condor DE2062 Frankfurt Terminal 1 - LAS Vegas Terminal 3, Airline Reference 5J2X8Q
 
+2016-11-12 09:00-16:00 meditag # anmeldung schriftlich bis zum dienstag 8.11. an c. hoevels
 2016-11-13 intensiv@michaelle
 2016-11-14 au slides
 
