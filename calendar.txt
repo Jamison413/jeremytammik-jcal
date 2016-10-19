@@ -6201,7 +6201,7 @@ year 2015
 #2016-10-19 12:15-13:30 forge@isepbim # porto
 2016-10-19 16:30-17:15 forge+revit@isepbim # porto, BIMTI 2016, https://www.facebook.com/ISEPBIM/photos/?tab=album&album_id=2035047926791035
 2016-10-20 rtc@porto begin # Alfandega Centro de Congresos, Porto, Portugal
-2016-10-21 15:15-16:30 connecting desktop + cloud
+2016-10-20 15:15-16:30 connecting desktop + cloud
 2016-10-21 rtc@porto
 2016-10-21 09:00-10:15 revit api panel
 2016-10-22 rtc end
