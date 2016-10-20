@@ -6210,7 +6210,7 @@ year 2015
 
 2016-10-20 18:30-20:30 welcome
 2016-10-21 19:00-23:00 taylor's winery
-2016-10-22 19:30-23:00 gala dinner@palacio da bolsa
+2016-10-22 19:30-23:00 palacio da bolsa # gala dinner
 2016-10-22 rtc end
 
 2016-10-23 09:35-13:25 opo-muc # transavia HV9228 Porto - Munique número de reserva J1S7TB Duração de voo 2h50
