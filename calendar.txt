@@ -6207,13 +6207,14 @@ year 2015
 2016-10-22 15:00 h3@kaiseraugst # Kaiseraugst October Hash Run, Kaiseraugst Train Station, Bahnhof, 4303 Kaiseraugst, http://www.meetup.com/Basel-Hash/events/234601942
 2016-10-22 10:00-14:00 Repair Cafe # Lörrach, Halle 9
 2016-10-22 18:00 speaker feedback
-2016-10-22 rtc end
-2016-10-23 09:35-13:25 opo-muc # transavia HV9228 Porto - Munique número de reserva J1S7TB Duração de voo 2h50
-2016-10-24 altmetall
 
 2016-10-20 18:30-20:30 welcome
 2016-10-21 19:00-23:00 taylor's winery
 2016-10-22 19:30-23:00 gala dinner@palacio da bolsa
+2016-10-22 rtc end
+
+2016-10-23 09:35-13:25 opo-muc # transavia HV9228 Porto - Munique número de reserva J1S7TB Duração de voo 2h50
+2016-10-24 altmetall
 
 2016-10-24 accelerator@munich begin # Autodesk, Leipziger Platz 11, 6th floor, view over Potsdamer Platz, incl. Conference room, Training room and one more smaller office room
 2016-10-25 munich
