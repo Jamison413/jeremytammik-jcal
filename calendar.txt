@@ -6251,6 +6251,8 @@ year 2015
 2016-11-17 checkout@palazzo
 2016-11-17 17:05-13:15+1 las-ffm # condor DE2063 LAS Vegas Terminal 3 - Frankfurt Terminal 1, Airline Reference 5J2X8Q
 
+2016-11-20 tim@burg # mit Musikinstrument
+
 2016-11-22 men?
 
 2016-11-24 20:20 lerchenwave@gruett
