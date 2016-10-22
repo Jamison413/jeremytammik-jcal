@@ -6219,7 +6219,7 @@ year 2015
 2016-10-24 accelerator@munich begin # Autodesk, Leipziger Platz 11, 6th floor, view over Potsdamer Platz, incl. Conference room, Training room and one more smaller office room
 2016-10-25 munich
 2016-10-26 munich
-2016-10-27 munich
+2016-10-27 depart@munich
 2016-10-28 munich end
 2016-10-28 au handout
 2016-10-28 sweat lodge
