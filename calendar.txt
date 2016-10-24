@@ -6230,6 +6230,7 @@ year 2015
 2016-10-28 tel@trogen
 2016-10-29 tel@trogen
 2016-10-29 12:00 totentanz # http://baslertotentanz.ch/
+2016-10-29 14:00 tichu # anja joachim
 2016-10-30 tel@trogen
 
 2016-11-02 kuechenplatte@krueckels
