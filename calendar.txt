@@ -6210,6 +6210,7 @@ year 2015
 
 2016-10-20 18:30-20:30 welcome
 2016-10-21 19:00-23:00 taylor's winery
+2016-10-21 20:00-22:00 enno # pro familia, Rainstr. 20
 2016-10-22 19:30-23:00 palacio da bolsa # gala dinner
 2016-10-22 rtc end
 
@@ -6264,6 +6265,8 @@ year 2015
 2016-11-17 checkout@palazzo
 2016-11-17 17:05-13:15+1 las-ffm # condor DE2063 LAS Vegas Terminal 3 - Frankfurt Terminal 1, Airline Reference 5J2X8Q
 
+2016-11-18 20:00-22:00 enno # pro familia, Rainstr. 20
+
 2016-11-20 13:30-17:00 tim@burg # Theater im Moment mit Musikinstrument
 
 2016-11-22 16:00 men@stefan
@@ -6281,13 +6284,12 @@ year 2015
 2016-12-08 20:00 demain (film) # Werkraum Schöpflin, Filmvorführung 'Tomorrow' und Diskussion
 2016-12-09 accelerator@munich
 
+2016-12-16 20:00-22:00 enno # pro familia, Rainstr. 20
+2016-12-16 22:00 dunkelbunt@nellie
 2016-12-17 intensiv@eva
 
 # maennergruppe magnus
 
-2016-10-21 20:00-22:00 enno # pro familia, Rainstr. 20
-2016-11-18 20:00-22:00 enno # pro familia, Rainstr. 20
-2016-12-16 20:00-22:00 enno # pro familia, Rainstr. 20
 2017-01-20 20:00-22:00 enno # pro familia, Rainstr. 20
 2017-02-17 20:00-22:00 enno # pro familia, Rainstr. 20
 
