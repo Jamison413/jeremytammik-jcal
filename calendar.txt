@@ -6256,6 +6256,7 @@ year 2015
 2016-11-14 checkin@palazzo # The Palazzo Resort Hotel Casino
 2016-11-14 au slides
 2016-11-14 devday@au
+2016-11-14 17:00-20:00 kickoff@rockhouse # Walter P Moore, Rockhouse Bar at the Venetian Hotel, 3377 S. Las Vegas Blvd, Las Vegas, NV 89109
 2016-11-14 18:30-20:30 speakerspecial
 2016-11-15 au@las_vegas
 2016-11-15 19:30-22:30 sushi samba # Ideate Customer Appreciation Dinner & Celebration, The Palazzo, Grand Canal Shoppes, 3327 S Las Vegas Blvd, Las Vegas, NV
