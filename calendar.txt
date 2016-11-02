@@ -6253,7 +6253,7 @@ year 2015
 2016-11-12 09:00-16:00 meditag # anmeldung schriftlich bis zum dienstag 8.11. an c. hoevels
 2016-11-13 intensiv@michaelle
 2016-11-13 11:00-15:00 seele-koerper-raum # eröffnung, innere margarethenstrasse 19 in basel, http://www.seele-koerper-raum.ch
-2016-11-14 checkin@palazzo # The Palazzo Resort Hotel Casino
+2016-11-13 checkin@palazzo # The Palazzo Resort Hotel Casino
 2016-11-14 au slides
 2016-11-14 devday@au
 2016-11-14 17:00-20:00 kickoff@rockhouse # Walter P Moore, Rockhouse Bar at the Venetian Hotel, 3377 S. Las Vegas Blvd, Las Vegas, NV 89109
