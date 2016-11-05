@@ -6251,8 +6251,9 @@ year 2015
 2016-11-10 12:15-15:15 ffm-las # condor DE2062 Frankfurt Terminal 1 - LAS Vegas Terminal 3, Airline Reference 5J2X8Q
 
 2016-11-12 09:00-16:00 meditag # anmeldung schriftlich bis zum dienstag 8.11. an c. hoevels
-2016-11-13 intensiv@michaelle
+2016-11-13 intensiv@michelle
 2016-11-13 11:00-15:00 seele-koerper-raum # eröffnung, innere margarethenstrasse 19 in basel, http://www.seele-koerper-raum.ch
+2016-11-13 15:00 b3@liestal # http://www.meetup.com/Basel-Hash/events/235371540
 2016-11-13 checkin@palazzo # The Palazzo Resort Hotel Casino
 2016-11-14 au slides
 2016-11-14 devday@au
@@ -6270,6 +6271,7 @@ year 2015
 2016-11-17 17:05-13:15+1 las-ffm # condor DE2063 LAS Vegas Terminal 3 - Frankfurt Terminal 1, Airline Reference 5J2X8Q
 
 2016-11-18 20:00-22:00 enno # pro familia, Rainstr. 20
+2016-11-19 09:00-15:00 falk with bus
 
 2016-11-20 13:30-17:00 tim@burg # Theater im Moment mit Musikinstrument
 
