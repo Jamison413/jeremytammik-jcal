@@ -10,7 +10,7 @@ DIR="/j/doc/db/jcal"
 MONTH=`date "+%m%y"`
 
 #echo $DIR
-echo $MONTH
+#echo $MONTH
 
 if [ "$1" = "-b" ]
 then
