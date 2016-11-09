@@ -6285,6 +6285,7 @@ year 2015
 2016-11-19 09:00-15:00 falk with bus
 
 2016-11-20 13:30-17:00 tim@burg # Theater im Moment mit Musikinstrument
+2016-11-21 marie begin
 
 2016-11-22 16:00 men@stefan
 
@@ -6292,7 +6293,8 @@ year 2015
 
 2016-11-25 12:00 rene + tobias
 2016-11-26 party
-2016-11-26 sweat lodge
+2016-11-27 sweat lodge
+2016-11-27 marie end
 
 2016-12-04 munich travel
 2016-12-05 devday@munich # Ramada Hotel Messe 
