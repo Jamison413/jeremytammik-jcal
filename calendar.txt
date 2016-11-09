@@ -6261,6 +6261,7 @@ year 2015
 2016-11-13 15:00 b3@liestal # http://www.meetup.com/Basel-Hash/events/235371540
 2016-11-13 15:15 car@avis return # 3325 S Las Vegas Blvd LAS VEGAS, NV, 89109 US
 2016-11-13 checkin@palazzo # The Palazzo Resort Hotel Casino
+2016-11-14 yellow sack <a href="http://www.loerrach-landkreis.info/Muellkalender/pages/ShowKalender.asp?s_Monat=10&s_Jahr=10&s_Region=2">^</a>
 2016-11-14 au slides
 2016-11-14 devday@au
 2016-11-14 17:00-20:00 kickoff@rockhouse # Walter P Moore, Rockhouse Bar at the Venetian Hotel, 3377 S. Las Vegas Blvd, Las Vegas, NV 89109
