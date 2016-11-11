@@ -6262,6 +6262,7 @@ year 2015
 2016-11-13 15:00 b3@liestal # http://www.meetup.com/Basel-Hash/events/235371540
 2016-11-13 15:15 car@avis return # 3325 S Las Vegas Blvd LAS VEGAS, NV, 89109 US
 2016-11-13 checkin@palazzo # The Palazzo Resort Hotel Casino
+2016-11-13 19:30 jimq@grandlux # Grand Lux Café by the Venetian elevator bank
 2016-11-14 moebelholz <a href="doc/loerrach_abfallkalender_2016.pdf">^</a>
 2016-11-14 au slides
 2016-11-14 devday@au
@@ -6270,14 +6271,15 @@ year 2015
 2016-11-14 19:00-22:00 GetTogether@LagunaChampagneBar # Laguna Champagne Bar in the Grand Canal Shoppes, Susan Brattberg <susan@globaletraining.ca>
 2016-11-15 sperrmuell <a href="doc/loerrach_abfallkalender_2016.pdf">^</a>
 2016-11-15 au@las_vegas
+2016-11-15 12:45-17:30 devlab # Casanova 602 – 604, Level 1
 2016-11-15 19:30-22:30 sushi samba # Ideate Customer Appreciation Dinner & Celebration, The Palazzo, Grand Canal Shoppes, 3327 S Las Vegas Blvd, Las Vegas, NV
 2016-11-16 yellow sack <a href="doc/loerrach_abfallkalender_2016.pdf">^</a>
 2016-11-16 au@las_vegas
-2016-11-16 16:45-17:45 revit api panel
+2016-11-16 16:45-17:45 revit api panel # Lando 4204, Level 4
 2016-11-16 21:00 drofus@Rockhouse # Venetian Rockhouse, /a/doc/au/2016/admin/2016-11-16_drofus_ticket.pdf
 2016-11-17 au@las_vegas
-2016-11-17 08:00-09:30 connect desktop cloud
 2016-11-17 checkout@palazzo
+2016-11-17 08:00-09:30 connect desktop cloud # Murano 3203, Level 3
 2016-11-17 17:05-13:15+1 las-ffm # condor DE2063 LAS Vegas Terminal 3 - Frankfurt Terminal 1, Airline Reference 5J2X8Q
 
 2016-11-18 13:15 arrival@ffm
