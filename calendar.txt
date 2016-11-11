@@ -6262,10 +6262,13 @@ year 2015
 2016-11-13 15:00 b3@liestal # http://www.meetup.com/Basel-Hash/events/235371540
 2016-11-13 15:15 car@avis return # 3325 S Las Vegas Blvd LAS VEGAS, NV, 89109 US
 2016-11-13 checkin@palazzo # The Palazzo Resort Hotel Casino
+2016-11-13 16:00 registration@au
 2016-11-13 19:30 jimq@grandlux # Grand Lux Café by the Venetian elevator bank
 2016-11-14 moebelholz <a href="doc/loerrach_abfallkalender_2016.pdf">^</a>
 2016-11-14 au slides
 2016-11-14 devday@au
+2016-11-14 08:00-12:30 general session
+2016-11-14 14:00-17:00 aec breakout
 2016-11-14 17:00-20:00 kickoff@rockhouse # Walter P Moore, Rockhouse Bar at the Venetian Hotel, 3377 S. Las Vegas Blvd, Las Vegas, NV 89109
 2016-11-14 18:30-20:30 speakerspecial@carnevino # restaurant at The Venetian
 2016-11-14 19:00-22:00 GetTogether@LagunaChampagneBar # Laguna Champagne Bar in the Grand Canal Shoppes, Susan Brattberg <susan@globaletraining.ca>
