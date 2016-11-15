@@ -6268,14 +6268,17 @@ year 2015
 2016-11-14 au slides
 2016-11-14 devday@au
 2016-11-14 08:00-12:30 general session
-2016-11-14 14:00-17:00 aec breakout
+2016-11-14 14:00-17:00 aec breakout # Marcello 4401A Level 4
 2016-11-14 17:00-20:00 kickoff@rockhouse # Walter P Moore, Rockhouse Bar at the Venetian Hotel, 3377 S. Las Vegas Blvd, Las Vegas, NV 89109
 2016-11-14 18:30-20:30 speakerspecial@carnevino # restaurant at The Venetian
 2016-11-14 19:00-22:00 GetTogether@LagunaChampagneBar # Laguna Champagne Bar in the Grand Canal Shoppes, Susan Brattberg <susan@globaletraining.ca>
 2016-11-15 sperrmuell <a href="doc/loerrach_abfallkalender_2016.pdf">^</a>
 2016-11-15 au@las_vegas
+2016-11-15 08:45 forge booth
+2016-11-15 11:45-13:15 BIM 360 booth # https://docs.google.com/spreadsheets/d/1HpvY_geloSZQ-BGIU1566R29U7vj8MG-2J7IH7MHNAM/edit#gid=1095876890
 2016-11-15 12:45-17:30 devlab # Casanova 602 – 604, Level 1
 2016-11-15 19:30-22:30 sushi samba # Ideate Customer Appreciation Dinner & Celebration, The Palazzo, Grand Canal Shoppes, 3327 S Las Vegas Blvd, Las Vegas, NV
+2016-11-15 19:30-22:30 Ideate@palazzo # Ideate Software Customer Appreciation Dinner & Celebration, The Palazzo, Grand Canal Shoppes, 3327 S Las Vegas Blvd, Las Vegas, NV.
 2016-11-16 yellow sack <a href="doc/loerrach_abfallkalender_2016.pdf">^</a>
 2016-11-16 au@las_vegas
 2016-11-16 16:45-17:45 revit api panel # Lando 4204, Level 4
@@ -6302,6 +6305,7 @@ year 2015
 2016-11-27 sweat lodge
 2016-11-27 marie end
 
+2016-12-04 11:00 rose@kesselhaus # offenes atelier Atelier 19.2 Am Kesselhaus 15 D-79576 Weil am Rhein www.rosethurow.com 
 2016-12-04 munich travel
 2016-12-05 devday@munich # Ramada Hotel Messe 
 2016-12-06 accelerator@munich
@@ -6325,6 +6329,6 @@ year 2015
 2017-01-20 20:00-22:00 enno # pro familia, Rainstr. 20
 2017-02-17 20:00-22:00 enno # pro familia, Rainstr. 20
 
-2017-06-27 Forge DevCon
+2017-06-27 Forge DevCon # https://forge.autodesk.com/DevCon
 2017-06-28 Forge DevCon
 
