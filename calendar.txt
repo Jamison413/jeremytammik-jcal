@@ -6270,8 +6270,8 @@ year 2015
 2016-11-14 08:00-12:30 general session
 2016-11-14 14:00-17:00 aec breakout # Marcello 4401A Level 4
 2016-11-14 17:00-20:00 kickoff@rockhouse # Walter P Moore, Rockhouse Bar at the Venetian Hotel, 3377 S. Las Vegas Blvd, Las Vegas, NV 89109
-2016-11-14 18:30-20:30 speakerspecial@carnevino # restaurant at The Venetian
-2016-11-14 19:00-22:00 GetTogether@LagunaChampagneBar # Laguna Champagne Bar in the Grand Canal Shoppes, Susan Brattberg <susan@globaletraining.ca>
+2016-11-14 18:30-20:30 speakers pecial # carne vino restaurant at The Venetian
+2016-11-14 19:00-22:00 etraining gettogether # Laguna Champagne Bar in the Grand Canal Shoppes, Susan Brattberg <susan@globaletraining.ca>
 2016-11-15 sperrmuell <a href="doc/loerrach_abfallkalender_2016.pdf">^</a>
 2016-11-15 au@las_vegas
 2016-11-15 08:45 forge booth
