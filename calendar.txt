@@ -6317,10 +6317,12 @@ year 2015
 2016-12-08 accelerator@munich
 2016-12-08 20:00 demain (film) # Werkraum Schöpflin, Filmvorführung 'Tomorrow' und Diskussion
 2016-12-09 accelerator@munich
+2016-12-11 renate moc
 
 2016-12-16 20:00-22:00 enno # pro familia, Rainstr. 20
 2016-12-16 22:00 dunkelbunt@nellie
 2016-12-17 intensiv@eva
+2016-12-18 lomi@zrh
 
 2016-12-28 20:00 rauhnacht@bafudi
 
@@ -6340,3 +6342,5 @@ year 2015
 2017-06-27 Forge DevCon # https://forge.autodesk.com/DevCon
 2017-06-28 Forge DevCon
 
+2017-09-15 h3@bernau begin # https://www.meetup.com/Basel-Hash/events/235706821 http://www.harrier.eu.org/snh2017/
+2017-09-19 h3@bernau end # https://www.meetup.com/Basel-Hash/events/235706821
