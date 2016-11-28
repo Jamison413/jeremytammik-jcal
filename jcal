@@ -66,8 +66,8 @@ F=$DIR/tmp/gotomonth.sed
 
 #echo onload="window.location.href='#_$MONTH'"
 
-echo s/body bgcolor=\"#ffffff\"/body bgcolor=\"#ffffff\" onload=\"window.location.href=\'#_$MONTH\'\"/ > $F
-#echo s:body bgcolor=\"#ffffff\"\>:body bgcolor=\"#ffffff\" onload=\"window.location.href=\'#_$MONTH\'\"\>\<a href=\"http://jeremytammik.github.io/jcal/\"\>url</a>/ > $F
+#echo s/body bgcolor=\"#ffffff\"/body bgcolor=\"#ffffff\" onload=\"window.location.href=\'#_$MONTH\'\"/ > $F
+echo s:body bgcolor=\"#ffffff\"\>:body bgcolor=\"#ffffff\" onload=\"window.location.href=\'#_$MONTH\'\"\>\<p\>\<a href=\"http://jeremytammik.github.io/jcal/\"\>url\</a\>\</p\>: > $F
 
 #cat $F
 
