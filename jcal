@@ -61,6 +61,7 @@ then
 fi
 
 F=$DIR/tmp/gotomonth.sed
+F2=$DIR/addurl.sed
 
 #echo $F
 
@@ -74,7 +75,7 @@ echo s/body bgcolor=\"#ffffff\"/body bgcolor=\"#ffffff\" onload=\"window.locatio
 
 sed -f $DIR/unisodate.sed < $DIR/calendar.txt > $DIR/tmp/calendar
 
-pcal -f $DIR/tmp/calendar -H $YEAR | sed -f $F | sed -e 's/a><br/a><a href=\"http://jeremytammik.github.io/jcal/\">url</a><br' > $DIR/out/$YEAR.htm
+pcal -f $DIR/tmp/calendar -H $YEAR | sed -f $F | sed -e 's:a><br:a><a href="http://jeremytammik.github.io/jcal">url</a><br:' > $DIR/out/$YEAR.htm
 
 echo $DIR/out/$YEAR.htm
 
