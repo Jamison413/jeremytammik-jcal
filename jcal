@@ -62,9 +62,9 @@ fi
 
 F=$DIR/tmp/gotomonth.sed
 
-#echo onload="window.location.href='#_$MONTH'"
+#echo $F
 
-echo $F
+#echo onload="window.location.href='#_$MONTH'"
 
 echo s/body bgcolor=\"#ffffff\"/body bgcolor=\"#ffffff\" onload=\"window.location.href=\'#_$MONTH\'\"/ > $F
 
@@ -73,6 +73,8 @@ echo s/body bgcolor=\"#ffffff\"/body bgcolor=\"#ffffff\" onload=\"window.locatio
 sed -f $DIR/unisodate.sed < $DIR/calendar.txt > $DIR/tmp/calendar
 
 pcal -f $DIR/tmp/calendar -H $YEAR | sed -f $F > $DIR/out/$YEAR.htm
+
+echo $DIR/out/$YEAR.htm
 
 #open -a Firefox.app $DIR/$YEAR.htm
 
