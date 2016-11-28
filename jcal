@@ -64,6 +64,8 @@ F=$DIR/tmp/gotomonth.sed
 
 #echo onload="window.location.href='#_$MONTH'"
 
+echo $F
+
 echo s/body bgcolor=\"#ffffff\"/body bgcolor=\"#ffffff\" onload=\"window.location.href=\'#_$MONTH\'\"/ > $F
 
 #cat $F
