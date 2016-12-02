@@ -6311,6 +6311,8 @@ year 2015
 2016-12-02 17:00 loslassen@moni
 2016-12-04 11:00 rose@kesselhaus # offenes atelier 19.2 Am Kesselhaus 15 D-79576 Weil am Rhein www.rosethurow.com 
 2016-12-04 munich travel
+2016-12-04 14:42-19:43 bsl-muc
+2016-12-04 19:30 calabrone # http://www.calabrone.de /a/doc/travel/trip/munich/map_calabrone.png
 2016-12-05 devday@munich # Ramada Hotel Messe 
 2016-12-06 accelerator@munich
 2016-12-07 accelerator@munich
