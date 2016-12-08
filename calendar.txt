@@ -6317,6 +6317,7 @@ year 2015
 2016-12-06 accelerator@munich
 2016-12-07 accelerator@munich
 2016-12-08 accelerator@munich
+2016-12-08 15:57-16:18 u2 # messe west-hauptbahnhof
 2016-12-08 16:28-22:17 muc-pratteln # /a/doc/expense/receipt/2016/2016-12-08_train_ticket_muc_pratteln.pdf
 2016-12-08 20:00 demain (film) # Werkraum Schöpflin, Filmvorführung 'Tomorrow' und Diskussion
 2016-12-09 accelerator@munich
