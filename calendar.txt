@@ -6355,6 +6355,8 @@ year 2015
 2017-01-25 19:00 hackergarten@canoo # https://www.meetup.com/Hackergarten-Basel/events/236114893
 2017-01-26 proposal techsummit # london, https://engineering.autodesk.com/summits/ts2017/
 
+2017-02-11 12:00-21:00 oelen@ursula # emmendingen /j/tmp/2017-02-11_oelbad.pdf /j/tmp/2017-02-11_oelbad_flyer.pdf
+
 2017-02-17 20:00-22:00 enno # pro familia, Rainstr. 20
 
 2017-03-25 andreas + michael
