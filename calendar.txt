@@ -6321,10 +6321,8 @@ year 2015
 2016-12-08 16:28-22:17 muc-pratteln # /a/doc/expense/receipt/2016/2016-12-08_train_ticket_muc_pratteln.pdf
 2016-12-08 20:00 demain (film) # Werkraum Schöpflin, Filmvorführung 'Tomorrow' und Diskussion
 2016-12-09 accelerator@munich
-2016-12-10 zuegeln
 2016-12-10 13:00 h3@murten # https://www.meetup.com/basel-hash/events/236020120
 2016-12-10 16:00 tichu@madlee
-2016-12-11 zuegeln
 2016-12-11 regina + moc
 
 2016-12-13 10:00-10:30 partial retirement # meeting with marie-lore walt, hr
@@ -6336,6 +6334,9 @@ year 2015
 
 2016-12-21 15:00 holzsammeln
 2016-12-21 16:37 wisowe@kuenisberg # aesch birstal kurz vor zwingen in nenzlingen matten hoch bei den rest. blaue reben tanksperren parken hochlaufen 15 minunten auf den kamm aussichtspunkt 612 meter kuenisberg fels
+
+2016-12-27 zuegeln
+2016-12-27 zuegeln
 
 2016-12-28 14:00 janine + didi
 2016-12-28 20:00 rauhnacht@bafudi
