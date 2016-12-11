@@ -6323,7 +6323,7 @@ year 2015
 2016-12-09 accelerator@munich
 2016-12-10 13:00 h3@murten # https://www.meetup.com/basel-hash/events/236020120
 2016-12-10 16:00 tichu@madlee
-2016-12-11 regina + moc
+2016-12-11 18:15 regina + moc # lronenplatz binningen endstation 2-er tram
 
 2016-12-13 10:00-10:30 partial retirement # meeting with marie-lore walt, hr
 
