@@ -6336,7 +6336,7 @@ year 2015
 2016-12-18 lomi@zrh
 
 2016-12-19 13:00 moni@steuerberater
-2016-12-19 19:00 Angular@Magnolia # Oslo-Strasse 2, Basel https://www.meetup.com/Angular-Basel/events/235173792
+2016-12-19 19:00 angular@magnolia # Oslo-Strasse 2, Basel https://www.meetup.com/Angular-Basel/events/235173792
 
 2016-12-21 15:00 holzsammeln
 2016-12-21 16:37 wisowe@kuenisberg # aesch birstal kurz vor zwingen in nenzlingen matten hoch bei den rest. blaue reben tanksperren parken hochlaufen 15 minunten auf den kamm aussichtspunkt 612 meter kuenisberg fels
