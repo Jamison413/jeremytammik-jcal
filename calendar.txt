@@ -6389,5 +6389,8 @@ year 2015
 2017-06-27 Forge DevCon # https://forge.autodesk.com/DevCon
 2017-06-28 Forge DevCon
 
+2017-07-20 jusoca begin
+2017-07-29 jusoca end
+
 2017-09-15 h3@bernau begin # https://www.meetup.com/Basel-Hash/events/235706821 http://www.harrier.eu.org/snh2017/
 2017-09-19 h3@bernau end # https://www.meetup.com/Basel-Hash/events/235706821
