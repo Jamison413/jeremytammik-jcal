@@ -6330,6 +6330,7 @@ year 2015
 2016-12-14 yellow sack <a href="doc/loerrach_abfallkalender_2016.pdf">^</a>
 2016-12-15 gruenabfuhr
 
+2016-12-16 20:00 tanz@muellheim # DJ Midheaven, Freies Tanzen, Eisenbahnstraße 1, zu Fuß 5 Minuten vom Bahnhof Müllheim
 2016-12-16 20:00-22:00 enno # pro familia, Rainstr. 20
 2016-12-16 22:00 dunkelbunt@nellie
 2016-12-16 dan moebel packen
