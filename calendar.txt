@@ -6391,6 +6391,9 @@ year 2015
 
 2017-05-23 sauna
 
+2017-06-02 muelital begin
+2017-06-05 muelital end
+
 2017-06-15 art@bsl begin
 2017-06-18 art@bsl end
 
