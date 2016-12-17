@@ -6389,7 +6389,9 @@ year 2015
 2017-03-25 andreas + michael
 2017-03-26 andreas + michael
 
-2017-04-02 intensiv@eva
+2017-04-02 intensiv@michaelle
+
+2017-05-06 intensiv@eva
 
 2017-05-09 techsummit@london # https://engineering.autodesk.com/summits/ts2017/
 2017-05-10 techsummit@london # Hilton London Metropole Hotel, 225 Edgware Road, London W2 1JU, http://www.hiltonlondonmet.com
