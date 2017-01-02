@@ -6375,7 +6375,11 @@ year 2015
 
 2017-01-07 18:00 apero@karen
 
+2017-01-19 terrace@lina begin
+
 2017-01-20 20:00-22:00 enno # pro familia, Rainstr. 20
+
+2017-01-24 terrace@lina end
 
 2017-01-25 19:00 hackergarten@canoo # https://www.meetup.com/Hackergarten-Basel/events/236114893
 2017-01-26 proposal techsummit # london, https://engineering.autodesk.com/summits/ts2017/
