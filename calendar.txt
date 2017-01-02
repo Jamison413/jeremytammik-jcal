@@ -6377,6 +6377,8 @@ year 2015
 
 2017-01-19 terrace@lina begin
 
+2017-01-20 proposal au # london
+
 2017-01-20 20:00-22:00 enno # pro familia, Rainstr. 20
 
 2017-01-24 terrace@lina end
@@ -6416,6 +6418,9 @@ year 2015
 
 2017-06-15 art@bsl begin
 2017-06-18 art@bsl end
+
+2017-06-21 au@london # tobacco dock http://au.autodesk.com/london
+2017-06-22 au@london # tobacco dock
 
 2017-06-27 Forge DevCon # https://forge.autodesk.com/DevCon
 2017-06-28 Forge DevCon
