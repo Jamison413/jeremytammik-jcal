@@ -49,7 +49,7 @@ fi
 
 if [ "$1" = "" ]
 then
-  YEAR=`date "20+%y"`
+  YEAR=20`date "+%y"`
 else
   YEAR=$1
 fi
