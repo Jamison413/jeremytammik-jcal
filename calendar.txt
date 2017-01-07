@@ -6377,7 +6377,7 @@ year 2015
 
 2017-01-07 18:00 apero@karen
 2017-01-08 13:00 nik
-2017-01-08 15:00 h3@ # Hares Hutch Bachgasse 4 Biel-Benken https://www.meetup.com/Basel-Hash/events/236691762
+2017-01-08 15:00 h3@biel-benken # Hares Hutch Bachgasse 4 https://www.meetup.com/Basel-Hash/events/236691762
 
 2017-01-19 terrace@lina begin
 
