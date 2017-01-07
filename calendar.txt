@@ -433,6 +433,23 @@ last day in dec               new year's eve
 2016-11-14 14:52 vollmond # Montag
 2016-12-14 01:05 vollmond # Mittwoch
 
+# ^([^,]+)\,\s+([0-9]+)\.\s+([^ ]+)\s+(201[0-9])\,\s+([0-9][0-9]\:[0-9][0-9]).*\n
+# \4-\3-\2 \5 vollmond # \1\n
+
+2017-01-12 12:33 vollmond # Donnerstag
+2017-02-11 01:32 vollmond # Samstag
+2017-03-12 15:53 vollmond # Sonntag
+2017-04-11 08:08 vollmond # Dienstag
+2017-05-10 23:42 vollmond # Mittwoch
+2017-06-09 15:09 vollmond # Freitag
+2017-07-09 06:06 vollmond # Sonntag
+2017-08-07 20:10 vollmond part. finsternis # Montag
+2017-09-06 09:02 vollmond # Mittwoch
+2017-10-05 20:40 vollmond # Donnerstag
+2017-11-04 06:22 vollmond # Samstag
+2017-12-03 16:46 vollmond # Sonntag
+
+
 #
 # regular adn meetings:
 #
@@ -6378,6 +6395,9 @@ year 2015
 2017-01-07 18:00 apero@karen
 2017-01-08 13:00 nik
 2017-01-08 15:00 h3@biel-benken # Hares Hutch Bachgasse 4 https://www.meetup.com/Basel-Hash/events/236691762
+
+2017-01-11 vollmondfeuer
+2017-01-12 20:20 lerchenwave@gruett
 
 2017-01-18 20:10 bafudi
 2017-01-19 terrace@lina begin
