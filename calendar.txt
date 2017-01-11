@@ -6397,7 +6397,8 @@ year 2015
 2017-01-08 15:00 h3@biel-benken # Hares Hutch Bachgasse 4 https://www.meetup.com/Basel-Hash/events/236691762
 
 2017-01-11 vollmondfeuer
-2017-01-12 20:20 lerchenwave@gruett
+
+2017-01-14 18:00 beate
 
 2017-01-18 17:00 rvt2018 # meet the expert https://global.gotowebinar.com/join/2090641474986315778/472806869
 2017-01-18 20:10 bafudi
@@ -6412,6 +6413,7 @@ year 2015
 
 2017-01-25 19:00 hackergarten@canoo # https://www.meetup.com/Hackergarten-Basel/events/236114893
 2017-01-26 proposal techsummit # london, https://engineering.autodesk.com/summits/ts2017/
+2017-01-26 20:20 lerchenwave@gruett
 
 2017-01-27 tel@lueflue
 2017-01-28 tel@lueflue
