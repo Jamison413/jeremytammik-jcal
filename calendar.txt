@@ -6417,6 +6417,7 @@ year 2015
 
 2017-01-27 tel@lueflue
 2017-01-28 tel@lueflue
+2017-01-28 20:30 disco@holzen # manfred beate tal 10
 2017-01-29 tel@lueflue
 
 2017-02-05 15:30 huenerberger
@@ -6456,6 +6457,8 @@ year 2015
 
 2017-06-21 au@london # tobacco dock http://au.autodesk.com/london
 2017-06-22 au@london # tobacco dock
+
+2017-06-24 19:00 fest@holzen # steffi hansjoerg
 
 2017-06-27 Forge DevCon # https://forge.autodesk.com/DevCon
 2017-06-28 Forge DevCon
