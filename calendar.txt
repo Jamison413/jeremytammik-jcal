@@ -6422,6 +6422,7 @@ year 2015
 2017-01-28 20:30 disco@holzen # manfred beate tal 10
 2017-01-29 tel@lueflue
 
+2017-02-04 10:30 sabina@bsl # Have a get to know coffee before first dinner schedule https://www.meetup.com/Basel-fun-cooking-dinner-parties
 2017-02-05 15:30 huenerberger
 
 2017-02-11 12:00-21:00 oelen@ursula # emmendingen /j/tmp/2017-02-11_oelbad.pdf /j/tmp/2017-02-11_oelbad_flyer.pdf
@@ -6455,6 +6456,9 @@ year 2015
 
 2017-06-02 muelital begin
 2017-06-05 muelital end
+
+2017-06-11 forge@barca begin
+2017-06-16 forge@barca end
 
 2017-06-15 art@bsl begin
 2017-06-18 art@bsl end
