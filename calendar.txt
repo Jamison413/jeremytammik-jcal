@@ -6421,7 +6421,9 @@ year 2015
 2017-01-28 tel@lueflue
 2017-01-28 20:30 disco@holzen # manfred beate tal 10
 2017-01-29 tel@lueflue
+2017-01-30 pia + rene
 
+2017-01-31 falk
 2017-02-04 10:30 sabina@bsl # Have a get to know coffee before first dinner schedule https://www.meetup.com/Basel-fun-cooking-dinner-parties
 2017-02-05 15:30 huenerberger
 
