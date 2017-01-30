@@ -6480,6 +6480,10 @@ year 2015
 2017-07-03 adsk shutdown begin
 2017-07-07 adsk shutdown end
 
+2017-07-09 football@barca
+2017-07-10 football@barca
+2017-07-11 football@barca
+
 2017-07-20 jusoca begin
 2017-07-29 jusoca end
 
