@@ -6425,10 +6425,12 @@ year 2015
 
 2017-01-31 falk
 
-2017-02-02 12:00 zahnreinigung@scherble
+2017-02-02 12:00 zahnreinigung@scherble # dentist
 
 2017-02-04 10:30 sabina@bsl # Have a get to know coffee before first dinner schedule https://www.meetup.com/Basel-fun-cooking-dinner-parties
 2017-02-05 15:30 huenerberger
+
+2017-02-09 10:00 plombe@scherble # dentist
 
 2017-02-11 12:00-21:00 oelen@ursula # emmendingen /j/tmp/2017-02-11_oelbad.pdf /j/tmp/2017-02-11_oelbad_flyer.pdf
 
@@ -6439,7 +6441,7 @@ year 2015
 
 2017-02-20 12:30-16:44 bsl-bonn
 2017-02-20 move@lina begin
-2017-02-21 devdays_online
+2017-02-21 17:00-18:15 devdays_online # Revit API, Civil 3D & InfraWorks updates; Revit API only -- for product features, view the Meet the Experts recording from Jan 18
 2017-02-24 move@lina end
 2017-02-24 09:14-13:22 bonn-bsl
 
