@@ -6429,6 +6429,8 @@ year 2015
 
 2017-02-04 10:30 sabina@bsl # Have a get to know coffee before first dinner schedule https://www.meetup.com/Basel-fun-cooking-dinner-parties
 2017-02-05 15:30 huenerberger
+2017-02-06 19:00 shiya node.js desktop app # https://global.gotomeeting.com/join/711040277
+
 
 2017-02-09 10:00 plombe@scherble # dentist
 
