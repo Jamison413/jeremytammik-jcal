@@ -6436,6 +6436,7 @@ year 2015
 2017-02-08 falk
 2017-02-08 16:30 ciprian
 2017-02-09 09:30 employee photo
+2017-02-10 16:00 ciprian
 
 2017-02-09 10:00 plombe@scherble # dentist
 
@@ -6457,6 +6458,7 @@ year 2015
 2017-02-24 move@lina end
 2017-02-24 09:14-13:22 bonn-bsl
 
+2017-02-25 19:00 atmo@fr
 2017-02-26 intensiv@beat
 
 2017-03-03 wildhaus begin
