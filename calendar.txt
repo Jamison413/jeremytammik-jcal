@@ -6438,11 +6438,9 @@ year 2015
 2017-02-09 09:30 employee photo
 2017-02-10 16:00 ciprian
 
-2017-02-09 10:00 plombe@scherble # dentist
-
 2017-02-11 12:00-21:00 oelen@ursula # emmendingen /j/tmp/2017-02-11_oelbad.pdf /j/tmp/2017-02-11_oelbad_flyer.pdf
 2017-02-12 15:00-18:00 h3@schuetzenmattpark # tram stop schützenhaus (trams 1 + 8) https://www.meetup.com/basel-hash/events/237133790
-
+2017-02-13 11:15 plombe@scherble # dentist
 2017-02-14 15:30 werkbank
 
 2017-02-15 18:30 karen + falk
