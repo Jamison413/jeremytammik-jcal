@@ -6472,6 +6472,8 @@ year 2015
 2017-03-27 09:00 room balder
 2017-03-31 16:00 forge@goeteborg end
 
+2017-04-01 emea@braennoe
+
 2017-04-02 intensiv@michelle
 
 2017-05-06 intensiv@eva
