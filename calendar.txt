@@ -6480,8 +6480,8 @@ year 2015
 2017-04-02 intensiv@michelle
 
 2017-05-05 18:00 zehnder@wildhaus
-2017-05-06
-2017-05-07
+2017-05-06 zehnder@wildhaus
+2017-05-07 zehnder@wildhaus
 
 2017-05-06 intensiv@eva
 
