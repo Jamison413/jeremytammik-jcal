@@ -6457,6 +6457,7 @@ year 2015
 2017-02-20 move@lina begin
 2017-02-21 09:02-13:18 loe-bonn
 2017-02-21 17:00-18:15 devdays_online # Revit API, Civil 3D & InfraWorks updates; Revit API only -- for product features, view the Meet the Experts recording from Jan 18
+2017-02-23 adressaenderung # pratteln --> binningen
 2017-02-24 move@lina end
 2017-02-24 09:14-13:22 bonn-bsl
 
