@@ -6554,3 +6554,6 @@ year 2015
 2017-11-14 au@las
 2017-11-15 au@las
 2017-11-16 au@las
+
+2017-12-23 moni ferien begin
+2018-01-03 moni ferien end
