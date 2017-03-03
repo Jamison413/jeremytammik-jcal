@@ -6480,6 +6480,7 @@ year 2015
 2017-03-10 moni ferien end
 2017-03-11 wildhaus end
 2017-03-12 intensiv@moni
+2017-03-12 14:00 h3@jura # delemont https://www.meetup.com/Basel-Hash/events/238136353
 
 2017-03-19 10:00 sweat lodge
 
@@ -6540,6 +6541,7 @@ year 2015
 2017-07-10 football@barca
 2017-07-11 football@barca
 2017-07-14 piazzogna end
+2017-07-15 brassac begin
 
 2017-07-20 jusoca begin
 2017-07-29 jusoca end
@@ -6547,6 +6549,8 @@ year 2015
 
 2017-08-04 piazzogna end
 2017-08-06 moni ferien end
+
+2017-08-15 brassac end
 
 2017-09-15 h3@bernau begin # https://www.meetup.com/Basel-Hash/events/235706821 http://www.harrier.eu.org/snh2017/
 2017-09-19 h3@bernau end # https://www.meetup.com/Basel-Hash/events/235706821
