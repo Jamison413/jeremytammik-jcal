@@ -6495,6 +6495,8 @@ year 2015
 2017-03-25 andreas + michael
 2017-03-26 andreas + michael
 
+2017-03-26 11:55-13:55 zrh-got # SWISS 1226 Helvetic Airways Confirmation: 5QPOD9
+
 2017-03-26 forge@goeteborg begin
 2017-03-27 09:00 room balder
 2017-03-31 16:00 forge@goeteborg end
