@@ -6504,7 +6504,7 @@ year 2015
 
 2017-04-01 emea@braennoe
 2017-04-01 15:00 braennoe-airport
-2017-04-01 15:05-18:35 got-zrh # air berlin 8065 + 8570
+2017-04-01 15:05-18:35 got-zrh # air berlin 8065 + 8570 Confirmation: 5Q2GPA Trip Record Locator: YKGPEQ
 
 #Flight Gothenburg (GOT) to Berlin Tegel Airport (TXL)
 #Air Berlin 8065
@@ -6512,7 +6512,6 @@ year 2015
 #Departure: 03:05 PM
 #Arrival: 04:20 PM
 #Duration: 1 hour, 15 minutes
-#Confirmation: 5Q2GPA
 #50 min layover at Tegel Airport (TXL)
 #Flight Berlin (TXL) to Zurich (ZRH)
 #Air Berlin 8570
@@ -6526,6 +6525,8 @@ year 2015
 
 2017-04-10 moni ferien begin
 2017-04-21 moni ferien end
+
+2017-04-30 intensiv@eva
 
 2017-05-05 18:00 zehnder@wildhaus
 2017-05-06 zehnder@wildhaus
