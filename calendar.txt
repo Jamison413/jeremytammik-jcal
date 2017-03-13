@@ -6495,7 +6495,7 @@ year 2015
 2017-03-25 andreas + michael
 2017-03-26 andreas + michael
 
-2017-03-26 11:55-13:55 zrh-got # SWISS 1226 Helvetic Airways Confirmation: 5QPOD9
+2017-03-26 11:55-13:55 zrh-got # SWISS 1226 Helvetic Airways Confirmation: 5QPOD9 Trip Record Locator: EOHBNL
 
 2017-03-26 forge@goeteborg begin
 2017-03-27 09:00 room balder
@@ -6504,6 +6504,21 @@ year 2015
 
 2017-04-01 emea@braennoe
 2017-04-01 15:00 braennoe-airport
+2017-04-01 15:05-18:35 got-zrh # air berlin 8065 + 8570
+
+#Flight Gothenburg (GOT) to Berlin Tegel Airport (TXL)
+#Air Berlin 8065
+#Operated by: Tuifly
+#Departure: 03:05 PM
+#Arrival: 04:20 PM
+#Duration: 1 hour, 15 minutes
+#Confirmation: 5Q2GPA
+#50 min layover at Tegel Airport (TXL)
+#Flight Berlin (TXL) to Zurich (ZRH)
+#Air Berlin 8570
+#Departure: 05:10 PM
+#Arrival: 06:35 PM
+#Duration: 1 hour, 25 minutes
 
 2017-04-02 intensiv@michelle
 
