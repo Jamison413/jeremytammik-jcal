@@ -6440,7 +6440,7 @@ year 2015
 
 2017-02-11 12:00-21:00 oelen@ursula # emmendingen /j/tmp/2017-02-11_oelbad.pdf /j/tmp/2017-02-11_oelbad_flyer.pdf
 2017-02-12 15:00-18:00 h3@schuetzenmattpark # tram stop schützenhaus (trams 1 + 8) https://www.meetup.com/basel-hash/events/237133790
-2017-02-13 11:15 plombe@benz # dentist scherble, 46 is dead
+2017-02-13 11:15 plombe@benz # dentist scherble, A6 is dead
 2017-02-13 18:30 karen + falk
 
 2017-02-16 15:30 werkbank
@@ -6485,6 +6485,8 @@ year 2015
 
 2017-03-14 18:00 pfluger@dhbw # die welt braucht eine geldreform, Campus Hangstraße 46-50, Hörsaal A361
 2017-03-14 20:00 tatjana
+
+2017-03-16 12:15 bez@scherble # dentist, B8 filling or edge of tooth broke off
 
 2017-03-19 10:00 sweat lodge
 
