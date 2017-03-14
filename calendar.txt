@@ -6496,6 +6496,7 @@ year 2015
 2017-03-22 18:00 meteoblue # Bluespace, Greifengasse 38 - 5th floor, Basel https://www.meetup.com/webilea/events/238077969
 
 2017-03-23 11:00-12:00 evangelists # To share best practices with other -- how you work with your local sales teams
+2017-03-23 18:00 hacker@canoo # https://www.meetup.com/Hackergarten-Basel/events/238408886
 
 2017-03-25 andreas + michael
 2017-03-26 andreas + michael
