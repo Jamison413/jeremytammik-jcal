@@ -6505,6 +6505,7 @@ year 2015
 
 2017-03-26 forge@goeteborg begin
 2017-03-27 09:00 room balder
+2017-03-30 20:00 dav@sak # mitgliederversammlung
 2017-03-31 16:00 forge@goeteborg end
 2017-03-31 14:00 office-braennoe
 2017-03-31 20:00 brännö värdshus # http://www.brannovardshus.se
