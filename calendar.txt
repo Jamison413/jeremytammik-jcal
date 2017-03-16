@@ -6551,6 +6551,7 @@ year 2015
 2017-06-03 klasstraeff@stockholm
 2017-06-05 muelital end
 
+2017-06-11 oelbad
 2017-06-11 forge@barca begin
 2017-06-16 forge@barca end
 
