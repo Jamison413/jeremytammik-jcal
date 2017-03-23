@@ -6498,8 +6498,9 @@ year 2015
 2017-03-23 11:00-12:00 evangelists # To share best practices with other -- how you work with your local sales teams
 2017-03-23 18:00 hacker@canoo # Kirschgartenstrasse 5, https://www.meetup.com/Hackergarten-Basel/events/238408886
 
-2017-03-25 andreas + michael
-2017-03-26 andreas + michael
+2017-03-25 22:00 andreas
+2017-03-25 12:00 michael
+2017-03-25 three men
 
 2017-03-26 11:55-13:55 zrh-got # SWISS 1226 Helvetic Airways Confirmation: 5QPOD9 Trip Record Locator: EOHBNL
 
