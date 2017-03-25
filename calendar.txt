@@ -6502,7 +6502,7 @@ year 2015
 2017-03-25 12:00 michael
 2017-03-25 three men
 
-2017-03-26 11:55-13:55 zrh-got # SWISS 1226 Helvetic Airways Confirmation: 5QPOD9 Trip Record Locator: EOHBNL
+2017-03-26 11:55-13:55 zrh-got # SWISS 1226 Helvetic Airways Confirmation: 5QPOD9 Trip Record Locator: EOHBNL eticket 7241226637324
 
 2017-03-26 forge@goeteborg begin
 2017-03-27 09:00 room balder
