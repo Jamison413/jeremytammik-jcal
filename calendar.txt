@@ -6599,8 +6599,8 @@ year 2015
 2017-10-01 moni ferien begin
 2017-10-15 moni ferien end
 
-2016-10-17 au@darmstadt
-2016-10-18 au@darmstadt
+2017-10-17 au@darmstadt
+2017-10-18 au@darmstadt
 
 2017-11-13 devcon
 2017-11-14 devcon
