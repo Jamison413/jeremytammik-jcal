@@ -6511,7 +6511,7 @@ year 2015
 2017-03-31 14:00 office-braennoe
 2017-03-31 20:00 braennoe vaerdshus # http://www.brannovardshus.se
 2017-04-01 emea@braennoe
-2017-04-01 15:00 braennoe-airport
+2017-04-01 14:30 boarding
 2017-04-01 15:05-18:35 got-zrh # air berlin 8065 + 8570 Confirmation: 5Q2GPA Trip Record Locator: YKGPEQ
 
 #Flight Gothenburg (GOT) to Berlin Tegel Airport (TXL)
