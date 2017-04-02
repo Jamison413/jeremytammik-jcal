@@ -6593,6 +6593,8 @@ year 2015
 
 2017-08-15 brassac end
 
+2017-08-19 intensiv@beat
+
 2017-09-15 h3@bernau begin # https://www.meetup.com/Basel-Hash/events/235706821 http://www.harrier.eu.org/snh2017/
 2017-09-19 h3@bernau end # https://www.meetup.com/Basel-Hash/events/235706821
 
