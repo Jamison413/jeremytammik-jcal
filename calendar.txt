@@ -6529,7 +6529,7 @@ year 2015
 
 2017-04-02 intensiv@michelle
 
-2017-04-03 19:00 rest@maglonia # REST API design: Problems and Solutions, Magnolia, Oslo-Strasse 2, Basel, http://byteleaf.de, https://www.meetup.com/basel-js/events/238530194
+2017-04-03 19:00 rest@magnolia # REST API design: Problems and Solutions, Magnolia, Oslo-Strasse 2, Basel, http://byteleaf.de, https://www.meetup.com/basel-js/events/238530194
 
 2017-04-07 18:30 sunahla # gemüsecurry; wenn ihr mögt könnt ihr gerne was leichtes zum dessert bringen.
 
