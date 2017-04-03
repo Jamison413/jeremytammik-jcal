@@ -6558,6 +6558,7 @@ year 2015
 
 2017-06-11 oelbad
 2017-06-11 forge@barca begin
+2017-06-12 hotel checkin # /a/doc/travel/trip/barcelona/hotel_hesperia_del_mar.pdf
 2017-06-16 forge@barca end
 
 2017-06-15 art@bsl begin
