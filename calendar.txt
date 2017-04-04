@@ -6538,8 +6538,11 @@ year 2015
 2017-04-10 moni ferien begin
 2017-04-21 moni ferien end
 
+2017-04-28 11:30 bez@scherble # dentist
+
 2017-04-30 intensiv@eva
 
+2017-05-05 08:30 bez@scherble # dentist
 2017-05-05 18:00 zehnder@wildhaus
 2017-05-06 zehnder@wildhaus
 2017-05-07 zehnder@wildhaus
