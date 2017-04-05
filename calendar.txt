@@ -6531,6 +6531,21 @@ year 2015
 
 2017-04-03 19:00 rest@magnolia # REST API design: Problems and Solutions, Magnolia, Oslo-Strasse 2, Basel, http://byteleaf.de, https://www.meetup.com/basel-js/events/238530194
 
+2017-04-05 20:00-21:30 tanz@nellie # Tanz- und Theaterimpro im Nellie Nashorn
+2017-05-03 20:00-21:30 tanz@nellie # Tanz- und Theaterimpro im Nellie Nashorn
+2017-07-05 20:00-21:30 tanz@nellie # Tanz- und Theaterimpro im Nellie Nashorn
+
+2017-04-20 20:30-22:00 tanz@gruett # Tanz- und Theaterimpro im Grütt
+2017-05-18 20:30-22:00 tanz@gruett # Tanz- und Theaterimpro im Grütt
+2017-06-22 20:30-22:00 tanz@gruett # Tanz- und Theaterimpro im Grütt
+
+2017-04-27 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Grütt
+2017-05-11 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Grütt
+2017-06-15 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Grütt
+
+2017-04-23 13:00-17:00 maltanz@kessel # Malen und Tanzen im Kesselhaus in Weil-Friedlingen, Atelier 19.2:
+2017-06-25 13:00-17:00 maltanz@kessel # Malen und Tanzen im Kesselhaus in Weil-Friedlingen, Atelier 19.2:
+
 2017-04-07 18:30 sunahla # gemüsecurry; wenn ihr mögt könnt ihr gerne was leichtes zum dessert bringen.
 
 2017-04-09 14:00 h3@olten bhf # https://www.meetup.com/Basel-Hash/events/238538329
