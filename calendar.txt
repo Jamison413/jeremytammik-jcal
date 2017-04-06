@@ -6577,7 +6577,6 @@ year 2015
 2017-06-11 oelbad
 2017-06-11 forge@barca begin
 2017-06-12 hotel checkin # /a/doc/travel/trip/barcelona/hotel_hesperia_del_mar.pdf
-2017-06-15 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Grütt
 2017-06-16 forge@barca end
 
 2017-06-15 art@bsl begin
@@ -6600,6 +6599,7 @@ year 2015
 2017-07-03 moni ferien begin
 2017-07-03 adsk shutdown begin
 2017-07-05 20:00-21:30 tanz@nellie # Tanz- und Theaterimpro im Nellie Nashorn
+2017-07-06 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Grütt
 2017-07-07 adsk shutdown end
 2017-07-08 piazzogna begin
 
