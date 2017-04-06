@@ -6591,8 +6591,11 @@ year 2015
 
 2017-06-25 13:00-17:00 maltanz@kessel # Malen und Tanzen im Kesselhaus in Weil-Friedlingen, Atelier 19.2:
 
-2017-06-27 Forge DevCon # https://forge.autodesk.com/DevCon
-2017-06-28 Forge DevCon
+#2017-06-27 Forge DevCon # https://forge.autodesk.com/DevCon
+#2017-06-28 Forge DevCon
+
+2017-06-29 bim@innsbruck # https://www.ontopwithbim.com
+2017-06-30 bim@innsbruck
 
 2017-07-01 heiner@guemmenen # https://www.wandelhof.ch
 2017-07-02 heiner@guemmenen
