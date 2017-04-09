@@ -6584,7 +6584,7 @@ year 2015
 
 2017-06-15 art@bsl begin
 
-2017-06-15 13:10-14:50 bsl-bcn moni # vueling VY6241 Basel (BSL) - Barcelona (BCN) Terminal 1
+2017-06-16 13:10-14:50 bsl-bcn moni # vueling VY6241 Basel (BSL) - Barcelona (BCN) Terminal 1
 
 2017-06-18 art@bsl end
 
