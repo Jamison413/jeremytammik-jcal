@@ -6546,8 +6546,10 @@ year 2015
 2017-04-23 13:00-17:00 maltanz@kessel # Malen und Tanzen im Kesselhaus in Weil-Friedlingen, Atelier 19.2:
 
 2017-04-27 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Grütt
+2017-04-27 18:00 hacker@canoo # Kirschgartenstrasse 5, https://www.meetup.com/Hackergarten-Basel/events
 
 2017-04-28 11:30 bez@scherble # dentist
+2017-04-28 18:00 bafudi@moni
 
 2017-04-30 intensiv@eva
 
