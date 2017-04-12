@@ -6540,6 +6540,8 @@ year 2015
 2017-04-10 compensation halfdays begin
 2017-04-10 moni ferien begin
 
+2017-04-17 17:00 tanz@leonhardskirchplatz # erster basler stadt-rund-tanz am ostermontag um 17 uhr treffpunkt: auf dem leonhardskirchplatz beim labyrinth
+
 2017-04-20 20:30-22:00 tanz@gruett # Tanz- und Theaterimpro im Grütt
 
 2017-04-21 moni ferien end
