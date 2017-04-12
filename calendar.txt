@@ -6543,7 +6543,7 @@ year 2015
 2017-04-20 20:30-22:00 tanz@gruett # Tanz- und Theaterimpro im Grütt
 
 2017-04-21 moni ferien end
-2017-04-21 compensation halfdays begin
+2017-04-21 compensation halfdays end
 
 2017-04-23 13:00-17:00 maltanz@kessel # Malen und Tanzen im Kesselhaus in Weil-Friedlingen, Atelier 19.2:
 
