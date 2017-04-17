@@ -6547,6 +6547,7 @@ year 2015
 2017-04-21 moni ferien end
 2017-04-21 compensation halfdays end
 
+2017-04-23 sonntagsjam@warteck
 2017-04-23 13:00-17:00 maltanz@kessel # Malen und Tanzen im Kesselhaus in Weil-Friedlingen, Atelier 19.2:
 
 2017-04-27 17:00 luciAnna
@@ -6555,6 +6556,8 @@ year 2015
 
 2017-04-28 11:30 bez@scherble # dentist
 2017-04-28 18:00 bafudi@moni
+
+2017-04-28 18:00-20:00 vr+ar+web # https://www.meetup.com/Meetup-GDG-Basel/events/239208806
 
 2017-04-30 intensiv@eva
 2017-04-30 18:00 walpurgis@tatjana
@@ -6567,6 +6570,7 @@ year 2015
 2017-05-07 zehnder@wildhaus
 
 2017-05-06 intensiv@eva
+2017-05-06 19:00 rose@kesselhaus # ateliernacht
 
 2017-05-09 techsummit@london # https://engineering.autodesk.com/summits/ts2017/
 2017-05-10 techsummit@london # Hilton London Metropole Hotel, 225 Edgware Road, London W2 1JU, http://www.hiltonlondonmet.com
@@ -6607,6 +6611,7 @@ year 2015
 
 2017-06-24 19:00 fest@holzen # steffi hansjoerg
 
+2017-06-25 11:00-21:00 mittsommerjam@warteck
 2017-06-25 13:00-17:00 maltanz@kessel # Malen und Tanzen im Kesselhaus in Weil-Friedlingen, Atelier 19.2:
 
 #2017-06-27 Forge DevCon # https://forge.autodesk.com/DevCon
@@ -6643,6 +6648,10 @@ year 2015
 
 2017-09-15 h3@bernau begin # https://www.meetup.com/Basel-Hash/events/235706821 http://www.harrier.eu.org/snh2017/
 2017-09-19 h3@bernau end # https://www.meetup.com/Basel-Hash/events/235706821
+
+2017-09-22 basti@lugano
+2017-09-23 basti@lugano
+2017-09-24 basti@lugano
 
 2017-09-23 intensiv@beat
 
