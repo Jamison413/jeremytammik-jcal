@@ -6572,6 +6572,8 @@ year 2015
 2017-05-06 intensiv@eva
 2017-05-06 19:00 rose@kesselhaus # ateliernacht
 
+2017-05-09 12:00-18:30 telekom
+
 2017-05-09 techsummit@london # https://engineering.autodesk.com/summits/ts2017/
 2017-05-10 techsummit@london # Hilton London Metropole Hotel, 225 Edgware Road, London W2 1JU, http://www.hiltonlondonmet.com
 2017-05-11 techsummit@london
