@@ -6565,7 +6565,7 @@ year 2015
 2017-04-31 dan@moni
 2017-05-01 dan@moni
 
-2017-04-30 intensiv@eva
+#2017-04-30 intensiv@eva
 2017-04-30 18:00 walpurgis@tatjana
 
 2017-05-03 20:00-21:30 tanz@nellie # Tanz- und Theaterimpro im Nellie Nashorn
