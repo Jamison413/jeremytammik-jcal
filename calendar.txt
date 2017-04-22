@@ -6556,8 +6556,8 @@ year 2015
 2017-04-27 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Grütt
 
 2017-04-28 11:30 bez@scherble # dentist
+2017-04-28 15:00 bagger
 2017-04-28 18:00 bafudi@moni
-
 2017-04-28 18:00-20:00 vr+ar+web # https://www.meetup.com/Meetup-GDG-Basel/events/239208806
 
 2017-04-29 dan@moni # fantasy
