@@ -6559,6 +6559,11 @@ year 2015
 
 2017-04-28 18:00-20:00 vr+ar+web # https://www.meetup.com/Meetup-GDG-Basel/events/239208806
 
+2017-04-29 dan@moni # fantasy
+2017-04-30 dan@moni
+2017-04-31 dan@moni
+2017-05-01 dan@moni
+
 2017-04-30 intensiv@eva
 2017-04-30 18:00 walpurgis@tatjana
 
@@ -6580,9 +6585,16 @@ year 2015
 
 2017-05-11 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Grütt
 
+2017-05-17 cfp@devcon # deadline call for proposals for the Las Vegas DevCon event
+
 2017-05-18 20:30-22:00 tanz@gruett # Tanz- und Theaterimpro im Grütt
 
+2017-05-19 18:00 frauen@moni
+
 2017-05-23 sauna completed
+
+2017-06-01 geburi@heiner
+2017-06-02 anja + joachim@burg
 
 2017-06-02 muelital begin
 2017-06-03 klasstraeff@stockholm
@@ -6648,6 +6660,10 @@ year 2015
 
 2017-08-19 intensiv@michelle
 
+2017-08-25 moni@tagifest
+
+2017-09-03 cousinen@zollikon
+
 2017-09-15 h3@bernau begin # https://www.meetup.com/Basel-Hash/events/235706821 http://www.harrier.eu.org/snh2017/
 2017-09-19 h3@bernau end # https://www.meetup.com/Basel-Hash/events/235706821
 
@@ -6664,6 +6680,10 @@ year 2015
 2017-10-18 au@darmstadt
 
 2017-10-22 intensiv@pascal
+
+2017-10-27 moni@kurs
+2017-10-28 moni@kurs
+2017-10-29 moni@kurs
 
 2017-11-13 devcon
 2017-11-14 devcon
