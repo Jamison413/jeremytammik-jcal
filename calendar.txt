@@ -6551,6 +6551,8 @@ year 2015
 2017-04-23 14:00 demo@friedlingen
 2017-04-23 sonntagsjam@warteck
 
+2017-04-24 15:00 bruchstein
+
 2017-04-27 17:00 luciAnna
 2017-04-27 18:00 hackergarten@canoo # Kirschgartenstrasse 5, https://www.meetup.com/Hackergarten-Basel/events
 2017-04-27 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Grütt
