@@ -6588,6 +6588,8 @@ year 2015
 2017-05-10 techsummit@london # Hilton London Metropole Hotel, 225 Edgware Road, London W2 1JU, http://www.hiltonlondonmet.com
 2017-05-11 techsummit@london
 
+2017-05-11 12:00 bez@scherble # dentist
+
 2017-05-11 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Grütt
 
 2017-05-17 cfp@devcon # deadline call for proposals for the Las Vegas DevCon event
