@@ -6592,6 +6592,8 @@ year 2015
 
 2017-05-11 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Grütt
 
+2017-05-13 15:00 spiele@rose # nice weather
+
 2017-05-17 cfp@devcon # deadline call for proposals for the Las Vegas DevCon event
 
 2017-05-18 20:30-22:00 tanz@gruett # Tanz- und Theaterimpro im Grütt
