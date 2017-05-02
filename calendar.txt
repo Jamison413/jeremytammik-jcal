@@ -6581,6 +6581,8 @@ year 2015
 2017-05-06 intensiv@eva
 2017-05-06 19:00 rose@kesselhaus # ateliernacht
 
+2017-05-07 15:00 h3@muenchenstein # tramstation hoffmatt tram nr 10 from sbb direction dornach, https://www.meetup.com/Basel-Hash/events/239669675
+
 2017-05-09 12:00-18:30 telekom
 2017-05-10 09:30-11:00 neil@warteck
 
