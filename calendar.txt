@@ -6598,6 +6598,7 @@ year 2015
 
 2017-05-17 cfp@devcon # deadline call for proposals for the Las Vegas DevCon event
 
+2017-05-18 19:00 vernissage@pompe # St. Josefshaus Herten, Hauptstr. 1, 79618 Rheinfelden, /j/tmp/2017-05-18_FlyerNaturwunder.pdf
 2017-05-18 20:30-22:00 tanz@gruett # Tanz- und Theaterimpro im Grütt
 
 2017-05-19 18:00 frauen@moni
