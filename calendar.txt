@@ -6583,6 +6583,8 @@ year 2015
 
 2017-05-07 15:00 h3@muenchenstein # tramstation hoffmatt tram nr 10 from sbb direction dornach, https://www.meetup.com/Basel-Hash/events/239669675
 
+2017-05-09 14:00-14:30 sapa@lync
+
 2017-05-09 12:00-18:30 telekom
 2017-05-10 09:30-11:00 neil@warteck
 
@@ -6595,6 +6597,8 @@ year 2015
 2017-05-11 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Grütt
 
 2017-05-13 15:00 spiele@rose # nice weather
+
+2017-05-16 07:04 nik@pilatus
 
 2017-05-17 cfp@devcon # deadline call for proposals for the Las Vegas DevCon event
 
