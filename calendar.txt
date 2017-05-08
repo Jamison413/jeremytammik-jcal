@@ -6583,10 +6583,10 @@ year 2015
 
 2017-05-07 15:00 h3@muenchenstein # tramstation hoffmatt tram nr 10 from sbb direction dornach, https://www.meetup.com/Basel-Hash/events/239669675
 
-2017-05-09 14:00-14:30 sapa@lync
-
 2017-05-09 12:00-18:30 telekom
 2017-05-10 09:30-11:00 neil@warteck
+
+2017-05-10 15:00-15:30 sapa@lync
 
 2017-05-09 techsummit@london # https://engineering.autodesk.com/summits/ts2017/
 2017-05-10 techsummit@london # Hilton London Metropole Hotel, 225 Edgware Road, London W2 1JU, http://www.hiltonlondonmet.com
@@ -6608,6 +6608,8 @@ year 2015
 2017-05-19 18:00 frauen@moni
 
 2017-05-23 sauna completed
+
+2017-05-25 18:00 hackergarten@canoo # Kirschgartenstrasse 5, https://www.meetup.com/Hackergarten-Basel/events
 
 2017-06-01 geburi@heiner
 2017-06-02 anja + joachim@burg
