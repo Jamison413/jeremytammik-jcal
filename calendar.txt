@@ -6601,6 +6601,7 @@ year 2015
 2017-05-16 07:00 nik@pilatus # Basel SBB ab 07:04 Pilatus Kulm an 09:20 Dauer 2:16 2 mal umsteigen IR, S 5, R 
 
 2017-05-17 au + devcon cfp # deadline call for proposals for the Las Vegas AU and DevCon events
+2017-05-17 08:23-12:44 bsl-bonn # /a/doc/travel/trip/koeln/2017-05-17_db_bsl_koeln.pdf
 2017-05-17 13:00 lina
 
 2017-05-18 lina
