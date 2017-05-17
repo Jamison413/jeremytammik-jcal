@@ -6611,6 +6611,7 @@ year 2015
 2017-05-19 lina
 2017-05-19 18:00 frauen@moni
 
+2017-05-23 10:00 vb3 # harald schneider
 2017-05-23 sauna completed
 
 2017-05-25 18:00 hackergarten@canoo # Kirschgartenstrasse 5, https://www.meetup.com/Hackergarten-Basel/events
