@@ -215,6 +215,17 @@ year 2015 # http://www.officeholidays.com/countries/switzerland/regional.php?lis
 2015-12-26 ne_holiday St Stephens Day # Celebrated on 26th December, typically moved and celebrated on the next weekday if 26 December is a Saturday or Sunday
 2015-12-31 ne_holiday Annual Week of Rest end
 
+year 2017 # https://www.myworkday.com/autodesk/d/task/1422$739.htmld
+2017-01-02 ne_holiday # saint berchtold
+2017-04-14 ne_holiday # good friday
+2017-04-17 ne_holiday # easter monday
+2017-05-25 ne_holiday # ascencion day
+2017-05-26 ne_holiday # bridge day
+2017-06-05 ne_holiday # whit monday
+2017-08-01 ne_holiday # national day
+2017-12-25 ne_holiday # week of rest begin
+2017-12-29 ne_holiday # week of rest end
+
 #
 # if the current language is german ("de" = deutsch),
 # select alternate text for christmas day
