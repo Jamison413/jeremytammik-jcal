@@ -6675,8 +6675,8 @@ year 2015
 2017-06-29 bim@innsbruck # https://www.ontopwithbim.com
 2017-06-30 bim@innsbruck
 
-2017-07-01 heiner@guemmenen # https://www.wandelhof.ch
-2017-07-02 heiner@guemmenen
+2017-07-01 geburi@heiner # https://www.wandelhof.ch
+2017-07-02 geburi@heiner
 2017-07-02 14:00 anja@burg # Jürgen geburi, Sport (Jürgen), Spass (Anja), Spiel, Tanz und Vergnügen
 2017-07-03 moni ferien begin
 2017-07-03 adsk shutdown begin
