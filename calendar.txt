@@ -6631,9 +6631,6 @@ year 2015
 2017-05-27 18:00 madlee
 2017-05-28 08:00 lorenz@borowan
 
-2017-06-01 geburi@heiner
-2017-06-02 anja + joachim@burg
-
 2017-06-02 muelital begin
 2017-06-03 klasstraeff@stockholm
 2017-06-05 muelital end
