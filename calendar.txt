@@ -226,6 +226,8 @@ year 2017 # https://www.myworkday.com/autodesk/d/task/1422$739.htmld
 2017-12-25 ne_holiday # week of rest begin
 2017-12-29 ne_holiday # week of rest end
 
+# ne_holiday end.
+
 #
 # if the current language is german ("de" = deutsch),
 # select alternate text for christmas day
@@ -6636,7 +6638,7 @@ year 2015
 2017-06-05 muelital end
 2017-06-05 19:15-21:30 ci # falling up! annatina im tanzraum warteck pp. 
 
-2017-06-11 oelbad
+2017-06-11 11:30-20:00 oelbad # aufbau 11.30, ritual 13.00, rein 15.00, abbau 19.00 uhr
 2017-06-11 forge@barca begin
 
 2017-06-12 09:55-11:35 bsl-bcn # easyJet 1075 Basel Mulhouse (BSL) - Barcelona (BCN) Duration: 1 hour, 40 minutes Confirmation: ES3JLFN Status: Booked in TravelFusion /ES3JLFN Trip Record Locator : ZFZEFE
