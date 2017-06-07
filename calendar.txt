@@ -6683,6 +6683,7 @@ year 2015
 2017-07-05 19:00 vuejs@magnolia # St Johanns-Vorstadt 38, Basel, https://www.meetup.com/basel-js/events/240164492
 
 2017-07-06 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Grütt
+2017-07-07 fete@helene
 2017-07-07 adsk shutdown end
 2017-07-08 piazzogna begin
 
