@@ -6641,6 +6641,7 @@ year 2015
 2017-06-11 11:30-20:00 oelbad # aufbau 11.30, ritual 13.00, rein 15.00, abbau 19.00 uhr
 2017-06-11 forge@barca begin
 
+2017-06-12 09:25 gate closed
 2017-06-12 09:55-11:35 bsl-bcn # easyJet 1075 Basel Mulhouse (BSL) - Barcelona (BCN) Duration: 1 hour, 40 minutes Confirmation: ES3JLFN Status: Booked in TravelFusion /ES3JLFN Trip Record Locator : ZFZEFE
 
 2017-06-12 hotel checkin # /a/doc/travel/trip/barcelona/hotel_hesperia_del_mar.pdf
@@ -6705,6 +6706,23 @@ year 2015
 2017-08-19 intensiv@michelle
 
 2017-08-25 moni@tagifest
+
+2017-08-24 luciAnna
+2017-08-25 luciAnna
+2017-08-26 luciAnna
+
+2017-10-26 luciAnna
+2017-10-27 luciAnna
+2017-10-28 luciAnna
+
+2017-12-07 luciAnna
+2017-12-08 luciAnna
+2017-12-09 luciAnna
+2017-12-10 luciAnna
+
+2018-01-25 luciAnna
+2018-01-26 luciAnna
+2018-01-27 luciAnna
 
 2017-09-03 cousinen@zollikon
 
