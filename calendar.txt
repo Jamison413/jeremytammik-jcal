@@ -6672,8 +6672,10 @@ year 2015
 #2017-06-27 Forge DevCon # https://forge.autodesk.com/DevCon
 #2017-06-28 Forge DevCon
 
-2017-06-29 bim@innsbruck # https://www.ontopwithbim.com
-2017-06-30 bim@innsbruck
+#2017-06-29 bim@innsbruck # https://www.ontopwithbim.com
+#2017-06-30 bim@innsbruck
+
+2017-06-29 18:00 hackergarten@canoo # Kirschgartenstrasse 5, https://www.meetup.com/Hackergarten-Basel/events
 
 2017-07-01 18:45 geburi@heiner # https://www.wandelhof.ch
 2017-07-02 geburi@heiner
