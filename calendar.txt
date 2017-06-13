@@ -6698,9 +6698,13 @@ year 2015
 
 2017-07-20 jusoca begin
 2017-07-29 jusoca end
-2017-07-29 piazzogna begin
 
+2017-07-27 soca@zegg begin # Sommercamp im ZEGG, https://sommercamp.zegg.de/de/
+2017-08-06 soca@zegg end 
+
+2017-07-29 piazzogna begin
 2017-08-04 piazzogna end
+
 2017-08-06 moni ferien end
 
 2017-08-15 brassac end
