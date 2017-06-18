@@ -6651,11 +6651,12 @@ year 2015
 
 2017-06-16 13:10-14:50 bsl-bcn moni # vueling VY6241 Basel (BSL) - Barcelona (BCN) Terminal 1
 
+#2017-06-17 20:00 monidjane # /j/tmp/Generationparty17.jpg, gottesacker 28, pratteln
+
 2017-06-18 art@bsl end
 
 2017-06-19 10:35-12:30 bcn-bsl # vueling VY6240 Barcelona (BCN) Terminal 1 - Basilea (BSL)
-
-2017-06-20 20:00 monidjane # /j/tmp/Generationparty17.jpg, gottesacker 28, pratteln
+2017-06-19 18:00 vernissage
 
 2017-06-21 stefan@bafudi # geburi
 
