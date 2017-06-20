@@ -6679,6 +6679,7 @@ year 2015
 
 2017-06-29 18:00 hackergarten@canoo # Kirschgartenstrasse 5, https://www.meetup.com/Hackergarten-Basel/events
 
+2017-07-01 18:00 prep@heiner
 2017-07-01 18:45 geburi@heiner # https://www.wandelhof.ch
 2017-07-02 geburi@heiner
 2017-07-02 14:00 anja@burg # Jürgen geburi, Sport (Jürgen), Spass (Anja), Spiel, Tanz und Vergnügen
