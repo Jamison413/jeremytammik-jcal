@@ -6690,16 +6690,25 @@ year 2015
 
 2017-07-06 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Grütt
 2017-07-07 fete@helene
+2017-07-07 harald@pfalz begin # dav
 2017-07-07 adsk shutdown end
 2017-07-08 piazzogna begin
+2017-07-09 harald@pfalz end # dav
 
 2017-07-14 piazzogna end
 
 2017-07-20 jusoca begin
+
+2017-07-21 ralf@watzmann begin # dav
+2017-07-23 ralf@watzmann end # dav
+
 2017-07-29 jusoca end
 
 2017-07-27 soca@zegg begin # Sommercamp im ZEGG, https://sommercamp.zegg.de/de/
 2017-08-06 soca@zegg end 
+
+2017-08-06 angela@ecrins # dav
+2017-08-13 angela@ecrins end # dav
 
 2017-07-29 piazzogna begin
 2017-08-04 piazzogna end
@@ -6715,6 +6724,15 @@ year 2015
 2017-08-24 luciAnna
 2017-08-25 luciAnna
 2017-08-26 luciAnna
+
+2017-09-02 bernd@pizbuin begin # dav
+2017-09-03 bernd@pizbuin end # dav
+
+2017-09-22 ralf@watzmann begin # dav
+2017-09-24 ralf@watzmann end # dav
+
+2017-09-29 dav WE begin # dav
+2017-10-01 dav WE end # dav
 
 2017-10-26 luciAnna
 2017-10-27 luciAnna
