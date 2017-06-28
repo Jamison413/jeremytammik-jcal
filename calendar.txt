@@ -6689,9 +6689,9 @@ year 2015
 2017-07-05 19:00 vuejs@magnolia # St Johanns-Vorstadt 38, Basel, https://www.meetup.com/basel-js/events/240164492
 
 2017-07-06 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Grütt
-2017-07-07 fete@helene
 2017-07-07 harald@pfalz begin # dav
 2017-07-07 adsk shutdown end
+#2017-07-08 fete@helene
 2017-07-08 piazzogna begin
 2017-07-09 harald@pfalz end # dav
 
@@ -6703,6 +6703,7 @@ year 2015
 2017-07-23 ralf@watzmann end # dav
 
 2017-07-29 jusoca end
+2017-07-29 jogi@ecrins # https://en.wikipedia.org/wiki/Barre_des_%C3%89crins
 
 2017-07-27 soca@zegg begin # Sommercamp im ZEGG, https://sommercamp.zegg.de/de/
 2017-08-06 soca@zegg end 
