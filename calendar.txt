@@ -6706,6 +6706,7 @@ year 2015
 2017-07-23 ralf@watzmann end # dav
 
 2017-07-28 kreativ@rose end
+2017-07-28 13:00 sweat lodge
 2017-07-29 jusoca end
 2017-07-29 jogi@ecrins # https://en.wikipedia.org/wiki/Barre_des_%C3%89crins
 
