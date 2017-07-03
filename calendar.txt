@@ -6692,8 +6692,12 @@ year 2015
 2017-07-06 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Grütt
 2017-07-07 harald@pfalz begin # dav
 2017-07-07 adsk shutdown end
+2017-07-07 19:00 fete@hugenschmidt # schreinerei
 #2017-07-08 fete@helene
 2017-07-08 piazzogna begin
+
+2017-07-09 15:00 h3@moehlin # SBB Möhlin Bahnhofpl. 2 https://www.meetup.com/Basel-Hash/events/241254746
+
 2017-07-09 harald@pfalz end # dav
 
 2017-07-14 piazzogna end
