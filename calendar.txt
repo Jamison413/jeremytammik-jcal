@@ -6694,6 +6694,7 @@ year 2015
 2017-07-07 adsk shutdown end
 2017-07-07 19:00 fete@hugenschmidt # schreinerei
 #2017-07-08 fete@helene
+2017-07-08 loe singt
 2017-07-08 piazzogna begin
 
 2017-07-09 15:00 h3@moehlin # SBB Möhlin Bahnhofpl. 2 https://www.meetup.com/Basel-Hash/events/241254746
