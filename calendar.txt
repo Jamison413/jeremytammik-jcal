@@ -6701,8 +6701,7 @@ year 2015
 
 2017-07-09 harald@pfalz end # dav
 
-2017-07-12 dany?
-2017-07-13 dany?
+2017-07-13 dany
 2017-07-14 piazzogna end
 
 2017-07-20 jusoca begin
@@ -6742,25 +6741,6 @@ year 2015
 2017-09-02 bernd@pizbuin begin # dav
 2017-09-03 bernd@pizbuin end # dav
 
-2017-09-22 ralf@watzmann begin # dav
-2017-09-24 ralf@watzmann end # dav
-
-2017-09-29 dav WE begin # dav
-2017-10-01 dav WE end # dav
-
-2017-10-26 luciAnna
-2017-10-27 luciAnna
-2017-10-28 luciAnna
-
-2017-12-07 luciAnna
-2017-12-08 luciAnna
-2017-12-09 luciAnna
-2017-12-10 luciAnna
-
-2018-01-25 luciAnna
-2018-01-26 luciAnna
-2018-01-27 luciAnna
-
 2017-09-03 cousinen@zollikon
 
 2017-09-15 h3@bernau begin # https://www.meetup.com/Basel-Hash/events/235706821 http://www.harrier.eu.org/snh2017/
@@ -6770,7 +6750,13 @@ year 2015
 2017-09-23 basti@lugano
 2017-09-24 basti@lugano
 
+2017-09-22 ralf@watzmann begin # dav
+2017-09-24 ralf@watzmann end # dav
+
 2017-09-23 intensiv@beat
+
+2017-09-29 dav WE begin # dav
+2017-10-01 dav WE end # dav
 
 2017-10-01 moni ferien begin
 2017-10-15 moni ferien end
@@ -6780,9 +6766,17 @@ year 2015
 
 2017-10-22 intensiv@pascal
 
+2017-10-26 luciAnna
+2017-10-27 luciAnna
+2017-10-28 luciAnna
+
 2017-10-27 moni@kurs
 2017-10-28 moni@kurs
 2017-10-29 moni@kurs
+
+2017-11-10 forum@wandelhof
+2017-11-11 forum@wandelhof
+2017-11-12 forum@wandelhof
 
 2017-11-13 devcon
 2017-11-14 devcon
@@ -6792,5 +6786,15 @@ year 2015
 
 2017-11-15 Rishi+Dwhani@bafudi
 
+2017-12-07 luciAnna
+2017-12-08 luciAnna
+2017-12-09 luciAnna
+2017-12-10 luciAnna
+
 2017-12-23 moni ferien begin
 2018-01-03 moni ferien end
+
+2018-01-25 luciAnna
+2018-01-26 luciAnna
+2018-01-27 luciAnna
+
