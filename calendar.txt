@@ -6702,6 +6702,8 @@ year 2015
 2017-07-09 harald@pfalz end # dav
 
 2017-07-13 dany
+2017-07-13 11:10-11:45 luino-intra # 201 duration 45 minutes http://www.navigazionelaghi.it/eng/m_orari_1.asp
+2017-07-14 11:55-12:45 intra-luino # 200 duration 50 minutes
 2017-07-14 piazzogna end
 
 2017-07-20 jusoca begin
