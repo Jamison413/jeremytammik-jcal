@@ -6713,6 +6713,7 @@ year 2015
 2017-07-21 ralf@watzmann begin # dav
 2017-07-23 ralf@watzmann end # dav
 
+2017-07-28 au profile + co-speaker # https://autodeskuniversity.smarteventscloud.com/content/myContentTasks.do
 2017-07-28 kreativ@rose end
 2017-07-28 13:00 sweat lodge
 2017-07-29 jusoca end
@@ -6722,6 +6723,8 @@ year 2015
 2017-08-06 soca@zegg end 
 
 2017-08-06 angela@ecrins # dav
+2017-08-09 au registration # https://autodeskuniversity.smarteventscloud.com/content/myContentTasks.do
+
 2017-08-13 angela@ecrins end # dav
 
 2017-07-29 piazzogna begin
@@ -6776,9 +6779,13 @@ year 2015
 2017-10-28 moni@kurs
 2017-10-29 moni@kurs
 
+2017-10-30 au handout
+
 2017-11-10 forum@wandelhof
 2017-11-11 forum@wandelhof
 2017-11-12 forum@wandelhof
+
+2017-11-13 au slides
 
 2017-11-13 devcon
 2017-11-14 devcon
