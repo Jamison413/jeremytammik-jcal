@@ -6764,6 +6764,7 @@ year 2015
 2017-09-23 intensiv@beat
 
 2017-09-29 dav WE begin # dav
+2017-09-30 pay tax bl 2017
 2017-10-01 dav WE end # dav
 
 2017-10-01 moni ferien begin
