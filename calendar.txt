@@ -6706,6 +6706,9 @@ year 2015
 2017-07-14 11:55-12:45 intra-luino # 200 duration 50 minutes
 2017-07-14 piazzogna end
 
+2017-07-17 14:00 astrid + anne-marie
+2017-07-17 19:00 andrea + magnus
+
 2017-07-20 jusoca begin
 
 2017-07-21 11:00 kreativ@rose begin
