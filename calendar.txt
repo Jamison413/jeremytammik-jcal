@@ -6767,6 +6767,8 @@ year 2015
 2017-09-30 pay tax bl 2017
 2017-10-01 dav WE end # dav
 
+2017-10-02 au@da slides
+
 2017-10-01 moni ferien begin
 2017-10-15 moni ferien end
 
