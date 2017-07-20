@@ -6772,6 +6772,7 @@ year 2015
 
 2017-10-17 au@darmstadt
 2017-10-18 au@darmstadt
+2017-10-18 11:30-12:30 bim # 2. Tag, Sessionrunde 3
 
 2017-10-22 intensiv@pascal
 
