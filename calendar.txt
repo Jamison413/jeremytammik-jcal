@@ -456,7 +456,7 @@ last day in dec               new year's eve
 2017-05-10 23:42 vollmond # Mittwoch
 2017-06-09 15:09 vollmond # Freitag
 2017-07-09 06:06 vollmond # Sonntag
-2017-08-07 20:10 vollmond part. finsternis # Montag
+2017-08-07 20:10 vollmond part. finsternis # Montag, mondaufgang 20:46, sonnenuntergang 20:54
 2017-09-06 09:02 vollmond # Mittwoch
 2017-10-05 20:40 vollmond # Donnerstag
 2017-11-04 06:22 vollmond # Samstag
@@ -6726,6 +6726,7 @@ year 2015
 2017-08-06 soca@zegg end 
 
 2017-08-06 angela@ecrins # dav
+
 2017-08-09 au registration # https://autodeskuniversity.smarteventscloud.com/content/myContentTasks.do
 
 2017-08-13 angela@ecrins end # dav
