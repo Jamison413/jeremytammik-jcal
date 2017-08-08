@@ -6805,6 +6805,8 @@ year 2015
 
 2017-11-15 Rishi+Dwhani@bafudi
 
+2017-12-01 chris begin
+
 2017-12-07 luciAnna
 2017-12-08 luciAnna
 2017-12-09 luciAnna
@@ -6812,6 +6814,8 @@ year 2015
 
 2017-12-23 moni ferien begin
 2018-01-03 moni ferien end
+
+2018-01-18 chris end
 
 2018-01-25 luciAnna
 2018-01-26 luciAnna
