@@ -6749,6 +6749,8 @@ year 2015
 2017-08-25 luciAnna
 2017-08-26 luciAnna
 
+2017-09-02 19:00 sleep@silo # 
+
 2017-09-02 bernd@pizbuin begin # dav
 2017-09-03 bernd@pizbuin end # dav
 
