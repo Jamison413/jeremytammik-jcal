@@ -6799,11 +6799,13 @@ year 2015
 
 2017-11-13 au slides
 
+2017-11-12 checkin@venetian
 2017-11-13 devcon
 2017-11-14 devcon
 2017-11-14 au@las
 2017-11-15 au@las
 2017-11-16 au@las
+2017-11-17 checkout
 
 2017-11-15 Rishi+Dwhani@bafudi
 
