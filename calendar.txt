@@ -6725,14 +6725,16 @@ year 2015
 2017-07-27 soca@zegg begin # Sommercamp im ZEGG, https://sommercamp.zegg.de/de/
 2017-08-06 soca@zegg end 
 
+2017-07-29 piazzogna begin
+2017-08-04 piazzogna end
+
 2017-08-06 angela@ecrins # dav
 
 2017-08-09 au registration # https://autodeskuniversity.smarteventscloud.com/content/myContentTasks.do
 
 2017-08-13 angela@ecrins end # dav
 
-2017-07-29 piazzogna begin
-2017-08-04 piazzogna end
+2017-08-29 18:00 hackergarten@canoo # Kirschgartenstrasse 5, https://www.meetup.com/Hackergarten-Basel/events/242561179
 
 2017-08-12 15:00 h3@bsl # Moonies Garden Hut Opposite Unterer Batteriweg 119, Basel, https://www.meetup.com/Basel-Hash/events/242374257
 
