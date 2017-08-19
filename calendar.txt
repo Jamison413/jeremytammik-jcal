@@ -6805,6 +6805,8 @@ year 2015
 
 2017-10-30 au handout
 
+2017-11-05 intensiv@thomas
+
 2017-11-10 forum@wandelhof
 2017-11-11 forum@wandelhof
 2017-11-12 forum@wandelhof
@@ -6828,6 +6830,8 @@ year 2015
 2017-12-08 luciAnna
 2017-12-09 luciAnna
 2017-12-10 luciAnna
+
+2017-12-10 intensiv@beat
 
 2017-12-23 moni ferien begin
 2018-01-03 moni ferien end
