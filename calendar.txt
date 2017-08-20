@@ -6743,9 +6743,9 @@ year 2015
 2017-08-15 brassac end
 
 2017-08-19 09:00 intensiv@michelle
-2017-08-19 17:00 geburi@franziska # Solothurnerstr. 65 /j/tmp/2017-08-19_franziska.pdf
+2017-08-19 17:00 geburi@franziska
 
-2017-08-20 17:00 karen
+2017-08-20 17:20 karen
 2017-08-21 10:00 chris white
 2017-08-21 11:00 sabine
 
