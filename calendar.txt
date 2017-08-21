@@ -6799,6 +6799,8 @@ year 2015
 2017-10-17 au@darmstadt
 2017-10-18 au@darmstadt
 2017-10-18 11:30-12:30 bim # 2. Tag, Sessionrunde 3
+2017-10-19 15:00-18:30 devcon germany # Room Ferrum at Darmstadtium
+2017-10-19 19:00-21:00 3dwebfest # Room Ferrum at Darmstadtium
 
 2017-10-19 09:30-10:30 ruecken@vhs
 
