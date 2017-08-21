@@ -6771,6 +6771,7 @@ year 2015
 2017-09-15 h3@bernau begin # https://www.meetup.com/Basel-Hash/events/235706821 http://www.harrier.eu.org/snh2017/
 2017-09-19 h3@bernau end # https://www.meetup.com/Basel-Hash/events/235706821
 
+2017-09-21 09:30-10:30 ruecken@vhs
 2017-09-22 basti@lugano
 2017-09-23 basti@lugano
 2017-09-24 basti@lugano
@@ -6780,6 +6781,8 @@ year 2015
 
 2017-09-23 intensiv@beat
 
+2017-09-28 09:30-10:30 ruecken@vhs
+
 2017-09-29 dav WE begin # dav
 2017-09-30 pay tax bl 2017
 2017-10-01 dav WE end # dav
@@ -6787,13 +6790,21 @@ year 2015
 2017-10-02 au@da slides
 
 2017-10-01 moni ferien begin
+
+2017-10-05 09:30-10:30 ruecken@vhs
+2017-10-12 09:30-10:30 ruecken@vhs
+
 2017-10-15 moni ferien end
 
 2017-10-17 au@darmstadt
 2017-10-18 au@darmstadt
 2017-10-18 11:30-12:30 bim # 2. Tag, Sessionrunde 3
 
+2017-10-19 09:30-10:30 ruecken@vhs
+
 2017-10-22 intensiv@pascal
+
+2017-10-26 09:30-10:30 ruecken@vhs
 
 2017-10-26 luciAnna
 2017-10-27 luciAnna
@@ -6805,7 +6816,11 @@ year 2015
 
 2017-10-30 au handout
 
+2017-11-01 09:30-10:30 ruecken@vhs
+
 2017-11-05 intensiv@thomas
+
+2017-11-08 09:30-10:30 ruecken@vhs
 
 2017-11-10 forum@wandelhof
 2017-11-11 forum@wandelhof
@@ -6823,8 +6838,13 @@ year 2015
 2017-11-17 checkout
 
 2017-11-15 Rishi+Dwhani@bafudi
+2017-11-16 09:30-10:30 ruecken@vhs
+2017-11-23 09:30-10:30 ruecken@vhs
+2017-11-30 09:30-10:30 ruecken@vhs
 
 2017-12-01 chris begin
+
+2017-12-07 09:30-10:30 ruecken@vhs
 
 2017-12-07 luciAnna
 2017-12-08 luciAnna
