@@ -6755,6 +6755,7 @@ year 2015
 2017-08-25 luciAnna
 2017-08-26 luciAnna
 2017-08-26 16:00 felsenaufest@bern
+2017-08-27 patrick@climb
 
 2017-08-28 16:00 rose@moni
 
@@ -6799,6 +6800,7 @@ year 2015
 2017-10-12 09:30-10:30 ruecken@vhs
 
 2017-10-15 moni ferien end
+2017-10-15 14:00 georg
 
 2017-10-16 12:00-18:00 devcon.de # Room Ferrum at Darmstadtium
 2017-10-17 au@darmstadt
