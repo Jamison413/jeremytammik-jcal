@@ -6765,6 +6765,7 @@ year 2015
 2017-09-03 bernd@pizbuin end # dav
 
 2017-09-03 cousinen@zollikon
+2017-09-04 18:00 geburi@rose
 
 2017-09-09 14:00 h3@zrh # red dress run, Hull's School, Falkenstrasse 28a, 8008 Zuerich, https://www.meetup.com/The-Zurich-Hash-House-Harriers/events/240783440/
 
