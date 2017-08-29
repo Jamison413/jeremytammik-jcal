@@ -6774,6 +6774,7 @@ year 2015
 2017-09-09 14:00 h3@zrh # red dress run, Hull's School, Falkenstrasse 28a, 8008 Zuerich, https://www.meetup.com/The-Zurich-Hash-House-Harriers/events/240783440/
 
 2017-09-15 h3@bernau begin # https://www.meetup.com/Basel-Hash/events/235706821 http://www.harrier.eu.org/snh2017/
+2017-09-16 19:00-24:00 ateliernacht@qomico
 2017-09-19 h3@bernau end # https://www.meetup.com/Basel-Hash/events/235706821
 
 2017-09-21 09:30-10:30 ruecken@vhs
