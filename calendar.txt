@@ -6769,7 +6769,8 @@ year 2015
 
 2017-09-03 cousinen@zollikon
 2017-09-04 18:00 geburi@rose
-2017-09-05 vollmondfeuer
+2017-09-06 19:00 vollmondfeuer
+2017-09-07 08:30 heike@bad bhf # blau berlingo FR
 
 2017-09-09 14:00 h3@zrh # red dress run, Hull's School, Falkenstrasse 28a, 8008 Zuerich, https://www.meetup.com/The-Zurich-Hash-House-Harriers/events/240783440/
 
@@ -6855,6 +6856,7 @@ year 2015
 2017-11-30 09:30-10:30 ruecken@vhs
 
 2017-12-01 chris begin
+2017-12-02 18:00-24:00 reserved for moni
 
 2017-12-07 09:30-10:30 ruecken@vhs
 
