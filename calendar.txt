@@ -6790,6 +6790,7 @@ year 2015
 2017-09-24 ralf@watzmann end # dav
 
 2017-09-23 intensiv@beat
+2017-09-23 15:00 konzert@schmiedehof # basel beim rümelinsplatz, iMediahaus <natascha.stohler@sunrise.ch>
 
 2017-09-28 09:30-10:30 ruecken@vhs
 
