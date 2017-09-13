@@ -6786,6 +6786,7 @@ year 2015
 2017-09-19 h3@bernau end # https://www.meetup.com/Basel-Hash/events/235706821
 
 2017-09-21 09:30-10:30 ruecken@vhs
+2017-09-21 20:30 improtanz@gruett
 2017-09-22 basti@lugano
 2017-09-23 basti@lugano
 2017-09-24 basti@lugano
