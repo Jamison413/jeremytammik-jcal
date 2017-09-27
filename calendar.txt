@@ -6837,6 +6837,10 @@ year 2015
 2017-10-28 moni@kurs
 2017-10-29 moni@kurs
 
+2017-10-27 tel@trogen
+2017-10-28 tel@trogen
+2017-10-29 tel@trogen
+
 2017-10-30 au handout
 
 2017-11-02 09:30-10:30 ruecken@vhs
