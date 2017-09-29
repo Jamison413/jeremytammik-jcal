@@ -6862,6 +6862,7 @@ year 2015
 2017-11-14 au@las
 2017-11-14 13:00-17:00 devlab
 2017-11-15 au@las
+2017-11-15 14:15-15:15 revi api panel # SD124063 - Revit API Expert Roundtable: Open House on the Factory Floor
 2017-11-16 au@las
 2017-11-17 checkout
 
