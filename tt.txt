@@ -1,0 +1,4735 @@
+tt.txt
+
+regular expressions:
+
+^.*^.*
+train times:
+  loerrach-littenweiler:
+  Lörrach                              ab  17:16  1   SBB83095 SBB GmbH
+  Weil am Rhein           an  17:27    ab  17:31  7   RE 31118 RegionalExpress
+  Freiburg Hbf  an  18:18  2 ab  18:40  7   RB 31615 RegionalBahn
+  Freiburg-Littenweiler   an  18:48
+  Dauer: 1:32;  Mo - Fr, nicht 6. Jan, 14., 17. Apr, 1., 25. Mai, 5., 15. Jun, 3. Okt, 1. Nov
+
+basel - bern - marin - neuchatel - basel
+  1   Basel SBB 04.11.05  ab  08:27     0:58  0  EC Bern    an  09:25
+  2   Basel SBB 04.11.05  ab  09:00     0:56  0  ICE Bern    an  09:56
+  3   Basel SBB 04.11.05  ab  09:04     1:18  1  IC, IR Bern    an  10:22
+  4   Basel SBB 04.11.05  ab  09:27     0:58  0  IC Bern    an  10:25
+
+  1   Bern 04.11.05  ab  10:37     0:41  1  RE, R Marin-Epagnier    an  11:18
+  2   Bern 04.11.05  ab  11:06     0:37  0  S5 Marin-Epagnier    an  11:43
+  3   Bern 04.11.05  ab  11:37     0:41  1  RE, R Marin-Epagnier    an  12:18
+  4   Bern 04.11.05  ab  12:06     0:37  0  S5 Marin-Epagnier    an  12:43
+
+  1   Marin-Epagnier 04.11.05  ab  12:44     0:09  0  S5 Neuchâtel    an  12:53
+  2   Marin-Epagnier 04.11.05  ab  13:19     0:07  0  R Neuchâtel    an  13:26
+  3   Marin-Epagnier 04.11.05  ab  13:44     0:09  0  S5 Neuchâtel    an  13:53
+  4   Marin-Epagnier 04.11.05  ab  14:19     0:07  0  R Neuchâtel    an  14:26
+
+  1   Neuchâtel 04.11.05  ab  15:43     1:50  1  RE, IC Basel SBB    an  17:33
+  2   Neuchâtel 04.11.05  ab  16:24     1:29  0  ICN Basel SBB    an  17:53
+  3   Neuchâtel 04.11.05  ab  16:27     1:24  1  ICN, IR Basel SBB    an  17:51
+  4   Neuchâtel 04.11.05  ab  16:43     1:50  1  RE, ICE Basel SBB    an  18:33
+  5   Neuchâtel 04.11.05  ab  17:24     1:27  1  ICN, IC Basel SBB    an  18:51
+  6   Neuchâtel 04.11.05  ab  17:27     1:24  2  ICN, IC Basel SBB    an  18:51
+  7   Neuchâtel 04.11.05  ab  17:27     1:26  0  ICN Basel SBB    an  18:53
+
+steckborn richtung mammern ca. 2 km raus
+  Lörrach Steckborn   20.01.06 07:01 10:06 3:05 2 SBB, IRE, S
+  Lörrach Steckborn   20.01.06 08:07 11:06 2:59 2 BUS, IRE, S
+  Lörrach Steckborn   20.01.06 09:07 12:06 2:59 2 BUS, IRE, S
+
+  Detailansicht
+  Bahnhof/Haltestelle  Datum Zeit Gleis Produkte Bemerkungen
+  Lörrach  20.01.06            Fußweg 8 Min.
+  Lörrach Busbahnhof  20.01.06
+  Lörrach Busbahnhof  20.01.06  ab  09:15      Bus 7304 Bus Richtung: Rheinfelden  Busbahnhof
+  Oberrheinplatz, Rheinfelden   20.01.06  an  09:42
+  Oberrheinplatz, Rheinfelden   20.01.06            Fußweg 8 Min.
+  Rheinfelden  20.01.06
+  Rheinfelden  20.01.06  ab  09:50  1   IRE 3123 InterRegioExpress
+  Fahrradmitnahme begrenzt möglich
+  Schaffhausen  20.01.06  an  10:42
+  Schaffhausen  20.01.06            Fußweg 5 Min.
+  Schaffhausen SBB  20.01.06
+  Schaffhausen SBB  20.01.06  ab  11:31      S S3 S-Bahn Richtung: St. Gallen(CH), Haggen
+  Fahrradmitnahme begrenzt möglich
+  Steckborn  20.01.06  an  12:06
+  Dauer: 2:59;  Mo - Fr, nicht 14., 17. Apr, 1., 25. Mai, 5., 15. Jun, 3. Okt, 1. Nov
+
+  Lörrach Steckborn
+
+  11.01.06 ab an 10:07 13:06 2:59 2 BUS, IRE, S
+  11.01.06 ab an 11:07 14:06 2:59 2 BUS, IRE, S
+  11.01.06 ab an 12:02 15:06 3:04 2 BUS, IRE, S
+
+  Detailansicht
+  Bahnhof/Haltestelle  Datum Zeit Gleis Produkte Bemerkungen
+  Lörrach  11.01.06            Fußweg 8 Min.
+  Lörrach Busbahnhof  11.01.06
+  Lörrach Busbahnhof  11.01.06  ab  10:15      Bus 7304 Bus Richtung: Rheinfelden  Busbahnhof
+
+  Oberrheinplatz, Rheinfelden   11.01.06  an  10:42
+  Oberrheinplatz, Rheinfelden   11.01.06            Fußweg 8 Min.
+  Rheinfelden  11.01.06
+  Rheinfelden  11.01.06  ab  10:50  1   IRE 3105 InterRegioExpress
+  Fahrradmitnahme begrenzt möglich
+  Schaffhausen  11.01.06  an  11:42
+  Schaffhausen  11.01.06            Fußweg 5 Min.
+  Schaffhausen SBB  11.01.06
+  Schaffhausen SBB  11.01.06  ab  12:31      S S3 S-Bahn Richtung: St. Gallen(CH), Haggen
+  Fahrradmitnahme begrenzt möglich
+  Steckborn  11.01.06  an  13:06
+  Dauer: 2:59;  Mo - Fr, nicht 14., 17. Apr, 1., 25. Mai, 5., 15. Jun, 3. Okt, 1. Nov
+  Zwischenhalte einblenden
+
+
+  Von: Basel Bad Bf Datum:  Fr, 20.01.06 Zeit: 09:15 (Abfahrt)
+  Nach: Steckborn
+
+  Details Bahnhof/Haltestelle  Datum Zeit Dauer Umst. Reise mit
+  1   Basel, Messeplatz 20.01.06  ab  09:10     2:45  3  TRAM, IC, ICN, BUS
+  Steckborn, Bahnhof    an  11:53
+
+  2   Basel Bad Bf 20.01.06  ab  09:42     2:24  1  IRE, S3
+  Steckborn    an  12:06
+
+  3   Basel, Messeplatz 20.01.06  ab  09:48     2:42  3  TRAM, ICE, IC, BUS
+  Steckborn, Bahnhof    an  12:28
+
+  4   Basel Bad Bf 20.01.06  ab  10:42     2:24  1  IRE, S3
+  Steckborn    an  13:06
+
+    Basel Bad Bf 20.01.06  ab  09:42   IRE 3123  InterRegioExpress
+  Schaffhausen  an  10:42
+  Schaffhausen  ab  11:31  3  S3 23354  S-Bahn, Linie 3
+  Steckborn  an  12:06
+  Dauer: 2:24;  Mo - Fr, nicht an allg. Feiertg; nicht 1. Mai, 15. Jun, 3. Okt, 1. Nov; auch 1. Aug
+
+  Details mit Zwischenhalten - Verbindung 2
+    Basel Bad Bf 20.01.06  ab  09:42   IRE 3123  InterRegioExpress
+  Rheinfelden    ab  09:50
+  Bad Säckingen   ab  10:01
+  Waldshut   ab  10:15
+  Tiengen (Hochrhein)   ab  10:20
+  Erzingen    ab  10:29
+  Schaffhausen  an  10:42
+  Schaffhausen  ab  11:31  3  S3 23354  S-Bahn, Linie 3
+  Feuerthalen   ab  11:33
+  Langwiesen   ab  11:35
+  Schlatt   ab  11:37
+  St. Katharinental   ab  11:40
+  Diessenhofen   ab  11:44
+  Schlattingen   ab  11:46
+  Etzwilen   ab  11:49
+  Stein am Rhein   ab  11:57
+  Eschenz   ab  11:59
+  Mammern   ab  12:02
+  Steckborn  an  12:06
+  Dauer: 2:24;  Mo - Fr, nicht an allg. Feiertg; nicht 1. Mai, 15. Jun, 3. Okt, 1. Nov; auch 1. Aug
+
+  Von: Basel Bad Bf Datum:  Fr, 20.01.06 Zeit: 09:15 (Abfahrt)
+  Nach: Stein am Rhein
+
+  1   Basel Bad Bf 20.01.06  ab  08:42     1:44  1  IRE, R
+  Stein am Rhein    an  10:26
+
+  2   Basel Bad Bf 20.01.06  ab  09:42     1:44  1  IRE, R
+  Stein am Rhein    an  11:26
+
+  3   Basel Bad Bf 20.01.06  ab  10:42     1:44  1  IRE, R
+  Stein am Rhein    an  12:26
+
+  4   Basel Bad Bf 20.01.06  ab  11:42     1:44  1  IRE, R
+  Stein am Rhein    an  13:26
+
+  Details
+  Basel Bad Bf 20.01.06  ab  09:42   IRE 3123  InterRegioExpress
+  Schaffhausen  an  10:42
+  Schaffhausen  ab  11:01  3  R 9943  Regio
+  Stein am Rhein  an  11:26
+  Dauer: 1:44;  Mo - Fr, nicht an allg. Feiertg; nicht 1. Mai, 15. Jun, 3. Okt, 1. Nov; auch 1. Aug
+
+basel - bern - neuchatel - basel
+
+  Basel SBB 13.01.06  ab  09:00  5  ICE 5  InterCityExpress,  Bern  an  09:56  5  Dauer: 0:56;  täglich
+
+  Bern 13.01.06  ab  12:37     0:40  0  RE    Neuchâtel    an  13:17
+  Bern 13.01.06  ab  12:42     0:50  1  IR, ICN    Neuchâtel    an  13:32
+  Bern 13.01.06  ab  13:06     0:47  0  S5    Neuchâtel    an  13:53
+  Bern 13.01.06  ab  13:37     0:40  0  RE    Neuchâtel    an  14:17
+  Bern 13.01.06  ab  13:42     0:50  1  IR, ICN    Neuchâtel    an  14:32
+
+  Neuchâtel 13.01.06  ab  15:43     1:50  1  RE, IC    Basel SBB    an  17:33
+  Neuchâtel 13.01.06  ab  16:24     1:29  0  ICN    Basel SBB    an  17:53
+  Neuchâtel 13.01.06  ab  16:27     1:24  1  ICN, IR    Basel SBB    an  17:51
+  Neuchâtel 13.01.06  ab  16:43     1:50  1  RE, IC    Basel SBB    an  18:33
+  Neuchâtel 13.01.06  ab  17:24     1:27  1  ICN, EC    Basel SBB    an  18:51
+  Neuchâtel 13.01.06  ab  17:27     1:24  2  ICN, EC    Basel SBB    an  18:51
+  Neuchâtel 13.01.06  ab  17:27     1:26  0  ICN    Basel SBB    an  18:53
+  Neuchâtel 13.01.06  ab  17:43     1:50  1  RE, EC  Basel SBB    an  19:33
+  Neuchâtel 13.01.06  ab  18:24     1:29  0  ICN    Basel SBB    an  19:53
+  Neuchâtel 13.01.06  ab  18:27     1:24  1  ICN, IR    Basel SBB    an  19:51
+
+loerrach - freiburg
+
+  Lörrach  13.02.06  ab  16:16  1   SBB83091 SBB GmbH
+  Weil am Rhein  13.02.06  an  16:27
+  Weil am Rhein  13.02.06  ab  16:32  7   RE 31112 RegionalExpress
+  Freiburg Hbf  13.02.06  an  17:23  2
+  Dauer: 1:07;  Mo - Fr, nicht 14., 17. Apr, 1., 25. Mai, 5., 15. Jun, 3. Okt, 1. Nov
+  17:40 - 17:48 littenweiler
+
+  Lörrach  13.02.06  ab  16:31  1   SBB83175 SBB GmbH
+  Basel Bad Bf  13.02.06  an  16:41  9
+  Basel Bad Bf  13.02.06  ab  16:48  5   RE 5176 RegionalExpress
+  Freiburg Hbf  13.02.06  an  17:50  2
+  Dauer: 1:19;  Mo - Sa, nicht 14., 17. Apr, 1., 25. Mai, 5., 15. Jun, 3. Okt, 1. Nov
+  18:10 - 18:18 littenweiler
+
+  Lörrach  13.02.06  ab  17:16  1   SBB83095 SBB GmbH
+  Weil am Rhein  13.02.06  an  17:27
+  Weil am Rhein  13.02.06  ab  17:31  7   RE 31118 RegionalExpress
+  Freiburg Hbf  13.02.06  an  18:18  2
+  Dauer: 1:02;  Mo - Fr, nicht 14., 17. Apr, 1., 25. Mai, 5., 15. Jun, 3. Okt, 1. Nov
+
+  Freiburg Hbf  an  18:18  2 ab  18:40  7   RB 31615 RegionalBahn
+  Freiburg-Littenweiler   an  18:48
+
+  Lörrach  13.02.06  ab  17:31  1   SBB83179 SBB GmbH
+  Basel Bad Bf  13.02.06  an  17:41  10
+  Basel Bad Bf  13.02.06  ab  17:48  5   RE 5178 RegionalExpress
+  Freiburg Hbf  13.02.06  an  18:50  2
+  Dauer: 1:19;  Mo - Sa, nicht 14., 17. Apr, 1., 25. Mai, 5., 15. Jun, 3. Okt, 1. Nov
+
+freiburg - loerrach
+
+  Freiburg Hbf  13.02.06  ab  22:25  4   RE 31085 RegionalExpress
+  Weil am Rhein  13.02.06  an  23:23  8
+  Weil am Rhein  13.02.06  ab  23:31  1   SBB83120 SBB GmbH
+  Lörrach  13.02.06  an  23:43  2
+  Dauer: 1:18;  Mo - Fr, nicht 14., 17. Apr, 1., 25. Mai, 5. Jun, 3. Okt
+
+2006-02-21 freiburg-betzdorf:
+
+  Freiburg Hbf  21.02.06  ab  07:57  1   ICE 602 InterCityExpress
+  Mannheim Hbf  21.02.06  an  09:24  3
+  Mannheim Hbf  21.02.06  ab  09:31  2   ICE 692 InterCityExpress
+  Frankfurt(Main)Hbf  21.02.06  an  10:08  9
+  Frankfurt(Main)Hbf  21.02.06  ab  10:23  12   IC 2374 InterCity
+  Gießen  21.02.06  an  11:03  2
+  Gießen  21.02.06  ab  11:14  12   RE 4866 RegionalExpress
+  Betzdorf(Sieg)  21.02.06  an  12:25  106
+  Dauer: 4:28;  täglich, nicht 9. bis 15. Mär 2006, 24. bis 28. Apr 2006
+
+  Freiburg Hbf  21.02.06  ab  07:57  1   ICE 602 InterCityExpress
+  Siegburg/Bonn  21.02.06  an  10:46  3
+  Siegburg/Bonn  21.02.06  ab  11:45  2   RE 4863 RegionalExpress
+  Betzdorf(Sieg)  21.02.06  an  12:31  105
+  Dauer: 4:34;  täglich
+
+  12:15 muenchen - koeln-bonn
+  hertz schalter
+
+  Freiburg Hbf  21.02.06  ab  07:57  1   ICE 602 InterCityExpress
+  Siegburg/Bonn  21.02.06  an  10:46  3
+  Siegburg/Bonn  21.02.06  ab  10:59  1   S 12 S-Bahn Richtung: Düren
+  Troisdorf  21.02.06  an  11:02  1
+  Troisdorf  21.02.06  ab  11:13  5   S 13 S-Bahn Richtung: Köln Hansaring
+  Köln/Bonn Flughafen  21.02.06  an  11:23  2 E
+  Dauer: 3:26;  Mo - Fr, nicht 14., 17. Apr, 1., 25. Mai, 5., 15. Jun, 3. Okt, 1. Nov
+
+  Freiburg Hbf  21.02.06  ab  07:57  1   ICE 602 InterCityExpress
+  Köln Hbf  21.02.06  an  11:04  4
+  Köln Hbf  21.02.06  ab  11:21  10 A-B   S 13 S-Bahn Richtung: Troisdorf
+  Köln/Bonn Flughafen  21.02.06  an  11:35  3 E
+  Dauer: 3:38;  Mo - Fr, nicht 14., 17. Apr, 1., 25. Mai, 5., 15. Jun, 3. Okt, 1. Nov
+
+  Freiburg Hbf  21.02.06  ab  08:57  1   ICE 278 InterCityExpress
+  Mannheim Hbf  21.02.06  an  10:22  2
+  Mannheim Hbf  21.02.06  ab  10:35  3   ICE 612 InterCityExpress
+  Siegburg/Bonn  21.02.06  an  11:46  3
+  Siegburg/Bonn  21.02.06  ab  11:59  1   S 12 S-Bahn Richtung: Düren
+  Troisdorf  21.02.06  an  12:02  1
+  Troisdorf  21.02.06  ab  12:13  5   S 13 S-Bahn Richtung: Köln Hansaring
+  Köln/Bonn Flughafen  21.02.06  an  12:23  2 E
+  Dauer: 3:26;  nicht täglich, 20. Feb bis 26. Mai 2006 Mo - Fr; nicht 14., 17. Apr, 1., 25. Mai
+
+2006-02-23 Basel SBB Neuchâtel ab  08:05  an  09:32     1:27  0  ICN
+
+2006-02-23 loe-ne
+  Lörrach 23.02.06  ab  07:31   R 83139  Regio
+  Basel Bad Bf  an  07:41
+  Basel Bad Bf         Fussweg  6 Min.
+  Basel, Badischer Bahnhof
+  Basel, Badischer Bahnhof  ab  07:48   Tram 1  Tram, Richtung: Basel, Dreirosenbrücke
+  Basel SBB, Bahnhof  an  07:59
+  Basel SBB, Bahnhof         Fussweg  5 Min., Y
+  Basel SBB
+  Basel SBB  ab  08:05  12  ICN 1612  InterCity-Neigezug,  BA
+  Neuchâtel  an  09:32  3
+  Dauer: 2:01;  Mo - Fr, nicht an allg. Feiertg; nicht 6. Mär, 1. Mai
+
+2006-03-09 freiburg - frankfurt flughafen
+
+  United airlines 900 from San Francisco 14.17 Uhr Mi 08.03. to Frankfurt 10.15 Uhr Do 09.03.
+
+  Freiburg Hbf  09.03.06  ab  07:57  1   ICE 602 InterCityExpress
+  Frankfurt(M) Flughafen Fernbf  09.03.06  an  10:06  Fern 6
+  Dauer: 2:09;  täglich
+
+  Lörrach  09.03.06  ab  07:01  1   SBB83137 SBB GmbH
+  Basel Bad Bf  09.03.06  an  07:11  9
+  Basel Bad Bf  09.03.06  ab  07:21  5   ICE 602 InterCityExpress
+  Frankfurt(M) Flughafen Fernbf  09.03.06  an  10:06  Fern 6
+  Dauer: 3:05;  täglich
+
+2006-03-17 munich - freiburg
+
+  München Hbf  17.03.06  ab  15:26  15   ICE 514 InterCityExpress
+  Stuttgart Hbf  17.03.06  an  17:47  9
+  Stuttgart Hbf  17.03.06  ab  18:01  10   IC 2064 InterCity
+  Karlsruhe Hbf  17.03.06  an  18:53  9
+  Karlsruhe Hbf  17.03.06  ab  19:01  2   ICE 601 InterCityExpress
+  Freiburg Hbf  17.03.06  an  20:01  3
+  Dauer: 4:35;  täglich, nicht 8. Apr
+
+  München Hbf  17.03.06  ab  15:26  15   ICE 514 InterCityExpress
+  Mannheim Hbf  17.03.06  an  18:26  3
+  Mannheim Hbf  17.03.06  ab  18:44  8   ICE 79 InterCityExpress
+  Freiburg Hbf  17.03.06  an  20:09  3
+  Dauer: 4:43;  täglich, nicht 14. bis 16. Apr 2006
+
+  München Hbf  17.03.06  ab  16:43  17   EC 60 EuroCity
+  Karlsruhe Hbf  17.03.06  an  19:53  6
+  Karlsruhe Hbf  17.03.06  ab  20:01  2   ICE 879 InterCityExpress
+  Freiburg Hbf  17.03.06  an  21:01  3
+  Dauer: 4:18;  täglich, nicht 14. bis 16. Apr 2006
+
+2006-03-26 auja loe-fr
+
+  Lörrach  25.03.06  ab  19:01  1   SBB83185 SBB GmbH
+  Basel Bad Bf  25.03.06  an  19:11  9
+  Basel Bad Bf  25.03.06  ab  19:21  4   ICE 500 InterCityExpress
+  Freiburg Hbf  25.03.06  an  19:55  1
+  Dauer: 0:54;  täglich
+
+  Lörrach  25.03.06  ab  19:16  1   SBB83103 SBB GmbH
+  Weil am Rhein  25.03.06  an  19:27
+  Weil am Rhein  25.03.06  ab  19:51  7   RE 5182 RegionalExpress
+  Freiburg Hbf  25.03.06  an  20:50  2
+  Dauer: 1:34;  täglich
+
+  Lörrach Busbahnhof  26.03.06  ab  08:35      Bus 15 Bus Richtung: Efringen-Kirchen Bahnhof
+  Eimeldingen Bahnhof  26.03.06  an  08:53
+  Eimeldingen  26.03.06  ab  08:56  1   RE 5156 RegionalExpress
+  Freiburg Hbf  26.03.06  an  09:37  2
+  Dauer: 1:10;  So, auch 14., 17. Apr, 1., 25. Mai, 5., 15. Jun, 3. Okt, 1. Nov
+
+  Freiburg Hbf  26.03.06  ab  17:08  4   RE 5177 RegionalExpress
+  Weil am Rhein  26.03.06  an  18:06  8
+  Weil am Rhein  26.03.06  ab  18:31  1   SBB83100 SBB GmbH
+  Lörrach  26.03.06  an  18:43  2
+  Dauer: 1:35;  täglich
+
+  Freiburg Hbf  26.03.06  ab  18:15  4   RE 5179 RegionalExpress
+  Weil am Rhein  26.03.06  an  19:06  8
+  Weil am Rhein  26.03.06  ab  19:31  1   SBB83104 SBB GmbH
+  Lörrach  26.03.06  an  19:43  2
+  Dauer: 1:28;  täglich
+
+2006-03-30 zermatt Do, 30.03.06
+
+  Bern 30.03.06  ab  18:06  6
+  IC 832  InterCity,  BP
+  Brig  an  19:42  9
+  Brig
+  Fussweg  7 Min., Y
+  Brig MGB-fo/bvz
+  Brig MGB-fo/bvz  ab  20:23  Pl
+  BUS 281  Bus
+  Täsch  an  21:25
+  Täsch  ab  21:30
+  R 123  Regio,
+  Zermatt  an  21:42
+  Dauer: 3:36;  täglich, 23. Okt bis 9. Dez Fr
+
+  Kandersteg 30.03.06  ab  19:07  1
+  IC 832  InterCity,  BP
+  Brig  an  19:42  9
+  Brig
+  Fussweg  7 Min., Y
+  Brig MGB-fo/bvz
+  Brig MGB-fo/bvz  ab  20:23  Pl
+  BUS 281  Bus
+  Täsch  an  21:25
+  Täsch  ab  21:30
+  R 123  Regio,
+  Zermatt  an  21:42
+  Dauer: 2:35;  täglich, 23. Okt bis 9. Dez Fr
+
+  Kandersteg 30.03.06  ab  13:07  1
+  IC 820  InterCity,   BP
+  Brig  an  13:42  7
+  Brig
+  Fussweg  7 Min., Y
+  Brig MGB-fo/bvz
+  Brig MGB-fo/bvz  ab  14:05  12
+  R 251  Regio
+  Zermatt  an  15:24
+  Dauer: 2:17;  täglich
+
+2006-04-07:
+
+  München Hbf  Fr, 07.04.06  ab  11:26  15   ICE 518 InterCityExpress
+  Stuttgart Hbf  Fr, 07.04.06  an  13:47  9
+  Stuttgart Hbf  Fr, 07.04.06  ab  14:01  10   IC 2068 InterCity
+  Karlsruhe Hbf  Fr, 07.04.06  an  14:53  10
+  Karlsruhe Hbf  Fr, 07.04.06  ab  15:01  2   ICE 507 InterCityExpress
+  Freiburg Hbf  Fr, 07.04.06  an  16:01  3
+  Dauer: 4:35;  täglich, nicht 8. Apr
+
+2006-06-28:
+
+  Basel Bad Bf
+  Freiburg Hbf  Mi, 28.06.06
+  Mi, 28.06.06 ab
+  15:48 16:50 1:02  0 RE  10,00 EUR
+  16:21 16:55 0:34  0 ICE  17,00 EUR
+  16:25 17:01 0:36  0 EC  14,00 EUR
+  16:28 17:23 0:55  0 RE  10,00 EUR
+
+2006-07-07 munich airport-freiburg
+  München Flughafen Terminal  Fr, 07.07.06  ab  11:51  1   S 1 S-Bahn Richtung: München Ost
+  München-Laim  Fr, 07.07.06  an  12:28  2
+  München-Laim  Fr, 07.07.06  ab  12:39  1   S 6 S-Bahn Richtung: Tutzing
+  München-Pasing  Fr, 07.07.06  an  12:42  6/7
+  München-Pasing  Fr, 07.07.06  ab  12:47  9   EC 64 EuroCity
+  Karlsruhe Hbf  Fr, 07.07.06  an  15:50  5
+  Karlsruhe Hbf  Fr, 07.07.06  ab  16:01  2   ICE 877 InterCityExpress
+  Freiburg Hbf  Fr, 07.07.06  an  17:01  3
+  Dauer: 5:10;  täglich, nicht 4. Nov, 2. Dez  Preis: 79,00 EUR Zur Buchung
+
+  muenchen flughafen 9:31
+  laim ab 10:34
+  augsburg ab 12:04 verspaetet auf 12:50
+  stuttgart ab 13:54 verspaetet auf 14:10
+  karlsruhe verpasste abfahrt ab 14:01, 15:01, 16:01 verspaetet auf 17:01
+  freiburg angekommen 18:01 statt 15:01
+
+2006-07-14 freiburg-loerrach
+  Freiburg Hbf  Fr, 14.07.06  ab  15:40  3   RE 31105 RegionalExpress
+  Fahrradmitnahme begrenzt möglich
+  Weil am Rhein  Fr, 14.07.06  an  16:27  8
+  Weil am Rhein  Fr, 14.07.06  ab  16:31  1   SBB83092 SBB GmbH
+  Fahrradmitnahme begrenzt möglich, SBB GmbH
+  Lörrach  Fr, 14.07.06  an  16:43  2
+  Dauer: 1:03;  Mo - Fr, nicht 3. Okt, 1. Nov
+
+2006-08-03
+  Basel Bad Bf Freiburg Hbf  Do, 03.08.06
+  15:48 16:50 1:02  0 RE  10,00 EUR
+  16:21 16:55 0:34  0 ICE  17,00 EUR
+  16:25 17:01 0:36  0 EC  14,00 EUR
+
+  Basel Bad Bf
+  Freiburg Hbf  Do, 03.08.06
+  Do, 03.08.06 ab
+  an 16:28
+  17:23 0:55  0 RE  10,00 EUR
+  Zur Buchung
+  Basel Bad Bf
+  Freiburg Hbf  Do, 03.08.06
+  Do, 03.08.06 ab
+  an 16:48
+  17:50 1:02  0 RE  10,00 EUR
+
+  Lörrach
+  Freiburg Hbf  Do, 03.08.06
+  Do, 03.08.06 ab
+  an 15:31
+  16:50 1:19  1 SBB, RE  10,00 EUR
+  Zur Buchung
+  Lörrach
+  Freiburg Hbf  Do, 03.08.06
+  Do, 03.08.06 ab
+  an 16:01
+  16:55 0:54  1 SBB, ICE  19,00 EUR
+  Zur Buchung
+  Lörrach
+  Freiburg Hbf  Do, 03.08.06
+  Do, 03.08.06 ab
+  an 16:16
+  17:23 1:07  1 SBB, RE  10,00 EUR
+
+2006-08-16:
+  Lörrach Freiburg Hbf  Do, 17.08.06
+  15:01 15:55 0:54  SBB, ICE
+  15:31 16:50 1:19  SBB, RE  10,00 EUR
+  16:01 16:55 0:54  SBB, ICE  19,00 EUR
+  16:16 17:23 1:07  SBB RE
+
+  Basel Bad Bf Freiburg Hbf  Do, 17.08.06
+  14:48 15:37 0:49 RE  10,00 EUR
+  15:13 15:48 0:35 ICE  17,00 EUR
+  15:21 15:55 0:34 ICE  17,00 EUR
+  15:48 16:50 1:02 RE  10,00 EUR
+  16:21 16:55 0:34 ICE  17,00 EUR
+  16:25 17:01 0:36 EC
+
+2006-08-22
+  Neuchâtel 22.08.06  ab  08:27  4  ICN 1517  InterCity-Neigezug,   BA
+   Biel/Bienne  an  08:44  2
+   Biel/Bienne  ab  08:51  7  IR 1830  InterRegio
+   Bern  an  09:18  9
+   Dauer: 0:51;  täglich
+  Neuchâtel 22.08.06  ab  08:43  1  RE 3031  RegioExpress
+   Bern  an  09:23
+   Dauer: 0:40;  täglich
+  Neuchâtel 22.08.06  ab  09:03  1  S5 15733  S-Bahn, Linie 5
+   Bern  an  09:54  13C
+   Dauer: 0:51;  täglich
+  Neuchâtel 22.08.06  ab  09:27  4  ICN 1619  InterCity-Neigezug,   BA
+   Biel/Bienne  an  09:44  3
+   Biel/Bienne  ab  09:51  7  IR 1834  InterRegio
+   Bern  an  10:18  9
+   Dauer: 0:51;  täglich
+
+Basel Bad Bf Freiburg Hbf  Mo, 28.08.06
+  13:26 14:21 0:55  0 RE
+
+2006-08-30
+  Freiburg Hbf
+  Basel Bad Bf  Mi, 30.08.06
+  08:03 08:38 0:35  0 ICE  17,00 EUR
+
+2006-09-12
+  Basel Bad Bf  Freiburg Hbf  Di, 12.09.06
+  17:26 18:18 0:52  0 RE
+
+2006-09-13
+  Lörrach   Freiburg Hbf  Mi, 13.09.06
+  13:16 14:21 1:05  1 SBB, RE  10,00 EUR
+  12:31 13:43 1:12  1 SBB, RE  10,00 EUR
+
+2006-09-13
+  Freiburg Hbf Basel Bad Bf  Do, 14.09.06
+  09:08 10:11 1:03  0 RE  10,00 EUR
+  12:25 13:27 1:02  0 RE  10,00 EUR
+
+2006-09-25
+  Basel Bad Bf
+  Freiburg Hbf  Mo, 25.09.06
+  Mo, 25.09.06 ab
+  an 16:28
+  17:23 0:55  0 RE  10,00 EUR
+
+2006-09-26:
+  Freiburg Hbf Basel Bad Bf  Di, 26.09.06
+  07:33 08:11 0:38  0 RE  10,00 EUR
+
+  Basel SBB 26.09.06  ab  Bern    an
+  08:27  09:25  0:58  0  EC
+  09:00  09:56  0:56  0  ICE
+
+  Freiburg Hbf  ab  08:03  3   ICE 5 InterCityExpress
+  Basel Bad Bf    ab 08:41
+  Basel SBB    ab 09:00
+  Olten    ab 09:26
+  Bern  an  09:56  5
+  Dauer: 1:53;  täglich
+
+2006-10-10:
+  fr basel/olten ne
+  07:01  basel an 07:47 ab 08:05  09:32  dauer 2:31;  Mo - Fr, nicht 1. Nov
+  08:03  Olten an 09:24 ab 09:40  10:32  dauer 2:29;  täglich
+  09:03  basel an 09:47 ab 10:05  11:32  dauer 2:29;  täglich
+
+  07:33  basel an 08:24 ab 09:05  10:32
+
+  Neuchâtel 10.10.06  ab  17:24  5
+  Olten  an  18:20  7
+  Olten  ab  18:27  10
+  Basel SBB  an  18:51  6
+  Dauer: 1:27;  täglich
+
+2006-10-18:
+
+  8:05 9:32 bsl ne
+  9:32 10:00 tax, pharmacy, medecin?
+  11:00 13:00 adesk
+  13:45 14:30 naef
+
+  1   Neuchâtel 18.10.06  ab  14:43     1:50  1  RE, IC    Basel SBB    an  16:33
+  2   Neuchâtel 18.10.06  ab  15:24     1:27  1  ICN, EC    Basel SBB    an  16:51
+  3   Neuchâtel 18.10.06  ab  15:27     1:24  2  ICN, EC    Basel SBB    an  16:51
+  4   Neuchâtel 18.10.06  ab  15:27     1:26  0  ICN    Basel SBB    an  16:53
+  5   Neuchâtel 18.10.06  ab  15:43     1:50  1  RE, IC    Basel SBB    an  17:33
+  6   Neuchâtel 18.10.06  ab  16:24     1:29  0  ICN    Basel SBB    an  17:53
+  7   Neuchâtel 18.10.06  ab  16:27     1:24  1  ICN, IR    Basel SBB    an  17:51
+
+suedwind vauban
+  Basel Bad Bf Freiburg Hbf  Mo, 23.10.06
+  Mo, 23.10.06 ab an 16:48 17:50 1:02  0 RE  10,00 EUR
+
+2006-11-06:
+  Basel Bad Bf  Freiburg Hbf  Mo, 06.11.06
+  16:28 17:23 0:55  0 RE  10,00 EUR
+  16:48 17:50 1:02  0 RE  10,00 EUR
+
+2006-11-15:
+  2   Basel SBB 15.11.06  ab  08:05     1:27  0  ICN    Neuchâtel    an  09:32
+  4   Basel SBB 15.11.06  ab  09:05     1:27  1  ICN    Neuchâtel    an  10:32
+  5   Basel SBB 15.11.06  ab  09:05     1:30  0  ICN    Neuchâtel    an  10:35
+
+  Neuchâtel 15.11.06  ab  18:24  5
+  Basel SBB  an  19:53  12
+  Dauer: 1:29;  15. Nov bis 9. Dez 2006 täglich
+
+  Neuchâtel 15.11.06  ab  18:27  4
+  Olten  an  19:20  7
+  Olten  ab  19:27  10
+  Basel SBB  an  19:51  6
+  Dauer: 1:24;  15. Nov bis 9. Dez 2006 täglich
+
+2006-11-18:
+  Lörrach Freiburg Hbf  Sa, 18.11.06 ueber basel
+  16:31 17:50 1:19  1 SBB, RE  10,00 EUR
+
+2006-11-21:
+  Freiburg Hbf  Lörrach  Di, 21.11.06
+  13:08 14:28 1:20  1 RE, SBB  10,00 EUR
+  14:03 14:58 0:55  1 ICE, SBB  19,00 EUR
+  14:16 15:28 1:12  1 RE, SBB  10,00 EUR
+
+2006-11-27:
+  Basel Bad Bf  ab  16:28  10   RE 31112 RegionalExpress
+  Gundelfingen  an  17:33  1
+  Dauer: 1:05;
+
+  Basel Bad Bf  ab  17:21  4   ICE 502 InterCityExpress
+  Freiburg Hbf  an  17:55  1
+  Freiburg Hbf  18:09  1   BSB81154 Breisgau-S-Bahn GmbH
+  Gundelfingen  an  18:15  1
+  Dauer: 0:54
+
+  Basel Bad Bf  ab  17:26  6   RE 31118 RegionalExpress
+  Gundelfingen  an  18:28  1
+  Dauer: 1:02;
+
+2006-12-02 basel sbb - flughafen:
+  1  Basel SBB, Bahnhof 02.12.06  ab  16:10        0:20  0  BUS Basel, EuroAirport    an  16:24
+  2  Basel SBB, Bahnhof 02.12.06  ab  16:25        0:20  0  BUS Basel, EuroAirport    an  16:39
+  3  Basel SBB, Bahnhof 02.12.06  ab  16:40        0:20  0  BUS Basel, EuroAirport    an  16:54
+  4  Basel SBB, Bahnhof 02.12.06  ab  16:55        0:20  0  BUS Basel, EuroAirport    an  17:09
+
+2006-12-12 bern neuchatel:
+  ab  11:37  an  12:17  0:40  0  RE
+  ab  11:42  an  12:32  0:50  1  IR, ICN
+  ab  12:06  an  12:53  0:47  0  S5
+  ab  12:37  an  13:17  0:40  0  RE
+  ab  12:42  an  13:32  0:50  1  IR, ICN
+  ab  13:06  an  13:53  0:47  0  S5
+
+2006-12-12 neuchatel basel:
+  1  Neuchâtel 12.12.06  ab  17:24        1:27  1  ICN, EC    Basel SBB    an  18:51
+  2  Neuchâtel 12.12.06  ab  17:27        1:24  2  ICN, EC    Basel SBB    an  18:51
+  3  Neuchâtel 12.12.06  ab  17:27        1:26  0  ICN    Basel SBB    an  18:53
+  5  Neuchâtel 12.12.06  ab  18:24        1:29  0  ICN   Basel SBB    an  19:53
+  6  Neuchâtel 12.12.06  ab  18:27        1:24  1  ICN, IR    Basel SBB    an  19:51
+
+2006-12-24 loe-bsl-mannheim-ffm:
+  08:01-08:11-08:22-10:22-10:35-11:06 Dauer: 3:05;  täglich, 21. Apr bis 20. Mai 2007 Mo - Fr
+  09:01-09:11-09:22-    ...    -12:06 Dauer: 3:05;  täglich
+
+2007-01-22 basel neuchatel:
+
+  Basel SBB 22.01.07  ab  07:03  12  ICN 610  InterCity-Neigezug,  BA
+  Neuchâtel  an  08:35  4
+  Dauer: 1:32;  täglich
+
+  Basel SBB 22.01.07  ab  07:04  4  EC 109  EuroCity CISALPINO TICINO,   RE
+  Olten  an  07:28  12
+  Olten  ab  07:40  9  ICN 1510  InterCity-Neigezug,  BA
+  Neuchâtel  an  08:32  3
+  Dauer: 1:28;  täglich
+
+  Basel SBB 22.01.07  ab  08:03  12  ICN 1612  InterCity-Neigezug,  BA
+  Neuchâtel  an  09:32  3  Dauer: 1:29;  täglich
+
+  Basel SBB 22.01.07  ab  08:04  8  IR 2165  InterRegio,
+  Olten  an  08:28  12
+  Olten  ab  08:40  9  ICN 512  InterCity-Neigezug,  BA
+  Biel/Bienne  an  09:13  4
+  Biel/Bienne  ab  09:16  5  ICN 1612  InterCity-Neigezug,  BA
+  Neuchâtel  an  09:32  3
+  Dauer: 1:28;  täglich
+
+  Basel SBB 22.01.07  ab  08:04  8  IR 2165  InterRegio,
+  Olten  an  08:28  12
+  Olten  ab  08:40  9  ICN 512  InterCity-Neigezug,  BA
+  Neuchâtel  an  09:35  4
+  Dauer: 1:31;  täglich
+
+2007-01-22 neuchatel freiburg:
+
+  Neuchâtel 22.01.07  ab  15:27  4
+  Basel SBB  an  16:53  12
+  Basel SBB  ab  17:04  7  ICE 770  InterCityExpress,  Z
+  Freiburg im Breisgau (D)  an  17:48
+  Dauer: 2:21;  täglich
+
+  Neuchâtel 22.01.07  ab  15:43  1
+  Bern  an  16:23  13AB
+  Bern  ab  16:35  6
+  Basel SBB  an  17:32  9
+  Basel SBB  ab  17:37   RE 5168  RegioExpress
+  Freiburg im Breisgau (D)  an  18:45
+  Dauer: 3:02;  Mo - Fr, nicht an allg. Feiertg; nicht 1. Mai 2007; auch 2. Jan 2007, 1. Aug 2007
+
+  Neuchâtel 22.01.07  ab  16:24  5
+  Basel SBB  an  17:53  12
+  Basel SBB  ab  18:12  10  ICE 870  InterCityExpress,  Z
+  Freiburg im Breisgau (D)  an  18:55
+  Dauer: 2:31;  Mo - Fr, nicht 25., 26. Dez 2006, 1. Jan 2007, 9. Apr 2007, 1., 28. Mai 2007
+
+  Neuchâtel 22.01.07  ab  16:27  4
+  Biel/Bienne  an  16:44  2
+  Biel/Bienne  ab  16:50  3
+  Basel SBB  an  17:53  12
+  Basel SBB  ab  18:12  10  ICE 870  InterCityExpress,  Z
+  Freiburg im Breisgau (D)  an  18:55
+  Dauer: 2:28;  Mo - Fr, nicht 25., 26. Dez 2006, 1. Jan 2007, 9. Apr 2007, 1., 28. Mai 2007
+
+check flugtaxi fr-bsl
+  Winterfahrplan: Gültig vom 29.10.06 bis einschließlich 24.03.07
+  Freiburg - Neuenburg - EuroAirport, frz. Seite
+  Freiburg     ab 03:45 04:45 06:15 07:45 08:30 10:00 11:30 12:30 14:15 16:00 17:30 18:30 19:45
+  Neuenburg    ab 04:10 05:10 06:40 08:10 08:55 10:25 11:55 12:55 14:40 16:25 17:55 18:55 20:10
+  Euro Airport an 04:40 05:40 07:10 08:40 09:25 10:55 12:25 13:25 15:10 16:55 18:25 19:25 20:40
+  16,00
+  4:45 bussteig nr. 2
+
+2007-01-29 bsl-fr:
+  Basel SBB 29.01.07  ab  17:37     RE 5168  RegioExpress
+  Basel Bad Bf   ab  17:48
+  Freiburg im Breisgau (D)  an  18:45
+  Dauer: 1:08;  Mo - Fr, nicht an allg. Feiertg; nicht 1. Mai; auch 1. Aug
+
+2007-01-30 fr-be:
+  Freiburg im Breisgau (D) 30.01.07  ab  07:08   IC 60479  InterCity,
+  Basel SBB  an  07:55
+  Basel SBB  ab  08:00  6  IC 861  InterCity,   BP
+  Bern  an  08:56  5
+  Dauer: 1:48;  täglich  IC 861  (Basel SBB)  Verkehrsbehinderungen während Anti-WEF-Kundgebung in Basel 27.01.2007 14.00 - 16.00 Uhr Gemäss Informationen der Kantonspolizei Basel wird es ab 14 Uhr in der Innenstadt von Basel zu kurzzeitigen Verkehrsbehinderungen kommen. Fahrgäste der BVB und der BLT müssen damit rechnen, dass in der Zeit zwischen 14 und 16 Uhr mehrere Tramstrecken über längere Zeit nicht befahren werden können und auch keine Tramzüge durch die Innenstadt verkehren.
+
+  Freiburg im Breisgau (D) 30.01.07  ab  07:34   RE 5155  RegioExpress
+  Basel SBB  an  08:20
+  Basel SBB  ab  08:27  6  EC 131  EuroCity CISALPINO VAL D'OSSOLA,   RE
+  Bern  an  09:25  6
+  Dauer: 1:51;  Mo - Fr, nicht an allg. Feiertg; nicht 1. Mai, 7. Jun, 3. Okt, 1. Nov; auch 1. Aug  EC 131  (Basel SBB)  Verkehrsbehinderungen während Anti-WEF-Kundgebung in Basel 27.01.2007 14.00 - 16.00 Uhr Gemäss Informationen der Kantonspolizei Basel wird es ab 14 Uhr in der Innenstadt von Basel zu kurzzeitigen Verkehrsbehinderungen kommen. Fahrgäste der BVB und der BLT müssen damit rechnen, dass in der Zeit zwischen 14 und 16 Uhr mehrere Tramstrecken über längere Zeit nicht befahren werden können und auch keine Tramzüge durch die Innenstadt verkehren.
+
+  Freiburg im Breisgau (D) 30.01.07  ab  08:02   ICE 5  InterCityExpress,   Z RE
+  Basel Bad Bf   ab  08:41
+  Basel SBB   ab  09:00
+  Olten   ab  09:26
+  Bern  an  09:56  5
+  Dauer: 1:54;  täglich  ICE 5  (Basel SBB)  Verkehrsbehinderungen während Anti-WEF-Kundgebung in Basel 27.01.2007 14.00 - 16.00 Uhr Gemäss Informationen der Kantonspolizei Basel wird es ab 14 Uhr in der Innenstadt von Basel zu kurzzeitigen Verkehrsbehinderungen kommen. Fahrgäste der BVB und der BLT müssen damit rechnen, dass in der Zeit zwischen 14 und 16 Uhr mehrere Tramstrecken über längere Zeit nicht befahren werden können und auch keine Tramzüge durch die Innenstadt verkehren.
+
+Basel Bad Bf - Freiburg Hbf  Mi, 07.03.07
+  14:48 15:45 0:57  0 RE  10,60 EUR
+  15:13 15:48 0:35  0 ICE  18,00 EUR
+  15:22 15:55 0:33  0 ICE  18,00 EUR
+  15:48 16:45 0:57  0 RE  10,60 EUR
+  16:22 16:55 0:33  0 ICE  18,00 EUR
+  16:26 17:23 0:57  0 RB  10,60 EUR
+
+2007-03-08 fr-ne:
+  Freiburg im Breisgau (D) 08.03.07  ab  07:34   RE 5155  RegioExpress
+  Basel Bad Bf  an  08:11
+
+  Basel SBB 08.03.07  ab  09:03  12  ICN 614  InterCity-Neigezug,  BA
+  Neuchâtel  an  10:35  4
+  Dauer: 1:32;  täglich
+
+  Basel SBB 08.03.07  ab  09:04  10  EC 111  EuroCity CISALPINO SAN MARCO,   RE
+  Olten  an  09:28  12
+  Olten  ab  09:40  9  ICN 1516  InterCity-Neigezug,  BA
+  Neuchâtel  an  10:32  3
+  Dauer: 1:28;  täglich
+
+2007-03-11 fr-grafing:
+  12:57 18:24 5:27  3 ICE, IC, S  82,00 EUR
+  13:50 19:24 5:34  2 ICE, S  82,00 EUR
+  13:57 19:24 5:27  3 ICE, IC, S  82,00 EUR
+  14:57 20:04 5:07  2 ICE, EC, S  82,00 EUR
+
+2007-03-16 munich-elzach:
+  15:24 20:47 5:23  3   ICE, IC, BSB  82,00 EUR
+  16:02 21:47 5:45  4 RB, ICE, EC, BSB  80,00 EUR
+  16:42 21:47 5:05  2   EC, ICE, BSB  82,00 EUR
+
+2007-03-29:
+  Basel SBB 29.03.07  ab  08:03  12  ICN 1612  InterCity-Neigezug,   BA
+  Neuchâtel  an  09:32  3
+  Dauer: 1:29;  täglich
+
+  Basel SBB 29.03.07  ab  08:04  8  IR 2165  InterRegio,
+  Olten  an  08:28  12
+  Olten  ab  08:40  9  ICN 512  InterCity-Neigezug,   BA
+  Biel/Bienne  an  09:13  4
+  Biel/Bienne  ab  09:16  5  ICN 1612  InterCity-Neigezug,   BA
+  Neuchâtel  an  09:32  3
+  Dauer: 1:28;  täglich
+
+2007-05-07:
+  16:26 17:23 0:57  RB
+  16:48 17:45 0:57  RE
+  17:13 17:48 0:35  ICE
+  17:21 17:55 0:34  ICE
+  17:26 18:23 0:57  RE
+  17:48 18:45 0:57  RE
+
+2007-07-06 loe-stuttgart flughafen
+  Lörrach  Fr, 06.07.07  ab  14:01  1   SBB87835 SBB GmbH
+  Basel Bad Bf  Fr, 06.07.07  an  14:11  6
+  Basel Bad Bf  Fr, 06.07.07  ab  14:22  4   ICE 276 Intercity-Express
+  Karlsruhe Hbf  Fr, 06.07.07  an  15:58  3
+  Karlsruhe Hbf  Fr, 06.07.07  ab  16:06  7   IC 2265 Intercity
+  Stuttgart Hbf  Fr, 06.07.07  an  16:49  14
+  Stuttgart Hbf  Fr, 06.07.07            Fußweg 9 Min.
+  Stuttgart Hbf (tief)  Fr, 06.07.07
+  Stuttgart Hbf (tief)  Fr, 06.07.07  ab  17:15  101   S 3 S-Bahn Richtung: Stuttgart Flughafen
+  Stuttgart Flughafen  Fr, 06.07.07  an  17:42
+  Dauer: 3:41;  nicht täglich, Verkehrstage  Preis: 55,00 EUR Zur Buchung
+
+2007-07-14 earl's court
+
+  Journey Summary
+  Arriving:  Saturday  14  July  2007 at: 06:44
+  From:  Earl's Court
+  To:  Heathrow Terminals 1-2-3 Underground Station
+  Restrictions:
+  Route Depart Arrive Duration Interchanges View
+  1 05:33 06:10 00:37  View
+  Route Depart Arrive Duration Interchanges View
+  2 05:39 06:23 00:44  View
+  Route Depart Arrive Duration Interchanges View
+  3 05:55 06:36 00:41  View
+  Route Depart Arrive Duration Interchanges View
+  4 06:08 06:40 00:32  View
+  Route Depart Arrive Duration Interchanges View
+  5 06:13 06:53 00:40  View
+
+21.08.07
+  Basel SBB ab 08:04
+  Neuchâtel an 09:32
+  1:28  2  IR, ICN
+
+hintere spillgerten
+  Basel SBB 23.09.07  ab 07:27    2:40  2  ICE, R, BUS
+  Grimmialp, Hotel Spillgerten    an 10:07
+    Basel SBB 23.09.07  ab 07:27 11    ICE 1061  InterCityExpress,
+  Spiez  an 09:10 1
+  Spiez  ab 09:17 4/5    R 5817  Regio
+  Oey-Diemtigen  an 09:30
+  Oey-Diemtigen         Fussweg  2 Min., Y
+  Oey-Diemtigen, Bahnhof
+  Oey-Diemtigen, Bahnhof  ab 09:35    BUS 3  Bus
+  Grimmialp, Hotel Spillgerten  an 10:07
+  Dauer: 2:40;  täglich
+
+  Details Bahnhof/Haltestelle  Datum Zeit Dauer Umst. Reise mit
+  1  Grimmialp, Hotel Spillgerten 23.09.07  ab 15:40    2:52  2  BUS, R, ICE
+  Basel SBB    an 18:32
+
+  2  Grimmialp, Hotel Spillgerten 23.09.07  ab 17:40    2:52  2  BUS, R, IC
+  Basel SBB    an 20:32
+
+    Grimmialp, Hotel Spillgerten 23.09.07  ab 15:40    BUS 12  Bus
+  Oey-Diemtigen, Bahnhof  an 16:21
+  Oey-Diemtigen, Bahnhof         Fussweg  2 Min., Y
+  Oey-Diemtigen
+  Oey-Diemtigen  ab 16:27    R 5824  Regio
+  Spiez  an 16:42 3
+  Spiez  ab 16:50 2    ICE 1082  InterCityExpress,
+  Basel SBB  an 18:32 6
+  Dauer: 2:52;  täglich
+
+    Grimmialp, Hotel Spillgerten 23.09.07  ab 17:40    BUS 16  Bus
+  Oey-Diemtigen, Bahnhof  an 18:21
+  Oey-Diemtigen, Bahnhof         Fussweg  2 Min., Y
+  Oey-Diemtigen
+  Oey-Diemtigen  ab 18:27    R 5828  Regio
+  Spiez  an 18:42 3
+  Spiez  ab 18:50 2    IC 1088  InterCity,
+  Basel SBB  an 20:32 4
+  Dauer: 2:52;  täglich
+
+2007-10-18:
+  Basel SBB ab 08:00    0:56  0  IC
+  Bern    an 08:56
+
+2007-11-06: basel bern
+  ab 14:27 an 15:25 0:58 0 IC
+  ab 15:00 an 15:56 0:56 0 EC
+  ab 15:27 an 16:25 0:58 0 IC
+  ab 16:00 an 16:56 0:56 0 IC
+
+2007-11-07: bern basel
+  ab 13:04 an 13:58 0:54  0  ICE
+  ab 13:35 an 14:32 0:57  0  IC
+  ab 14:04 an 14:58 0:54  0  IC
+  ab 14:35 an 15:32 0:57  0  EC
+
+2007-11-08:
+  Basel Bad Bf  ab 17:48  0:57  0 RE  10,60 EUR
+  Freiburg Hbf  an 18:45
+
+2007-11-14 basel-bern:
+  ab 06:27  an 07:25  0:58  0  CIS
+  ab 07:00  an 07:56  0:56  0  IC
+
+2007-11-19 loe-zrh
+  ab 09:01  Basel SBB  an 09:24  ab 09:42 6  Zürich Flughafen  an 10:56 3
+  Dauer: 1:55;  18. Nov bis 8. Dez 2007 täglich
+
+2007-12-18 ne-be
+  Neuchâtel  ab 16:43      0:40  0  RE
+  Bern       an 17:23
+  bus 102 104 105 106 zur halenbruecke
+  klaus dann hoeheweg 13
+
+2007-12-31
+  Basel Bad Bf  ab 10:48  0:56  0 RE  10,90 EUR
+  Freiburg Hbf  an 11:44
+
+2008-01-05 fr-bs
+  14:15   0:56  0 RE  10,90 EUR
+  an 15:11
+  15:15  0:56  0 RE  10,90 EUR
+  an 16:11
+  16:15  0:56  0 RE  10,90 EUR
+  an 17:11
+
+2008-01-09
+  8:03
+
+2008-01-28 bsl fr
+  ab 18:26  an 19:23  0:57  0 RB  10,90 EUR
+  ab 18:48  an 19:44  0:56  0 RE  10,90 EUR
+
+2008-01-31 bsl fr
+  ab 19:48  an 20:44  0:56  0 RE  10,90 EUR
+  ab 22:58  an 00:03  1:05  0 RE  10,90 EUR
+
+2008-02-01 fr bsl
+  ab 16:15    an 17:11  0:56  0  RE
+
+2008-02-13
+  Neuchâtel ab 14:24    1:29  0  ICN
+  Basel SBB an 15:53
+
+  Basel Bad Bf  ab 16:26  0:57  0 RB  10,90 EUR
+  Freiburg Hbf  an 17:23
+
+2008-02-25
+  Basel SBB           ab 08:07    1:09  1  ICE, IC
+  Zürich Flughafen    an 09:16
+
+2008-03-05
+  Basel SBB  ab 08:03    1:29  0  ICN
+  Neuchâtel  an 09:32
+
+  Neuchâtel  ab 14:24    1:29  0  ICN
+  Basel SBB  an 15:53
+
+2008-03-06 bsl fr
+  ab 17:26  an 18:23  0:57  0 RE  10,90 EUR
+  ab 17:48  an 18:44  0:56  0 RE  10,90 EUR
+
+2008-03-11 bsl bern
+  Basel  ab 12:01    0:55  0  ICE
+  Bern   an 12:56
+
+2008-01-29 bsl-loe
+  das alles is klasse.
+  wir fahren mit dem bus zum sbb und von dort den zug um 23:44.
+
+  Basel, EuroAirport ab 22:00 0:19 0 BUS
+  Basel SBB, Bahnhof an 22:13
+
+  Basel, EuroAirport ab 22:15 0:19 0 BUS
+  Basel SBB, Bahnhof an 22:28
+
+  Basel, EuroAirport ab 22:30 0:19 0 BUS
+  Basel SBB, Bahnhof an 22:43
+
+  Basel, EuroAirport ab 22:45 0:19 0 BUS
+  Basel SBB, Bahnhof an 22:58
+
+  Basel SBB ab 22:05 0:22 0 R
+  Lörrach an 22:27
+
+  Basel SBB ab 22:47 0:24 0 R
+  Lörrach an 23:11
+
+  Basel SBB ab 23:44 0:19 0 R
+  Lörrach an 00:03
+
+2008-04-14:
+  Basel SBB 14.04.08  ab 17:07    0:53  0  ICE
+  Zürich HB    an 18:00
+
+  Bern 14.04.08  ab 17:02      0:56  0  IC
+  Zürich HB    an 17:58
+
+2008-04-22:
+  Basel Bad Bf  ab 14:48  0:56  0 RE  10,90 EUR
+  Freiburg Hbf  an 15:44
+
+  Freiburg Hbf  ab 10:15   0:56  0 RE  10,90 EUR
+  Basel Bad Bf  Mi, 23.04.08 an 11:11
+
+2008-06-11:
+  Basel Bad Bf   ab  13:13  4   ICE 72 Intercity-Express
+  Karlsruhe Hbf  an  14:49  3
+  Karlsruhe Hbf  ab  14:54  4   IC 2278 Intercity
+  Darmstadt Hbf  an  16:00  5
+  Dauer: 2:47
+  vor dem bhf strassenbahn linie 3 richtung lichtenberger schule bis freiberger platz
+
+2008-06-22:
+  ICE 605
+  Köln Hbf                       20:54  6
+  Siegburg/Bonn                  21:09  21:11  6
+  Frankfurt(M) Flughafen Fernbf  21:51  21:54  Fern 5
+  Mannheim Hbf                   22:24  22:36  4       <-- mannheim 22:36
+  Karlsruhe Hbf                  23:00  23:14  1
+  Baden-Baden                    23:28  23:30  5
+  Offenburg                      23:48  23:50  1
+  Freiburg Hbf         00:20  00:22  3
+  Basel Bad Bf                   00:58     5
+
+2008-07-01:
+  Freiburg ab 07:34  RE 5155  RegioExpress
+  Basel SBB  an 08:20
+  Basel SBB  ab 09:03 12  ICN 616  InterCity-Neigezug,   BA   Neuchâtel  an 10:35 4
+  Dauer: 3:01;  Mo - Fr, nicht 3. Okt
+
+2008-08-11:
+  Basel Bad Bf ab 15:48  0:56  0 RE  10,90 EUR
+  FreiburgHbf  an 16:44
+
+2008-09-01 hannover flughafen - bremen:
+  Hannover Flughafen   ab 09:06  1:38  1 S, ICE  15,50 EUR
+  Bremen Hbf   an 10:44
+  Hannover Flughafen   ab 09:36  2:03  1 S, RE  11,45 EUR
+  Bremen Hbf   an 11:39
+  Hannover Flughafen   ab 10:06  1:45  1 S, IC  13,50 EUR
+  Bremen Hbf   an 11:51
+
+    Hannover Flughafen    ab  09:06  2   S 5 S-Bahn Richtung: Hameln
+    Hannover Hbf    an  09:23  1
+    Hannover Hbf    ab  09:45  8 A-C   ICE 634 Intercity-Express
+    Bremen Hbf    an  10:44  6
+    Dauer: 1:38;  täglich, nicht 8., 22. Nov  In Kalender eintragen Preis: 15,50 EUR Zur Buchung
+
+    Hannover Flughafen    ab  09:36  2   S 5 S-Bahn Richtung: Paderborn Hbf
+    Hannover Hbf    an  09:53  1
+    Hannover Hbf    ab  10:21  12   RE 4412 Regional-Express
+    Bremen Hbf    an  11:39  2
+    Dauer: 2:03;  Mo - Sa, nicht 3. Okt  In Kalender eintragen Preis: 11,45 EUR Zur Buchung
+
+    Hannover Flughafen    ab  10:06  2   S 5 S-Bahn Richtung: Hameln
+    Hannover Hbf    an  10:23  1
+    Hannover Hbf    ab  10:45  11   IC 2132 Intercity
+    Bremen Hbf    an  11:51  3
+    Dauer: 1:45;  Mo - Sa, nicht 19. Sep, 22. bis 27. Sep 2008, 4., 10., 11. Okt, 1. bis 7. Nov 2008  In Kalender eintragen Preis: 13,50 EUR Zur Buchung
+
+strassenbahn 10 richtung seebaldsbrueck
+neben zentralkrankenhaus, klinikum mitte, st. juergenklinik
+
+2008-09-02 bremen - bielefeld:
+  Bremen Hbf    ab  06:09  3   IC 2033 Intercity
+  Hannover Hbf    an  07:14  10
+  Hannover Hbf    ab  07:31  11 D-G   ICE 946 ICE 956 Intercity-Express
+  Bielefeld Hbf    an  08:20  4
+  Dauer: 2:11;  Mo - Sa, nicht 13. Sep, 4. Okt, 29. Nov  In Kalender eintragen Preis: 21,50 EUR Zur Buchung
+
+  Bremen Hbf    ab  06:18  3   RE 4405 Regional-Express
+  Nienburg(Weser)    an  07:03  3
+  Nienburg(Weser)    ab  07:09  5   RB 29768 Regionalbahn
+  Bielefeld Hbf    an  08:36  3 C-E
+  Dauer: 2:18;  Mo - Fr, nicht 3. Okt  In Kalender eintragen Preis: 13,05 EUR Zur Buchung
+
+  Bremen Hbf    ab  06:37  7   ICE 515 Intercity-Express
+  Osnabrück Hbf    an  07:30  2
+  Osnabrück Hbf    ab  07:48  11   WFB39609 WestfalenBahn
+  Herford    an  08:27  3
+  Herford    ab  08:33  6   IC 2013 Intercity
+  Bielefeld Hbf    an  08:40  4
+  Dauer: 2:03;  täglich  In Kalender eintragen Preis: 18,50 EUR Zur Buchung
+
+  Bremen Hbf    ab  06:37  7   ICE 515 Intercity-Express
+  Osnabrück Hbf    an  07:30  2
+  Osnabrück Hbf    ab  07:48  11   WFB39609 WestfalenBahn
+  Bielefeld Hbf    an  08:48  3 A-C
+  Dauer: 2:11;  täglich  In Kalender eintragen Preis: 18,50 EUR Zur Buchung
+
+  Fahrplanauskunft   http://www.mobiel.de/fahrplanauskunft.html
+    Datum:  01.09.2008  von:  Bielefeld / Bielefeld Hbf
+    Ankunft:  09:00 Uhr  nach:  Bielefeld / Schüco
+
+    Fahrtdaten Fahrtdauer Umsteigen Preis (Erw./Ki.)
+    01. Fahrt am 01.09.2008 von 08:26 bis 08:33 Uhr 00:07 0 EUR 2.10/1.20
+    02. Fahrt am 01.09.2008 von 08:36 bis 08:43 Uhr 00:07 0 EUR 2.10/1.20
+    03. Fahrt am 01.09.2008 von 08:46 bis 08:53 Uhr 00:07 0 EUR 2.10/1.20
+    04. Fahrt am 01.09.2008 von 08:56 bis 09:03 Uhr 00:07 0 EUR 2.10/1.20
+
+    08:26 ab  Bielefeld, Hauptbahnhof (U) Gleis 2     Stadtbahn 2
+    08:33 an  Bielefeld, Schüco Gleis 2  Bi-Milse (Stadtbahn)
+
+    08:36 ab  Bielefeld, Hauptbahnhof (U) Gleis 2     Stadtbahn 2
+    08:43 an  Bielefeld, Schüco Gleis 2  Bi-Milse (Stadtbahn)
+
+    08:46 ab  Bielefeld, Hauptbahnhof (U) Gleis 2     Stadtbahn 2
+    08:53 an  Bielefeld, Schüco Gleis 2  Bi-Milse (Stadtbahn)
+
+    08:56 ab  Bielefeld, Hauptbahnhof (U) Gleis 2     Stadtbahn 2
+    09:03 an  Bielefeld, Schüco Gleis 2  Bi-Milse (Stadtbahn)
+
+2008-09-05 bremen - hannover flughafen:
+  Bremen Hbf            ab  07:14  1   ICE 533 Intercity-Express
+  Hannover Hbf          an  08:14  4 A-C
+  Hannover Hbf          ab  08:35  2   S 5 S-Bahn Richtung: Hannover Flughafen
+  Hannover Flughafen    an  08:52  2
+  Dauer: 1:38;  Mo - Sa, nicht 4. Okt  In Kalender eintragen Preis: 15,50 EUR Zur Buchung
+
+2008-09-15 zh-loe
+  Zürich HB 15.09.08  ab 22:34  IR 594  InterRegio
+  Basel SBB  an 23:38 11
+  Basel SBB  ab 23:44  R 87866  Regio
+  Lörrach 16.09.08  an 00:03
+  Dauer: 1:29;  täglich, nicht 1., 2. Nov
+
+2008-09-18 ne
+  Basel SBB  ab 07:03 12  ICN 610  InterCity-Neigezug,    BA
+  Neuchâtel  an 08:35 4
+  Neuchâtel, gare sortie nord  ab 08:41  BUS 1010  Bus
+  Neuchâtel, Verger-Rond  an 08:44
+  Dauer: 2:00;  Mo - Fr, nicht 22. Sep
+
+2008-09-26
+  Schlüchtern  ab  12:30  4   RE 4517 Regional-Express
+  Frankfurt(Main)Hbf  an  13:28  12
+  Frankfurt(Main)Hbf  ab  14:05  6   ICE 75 Intercity-Express
+  Basel Bad Bf  an  16:46  3
+  Dauer: 4:16;  nicht täglich, 26., 27. Sep, 29. Sep bis 2. Okt 2008, 11. bis 14. Nov 2008  In Kalender eintragen Preis: 77,00 EUR Zur Buchung
+
+2008-10-02 bsl-fr
+  Basel Bad Bf   ab 15:48  0:56  0 RE  10,90 EUR
+  Freiburg Hbf   an 16:44
+  Basel Bad Bf   ab 16:21  0:33  0 ICE  18,50 EUR
+  Freiburg Hbf   an 16:54
+  Basel Bad Bf   ab 16:26  0:57  0 RB  10,90 EUR
+  Freiburg Hbf   an 17:23
+  Basel Bad Bf   ab 16:48  0:56  0 RE  10,90 EUR
+  Freiburg Hbf   an 17:44
+
+2008-10-03 fr-bsl
+  Freiburg Hbf   ab 15:15  0:56  0 RE  10,90 EUR
+  Basel Bad Bf   an 16:11
+  Freiburg Hbf   ab 16:01  0:35  0 ICE  18,50 EUR
+  Basel Bad Bf   an 16:36
+  Freiburg Hbf   ab 16:10  0:36  0 ICE  18,50 EUR
+  Basel Bad Bf   an 16:46
+  Freiburg Hbf   ab 16:15  0:56  0 RE  10,90 EUR
+  Basel Bad Bf   an 17:11
+
+2008-10-08 bsl-fr
+  Basel Bad Bf   ab 16:48   0:56  0 RE  10,90 EUR
+  Freiburg Hbf   an 17:44
+  Basel Bad Bf   ab 17:13  0:34  0 ICE  18,50 EUR
+  Freiburg Hbf   an 17:47
+  Basel Bad Bf   ab 17:21  0:33  0 ICE  18,50 EUR
+  Freiburg Hbf   an 17:54
+  Basel Bad Bf   ab 17:26  0:57  0 RE  10,90 EUR
+  Freiburg Hbf   an 18:23
+
+  Lörrach  ab 16:31   0:10  0 SBB
+  Basel Bad Bf   an 16:41
+
+2008-10-29 ne-bsl:
+  Neuchâtel   ab 13:27 4  ICN 1627  InterCity-Neigezug,   BA
+  Basel SBB   an 14:53 12  Dauer: 1:26;  täglich
+
+  Neuchâtel    ab 13:37 2  R 5145  Regio
+  Biel/Bienne  an 14:08 3
+  Biel/Bienne  ab 14:15 2  ICN 2127  InterCity-Neigezug,    BA
+  Olten        an 14:56 2
+  Olten        ab 15:02 3  CIS 44  Cisalpino,    RE
+  Basel SBB    an 15:29 9
+  Dauer: 1:52;  täglich, nicht 1., 2. Nov   CIS 44  (Brig - Basel SBB)  Sitzplatzverfügbarkeit Reisehinweis CIS 44 Milano Centrale - Basel SBB Weitere Informationen
+
+  Neuchâtel   ab 14:24 5  ICN 629  InterCity-Neigezug,    BA
+  Basel SBB   an 15:53 12  Dauer: 1:29;  täglich
+
+2008-11-02 bsl-fr:
+  Basel Bad Bf   ab 13:48  0:56  0 RE  10,90 EUR
+  Freiburg Hbf   an 14:44
+
+2008-11-24 bsl:
+  Lörrach 24.11.08  ab 19:31  R 87857  Regio
+  Basel SBB  an 19:50
+  Basel SBB, Bahnhof  ab 20:00  Bus 50  Niederflurbus, Richtung: Basel, EuroAirport
+  Basel, EuroAirport  an 20:13
+  Dauer: 0:42;  24. Nov bis 12. Dez 2008 Mo - Fr
+
+2009-01-05 bsl-winterthur:
+  Basel SBB 05.01.09  ab 22:07 8  IC 795  InterCity, BZ RZ
+  Zürich HB  an 22:59 12
+  Zürich HB  ab 23:07 9  IC 845  InterCity,  BZ RZ
+  Winterthur  an 23:33 5
+  Dauer: 1:26;  Verkehrstage
+
+  Basel SBB 05.01.09  ab 22:14 7  IR 1995  InterRegio
+  Zürich HB  an 23:24 15
+  Zürich HB  ab 23:48 23/24  S1219297  S-Bahn, Linie 12
+  Winterthur 06.01.09  an 00:09 4B
+  Dauer: 1:55;  täglich
+
+  Basel SBB 05.01.09  ab 22:17 15  IR 2485  InterRegio
+  Olten  an 22:47 12
+  Olten  ab 23:00 7  IC 745  InterCity,     BZ RZ
+  Zürich HB  an 23:31 12
+  Zürich HB  ab 23:48 23/24  S1219297  S-Bahn, Linie 12
+  Winterthur 06.01.09  an 00:09 4B
+  Dauer: 1:52;  täglich
+
+  Basel SBB 05.01.09  ab 22:47 5  IR 1799  InterRegio
+  Zürich HB  an 23:52 11
+  Zürich HB 06.01.09  ab 00:18 23/24  S1219299  S-Bahn, Linie 12
+  Winterthur  an 00:39 3
+  Dauer: 1:52;  täglich
+
+  Basel SBB 05.01.09  ab 23:07 6  IC 797  InterCity
+  Zürich HB 06.01.09  an 00:00 8
+  Zürich HB  ab 00:18 23/24  S1219299  S-Bahn, Linie 12
+  Winterthur  an 00:39 3
+  Dauer: 1:32;  Verkehrstage
+
+2008-12-29 bsl-schluechtern:
+  Basel Bad Bf  Mo, 29.12.08 ab 19:21  4:05  2 ICE, RE  ab 29,00 EUR
+  Schlüchtern  Mo, 29.12.08 an 23:26
+
+  Basel Bad Bf  Mo, 29.12.08 ab 20:22  4:04  1 ICE, RE  ab 29,00 EUR
+  Schlüchtern  Di, 30.12.08 an 00:26
+
+2009-01-07 winterthur-ne
+  Winterthur ab 08:28 3  ICN 1516  InterCity-Neigezug,   BZ RZ
+  Neuchâtel  an 10:32 3
+  Dauer: 2:04;  täglich
+
+2009-01-07 ne-bsl:
+  Neuchâtel  ab 15:27 4  ICN 1631  InterCity-Neigezug,   BZ RZ
+  Basel SBB  an 16:53 14
+  Dauer: 1:26;  täglich
+
+2009-01-30 verona-bsl:
+  Verona Porta Nuova ab 09:32  CIS 52  Cisalpino,    GP Z
+  Domodossola  an 12:43
+  Domodossola  ab 12:48  CIS 52  Cisalpino,   RE
+  Basel SBB  an 15:32 12
+  Dauer: 6:00;  täglich
+
+2009-02-01 bsl-hugo:
+  Basel SBB 01.02.09  ab 08:28 11  IC 1063  InterCity
+  Bern  an 09:27 3
+  Bern, Hauptbahnhof  ab 09:34  BUS10719  Bus
+  Oberwohlen BE  an 09:49
+  Fussweg  23 Min.
+  3033 Wohlen b. Bern, Bannholzstrasse 57
+  Dauer: 1:44;  30. Jan bis 13. Jun 2009 täglich
+
+    an 16:56
+
+2009-02-13 bsl-zrh:
+  Basel SBB ab 16:07    0:53  0  TGV
+  Zürich HB    an 17:00
+  2. Klasse   Hin und Zurück  Halbtax   31.00  nach Zurich
+  2. Klasse   Hin und Zurück  Halbtax   39.00  nach Winterthur
+
+2009-02-15 winterthur-matt:
+  Winterthur 15.02.09  ab 07:38 6B  S7 18727  S-Bahn, Linie 7
+  Effretikon  an 07:46
+  Effretikon  ab 07:50 3B  S3 18325  S-Bahn, Linie 3
+  Wetzikon  an 08:11
+  Wetzikon  ab 08:16 3B  S5 18527  S-Bahn, Linie 5
+  Rapperswil  an 08:31 3
+  Rapperswil  ab 08:33 2 R 7727  Regio
+  Schwanden GL  an 09:27 2
+  Schwanden GL       Fussweg  1 Min., Y
+  Schwanden GL, Bahnhof
+  Schwanden GL, Bahnhof  ab 09:32  BUS 11  Bus
+  Matt, Station  an 09:52
+  Dauer: 2:14;  täglich
+
+2009-02-17 winterthur-raperswilen:
+  Winterthur  ab 07:45 9  S30 8031  S-Bahn, Linie 30,
+  Müllheim-Wigoltingen  an 08:09 2
+  Müllheim-Wigoltingen, Bahnhof  ab 08:13  BUS83306  Bus
+  Raperswilen, Schulhaus  an 08:25
+  Raperswilen, Schulhaus       Fussweg  20 Min.
+  8558 Raperswilen, Bürenstrasse 2
+  Dauer: 1:04;  Mo - Fr, nicht an allg. Feiertg; nicht 1. Mai
+
+2009-02-18 winterthur-bsl:
+  Winterthur Seen ab 21:10 1  S2620682  S-Bahn, Linie 26
+  Winterthur  an 21:16 2
+  Winterthur  ab 21:28 3  ICN 1544  InterCity-Neigezug,  BZ RZ
+  Zürich HB   an 21:53 13
+  Zürich HB   ab 22:02 15  IC 794  InterCity, BZ RZ
+  Basel SBB   an 22:59
+  Dauer: 1:49;  Verkehrstage
+
+2009-02-19 bsl-fr:
+  Basel Bad Bf  Do, 19.02.09  ab  16:26  10  RB 31112 Regionalbahn
+  Freiburg Hbf  Do, 19.02.09  an  17:23  2
+
+  Lörrach  Do, 19.02.09  ab  16:16  1  SBB87991 SBB GmbH
+  Weil am Rhein  Do, 19.02.09  an  16:27
+  Weil am Rhein  Do, 19.02.09  ab  16:31  7  RB 31112 Regionalbahn
+  Freiburg Hbf  Do, 19.02.09  an  17:23  2
+
+  Freiburg Hbf  Do, 19.02.09  ab  17:40  7  RB 31611 Regionalbahn
+  Freiburg-Littenweiler  Do, 19.02.09  an  17:48
+
+2009-02-27 bsl-winterthur:
+  Basel SBB  ab 16:07 8  TGV 9215  Train à grande vitesse,
+  Zürich HB  an 17:00 11
+  Dauer: 0:53;  täglich, nicht 21., 28. Mär, 16. Mai
+  zrh:       ab 17.18 platform 23 or 24   S12 to winterthur
+  cost: basel sbb - winterthur - neuchatel:
+  in   one ticket   or   in two separate ones
+  chf    41.50      or   19.50 + 28.50 = 48
+  eur    -----      or   11.00, not possible to buy winterthur-neuchatel
+
+2009-03-02 winterthur-ne
+  Winterthur ab 08:28 3  ICN 1516  InterCity-Neigezug,   BZ RZ
+  Neuchâtel  an 10:32 3
+  Dauer: 2:04;  täglich
+
+2009-03-02 ne-bsl
+  Neuchâtel  ab 16:24 5  ICN 635  InterCity-Neigezug,   BZ RZ
+  Basel SBB  an 17:53 14  Dauer: 1:29;  täglich
+
+2009-03-04 bsl
+  Basel SBB, Bahnhof ab 04:55    0:19  0  BUS
+  Basel, EuroAirport an 05:08
+  Basel SBB, Bahnhof ab 05:25    0:19  0  BUS
+  Basel, EuroAirport an 05:38
+
+2009-04-14 bsl-muc
+  Basel SBB  ab 14:12  5:04  1 ICE, IC  45,60 EUR
+  München Hbf  an 19:16
+
+  Basel Bad Bf  ab 17:21  5:11  2 IC, ICE  87,00 EUR
+  München Hbf  an 22:32
+
+  Basel Bad Bf  ab  17:21  4  IC 2105 Intercity
+  Karlsruhe Hbf  an  19:02  10
+  Karlsruhe Hbf  ab  19:06  9  IC 2165 Intercity
+  Stuttgart Hbf  an  20:03  16
+  Stuttgart Hbf  ab  20:12  15  ICE 613 Intercity-Express
+
+2009-04-18
+  Frauenfeld ab 13:42 1  IR 2126  InterRegio
+  Winterthur  an 13:53 4BC
+  Winterthur  ab 14:08 6B  S7 18757  S-Bahn, Linie 7
+  Effretikon  an 14:16
+  Effretikon  ab 14:20 3B  S3 18355  S-Bahn, Linie 3
+  Pfäffikon ZH  an 14:33 3B
+  Dauer: 0:51;  täglich
+
+2009-04-27
+  Basel SBB 27.04.09  ab 14:07 11  EC 7  EuroCity,   RE
+  Zürich HB  an 15:00 7
+  Zürich HB  ab 15:07 10  IC 827  InterCity,     BZ RZ
+  Zürich Flughafen  an 15:16 1
+  Dauer: 1:09;  täglich, nicht 16. Mai
+
+2009-05-14
+  Basel SBB ab 13:14 3  IR 1975  InterRegio
+  Zürich HB  an 14:24 15
+  Zürich HB  ab 14:33 23/24  S3 18357  S-Bahn, Linie 3
+  Zürich Stadelhofen  an 14:35 3
+  Dauer: 1:21;  täglich
+
+  Basel SBB ab 13:40 9  IR 2077  InterRegio
+  Zürich Altstetten  an 14:42 6
+  Zürich Altstetten  ab 14:49 4  S9 18959  S-Bahn, Linie 9
+  Zürich Stadelhofen  an 15:00 3
+  Dauer: 1:20;  täglich   IR 2077  (Basel SBB - Zürich Flughafen)  Formationsänderung: IR 2077 Rollmaterial-Verfügbarkeit: Dieser Zug verkehrt aufgrund eines Engpasses im Wagenpark mit unklimatisiertem Rollmaterial. Wir bitten Sie um Entschuldigung.
+
+  Basel SBB ab 13:47 6  IR 1777  InterRegio,
+  Zürich HB  an 14:52 15
+  Zürich HB  ab 15:00 23/24  S6 18659  S-Bahn, Linie 6
+  Zürich Stadelhofen  an 15:02 2
+  Dauer: 1:15;  täglich
+
+  Basel SBB ab 14:07 11  EC 7  EuroCity,   RE
+  Zürich HB  an 15:00 7
+  Zürich HB  ab 15:10 23/24  S1519559  S
+  Zürich Stadelhofen  an 15:12 3
+  Dauer: 1:05;  täglich, nicht 16. Mai
+
+2009-06-06:
+  Basel SBB ab 14:33 8  IC 577  InterCity,    BZ RZ
+  Zürich HB  an 15:26 9
+  Zürich HB  ab 15:37 10  IR 2127  InterRegio
+  Winterthur  an 16:03 5BC
+  Dauer: 1:30;  täglich
+
+  Basel SBB ab 15:07 5  ICE 73  InterCityExpress,   RE
+  Zürich HB  an 16:00 8
+  Zürich HB  ab 16:07 9  IC 829  InterCity,     BZ RZ
+  Winterthur  an 16:33 5
+  Dauer: 1:26;  täglich
+
+  Basel SBB ab 15:33 8  IC 579  InterCity,    BZ RZ
+  Zürich HB  an 16:26 9
+  Zürich HB  ab 16:37 10  IR 2129  InterRegio
+  Winterthur  an 17:03 5BC
+  Dauer: 1:30;  täglich
+
+  Basel SBB ab 16:07 8  TGV 9215  Train à grande vitesse,
+  Zürich HB  an 17:00 11
+  Zürich HB  ab 17:07 9  IC 831  InterCity,     BZ RZ
+  Winterthur  an 17:33 5
+  Dauer: 1:26;  täglich
+
+  Basel SBB ab 16:07 8  TGV 9215  Train à grande vitesse,
+  Zürich HB  an 17:00 11
+  Zürich HB  ab 17:07 9  IC 831  InterCity,     BZ RZ
+  Winterthur  an 17:33 5
+  Dauer: 1:26;  täglich
+
+  Basel SBB ab 16:17 15  IR 2473  InterRegio
+  Olten  an 16:47 12
+  Olten  ab 16:59 2  IR 2131  InterRegio
+  Winterthur  an 18:03 5BC
+  Dauer: 1:46;  täglich
+
+  Basel SBB ab 16:33 8  IC 581  InterCity,   BZ RZ
+  Zürich HB  an 17:26 9
+  Zürich HB  ab 17:37 10  IR 2131  InterRegio
+  Winterthur  an 18:03 5BC
+  Dauer: 1:30;  täglich
+
+2009-06-14:
+  Basel SBB  ab 08:33 8  IC 565  InterCity,    BZ RZ
+  Zürich HB  an 09:26 7
+  Zürich HB  ab 09:35 2  S10 1067  S-Bahn, Linie 10,
+  Zürich Binz  an 09:39
+  Zürich Binz  Fussweg  10 Min.   8045 Zürich, Untergraben 7
+  Dauer: 1:16;  täglich
+
+  Basel SBB  ab 08:33 8  IC 565  InterCity,    BZ RZ
+  Zürich HB  an 09:26 7
+  Zürich HB        Fussweg  7 Min.   Zürich, Bahnhofquai/HB
+  Zürich, Bahnhofquai/HB  ab 09:38 Tram 13  Tram, Richtung: Zürich, Albisgütli
+  Zürich, Laubegg  an 09:52
+  Zürich, Laubegg  Fussweg  8 Min.   8045 Zürich, Untergraben 7
+  Dauer: 1:27;  So, auch 1. Aug
+
+2009-06-17:
+  Winterthur Mi, 17.06.09  ab 08:28 3  ICN 1516  InterCity-Neigezug,    BZ RZ
+  Zürich Flughafen   ab  08:43
+  Zürich HB   ab  09:04
+  Aarau   ab  09:30
+  Olten   ab  09:41
+  Solothurn   ab  09:59
+  Biel/Bienne   ab  10:16
+  Neuchâtel  an 10:32 3
+  Dauer: 2:04;  täglich
+
+2009-07-06:
+  Basel SBB     ab  14:33  8   IC 577 IC 577
+  Zürich HB     an  15:26  9
+  Zürich HB     ab  15:37  10   IR 2127
+  Winterthur   an  16:03  5BC
+  Dauer: 1:30;  täglich
+
+  Basel SBB     ab  14:40  9   IR 2079
+  Zürich Oerlikon     an  15:49  6
+  Zürich Oerlikon     ab  15:54  6   S1619660 S-Bahn, Linie 16, VELOS: Kein Selbstverlad
+  Winterthur   an  16:17  6B
+  Dauer: 1:37;  täglich
+
+  Basel SBB     ab  14:47  5   IR 91
+  Zürich HB     an  15:52  7
+  Zürich HB     ab  16:07  23/24   S1119163 S-Bahn, Linie 11, VELOS: Kein Selbstverlad
+  Winterthur   an  16:28  7
+  Dauer: 1:41;  Mo - Fr
+
+  Basel SBB     ab  15:07  5   ICE 73
+  Zürich HB     an  16:00  8
+  Zürich HB     ab  16:07  23/24   S1119163 S-Bahn, Linie 11, VELOS: Kein Selbstverlad
+  Winterthur   an  16:28  7
+  Dauer: 1:21;  Mo - Fr
+
+2009-07-16 basel-kruth:
+  Basel SBB
+  329, Chemin de la Tête de Saut, F-88290 Saulxures sur Moselotte
+
+  Basel SBB           Basel SBB Gl. 30-35
+  Basel SBB Gl. 30-35   ab 15:09  RE 96108
+  Mulhouse-Ville   an 15:36
+  Mulhouse-Ville   ab 15:46  RE 32830
+  Kruth   an 16:40
+  Dauer: 1:41;  Verkehrstage
+
+  Basel SBB    ab 15:02 8  TGV 9216
+  Mulhouse-Ville   an 15:26
+  Mulhouse-Ville   ab 15:46  RE 32830
+  Kruth   an 16:40
+  Dauer: 1:38;  Mo - Sa, nicht 14. Jul, 20. Jul bis 21. Aug 2009, 11. Nov
+
+  Basel SBB Gl. 30-35   ab 15:09  RE 96108
+  Mulhouse-Ville   an 15:36
+  Mulhouse-Ville   ab 15:46  RE 32830
+  Lutterbach   an 15:53
+  Dauer: 0:54;  Verkehrstage
+
+2009-08-01 bsl-beckenried:
+  Basel SBB  ab 11:03 8  ICN 675
+  Luzern   an 12:05 7
+  Luzern   ab 12:11 14  IR 3670
+  Stans   an 12:34 1
+  Stans, Bahnhof   ab 12:36  BUS 35
+  Beckenried, Post   an 12:59
+  Dauer: 1:58;  täglich
+
+  Basel SBB  ab 11:03 8  ICN 675
+  Luzern   an 12:05 7
+  Luzern Bahnhofquai   ab 12:12  BAT 17 Schiff, Restaurant
+  Beckenried   an 13:28
+  Dauer: 2:25;  30. Jul bis 13. Sep 2009 täglich
+
+  Basel SBB  Sa, 01.08.09  ab 13:03 8  ICN 679
+  Luzern   an 14:05 7
+  Luzern Bahnhofquai   ab 14:12  BAT 23
+  Beckenried   an 15:28
+  Dauer: 2:25;  1. Aug bis 13. Sep 2009 täglich
+
+2009-08-14 bsl-zrh:
+  Basel SBB  ab 22:47 5  IR 1799
+  Zürich HB  an 23:52 11
+  Zürich HB  ab 00:02 21/22  S6 18698
+  Zürich Hardbrücke   an 00:04 3
+  Dauer: 1:17;  täglich
+
+2009-08-17:
+  Winterthur  Mo, 17.08.09  ab 09:28 3  ICN 518
+  Zürich HB   an 09:53 13
+  Zürich HB   ab 10:02 16  ICE 74
+  Basel SBB   an 10:57 7
+  Dauer: 1:29;  täglich
+
+2009-08-19:
+  Basel Bad Bf  ab  15:48  9  RE 31014  Regional-Express
+  Weil am Rhein ab  15:52  7  RE 31014  Regional-Express
+  Bad Krozingen an  16:32  1
+  bad bf 8 km
+  weil bhf 7 km
+
+2009-08-22:
+  Basel SBB  ab 16:07 8  TGV 9215
+  Zürich HB  an 17:00 11
+  Zürich HB  ab 17:07 9  IC 831
+  Winterthur  an 17:33 5
+  Dauer: 1:26;  täglich
+
+2009-08-24:
+  Winterthur ab  08:28         2:04  0  ICN
+  Neuchâtel  an 10:32 3
+  Dauer: 2:04;  täglich
+
+2009-08-29:
+  Winterthur  ab 14:28 3BC  ICN 1528
+  Zürich HB   an 14:53 13
+  Zürich HB   ab 15:02 15  IC 778
+  Basel SBB   an 15:57 6
+  Basel SBB   ab 16:09  R 87844
+  Lörrach     an 16:28
+  Dauer: 2:00;  Mo - Sa
+
+2009-09-06:
+  Basel SBB ab  11:01      0:55  0  IC
+  Bern      an  11:56
+  Dauer: 0:55;  täglich
+
+  Bern So, 06.09.09  ab  14:40      1:36  1  RE, BUS
+  Griesalp, Kurhaus  an  16:16
+
+  Bern  So, 06.09.09          ab 16:40 5  RE 3175
+  Reichenbach im Kandertal    an 17:19
+  Reichenbach i. K., Bahnhof  ab 17:31  BUS 15
+  Griesalp, Kurhaus           an 18:16
+  Dauer: 1:36;  29. Aug bis 27. Sep 2009 Sa, So
+
+2009-09-09 bsl-winti:
+  Basel SBB   ab 10:33 8  IC 569
+  Zürich HB   an 11:26 8
+  Zürich HB   ab 11:37 10  IR 2119
+  Winterthur  an 12:03 5BC
+  Dauer: 1:30;  täglich
+
+  Basel SBB   ab 11:07 11  IC 771
+  Zürich HB   an 12:00 8
+  Zürich HB   ab 12:07 9  IC 821
+  Winterthur  an 12:33 5
+  Dauer: 1:26;  täglich
+
+  Basel SBB   ab 11:33 8  IC 571
+  Zürich HB   an 12:26 9
+  Zürich HB   ab 12:37 10  IR 2121
+  Winterthur  an 13:03 5BC
+  Dauer: 1:30;  täglich
+
+  Basel SBB   ab 12:07 8  TGV 9211
+  Zürich HB   an 13:00 8
+  Zürich HB   ab 13:07 9  IC 823
+  Winterthur  an 13:33 5
+  Dauer: 1:26;  Mo - Sa
+
+2009-10-01 bsl-zrh:
+  Basel SBB  ab 13:07 12  IC 775
+  Zürich HB  an 14:00 8
+  Zürich HB  ab 14:10 23/24  S1519555
+  Zürich Stadelhofen   an 14:12 3
+  Dauer: 1:05;  täglich
+
+  Zürich HB  ab 14:18 23/24  S1219255
+  Zürich Stadelhofen   an 14:20 3
+  Dauer: 0:02;  täglich
+
+2009-10-03 winti-meiringen:
+  Winterthur    ab 09:28 3  ICN 518
+  Zürich HB   an 09:53 13
+  Zürich HB   ab 10:04 5  IR 2325
+  Luzern   an 10:49 6
+  Luzern   ab 10:55 12  IR 2220
+  Meiringen   an 12:12
+  Dauer: 2:44;  täglich
+
+2009-10-15 bsl-arcegno:
+  Basel SBB  ab 15:03 7  ICN 683  1.  2.   IC-Neigezug,    BZ RZ EP
+  Bellinzona  an 18:23 2
+  Bellinzona  ab 18:30 2 S2014279   S-Bahn Linie 20
+  Locarno  an 18:57 3
+  Locarno, Stazione  ab 19:02  Bus 314   Bus, Richtung: Ronco sopra Ascona, Posta, ap
+  Arcegno, Posta  an 19:17
+  Dauer: 4:14;  Mo - Sa, nicht 8. Dez
+
+  Basel SBB ab 06:03 10  IR 2159  1.  2.   InterRegio,
+  Arth-Goldau  an 07:45 5
+  Arth-Goldau  ab 07:50 3  ICN10013  1.  2.   IC-Neigezug,   RZ
+  Bellinzona  an 09:23 2
+  Bellinzona  ab 09:30 2  S2014235   S-Bahn Linie 20
+  Locarno  an 09:57 3
+  Locarno, Stazione  ab 10:02  Bus 314   Bus, Richtung: Ronco sopra Ascona, Posta, ap
+  Arcegno, Posta  an 10:17
+  Dauer: 4:14;  täglich
+
+  Basel SBB ab 06:07 5  ICE 759  1.  2.   InterCityExpress,
+  Zürich HB  an 07:00 8
+  Zürich HB  ab 07:09 5 ICN10013  1.  2.   IC-Neigezug,   RZ
+  Bellinzona  an 09:23 2
+  Bellinzona  ab 09:30 2  S2014235   S-Bahn Linie 20
+  Locarno  an 09:57 3
+  Locarno, Stazione  ab 10:02  Bus 314   Bus, Richtung: Ronco sopra Ascona, Posta, ap
+  Arcegno, Posta  an 10:17
+  Dauer: 4:10;  täglich
+
+  Basel SBB ab 10:03 11  IR 2169  1.  2.   InterRegio,
+  Arth-Goldau  an 11:45 5
+  Arth-Goldau  ab 11:50 4  ICN10017  1.  2.   IC-Neigezug,   RZ
+  Bellinzona  an 13:23 2
+  Bellinzona  ab 13:30 2  S2014251   S-Bahn Linie 20
+  Locarno  an 13:57 3
+  Locarno, Stazione  ab 14:02  Bus 314   Bus, Richtung: Ronco sopra Ascona, Posta, ap
+  Arcegno, Posta  an 14:17
+  Dauer: 4:14;  täglich
+
+  Basel SBB ab 10:07 10  ICE 271  1.  2.   InterCityExpress,    RE
+  Zürich HB  an 11:00 8
+  Zürich HB  ab 11:09 4  ICN10017  1.  2.   IC-Neigezug,   RZ
+  Bellinzona  an 13:23 2
+  Bellinzona  ab 13:30 2 S2014251   S-Bahn Linie 20
+  Locarno  an 13:57 3
+  Locarno, Stazione  ab 14:02  Bus 314   Bus, Richtung: Ronco sopra Ascona, Posta, ap
+  Arcegno, Posta  an 14:17
+  Dauer: 4:10;  täglich
+
+  Basel SBB ab 11:03 8  ICN 675  1.  2.   IC-Neigezug,    BZ RZ EP
+  Bellinzona  an 14:23 2
+  Bellinzona  ab 14:30 2  S2014257   S-Bahn Linie 20
+  Locarno  an 14:57 3
+  Locarno, Stazione  ab 15:02  Bus 314   Bus, Richtung: Ronco sopra Ascona, Posta, ap
+  Arcegno, Posta  an 15:17
+  Dauer: 4:14;  täglich
+
+  Basel SBB ab 11:07 11  IC 771  1.  2.   InterCity,  BZ
+  Zürich HB  an 12:00 8
+  Zürich HB  ab 12:09 4  IR 2271  1.  2.   InterRegio,
+  Arth-Goldau  an 12:46 4
+  Arth-Goldau  ab 12:50 5  ICN 675  1.  2.   IC-Neigezug,    BZ RZ EP
+  Bellinzona  an 14:23 2
+  Bellinzona  ab 14:30 2  S2014257   S-Bahn Linie 20
+  Locarno  an 14:57 3
+  Locarno, Stazione  ab 15:02  Bus 314   Bus, Richtung: Ronco sopra Ascona, Posta, ap
+  Arcegno, Posta  an 15:17
+  Dauer: 4:10;  täglich
+
+2009-11-13 bsl-cubus:
+  Eggbühlstrasse 14, CH-8052 Zürich
+  Haltestelle Felsenrainstrasse
+  Bahnhof Oerlikon Ost
+  Bahnhof Zürich Oerlikon
+  Hauptbahnhof Zuerich
+
+  Basel SBB  ab 12:07 8  TGV 9211  1.  2.   Train à grande vit.,
+  Zürich HB  an 13:00 12
+  Zürich HB  ab 13:07 21/22  S5 18548   S-Bahn Linie 5
+  Zürich Oerlikon  an 13:13 6
+  Dauer: 1:11;  11. Nov bis 12. Dez 2009 Mo - Sa
+
+2009-11-18 bsl-ne:
+  Basel SBB  ab 08:03 14  ICN 1612  1.  2.   IC-Neigezug,   BZ RZ
+  Neuchâtel  an 09:32 3
+  Dauer: 1:29;  18. Nov bis 12. Dez 2009 täglich
+
+2009-11-23 bsl-muc:
+
+  Lörrach  ab  16:01  1  SBB87843 SBB GmbH  Basel Bad Bf  an  16:11  5
+  Lörrach  ab  16:31  1  SBB87845 SBB GmbH  Basel Bad Bf  an  16:41  8
+
+  Basel Bad Bf  ab  16:43  7  IRE 3111 Interregio-Express
+  Ulm Hbf       an  19:53  6 Süd
+  Ulm Hbf       ab  20:08  2  ICE 691 Intercity-Express
+  München Hbf   an  21:33  18
+
+  Basel Bad Bf  ab 16:43  IRE 3111   InterRegioExpress, VL
+  Ulm Hbf  an 19:53
+  Ulm Hbf  ab 20:08  ICE 691   InterCityExpress,  Z
+  München Hbf  an 21:33
+  Dauer: 5:14;  23. Nov bis 11. Dez 2009 Mo - Fr
+
+2009-12-19 paris-zrh
+  Paris-Est Sa, 19.12.09  ab 14:24    4:36  1  TGV, IC
+  Zürich HB    an 19:00
+
+2009-12-26 bsl-locarno:
+  Basel SBB ab 11:03 8  ICN 675  1.  2.   IC-Neigezug,    FZ BZ RZ EP
+  Bellinzona  an 14:23 2
+  Bellinzona  ab 14:30 3  S2014249   S-Bahn Linie 20
+  Locarno  an 14:57 3
+  Dauer: 3:54;  täglich
+
+  Basel SBB ab 11:07 6  IC 771  1.  2.   InterCity,  BZ
+  Zürich HB  an 12:00 9
+  Zürich HB  ab 12:09 4  IR 2271  1.  2.   InterRegio,
+  Arth-Goldau  an 12:46 4
+  Arth-Goldau  ab 12:50 5  ICN 675  1.  2.   IC-Neigezug,    FZ BZ RZ EP
+  Bellinzona  an 14:23 2
+  Bellinzona  ab 14:30 3  S2014249   S-Bahn Linie 20
+  Locarno  an 14:57 3
+  Dauer: 3:50;  täglich
+
+2010-01-06 locarno-winti:
+  Locarno  ab 10:03 3  S2014228   S-Bahn Linie 20
+  Bellinzona  an 10:27 1
+  Bellinzona  ab 10:36 1  EC 14  1.  2.   EuroCity,    VT
+  Zürich HB  an 12:51 4
+  Zürich HB  ab 13:07 9  IC 823  1.  2.   InterCity,     BZ RZ
+  Winterthur  an 13:33 5
+  Dauer: 3:30;  täglich
+
+  Locarno  ab 10:45 1  IR 2280  1.  2.   InterRegio,
+  Zürich HB  an 13:51 4
+  Zürich HB  ab 14:07 10  IC 825  1.  2.   InterCity,     BZ RZ
+  Winterthur  an 14:33 5
+  Dauer: 3:48;  täglich
+
+  Locarno  ab 10:45 1  IR 2280  1.  2.   InterRegio,
+  Zürich HB  an 13:51 4
+  Zürich HB  ab 14:18 23/24  S1219255   S-Bahn Linie 12
+  Winterthur  an 14:39 5
+  Dauer: 3:54;  täglich
+
+  Locarno  ab 11:03 3  S2014232   S-Bahn Linie 20
+  Bellinzona  an 11:27 1
+  Bellinzona  ab 11:36 1  ICN 666  1.  2.   IC-Neigezug,    FZ BZ RZ EP
+  Arth-Goldau  an 13:09 5
+  Arth-Goldau  ab 13:13 4  IR 2280  1.  2.   InterRegio,
+  Zürich HB  an 13:51 4
+  Zürich HB  ab 14:07 10  IC 825  1.  2.   InterCity,     BZ RZ
+  Winterthur  an 14:33 5
+  Dauer: 3:30;  täglich
+
+  Locarno  ab 12:03 3  S2014236   S-Bahn Linie 20
+  Bellinzona  an 12:27 1
+  Bellinzona  ab 12:36 1  EC 16  1.  2.   EuroCity,    VT
+  Zürich HB  an 14:51 4
+  Zürich HB  ab 15:07 11  IC 827  1.  2.   InterCity,     BZ RZ
+  Winterthur  an 15:33 5
+  Dauer: 3:30;  täglich
+
+  Zürich HB  ab 15:18    0:21  0  S12
+  Winterthur    an 15:39
+
+2010-01-09 bsl-zrh:
+  Basel SBB  ab 12:33 8  IC 573  1.  2.   InterCity,    FZ BZ RZ
+  Zürich HB  an 13:26 10
+  Zürich HB SZU  ab 13:35 2  S10 1115   S-Bahn Linie 10,
+  Zürich Binz  an 13:39
+  Dauer: 1:06;  Sa, So, an allg. Feiertag
+
+  Basel SBB  ab 13:07 12  IC 775  1.  2.   InterCity,
+  Zürich HB  an 14:00 7
+  Zürich HB SZU  ab 14:15 2  S10 1123   S-Bahn Linie 10,
+  Zürich Binz  an 14:19
+  Dauer: 1:12;  Sa, So, an allg. Feiertag
+
+2010-01-23 bsl-winti:
+  Basel SBB Sa, 23.01.10  ab 09:33 9  IC 567  1.  2.   InterCity,    FZ BZ RZ
+  Zürich HB  an 10:26 10
+  Zürich HB  ab 10:37 11  IR 9059  1.  2.   InterRegio
+  Winterthur  an 11:03 5BC
+  Dauer: 1:30;  täglich
+
+  Zürich HB Sa, 23.01.10  ab 10:48 23/24  S1219237   S-Bahn, Linie 12
+  Winterthur  an 11:09 5
+  Dauer: 0:21;  täglich
+
+2010-01-28 bk:
+  Weil am Rhein  ab 15:52    0:40  0 RE  4,30 EUR
+  Bad Krozingen  an 16:32
+
+  Lörrach Hbf    ab  15:31  1  SBB87841 SBB GmbH
+  Basel Bad Bf   an  15:41  8
+  Basel Bad Bf   ab  15:48  9  RE 31014 Regional-Express
+  Bad Krozingen  an  16:32  1
+
+2010-01-30 bsl-locarno:
+  Basel SBB   ab 09:03 9  ICN 671  1.  2.   InterCity-Neigezug,    FZ BZ RZ EP
+  Bellinzona  an 12:23 2
+  Bellinzona  ab 12:30 3  S2014241   S-Bahn, Linie 20
+  Locarno     an 12:57 3
+  Dauer: 3:54;  täglich
+
+  Basel SBB   ab 09:07 5  ICE 5  1.  2.   InterCityExpress,    MP
+  Zürich HB   an 10:00 9
+  Zürich HB   ab 10:09 4  IR 2267  1.  2.   InterRegio,
+  Arth-Goldau an 10:46 4
+  Arth-Goldau ab 10:50 5  ICN 671  1.  2.   InterCity-Neigezug,    FZ BZ RZ EP
+  Bellinzona  an 12:23 2
+  Bellinzona  ab 12:30 3  S2014241   S-Bahn, Linie 20
+  Locarno     an 12:57 3
+  Dauer: 3:50;  täglich
+
+2010-02-10 verbania-ne:
+  Verbania-Pallanza ab 06:40  R 20220   Regio, VL
+  Domodossola  an 07:08
+  Domodossola, Stazione  ab 07:20  BUS 932   Bus, SZ
+  Iselle, Stazione  an 07:48
+  Iselle di Trasquera  ab 08:05  ATZ29160   Autotunnelzug,
+  Brig Autoquai  an 08:25 90
+  Brig  ab 08:49 3  IC 819  1.  2.   InterCity,     BZ RZ
+  Bern  an 09:54 4
+  Bern  ab 10:08 12A  S5 15534   S-Bahn, Linie 5
+  Neuchâtel  an 10:57 1
+  Dauer: 4:17;  9. Feb bis 12. Jun 2010 täglich
+
+* Verbania-Pallanza ab 07:51  R 20222   Regio,  VL
+  Domodossola  an 08:17
+  Domodossola  ab 08:48  EC 50  1.  2.   EuroCity,    VT
+  Bern  an 10:23 6
+  Bern  ab 10:54 12  RE 3036   RegioExpress
+  Neuchâtel  an 11:27 2
+  Dauer: 3:36;  9. Feb bis 12. Jun 2010 täglich
+
+  Locarno ab 05:33 1  S2014202   S-Bahn, Linie 20
+  Bellinzona  an 05:57 4
+  Bellinzona  ab 06:06 1  IR 2166  1.  2.   InterRegio,
+  Luzern  an 08:41 7
+  Luzern  ab 09:00 8  IR 2516  1.  2.   InterRegio,
+  Bern  an 10:00 2
+  Bern  ab 10:08 12A  S5 15534   S-Bahn, Linie 5
+  Neuchâtel  an 10:57 1
+  Dauer: 5:24;  täglich
+
+  Locarno ab 06:03 3  S2014204   S-Bahn, Linie 20
+  Bellinzona  an 06:27 6
+  Bellinzona  ab 06:36 1  ICN 654  1.  2.   InterCity-Neigezug,    FZ BZ RZ EP
+  Zürich HB  an 08:51 4
+  Zürich HB  ab 09:04 14  ICN 1516  1.  2.   InterCity-Neigezug,   FZ BZ RZ
+  Neuchâtel  an 10:32 3
+  Dauer: 4:29;  täglich
+
+  Locarno ab 06:33 1  S2014206   S-Bahn, Linie 20
+  Bellinzona  an 06:57 4
+  Bellinzona  ab 07:06 1  IR 2272  1.  2.   InterRegio,
+  Arth-Goldau  an 09:06 4
+  Arth-Goldau  ab 09:21 6 S3 21334   S-Bahn, Linie 3
+  Luzern  an 09:54 5
+  Luzern  ab 10:00 8  IR 2518  1.  2.   InterRegio,
+  Bern  an 11:00 2
+  Bern  ab 11:08 12A  S5 15538   S-Bahn, Linie 5
+  Neuchâtel  an 11:57 1
+  Dauer: 5:24;  täglich
+
+  Locarno FART  ab 06:50 FART  D 120   Schnellzug,
+  Domodossola  an 08:37
+  Domodossola  ab 08:48  EC 50  1.  2.   EuroCity,    VT
+  Bern  an 10:23 6
+  Bern  ab 10:54 12  RE 3036   RegioExpress
+  Neuchâtel  an 11:27 2
+  Dauer: 4:41;  täglich
+
+2010-02-16 bsl flughafen:
+  Lörrach Hbf  ab 08:01  S 87811   S-Bahn
+  Basel Bad Bf  an 08:11
+  Basel, Badischer Bahnhof  ab 08:19  Tram 21   Tram, Richtung: Basel, Bhf. St.Johann
+  Basel, Bhf. St.Johann  an 08:30
+  Basel, Im Wasenboden  ab 08:45  Bus 50   Niederflurbus, Richtung: Basel, EuroAirport
+  Basel, EuroAirport  an 08:52
+  Dauer: 0:51;  Mo - Fr, nicht an allg. Feiertag; nicht 22., 23. Feb
+
+2010-03-07:
+  Lörrach Hbf   ab 09:16    1:28  1 SBB, RE  11,50 EUR
+  Freiburg Hbf  an 10:44
+
+2010-03-10:
+  Basel SBB Mi, 10.03.10  ab 07:59  EXT33612  1.  2.   Extrazug,
+  Neuchâtel  an 09:28
+  Dauer: 1:29;  10. bis 14. Mär 2010 täglich
+
+  Basel SBB Mi, 10.03.10  ab 08:03 14  ICN 1612  1.  2.   InterCity-Neigezug,   FZ BZ RZ
+  Neuchâtel  an 09:32 3
+  Dauer: 1:29;  täglich
+
+2010-03-14 egerkingen-winti:
+  Egerkingen So, 14.03.10  ab 18:39 2  R 7273   Regio
+  Olten  an 18:50 1
+  Olten  ab 18:59 2  IR 9077  1.  2.   InterRegio
+  Winterthur  an 20:03 5BC
+  Dauer: 1:24;  Sa, So, an allg. Feiertag
+
+  Egerkingen So, 14.03.10  ab 19:39 2  R 7277   Regio
+  Olten  an 19:50 1
+  Olten  ab 19:59 2  IR 9079  1.  2.   InterRegio
+  Winterthur  an 21:03 5BC
+  Dauer: 1:24;  Sa, So, an allg. Feiertag
+
+  Egerkingen So, 14.03.10  ab 20:12 2  R 6879   Regio
+  Olten  an 20:24 1
+  Olten  ab 20:29 3  IR 2041  1.  2.   InterRegio
+  Zürich HB  an 21:02 13
+  Zürich HB  ab 21:09 9  ICN 541  1.  2.   InterCity-Neigezug, FZ BZ RZ
+  Winterthur  an 21:35 4
+  Dauer: 1:23;  täglich, nicht 27. Mär, 10. Apr
+
+  Egerkingen So, 14.03.10  ab 20:12 2  R 6879   Regio
+  Olten  an 20:24 1
+  Olten  ab 20:29 3  IR 2041  1.  2.   InterRegio
+  Zürich HB  an 21:02 13
+  Zürich HB  ab 21:18 23/24  S1219287   S-Bahn, Linie 12
+  Winterthur  an 21:39 5B
+  Dauer: 1:27;  täglich, nicht 27. Mär, 10. Apr
+
+2010-03-23 bsl-meilen:
+  Basel SBB Di, 23.03.10  ab 16:07 6  IC 781  1.  2.   InterCity,
+  Zürich HB  an 17:00 8
+  Zürich HB  ab 17:12 23/24  S7 18767   S-Bahn, Linie 7
+  Meilen  an 17:27 2
+  Dauer: 1:20;  täglich, nicht 27. Mär, 10. Apr
+
+2010-04-06 bsl-zrh:
+  Basel SBB Di, 06.04.10  ab 07:33 8  ICN 561  1.  2.   InterCity-Neigezug,     FZ BZ RZ
+  Zürich HB  an 08:26 10
+  Zürich HB  ab 08:37 11  IR 9055  1.  2.   InterRegio
+  Zürich Flughafen  an 08:46 1
+  Dauer: 1:13;  Mo - Fr, nicht 5. Apr, 13., 24. Mai
+
+  Basel SBB Di, 06.04.10  ab 07:40 11  IR 2065  1.  2.   InterRegio
+  Zürich Flughafen  an 08:56 1
+  Dauer: 1:16;  täglich
+
+  Basel SBB Di, 06.04.10  ab 07:47 7  IR 1765  1.  2.   InterRegio,
+  Zürich HB  an 08:52 5
+  Zürich HB  ab 09:01 3  IR 2318  1.  2.   InterRegio
+  Zürich Flughafen  an 09:13 2
+  Dauer: 1:26;  täglich
+
+  Basel SBB Di, 06.04.10  ab 08:07 10  ICE 763  1.  2.   InterCityExpress,    MP
+  Zürich HB  an 09:00 11
+  Zürich HB  ab 09:07 9  IC 815  1.  2.   InterCity,     BZ RZ
+  Zürich Flughafen  an 09:16 1
+  Dauer: 1:09;  täglich, nicht 10., 11. Apr
+
+2010-04-13 bsl-ne:
+  Basel SBB   ab 19:03 14  ICN 638  1.  2.   InterCity-Neigezug,   FZ BZ RZ
+  Biel/Bienne  an 20:10 4
+  Biel/Bienne  ab 20:16 5  ICN 1538  1.  2.   InterCity-Neigezug,   FZ BZ RZ
+  Neuchâtel  an 20:32 3
+  Dauer: 1:29;  täglich
+
+  Basel SBB   ab 19:03 14  ICN 638  1.  2.   InterCity-Neigezug,   FZ BZ RZ
+  Neuchâtel  an 20:35 4
+  Dauer: 1:32;  täglich
+
+2010-05-15 bsl-zrh:
+  Basel SBB  ab 11:47 7  IR 1773  1.  2.   InterRegio
+  Zürich HB  an 12:52 6
+  Zürich HB SZU  ab 13:15 2  S10 1111   S-Bahn, Linie 10,
+  Zürich Binz  an 13:19
+  Dauer: 1:32;  Sa, So, auch 24. Mai
+
+  Basel SBB  ab 12:07 9  TGV 9213  1.  2.   Train à grande vitesse,
+  Zürich HB  an 13:00 11
+  Zürich HB SZU  ab 13:15 2  S10 1111   S-Bahn, Linie 10,
+  Zürich Binz  an 13:19
+  Dauer: 1:12;  Sa, So, nicht 29., 30. Mai; auch 24. Mai
+
+  Basel SBB  ab 12:13 6  IR 1973  1.  2.   InterRegio
+  Zürich HB  an 13:24 15
+  Zürich HB SZU  ab 13:35 2  S10 1115   S-Bahn, Linie 10,
+  Zürich Binz  an 13:39
+  Dauer: 1:26;  täglich
+
+  Basel SBB  ab 12:33 8  IC 573  1.  2.   InterCity,    FZ BZ RZ
+  Zürich HB  an 13:26 10
+  Zürich HB SZU  ab 13:35 2  S10 1115   S-Bahn, Linie 10,
+  Zürich Binz  an 13:39
+  Dauer: 1:06;  Sa, So, nicht 29., 30. Mai; auch 24. Mai
+
+2010-05-18 ne-bsl:
+  Neuchâtel ab 21:27  1:26  0  Basel SBB  an 22:53
+  Neuchâtel ab 22:24  1:29  0  Basel SBB  an 23:53
+
+2010-05-26 bsl-verbania:
+  Basel SBB ab 18:01 8  ICE 277   InterCityExpress,   MP
+  Thun  an 19:21 1
+  Thun  ab 19:25 2  IC 836  1.  2.   InterCity,    BZ RZ
+  Brig  an 20:11 9
+  Brig  ab 20:44 4  EC 41  1.  2.   EuroCity,    VT
+  Domodossola  an 21:12
+  Domodossola  ab 21:55  R 20245   Regio, VL
+  Verbania-Pallanza  an 22:22
+  Dauer: 4:21;  20. Mai bis 12. Jun 2010 täglich
+
+2010-05-25 loe-mulhouse:
+  Lörrach Hbf ab 08:01  S 87811  S-Bahn
+  Basel SBB  an 08:24 2
+  Basel SBB Gl. 30-35  ab 08:47  RE 96220   RegioExpress, VL
+  Mulhouse-Ville  an 09:09
+  Dauer: 1:08;  Mo - Fr, nicht 24. Mai, 14. Jul, 1., 11. Nov
+
+2010-05-27 bsl-verbania:
+  Basel SBB Do, 27.05.10  ab 06:28 9  EC 51  1.  2.   EuroCity,    VT
+  Domodossola  an 09:12
+  Domodossola  ab 09:48  R 20231   Regio, VL
+  Verbania-Pallanza  an 10:13
+  Dauer: 3:45;  21. Mai bis 12. Jun 2010 täglich
+
+  Lörrach Hbf Do, 27.05.10  ab 10:31  R 87821   Regio, VL
+  Basel SBB  an 10:50
+  Basel SBB Do, 27.05.10  ab 11:01 10  IC 969  1.  2.   InterCity,    FZ BZ RZ
+  Bern  an 11:56 4
+  Bern  ab 12:07 5  IC 820  1.  2.   InterCity,     BZ RZ
+  Brig  an 13:11 3
+  Brig  ab 13:21 6  IR 2719  1.  2.   InterRegio
+  Domodossola  an 13:51
+  Domodossola  ab 14:02  R 20235   Regio, VL
+  Verbania-Pallanza  an 14:32
+  Dauer: 3:31;  21. Mai bis 12. Jun 2010 täglich
+
+2010-06-01 verbania-zrh:
+  Verbania-Pallanza Do, 03.06.10  ab 10:29  R 20226   Regio, VL
+  Domodossola  an 11:05
+  Domodossola  ab 12:48  EC 52  1.  2.   EuroCity,    VT
+  Bern  an 14:23 6
+  Bern  ab 14:32 7  IC 727  1.  2.   InterCity,     BZ RZ
+  Zürich HB  an 15:28 12
+  Zürich HB  ab 15:37 11  IR 9069   InterRegio
+  Zürich Flughafen  an 15:46 1
+  Dauer: 5:17;  1. bis 12. Jun 2010 Mo - Sa; nicht 2. Jun
+
+  Verbania-Pallanza Do, 03.06.10  ab 10:29  R 20226   Regio, VL
+  Domodossola  an 11:05
+  Domodossola  ab 12:48  EC 52  1.  2.   EuroCity,    VT
+  Bern  an 14:23 6
+  Bern  ab 14:32 7  IC 727  1.  2.   InterCity,     BZ RZ
+  Zürich Flughafen  an 15:50 2
+  Dauer: 5:21;  1. bis 12. Jun 2010 Mo - Sa; nicht 2. Jun
+
+2010-06-10 bsl-bern:
+  Basel SBB   ab 11:28 5  IC 1071  1.  2.   InterCity,    FZ BZ RZ
+  Bern  an 12:27 3
+  Bern, Bahnhofplatz  ab 12:40  Bus 19   Niederflurbus, Richtung: Bern, Elfenau
+  Bern, Luternauweg  an 12:51
+  Bern, Luternauweg       Fussweg   6 Min.
+  3006 Bern, Frikartweg 16
+  Dauer: 1:29;  So
+
+  Basel SBB   ab 12:01 10  ICE 373  1.  2.   InterCityExpress,    MP
+  Bern  an 12:56 5
+  Bern, Bahnhofplatz  ab 13:10  Bus 19   Niederflurbus, Richtung: Bern, Elfenau
+  Bern, Luternauweg  an 13:21
+  Bern, Luternauweg       Fussweg   6 Min.
+  3006 Bern, Frikartweg 16
+  Dauer: 1:26;  So
+
+2010-06-21 zrh-munich:
+  Zürich HB     ab 22:40  EN 467   EuroNight,   VL KW
+  Salzburg Hbf  an 04:12
+  Salzburg Hbf  ab 04:28  EN 462   EuroNight,
+  München Hbf   an 06:15
+  Dauer: 7:35;  täglich, nicht 11. Dez
+
+  Zürich HB    ab 07:16  EC 191   EuroCity,    VL
+  München Hbf  an 11:28
+  Dauer: 4:12;  täglich
+
+  Zürich HB   ab 07:18 23/24  S1219221   S-Bahn, Linie 12,
+  Winterthur  an 07:39 5
+  Winterthur  ab 07:42  EC 191   EuroCity,    VL
+  München Hbf an 11:28
+  Dauer: 4:10;  täglich
+
+2010-06-25 muc-bsl:
+  München Hbf Fr, 25.06.10  ab 12:41 17  IC 2260   InterCity,   VL
+  Karlsruhe Hbf  an 15:50 7
+  Karlsruhe Hbf  ab 16:00 2  ICE 277   InterCityExpress,
+  Basel SBB  an 17:47 8
+  Dauer: 5:06;  täglich, nicht 17., 24. Jul
+
+  München Hbf Fr, 25.06.10  ab 15:23 14  ICE 514   InterCityExpress,
+  Mannheim Hbf  an 18:27 3
+  Mannheim Hbf  ab 18:44 8  ICE 79   InterCityExpress,
+  Basel SBB  an 20:55 5
+  Dauer: 5:32;  täglich, nicht 18., 24., 25. Jul
+
+  München Hbf Fr, 25.06.10  ab 16:34 23  EC 192   EuroCity,    VL
+  Zürich HB  an 20:44 13
+  Zürich HB  ab 21:02 15  IC 790  1.  2.   InterCity,   MP
+  Basel SBB  an 21:57 12
+  Dauer: 5:23;  täglich
+
+  München Hbf Fr, 25.06.10  ab 16:43 17  EC 360   EuroCity,   VL
+  Karlsruhe Hbf  an 19:53 6
+  Karlsruhe Hbf  ab 20:00 2  ICE 873   InterCityExpress,
+  Basel SBB  an 21:47 11
+  Dauer: 5:04;  täglich, nicht 17. Jul, 9. Aug
+
+  Aidenbachstraße, München  Fr, 25.06.10  ab  16:11     U 3 U-Bahn Richtung: Olympia-Einkaufszentrum, München
+  Sendlinger Tor, München  Fr, 25.06.10  an  16:21
+  Sendlinger Tor, München  Fr, 25.06.10  ab  16:28     U 2E U-Bahn Richtung: Harthof, München
+  München Hauptbahnhof  Fr, 25.06.10  an  16:30
+  München Hbf  Fr, 25.06.10  ab  16:43  17  EC 360 Eurocity
+  Karlsruhe Hbf  Fr, 25.06.10  an  19:53  6
+  Karlsruhe Hbf  Fr, 25.06.10  ab  20:00  2  ICE 873 Intercity-Express
+  Basel SBB  Fr, 25.06.10  an  21:47
+
+  Aidenbachstraße, München  Fr, 25.06.10  ab  16:11     U 3 U-Bahn Richtung: Olympia-Einkaufszentrum, München
+  Sendlinger Tor, München  Fr, 25.06.10  an  16:21
+  Sendlinger Tor, München  Fr, 25.06.10  ab  16:28     U 2E U-Bahn Richtung: Harthof, München
+  München Hauptbahnhof  Fr, 25.06.10  an  16:30
+  München Hbf  Fr, 25.06.10  ab  16:43  17  EC 360 Eurocity
+  Karlsruhe Hbf  Fr, 25.06.10  an  19:53  6
+  Karlsruhe Hbf  Fr, 25.06.10  ab  20:00  2  ICE 873 Intercity-Express
+  Basel SBB  Fr, 25.06.10  an  21:47
+
+2010-07-01 bsl-zrh:
+  Basel SBB Do, 01.07.10  ab 07:07 7  IC 761  1.  2.   InterCity,  FZ BZ RZ
+  Zürich HB  an 08:00 11
+  Zürich HB  ab 08:07 9  IC 811  1.  2.   InterCity,     BZ RZ
+  Zürich Flughafen  an 08:16 1
+  Dauer: 1:09;  täglich
+
+  Basel SBB Do, 01.07.10  ab 07:15 12  IR 2455  1.  2.   InterRegio
+  Olten  an 07:47 12
+  Olten  ab 07:59 2  IR 9055  1.  2.   InterRegio
+  Zürich Flughafen  an 08:46 1
+  Dauer: 1:31;  täglich
+
+  Basel SBB Do, 01.07.10  ab 07:33 8  ICN 561  1.  2.   IC-Neigezug,     FZ BZ RZ
+  Zürich HB  an 08:26 10
+  Zürich HB  ab 08:37 11  IR 9055  1.  2.   InterRegio
+  Zürich Flughafen  an 08:46 1
+  Dauer: 1:13;  Mo - Fr
+
+  Basel SBB Do, 01.07.10  ab 07:40 11  IR 2065  1.  2.   InterRegio
+  Zürich Flughafen  an 08:56 1
+  Dauer: 1:16;  täglich
+
+2010-07-18 bsl-bern:
+  Basel SBB ab 12:01 10  ICE 373  1.  2.   InterCityExpress,    MP
+  Bern  an 12:56 5
+  Bern, Bahnhofplatz  ab 13:10  Bus 19   Niederflurbus, Richtung: Bern, Elfenau
+  Bern, Luternauweg  an 13:21
+  Dauer: 1:26;  So
+
+  Bern ab 19:34 6  IC 1088  1.  2.   InterCity,   FZ BZ RZ
+  Basel SBB  an 20:32 5
+  Dauer: 0:58;  täglich
+
+  Bern ab 20:04 7  IC 990  1.  2.   InterCity,   FZ BZ RZ
+  Basel SBB  an 20:55 10
+  Dauer: 0:51;  täglich
+
+  Bern ab 20:34 6  IC 1092  1.  2.   InterCity,   FZ BZ RZ
+  Basel SBB  an 21:32 8
+  Dauer: 0:58;  täglich
+
+  Bern ab 21:34 7  EC 56  1.  2.   EuroCity,    VT
+  Basel SBB  an 22:32 9
+  Dauer: 0:58;  täglich
+
+2010-07-26 bsl-muc:
+  Basel SBB      ab 14:12 6  ICE 370 InterCityExpress,
+  Basel Bad Bf   ab 14:22 4  ICE 370 Intercity-Express
+  Karlsruhe Hbf  an 15:58 3
+  Karlsruhe Hbf  ab 16:06 7  IC 2265   InterCity,   VL
+  München Hbf    an 19:16 13
+  München Hauptbahnhof  ab  19:33     U 1 U-Bahn Richtung: Mangfallplatz, München
+  Wettersteinplatz, München  an  19:40
+  Dauer: 5:04;  Mo - Fr, So, nicht 6. bis 9. Aug 2010, 15. Aug, 5. bis 10. Okt 2010
+
+  Basel SBB ab 14:20 10  EC 6   EuroCity,   VL
+  Basel Bad Bf  an 14:26 4
+  Basel Bad Bf  ab 14:42 7  IRE 3109   InterRegioExpress, VL
+  Ulm Hbf  an 17:53 8
+  Ulm Hbf  ab 18:08 2  ICE 599   InterCityExpress,
+  München Hbf  an 19:33 15
+  Dauer: 5:13;  täglich, nicht 6. bis 9. Aug 2010, 5. bis 10. Okt 2010, 16., 17. Okt
+
+  Basel SBB ab 15:12 11  ICE 234   InterCityExpress,   RE
+  Mannheim Hbf  an 17:23 3
+  Mannheim Hbf  ab 17:32 5  ICE 611   InterCityExpress,
+  München Hbf  an 20:33 19
+  Dauer: 5:21;  Verkehrstage
+
+2010-07-28 muc-winti:
+  Aidenbachstraße, München  ab  16:06     U 3 U-Bahn Richtung: Olympiazentrum, München
+  Sendlinger Tor, München  an  16:16
+  Sendlinger Tor, München  ab  16:23     U 2 U-Bahn Richtung: Harthof, München
+  München Hauptbahnhof  an  16:25
+  München Hbf  ab  16:34  23  EC 192 Eurocity Bordrestaurant
+  Winterthur  an  20:17  4
+
+  Aidenbachstraße, München  ab  18:06     U 3 U-Bahn Richtung: Olympiazentrum, München
+  Sendlinger Tor, München  an  18:16
+  Sendlinger Tor, München  ab  18:23     U 2 U-Bahn Richtung: Harthof, München
+  München Hauptbahnhof  an  18:25
+  München Hbf  ab  18:34  23  EC 190 Eurocity Bordrestaurant
+  Winterthur  an  22:17  4
+
+2010-07-29 winti-ne-bsl-zrh:
+  Winterthur ab 07:30 4  S1119124   S-Bahn Linie 11,
+  Zürich HB  an 07:53 21/22
+  Zürich HB  ab 08:02 16  ICE 76  1.  2.   InterCityExpress,    MP
+  Basel SBB  an 08:57 10
+  Dauer: 1:27;  Mo - Fr
+
+  Winterthur ab 07:25 3  ICN 512  1.  2.   IC-Neigezug,    FZ BZ RZ
+  Neuchâtel  an 09:35 4
+  Dauer: 2:10;  täglich
+
+  Neuchâtel  ab 10:24 5  ICN 621  1.  2.   IC-Neigezug,    FZ BZ RZ
+  Basel SBB  an 11:53 14
+  Dauer: 1:29;  täglich
+
+  Basel SBB   ab 19:40 10  IR 2091  1.  2.   InterRegio
+  Zürich Flughafen  an 20:56 1
+  Dauer: 1:16;  täglich
+
+  Basel SBB   ab 20:07 5  IC 791  1.  2.   InterCity, BZ
+  Zürich HB  an 21:00 10
+  Zürich HB  ab 21:07 8  IC 841  1.  2.   InterCity,    BZ RZ
+  Zürich Flughafen  an 21:16 1
+  Dauer: 1:09;  täglich, nicht 11., 12. Sep
+
+2010-07-29 loe-zrh:
+  Lörrach Hbf  ab 18:31  S6 87853   S-Bahn Linie 6
+  Basel SBB  an 18:50 2
+  Basel SBB  ab 19:07 5  ICE 77  1.  2.   InterCityExpress,   MP
+  Zürich HB  an 20:00 8
+  Zürich HB  ab 20:07 7  IC 839  1.  2.   InterCity,   FZ BZ RZ
+  Zürich Flughafen  an 20:16 1
+  Dauer: 1:45;  Mo - Sa
+
+  Lörrach Hbf  ab 19:01  S6 87855   S-Bahn Linie 6
+  Basel SBB  an 19:24 2
+  Basel SBB  ab 19:33 7  IC 589  1.  2.   InterCity,   FZ BZ RZ
+  Zürich HB  an 20:26 6
+  Zürich HB  ab 20:37 11 IR 9079  1.  2.   InterRegio
+  Zürich Flughafen  an 20:46 1
+  Dauer: 1:45;  täglich, nicht 11., 12. Sep
+
+  Lörrach Hbf  ab 19:01  S6 87855   S-Bahn Linie 6
+  Basel SBB  an 19:24 2
+  Basel SBB  ab 19:40 10  IR 2091  1.  2.   InterRegio
+  Zürich Flughafen  an 20:56 1
+  Dauer: 1:55;  täglich
+
+  Lörrach Hbf  ab 19:31  S6 87857   S-Bahn Linie 6
+  Basel SBB  an 19:50 2
+  Basel SBB  ab 20:07 5  IC 791  1.  2.   InterCity, BZ
+  Zürich HB  an 21:00 10
+  Zürich HB  ab 21:07 8  IC 841  1.  2.   InterCity,    BZ RZ
+  Zürich Flughafen  an 21:16 1
+  Dauer: 1:45;  Mo - Sa, nicht 11. Sep
+
+2010-08-27:
+  Zürich Flughafen Fr, 27.08.10  ab 07:43 4  IC 812  1.  2.   InterCity,     BZ RZ
+  Zürich HB  an 07:53 14
+  Zürich HB  ab 08:02 16  ICE 76  1.  2.   InterCityExpress,
+  Basel SBB  an 08:57 10
+  Basel SBB  ab 09:09 2  S6 87816   S-Bahn Linie 6
+  Riehen  an 09:23
+  Dauer: 1:40;  Mo - Sa
+
+  Zürich Flughafen Fr, 27.08.10  ab 08:04 1  IR 2062  1.  2.   InterRegio
+  Basel SBB  an 09:23 11
+  Basel SBB  ab 09:35 2  S6 87818   S-Bahn Linie 6
+  Riehen  an 09:53
+  Dauer: 1:49;  täglich
+
+  Zürich Flughafen Fr, 27.08.10  ab 08:13 3  IC 712  1.  2.   InterCity,     BZ RZ
+  Zürich HB  an 08:23 17
+  Zürich HB  ab 08:34 11  IC 562  1.  2.   InterCity,    FZ BZ RZ
+  Basel SBB  an 09:27 9
+  Basel SBB  ab 09:35 2  S6 87818   S-Bahn Linie 6
+  Riehen  an 09:53
+  Dauer: 1:40;  täglich
+
+2010-08-30:
+  Basel SBB  ab 08:03 14  ICN 1612  1.  2.   IC-Neigezug,    FZ BZ RZ
+  Neuchâtel  an 09:32 3
+  Dauer: 1:29;  täglich
+
+2010-09-01:
+  Lörrach Hbf Mi, 01.09.10  ab 10:31  S6 87821   S-Bahn Linie 6
+  Basel Bad Bf  an 10:41
+  Basel Bad Bf  ab 10:48  RE 31030   RegioExpress, VL
+  Freiburg im Breisgau (D)  an 11:44
+  Dauer: 1:13;  Mo - Sa
+
+  Lörrach Hbf Mi, 01.09.10  ab 11:01  S6 87823   S-Bahn Linie 6
+  Basel Bad Bf  an 11:11
+  Basel Bad Bf  ab 11:22 4  ICE 508   InterCityExpress,
+  Freiburg im Breisgau (D)  an 11:55 1
+  Dauer: 0:54;  täglich, nicht 2. bis 5. Nov 2010
+
+  Freiburg im Breisgau (D) Mi, 01.09.10  ab 12:57 1  ICE 374   InterCityExpress,
+  Mannheim Hbf  an 14:22 2
+  Mannheim Hbf  ab 14:35 3  ICE 518   InterCityExpress,
+  Frankfurt (M) Flughafen Fernbf  an 15:06 Fern 6
+  Dauer: 2:09;  täglich, nicht 28. Sep bis 10. Okt 2010
+
+2010-09-17 bsl-fr:
+  Basel Bad Bf  ab 21:26    0:53  0 RE  11,50 EUR
+  Weil am Rhein  ab  21:31  7  RE 31028 Regional-Express
+  Freiburg Hbf  an  22:19  2
+
+2010-09-19 bsl-chur:
+  Basel SBB So, 19.09.10  ab 17:33 9  IC 585  1.  2.   InterCity,    FZ BZ RZ
+  Chur  an 19:52 8
+  Dauer: 2:19;  Sa, So  Bitte beachten Sie den Gleiswechsel!
+
+  Basel SBB So, 19.09.10  ab 17:33 9  IC 585  1.  2.   InterCity,    FZ BZ RZ
+  Chur  an 19:52 8
+  Dauer: 2:19;  Sa, So  Bitte beachten Sie den Gleiswechsel!
+
+  Basel SBB So, 19.09.10  ab 17:47 7  IR 1787  1.  2.   InterRegio
+  Chur  an 20:45
+  Dauer: 2:58;  täglich
+
+  Basel SBB So, 19.09.10  ab 18:07 12  IC 787  1.  2.   InterCity,   FZ BZ RZ
+  Zürich HB  an 19:00 9
+  Zürich HB  ab 19:12 6  IR 1787  1.  2.   InterRegio
+  Chur  an 20:45
+  Dauer: 2:38;  täglich
+
+  Basel SBB So, 19.09.10  ab 18:33 8  IC 587  1.  2.   InterCity,    FZ BZ RZ
+  Chur  an 20:52 9
+  Dauer: 2:19;  täglich
+
+  Basel SBB So, 19.09.10  ab 18:09    1:05  0  TGV   1.  2.
+  Zürich HB    an 19:14  + 12 = 19:26
+
+  Basel SBB So, 19.09.10  ab 18:33    0:53  0  IC   1.  2.
+  Zürich HB    an 19:26
+
+  Basel SBB So, 19.09.10  ab 18:33 8  IC 587  1.  2.   InterCity,    FZ BZ RZ
+  Zürich HB   ab  19:37     1.  2.
+  Sargans   ab  20:33     1.  2.
+  Landquart   ab  20:43     1.  2.
+  Chur  an 20:52 9
+  Dauer: 2:19;  täglich
+
+2010-09-22 winti-ne:
+  Winterthur Mi, 22.09.10  ab 08:28 3  ICN 1516  1.  2.   IC-Neigezug,    FZ BZ RZ
+  Neuchâtel  an 10:32 3
+  Dauer: 2:04;  täglich
+
+2010-09-25 lcy-thames ditton:
+  canning town
+  tube jubilee line waterloo
+  train either to hampton court or fast train to surbiton
+  google journey planner london
+  http://journeyplanner.tfl.gov.uk
+  http://www.journeycheck.com/southwesttrains
+  C:\a\doc ravel rip\lhr\lcy-thames-ditton.png
+  Departing:  Saturday  25  September  2010 at: 07:00
+    From:  London City Airport
+    To:  Thames Ditton
+    Restrictions:
+    Time Details Information
+  07:28 - 07:35 London City Airport DLR Station
+    Take  Docklands Light Railway towards Bank DLR Station
+    Zone(s): 3 Average journey time: 7 mins
+    London City Airport DLR Station
+  07:43 - 08:00 Canning Town Underground Station
+    Take the Jubilee Line towards Stanmore Underground Station
+    WATERLOO STATION: Reduced escalator service until late September 2010. Reported: 21/06/10 03:19 Last Updated: 05/09/10 23:38
+    Zone(s): 3, 2, 1 Average journey time: 17 mins
+    Canning Town Underground Station
+  08:12 - 08:29 London Waterloo Rail Station
+    Take  South West Trains towards Basingstoke Rail Station
+    Zone(s): 1, 2, 6 Average journey time: 17 mins
+    London Waterloo Rail Station
+  08:35
+    Surbiton Rail Station
+    Take  South West Trains towards Hampton Court Rail Station
+    Zone(s): 6 Average journey time: 4 mins
+    Zone(s): 6
+    Surbiton Rail Station
+  08:39 Thames Ditton Rail Station  Thames Ditton Rail Station
+    Maximum journey time: 01:11
+    Interchanges: 3
+  07:58 - 08:05 London City Airport DLR Station
+    Take  Docklands Light Railway towards Bank DLR Station
+    Zone(s): 3 Average journey time: 7 mins
+    London City Airport DLR Station
+  08:07 - 08:24 Canning Town Underground Station
+    Take the Jubilee Line towards Stanmore Underground Station
+    WATERLOO STATION: Reduced escalator service until late September 2010. Reported: 21/06/10 03:19 Last Updated: 05/09/10 23:38
+    Zone(s): 3, 2, 1 Average journey time: 17 mins
+    Canning Town Underground Station
+  08:36
+    London Waterloo Rail Station
+    Take  South West Trains towards Hampton Court Rail Station
+    Zone(s): 1, 2, 3, 4, 5, 6 Average journey time: 33 mins
+    London Waterloo Rail Station
+  09:09 Thames Ditton Rail Station  Thames Ditton Rail Station
+    Maximum journey time: 01:11
+    Interchanges: 2
+  C:\a\doc ravel rip\lhr\lcy-thames-ditton.png
+
+2010-10-07 ne-zrh:
+  Neuchâtel   ab 16:27 4  ICN 1535  1.  2.   IC-Neigezug,    FZ BZ RZ
+  Zürich HB  an 17:56 7
+  Zürich HB  ab 18:07 23/24  S1119173   S-Bahn Linie 11,
+  Winterthur  an 18:28 4
+  Dauer: 2:01;  Mo - Fr
+
+  Neuchâtel   ab 16:33 2  RE 3067  1.  2.   RegioExpress
+  Bern  an 17:06 13
+  Bern  ab 17:14 8  IC 1035  1.  2.   InterCity,  BZ RZ
+  Zürich HB  an 18:10 5
+  Zürich HB  ab 18:18 23/24  S1219275   S-Bahn Linie 12,
+  Winterthur  an 18:39 5
+  Dauer: 2:06;  Mo - Fr
+
+  stadelhofen on the side of the station facing the lake with stairs and entrance
+  if all else fails, we meet in the train arriving in winti 18:39
+
+  Zürich HB   ab 18:00    0:02  0  S6
+  Zürich Stadelhofen    an 18:02
+
+  Zürich HB   ab 18:03    0:02  0  S3
+  Zürich Stadelhofen    an 18:05
+
+  Zürich HB   ab 18:07    0:02  0  S11
+  Zürich Stadelhofen    an 18:09
+
+  Zürich HB   ab 18:10
+
+  Zürich Stadelhofen Di, 05.10.10  ab 18:21      0:18  0  S12
+  Winterthur    an 18:39
+
+2010-10-29 loe-todtnauberg:
+  Lörrach Hbf  Fr, 29.10.10 ab 12:29    1:41  2 SBB, Bus
+  Todtnauberg Rathaus, Todtnau  Fr, 29.10.10 an 14:10
+    Lörrach Hbf  Fr, 29.10.10  ab  12:29  2  SBB87828 SBB GmbH
+    Zell(Wiesental)  Fr, 29.10.10  an  12:55
+    Zell(Wiesental)  Fr, 29.10.10  ab  13:05     Bus 7300 Bus Richtung: Todtnau
+    Todtnau  Fr, 29.10.10  an  13:38
+    Todtnau  Fr, 29.10.10           Fußweg 2 Min.
+    Todtnau Busbahnhof  Fr, 29.10.10
+    Todtnau Busbahnhof  Fr, 29.10.10  ab  13:52     Bus 7215 Bus Richtung: Todtnauberg Rathaus, Todtnau
+    Todtnauberg Rathaus, Todtnau  Fr, 29.10.10  an  14:10
+
+2010-11-01 fr-loe:
+  Freiburg Hbf   ab 07:11    1:17  1 RE, SBB  11,50 EUR
+  Lörrach Hbf   an 08:28
+    Freiburg Hbf    ab  07:11   4  RE 31053 Regional-Express
+    Basel Bad Bf    an  08:06   3
+    Basel Bad Bf    ab  08:19  6  SBB87812 SBB GmbH
+    Lörrach Hbf    an  08:28  2
+
+2010-11-03 bsl-be-ne:
+  Basel SBB Mi, 03.11.10  ab 08:01 6  ICE 371  1.  2.   InterCityExpress,
+  Bern    an 08:56 4
+  Dauer: 0:55;
+
+  Bundesgasse 26, 3011 Bern
+  Brunnadernrain 37, 3006 Bern
+
+  Bern, Bahnhofplatz  ab 09:40
+  Bus 19   Niederflurbus, Richtung: Bern, Elfenau
+  Bern, Willadingweg    an 09:52
+
+  Bern, Willadingweg  Mi, 03.11.10  ab  09:54      1:38  3  BUS, TRAM, RE, R  1.  2.
+  Neuchâtel     an  11:23
+
+  Bern, Willadingweg  Mi, 03.11.10  ab  10:34      1:02  1  BUS, RE
+  Neuchâtel     an  11:27
+
+  Bern, Thunplatz  Mi, 03.11.10  ab  09:40      0:47  1  TRAM, RE
+  Neuchâtel     an  10:27
+    Bern, Thunplatz Mi, 03.11.10  ab 09:40  Tram 5   Niederflurtram, Richtung: Bern, Fischermätteli
+    Bern, Bahnhofplatz    an 09:47
+    Bern  ab 09:54 12  RE 3032   RegioExpress
+    Neuchâtel    an 10:27 2
+  Dauer: 0:47;  2. Nov bis 10. Dez 2010 Mo - Fr
+
+  Bern, Thunplatz  Mi, 03.11.10  ab  09:55      1:02  1  TRAM, S5
+  Neuchâtel     an  10:57
+    Bern, Thunplatz Mi, 03.11.10  ab 09:55  Tram 3   Niederflurtram, Richtung: Bern, Weissenbühl (Tram)
+    Bern, Bahnhofplatz    an 10:02
+    Bern  ab 10:08 12A  S5 15534   S-Bahn Linie 5
+    Neuchâtel    an 10:57 1
+  Dauer: 1:02;  2. Nov bis 10. Dez 2010 Mo - Fr
+
+  Bern, Thunplatz  Mi, 03.11.10  ab  09:58      1:25  2  TRAM, RE, R  1.  2.
+  Neuchâtel     an  11:23
+    Bern, Thunplatz Mi, 03.11.10  ab 09:58  Tram 5   Niederflurtram, Richtung: Bern, Fischermätteli
+    Bern, Bahnhofplatz    an 10:05
+    Bern  ab 10:12 9  RE 1835  1.  2.   RegioExpress
+    Biel/Bienne    an 10:38 6
+    Biel/Bienne  ab 10:52 7  R 5128   Regio
+    Neuchâtel    an 11:23 3
+  Dauer: 1:25;  2. Nov bis 10. Dez 2010 Mo - Fr
+
+  Bern, Thunplatz  Mi, 03.11.10  ab  10:40      0:47  1  TRAM, RE
+  Neuchâtel     an  11:27
+    Bern, Thunplatz Mi, 03.11.10  ab 10:40  Tram 5   Niederflurtram, Richtung: Bern, Fischermätteli
+    Bern, Bahnhofplatz    an 10:47
+    Bern  ab 10:54 12  RE 3036   RegioExpress
+    Neuchâtel    an 11:27 2
+  Dauer: 0:47;  2. Nov bis 10. Dez 2010 Mo - Fr
+
+2010-12-29 bsl-bellinzona:
+  Basel SBB  ab 07:03 3  EC 153
+  Arth-Goldau   ab  08:50
+  Bellinzona     an 10:23 3
+
+  Lörrach Hbf  ab 06:31  S6 87805
+  Basel SBB     an 06:50 2
+  Basel SBB   ab 07:07 12  IC 761
+  Zürich HB     an 08:00 11
+  Zürich HB   ab 08:09 4  ICN 667
+  Bellinzona     an 10:21 2
+  Dauer: 3:50;  Mo - Fr, nicht an allg. Feiertag; auch 1. Aug 2011
+
+  Lörrach Hbf  ab 06:31  S6 87805
+  Basel SBB     an 06:50 2
+  Basel SBB   ab 07:03 3  EC 153
+  Bellinzona     an 10:23 3
+  Dauer: 3:52;  Mo - Fr, nicht an allg. Feiertag; auch 1. Aug 2011
+
+  Bellinzona, Stazione   ab 10:37  BUS 314
+  Roveredo GR, Posta     an 10:56
+  Dauer: 0:23;  Verkehrstage
+
+2011-01-07 bsl-fr:
+  Basel Bad Bf ab  16:26    0:57  0  RB
+  Freiburg Hbf an  17:23
+
+2011-01-12 bsl-be:
+  Basel SBB ab  08:15         1:10  1  IR
+  Bern     an  09:25
+
+  Basel SBB ab  08:28         0:59  0  IC
+  Bern     an  09:27
+
+2011-01-12 be-ne:
+  Bern      ab 10:53 12  RE 3032
+  Kerzers   ab  11:10
+  Ins       ab  11:16
+  Neuchâtel an 11:27 2
+  Dauer: 0:34;  täglich
+
+2011-01-24 bsl-fr:
+  Basel Bad Bf ab  16:48  0:56  0  RE
+  FreiburgHbf  an  17:44
+
+2011-02-11 bsl-fr:
+  Basel Bad Bf   ab  11:48    0:56  0  RE
+  Freiburg Hbf  an  12:44
+
+2011-02-18 bsl-fr:
+  Basel Bad Bf ab  16:26    0:35  0  RB
+  Heitersheim  an  17:01
+
+2011-02-23 bsl-be-ne:
+  Basel SBB          ab 08:01 11  ICE 371
+  Bern               an 08:56 4
+  Bern               ab 09:08 12A  S5 15532
+  Bern Bümpliz Nord  an 09:12 4
+  Dauer: 1:11;  Mo - Fr, nicht 22., 25. Apr, 13. Jun, 3. Okt
+
+  Bern Bümpliz Nord  ab 10:12 4  S5 15536
+  Neuchâtel          an 10:57 1
+  Dauer: 0:45;  täglich
+
+  Bern Bümpliz Nord  ab 10:38 4  S5216238
+  Kerzers            an 11:00
+  Kerzers            ab 11:10 6  RE 3032
+  Neuchâtel          an 11:27 2
+  Dauer: 0:49;  täglich
+
+2011-03-06 bsl-fr:
+  Basel Bad Bf  ab  08:48 0:56  0
+  Freiburg Hbf  an  09:44
+
+2011-03-09 bsl-be:
+  Basel SBB            ab  18:01      1:22  1  ICE, S5
+  Bern Bümpliz Nord    an  19:12
+  Basel SBB            ab  18:28      1:21  2  IC, S52, BUS
+  Bern, Brünnenstrasse an  19:45
+  Basel SBB            ab  19:01      1:22  1  ICE, S5
+  Bern Bümpliz Nord    an  20:12
+
+2011-03-09 be-ne:
+  Bern Bümpliz Nord  ab  07:38      0:46  1  S52, R
+  Neuchâtel          an  08:24
+  Bern Bümpliz Nord  ab  08:12      0:45  0  S5
+  Neuchâtel          an  08:57
+  Bern Bümpliz Nord  ab  08:20      1:09  2  S52, RE, EXT
+  Neuchâtel          an  09:29
+  Bern Bümpliz Nord  ab  08:38      0:52  1  S52, RE
+  Neuchâtel          an  09:30
+
+2011-03-16 bsl-da:
+  Basel Bad Bf  ab  13:22    3:00  1  IC
+  Darmstadt Hbf an  16:22
+    Lörrach Hbf    ab  13:01  1  SBB87831  SBB GmbH
+    Basel Bad Bf   ab  13:22  4  IC 203  Intercity
+    Karlsruhe Hbf  an  14:58  3
+    Karlsruhe Hbf  ab  15:10  4  IC 2276  Intercity
+    Darmstadt Hbf  an  16:22  5
+
+2011-03-17 da-fra:
+  Darmstadt Hbf  ab  10:05  3  S 3  S-Bahn Richtung: Bad Soden(Taunus)
+  Dreieich-Buchschlag  an  10:23  2
+
+  Buchschlag Bahnhof, Dreieich  ab  10:31     BusOF-64  Bus Richtung: Flughafen Terminal 1, Frankfurt am Main
+  Flughafen Terminal 1, Frankfurt am Main  an  10:47
+
+  Darmstadt Hauptbahnhof  ab  10:45     Bus AIR  Bus Richtung: Flughafen Terminal 2, Frankfurt am Main Zuschlagpflicht
+  Flughafen Terminal 1, Frankfurt am Main  an  11:13
+
+  Darmstadt Hbf  ab  10:05  3  S 3  S-Bahn Richtung: Bad Soden(Taunus)
+  Frankfurt Hbf (tief)  an  10:43  104
+  Frankfurt Hbf (tief)  ab  10:47  103  S 8  S-Bahn Richtung: Wiesbaden Hbf
+  Frankfurt(M) Flughafen Regionalbf  an  10:57  Regio 3
+
+2011-03-24 da-fra:
+  Basel SBB, Bahnhof  ab  09:07      0:21  0  BUS
+  Basel, EuroAirport     an  09:22
+  Basel SBB, Bahnhof  ab  09:15      0:21  0  BUS
+  Basel, EuroAirport     an  09:30
+  Basel SBB, Bahnhof  ab  09:22      0:21  0  BUS
+  Basel, EuroAirport     an  09:37
+  Basel SBB, Bahnhof  ab  09:30      0:21  0  BUS
+  Basel, EuroAirport     an  09:45
+
+2011-03-30 bsl-ne:
+  Basel SBB  ab 08:01 11  ICE 371
+  Bern       an 08:56 4
+  Bern       ab 09:08 12A  S5 15532
+  Neuchâtel  an 09:57 1
+  Dauer: 1:56;  Mo - Fr, nicht 22., 25. Apr, 13. Jun, 3. Okt
+
+  Bern   ab 10:08 12A  S5 15536
+  Bern Bümpliz Nord   ab  10:12
+  Neuchâtel     an 10:57 1
+
+2011-04-14 verona-bsl:
+  Verona Porta Nuova  ab 09:32  IC 9710
+  Milano Centrale     an 10:55
+  Milano Centrale     ab 11:28  EC 52
+  Basel SBB           an 15:32 12
+  Dauer: 6:00;  6. Apr bis 11. Jun 2011 täglich
+
+2011-05-20 bsl-fr:
+  Basel Bad Bf   ab  08:48  4   RE 5332
+  Freiburg Hbf   an  09:44  2
+  Dauer: 0:56;  täglich
+
+2011-05-24 bsl-be:
+  Basel SBB ab  18:01  8   ICE 277
+  Bern       an  18:56  5
+  Bern, Bahnhofplatz     ab  19:05    Tram 8 Richtung: Bern, Saali
+  Bern, Weltpostverein       an  19:14
+  Bern, Weltpostverein             Fussweg 14 Min. nach 3006 Bern, Frikartweg 16
+
+2011-06-06 fr-koeln:
+  Freiburg Hbf  Mo, 06.06.11   ab   09:57     3:08   0
+  Köln Hbf   Mo, 06.06.11   an   13:05   4
+  Köln Hbf   Mo, 06.06.11   ab   13:17   10 A-B   S 6   S-Bahn Richtung: Essen Hbf
+  Köln Messe/Deutz Gl. 9-10
+  platz baustelle kreuzung rechts links geradeaus eher links 2 ampels
+  siegburger str. am rhein entlang south 5 minuten
+  ca. 3. links grabengasse
+
+2011-06-07 koeln-bielefeld:
+
+  Köln Messe/Deutz Gl. 9-10 Di, 07.06.11   ab   06:17     0:02   0   S
+  Köln Hbf   Di, 07.06.11   an   06:19
+  Köln Messe/Deutz   Di, 07.06.11   ab   06:19     0:03   0   RE
+  Köln Hbf   Di, 07.06.11   an   06:22
+  Köln Messe/Deutz Gl. 9-10   Di, 07.06.11   ab   06:21     0:02   0   S
+  Köln Hbf   Di, 07.06.11   an   06:23
+
+  Köln Hbf  Di, 07.06.11   ab   06:26     2:01   0   ICE   45,00 EUR
+  Bielefeld Hbf   Di, 07.06.11   an   08:27
+
+  Köln Messe/Deutz Di, 07.06.11   ab   06:24     2:03   1   RE, ICE   45,00 EUR
+  Bielefeld Hbf   Di, 07.06.11   an   08:27
+    Köln Messe/Deutz   Di, 07.06.11   ab   06:24   2   RE 10704   Regional-Express
+    Hamm(Westf)   Di, 07.06.11   an   07:57   4
+    Hamm(Westf)   Di, 07.06.11   ab   08:02   9   ICE 543   Intercity-Express
+
+2011-06-09 bochum-fr:
+  Bochum Hbf  ab   16:49     5:06   2   ICE, RB   116,00 EUR
+  Heitersheim   an   21:55
+    Bochum Hbf   Do, 09.06.11   ab   16:49   3   ICE 613   Intercity-Express
+    Mannheim Hbf   Do, 09.06.11   an   19:24   5
+    Mannheim Hbf   Do, 09.06.11   ab   19:36   4   ICE 873   Intercity-Express
+    Freiburg Hbf   Do, 09.06.11   an   20:59   3
+    Freiburg Hbf   Do, 09.06.11   ab   21:35   3   RB 26591   Regionalbahn
+
+  Bochum Hbf  ab   17:30     5:25   2   ICE, RB   89,00 EUR
+  Heitersheim   an   22:55
+    Bochum Hbf   Do, 09.06.11   ab   17:30   4   ICE 848   Intercity-Express
+    Köln Hbf   Do, 09.06.11   an   18:32   5
+    Köln Hbf   Do, 09.06.11   ab   18:55   6   ICE 603   Intercity-Express
+    Freiburg Hbf   Do, 09.06.11   an   22:15   3
+    Freiburg Hbf   Do, 09.06.11   ab   22:35   4   RB 26593   Regionalbahn
+
+  Bochum Hbf   Do, 09.06.11   ab   17:49     5:06   2   IC, ICE, RB   89,00 EUR
+  Heitersheim   Do, 09.06.11   an   22:55
+    Bochum Hbf   Do, 09.06.11   ab   17:49   3   IC 2213   Intercity
+    Köln Hbf   Do, 09.06.11   an   18:50   7
+    Köln Hbf   Do, 09.06.11   ab   18:55   6   ICE 603   Intercity-Express
+    Freiburg Hbf   Do, 09.06.11   an   22:15   3
+    Freiburg Hbf   Do, 09.06.11   ab   22:35   4   RB 26593   Regionalbahn
+
+2011-06-22 bsl-be-ne:
+  Basel SBB      ab   08:01   11   ICE 371
+  Bern       an   08:56   4
+  Bern     ab   09:08   12A   S5 15532 S-Bahn Linie 5
+  Bern Bümpliz Nord       an   09:12   4
+  Dauer: 1:11;  Mo - Fr, nicht 3. Okt
+
+  Bern Bümpliz Nord      ab   09:38   4   S5216234  S-Bahn Linie 52
+  Kerzers       an   10:00
+  Kerzers     ab   10:10   6   RE 3028
+  Neuchâtel       an   10:27   2
+  Dauer: 0:49;  täglich, nicht 27., 28. Aug, 15., 16. Okt
+
+  Bern Bümpliz Nord      ab   10:12   4   S5 15536 S5 15536   S-Bahn Linie 5
+  Neuchâtel       an   10:57   1
+  Dauer: 0:45;  täglich, nicht 27., 28. Aug, 15., 16. Okt
+
+  Neuchâtel      ab   16:24   5   ICN 635
+  Basel SBB       an   17:53   14
+  Dauer: 1:29;  täglich
+
+2011-07-01 bsl-ne:
+  Basel SBB   Fr, 01.07.11   ab   07:03   14   ICN 610
+  Neuchâtel       an   08:35   4
+  Dauer: 1:32;  täglich
+
+  Basel SBB   Fr, 01.07.11   ab   07:15   8   IR 2455
+  Olten       an   07:47   12
+  Olten     ab   07:58   8   IR 1910
+  Bern       an   08:25   9
+  Bern     ab   08:31   10   TGV 9284
+  Neuchâtel       an   09:06
+  Dauer: 1:51;  täglich, nicht 3. bis 14. Okt 2011
+
+2011-07-06 bsl-schliengen:
+  Basel Bad Bf  ab  15:48    0:28  0  RE
+  Schliengen    an  16:16
+  Basel Bad Bf  ab  16:26    0:39  1  RB
+  Schliengen    an  17:05
+    Basel Bad   ab  16:26  10  RB 26574  Regionalbahn
+    Müllheim    an  16:54  1
+    Müllheim    ab  17:01  2  RB 26575  Regionalbahn
+    Schliengen  an  17:05  1 steinstadt baggersee
+
+  Schliengen    ab  18:41    0:30  0  RE
+  Basel Bad Bf  an  19:11
+  Schliengen    ab  19:41    0:30  0  RE
+  Basel Bad Bf  an  20:11
+  Schliengen    ab  20:41    0:30  0  RE
+  Basel Bad Bf  an  21:11
+  Schliengen    ab  22:09    0:31  0  RB
+  Basel Bad Bf  an  22:40
+  Schliengen    ab  23:09    0:31  0  RB
+  Basel Bad Bf  an  23:40
+  Schliengen    ab  00:16    0:30  0  RB
+  Basel Bad Bf  an  00:46
+
+2011-07-09 bsl-zrh:
+  Basel SBB  ab  14:13      1:11  0  IR
+  Zürich HB  an  15:24
+  Basel SBB  ab  14:33      0:53  0  IC
+  Zürich HB  an  15:26
+  Basel SBB  ab  14:47      1:05  0  IR
+  Zürich HB  an  15:52
+  Basel SBB  ab  15:07      0:53  0  ICE
+  Zürich HB  an  16:00
+
+2011-07-23 weil-sulzburg:
+  Weil am Rhein    ab  06:38  7  RE 26546  Regional-Express
+  Müllheim(Baden)    an  07:05  1
+  Bahnhof (Bus), Müllheim    ab  07:09     Bus 261  Bus Richtung: Verkehrsamt, Müllheim
+  Sulzburg Marktplatz    an  07:34
+
+2011-07-26 bsl-zrh:
+  Basel SBB         ab  07:07      1:09  1  IC
+  Zürich Flughafen  an  08:16
+  Basel SBB         ab  07:33      1:13  1  IC, IR
+  Zürich Flughafen  an  08:46
+  Basel SBB         ab  07:40      1:16  0  IR
+  Zürich Flughafen  an  08:56
+  Basel SBB         ab  07:47      1:26  1  IR
+  Basel SBB         ab  08:07      1:09  1  ICE, IC
+  Zürich Flughafen  an  09:16
+
+ Lörrach Hbf  Di, 26.07.11  ab  07:01   S6 87807
+ Basel SBB     an  07:24  2
+ Basel SBB   ab  07:33  6  IC 561
+ Zürich HB     an  08:26  7
+ Zürich HB   ab  08:37  9  IR 2111
+ Zürich Flughafen     an  08:46  1
+  Dauer: 1:45;  täglich
+
+ Lörrach Hbf  Di, 26.07.11  ab  07:01   S6 87807
+ Basel SBB     an  07:24  2
+ Basel SBB   ab  07:40  9 Gleisänderung!  IR 2065
+ Zürich Flughafen     an  08:56  1
+  Dauer: 1:55;  täglich
+
+ Lörrach Hbf  Di, 26.07.11  ab  07:31   S6 8780 S-Bahn Linie 6
+ Basel SBB     an  07:50  2
+ Basel SBB   ab  08:07  12  ICE 763
+ Zürich HB     an  09:00  8
+ Zürich HB   ab  09:07  11  IC 815
+ Zürich Flughafen     an  09:16  1
+  Dauer: 1:45;  Mo - Sa
+
+2011-08-10 bsl-fr:
+  Basel Bad Bf ab  16:26    0:57  0  RB  11,70 EUR
+  Freiburg Hbf  an  17:23
+  Basel Bad Bf  ab  16:48    0:56  0  RE  11,70 EUR
+  Freiburg Hbf  an  17:44
+
+2011-08-11 fr-bsl:
+  Freiburg Hbf  ab  07:34    dauer 0:39  RE
+  Basel Bad Bf   an  08:13
+
+2011-08-12 weil-sulzburg:
+  Weil am Rhein ab  08:52    0:55  1  RE, BUS  7,20 EUR(Teilpreis)
+  Sulzburg Marktplatz    an  09:47
+    Weil am Rhein    ab  08:52  7  RE 5332  Regional-Express
+    Heitersheim    an  09:28  1
+    Heitersheim    ab  09:32    Bus 261  Bus Richtung: Verkehrsamt, Muellheim
+    Sulzburg Marktplatz    an  09:47
+
+2011-08-15 weil-sulzburg:
+  Weil am Rhein    ab  09:52  7  RE 26502  Regional-Express
+  Heitersheim    an  10:28  1
+  Bahnhof (Bus), Heitersheim    ab  10:33    Bus 261  Bus Richtung: Bahnhof (Bus), Müllheim
+  Sulzburg Marktplatz    an  10:48
+  0:56  1  RE, BUS  7,20 EUR(Teilpreis)
+
+2011-08-15 weil-sulzburg:
+  Basel Bad Bf   ab  08:48    0:40  0  RE  8,80 EUR
+  Heitersheim    an  09:28
+
+2011-09-25 bsl-fr:
+  Basel Bad Bf    ab  16:48
+  Freiburg Hbf    an  17:44
+  Beeinträchtigung vom 25.09.2011, 00:00 bis vsl. 25.09.2011, 24:00. Grund: Veranstaltung.
+  0:56
+
+2011-10-04 fr-bsl:
+  Freiburg Hbf ab  07:34    0:39  0  RE  11,70 EUR
+  Basel Bad Bf an  08:13
+
+2011-11-02 bsl-be-ne-bsl:
+  Basel SBB  ab  07:28  11  IC 1061
+  Bern       an  08:27  3
+  Bern, Bahnhofplatz   ab  08:33   Tram 8 Richtung: Bern, Saali
+  Bern, Brunnadernstrasse     an  08:40
+  Dauer: 1:12; fährt 1. Nov bis 9. Dez 2011 Mo - Fr; nicht 28. Nov 2011
+  ----
+  Bern, Brunnadernstrasse  ab  09:53   Tram 8 Richtung: Bern Brünnen Westside, Bahnhof
+  Bern, Bahnhofplatz     an  10:01
+  Bern   ab  10:08  12A  S5 15536 S-Bahn Linie 5
+  Bern Bümpliz Nord     an  10:12  4
+  Dauer: 0:19; fährt 1. Nov bis 9. Dez 2011 Mo - Fr; nicht 28. Nov 2011
+
+  Bern, Brunnadernstrasse  ab  10:02   Tram 7 Richtung: Bern, Bümpliz
+  Bern, Bahnhofplatz     an  10:10
+  Bern   ab  10:16   S1 15138 S-Bahn Linie 1
+  Bern Bümpliz Süd     an  10:20
+  Dauer: 0:18; fährt 1. Nov bis 10. Dez 2011 Mo - Sa; nicht 28. Nov 2011
+
+  Bern, Brunnadernstrasse  ab  10:05   Tram 8 Richtung: Bern Brünnen Westside, Bahnhof
+  Bern, Bahnhofplatz     an  10:13
+  Bern   ab  10:20  1  S2 15236 S-Bahn Linie 2
+  Bern Bümpliz Süd     an  10:25  2
+  Dauer: 0:20; fährt 1. Nov bis 9. Dez 2011 Mo - Fr; nicht 28. Nov 2011
+
+  Bern, Brunnadernstrasse  ab  10:20   Tram 7 Richtung: Bern, Bümpliz
+  Bern, Bahnhofplatz     an  10:28
+  Bern   ab  10:34  13C  S5216238 S-Bahn Linie 52
+  Bern Bümpliz Nord     an  10:38  4
+  Dauer: 0:18; fährt 1. Nov bis 9. Dez 2011 Mo - Fr; nicht 28. Nov 2011
+  ----
+  Bern Bümpliz Nord  ab  09:38  4  S5216234 S-Bahn Linie 52
+  Kerzers     an  10:00
+  Kerzers   ab  10:10  6  RE 3028
+  Neuchâtel     an  10:27  2
+  Dauer: 0:49; fährt 1. Nov bis 10. Dez 2011 täglich
+
+  Bern Bümpliz Nord  ab  10:12  4  S5 15536 S-Bahn Linie 5
+  Neuchâtel     an  10:57  1
+  Dauer: 0:45; fährt 1. Nov bis 10. Dez 2011 täglich
+
+  Bern Bümpliz Nord  ab  10:38  4  S5216238 S-Bahn Linie 52
+  Kerzers     an  11:00
+  Kerzers   ab  11:10  6  RE 3032
+  Neuchâtel     an  11:27  2
+  Dauer: 0:49; fährt 1. Nov bis 10. Dez 2011 täglich
+
+  Bern Bümpliz Nord  ab  11:12  4  S5 15540 S-Bahn Linie 5
+  Neuchâtel     an  11:57  1
+  Dauer: 0:45; fährt 1. Nov bis 10. Dez 2011 täglich
+  ----
+  Neuchâtel  ab  14:24  5  ICN 629
+  Basel SBB     an  15:53  14
+  Dauer: 1:29; fährt 1. Nov bis 10. Dez 2011 täglich
+
+  Neuchâtel  ab  14:27  4  ICN 1529
+  Biel/Bienne     an  14:43  3
+  Biel/Bienne   ab  14:49  2  ICN 629
+  Basel SBB     an  15:53  14
+  Dauer: 1:26; fährt 1. Nov bis 10. Dez 2011 täglich
+
+  Neuchâtel  ab  14:37  2  R 5149 Regio
+  Delémont     an  15:40  4
+  Delémont   ab  15:43  1  S3 17361 S-Bahn Linie 3
+  Basel SBB     an  16:22  17
+  Dauer: 1:45; fährt 1. Nov bis 10. Dez 2011 täglich
+
+2011-11-12 bsl-winti:
+  Basel SBB  ab  17:07  5  ICE 75
+  Zürich HB  ab  18:18  23/24  S1219275 S-Bahn Linie 12
+  Dauer: 1:32; fährt 12. bis 20. Nov 2011 Sa, So
+
+2011-11-24 bsl-zrh:
+  Basel SBB  Do, 24.11.11  ab  10:07      1:09  1  TGV, IC
+  Zürich Flughafen     an  11:16
+
+  Basel SBB  Do, 24.11.11  ab  10:33      1:13  1  IC, IR
+  Zürich Flughafen     an  11:46
+
+  Basel SBB  Do, 24.11.11  ab  10:40      1:16  0  IR
+  Zürich Flughafen     an  11:56
+
+  Basel SBB  Do, 24.11.11  ab  10:47      1:26  1  IR
+  Zürich Flughafen     an  12:13
+
+  Basel SBB  Do, 24.11.11  ab  11:07      1:09  1  IC
+  Zürich Flughafen     an  12:16
+
+2011-12-02 zrh-bsl:
+  Zürich Flughafen  ab  11:04      1:19  0  IR
+  Basel SBB     an  12:23
+
+  Zürich Flughafen  ab  11:13      1:14  1  IC
+  Basel SBB     an  12:27
+
+  Weil am Rhein   ab  13:52    0:36  0  RE  7,20 EUR
+  Heitersheim  an  14:28
+
+  Weil am Rhein  ab  14:52    0:36  0  RE  7,20 EUR
+  Heitersheim  an  15:28
+
+  Lörrach Hbf ab  13:31  0:57  1  SBB, RE  8,80 EUR
+  Heitersheim  an  14:28
+
+2011-12-03 bsl-zrh:
+  Heitersheim  Sa, 03.12.11  ab  08:29   RE 26507
+  Basel Bad Bf     an  09:11
+  Basel Bad Bf   ab  09:19   S6 87815 S-Bahn Linie 6
+  Basel SBB     an  09:24  2
+  Basel SBB   ab  09:33   EXT30567
+  Zürich HB     an  10:31
+  Zürich HB   ab  10:39  12  IC 717
+  Zürich Flughafen     an  10:50  2
+  Dauer: 2:21; fährt 3., 10. Dez 2011
+
+  Heitersheim  ab  09:29   RE 26509
+  Basel Bad Bf     an  10:11
+  Basel Bad Bf   ab  10:19   S6 87819 S-Bahn Linie 6
+  Basel SBB     an  10:24  2
+  Basel SBB   ab  10:33   EXT30569
+  Zürich HB     an  11:31
+  Zürich HB   ab  11:39  12  IC 719
+  Zürich Flughafen     an  11:50  2
+  Dauer: 2:21; fährt 3. bis 10. Dez 2011 Sa, So
+
+2012-01-05 bsl-ivrea:
+  Basel SBB    ab  10:31 4  IC 1069
+  Domodossola  an  13:13
+  Domodossola  ab  13:31 R 10383
+  Novara       an  15:25
+  Novara       ab  15:59 R 2018
+  Chivasso     an  16:42
+  Chivasso     ab  17:08 R 24823
+  Ivrea        an  17:30
+  Dauer: 6:59
+
+2012-01-12 ivrea-bsl:
+  Ivrea       ab  06:46   R 4237  *** 6:15! ***
+  Aosta       an  07:56
+  Aosta, Autostazione   ab  08:00   BUS 2106  *** 7:50! ***
+  Martigny, gare     an  10:05
+  Martigny    ab  10:08  2  IR 1719
+  Visp        an  10:52  6/7
+  Visp        ab  10:57  4/5  IC 823
+  Bern        an  11:54  4
+  Bern        ab  12:04  7  IC 968
+  Basel SBB   an  12:59  10
+  Basel SBB   ab  13:09   R 87832
+  Lörrach Hbf an  13:28
+  Dauer: 6:42; fährt Verkehrstage
+
+  Bern   ab  12:08      0:04  0  S5
+  Bern Bümpliz Nord     an  12:12
+
+  Bern Bümpliz Nord   ab  12:20      0:06  0  S52
+  Bern     an  12:26
+
+  Bern Bümpliz Nord   ab  12:34      0:06  0  S51
+  Bern     an  12:40
+
+  Bern Bümpliz Nord   ab  12:47      0:05  0  S5
+  Bern     an  12:52
+
+  Bern Bümpliz Nord   ab  13:08      0:06  0  S51
+  Bern     an  13:14
+
+2012-01-14 bsl-frauenfeld:
+  Basel SBB  ab  09:33  7  TGV 9205
+  Zürich HB     an  10:26  10
+  Zürich HB   ab  10:37  11  IR 2117
+  Frauenfeld     an  11:16  2
+  Dauer: 1:43; fährt Mo - Sa, nicht 9. Apr 2012, 1., 8., 28. Mai 2012
+
+  Basel SBB  ab  09:40  12  IR 2069
+  Zürich Oerlikon     an  10:49  6
+  Zürich Oerlikon   ab  10:59  2  S8 18836
+  Frauenfeld     an  11:36  2
+  Dauer: 1:56; fährt Mo - Sa, nicht an allg. Feiertag
+
+  Lörrach Hbf  Sa, 14.01.12  ab  09:01   R 87815
+  Basel SBB     an  09:24
+  Basel SBB   ab  09:33  7  TGV 9205
+  Zürich HB     an  10:26  10
+  Zürich HB   ab  10:37  11  IR 2117
+  Frauenfeld     an  11:16  2
+  Dauer: 2:15; fährt Mo - Sa, nicht 9. Apr 2012, 1., 8., 28. Mai 2012
+
+  Lörrach Hbf  Sa, 14.01.12  ab  09:31   R 87817
+  Basel SBB     an  09:50
+  Basel SBB   ab  10:07  11  ICE 271
+  Zürich HB     an  11:00  10
+  Zürich HB   ab  11:07  11  IC 819
+  Frauenfeld     an  11:46  2
+  Dauer: 2:15; fährt Mo - Sa, nicht an allg. Feiertag; nicht 1. Mai 2012; auch 1. Aug 2012
+
+2012-02-14 loe-fr:
+  Lörrach Hbf  ab  17:16 1  SBB87921  SBB GmbH
+  Weil am Rhein  an  17:27
+  Weil am Rhein  ab  17:31 pünktlich 7  RB 26578  Regionalbahn
+  Freiburg(Breisgau) Hbf  an  18:23 pünktlich  1
+
+2012-02-19 loe-wildhaus:
+  Lörrach Hbf  ab  13:01   R 87831
+  Basel SBB    an  13:24
+  Basel SBB    ab  13:33  9  TGV 9211
+  Zürich HB    an  14:26  10
+  Zürich HB    ab  14:40  3  RJ 169
+  Buchs SG     an  15:48  3
+  Buchs SG Bhf ab  16:03   BUS79032
+  Wildhaus Post     an  16:35
+  Dauer: 3:34; fährt täglich
+
+2012-02-22 wildhaus-ivrea:
+  Wildhaus, Post   ab  09:36   BUS79014
+  Nesslau-Neu St.Johann, Bahnhof     an  10:05
+  Nesslau-Neu St. Johann   ab  10:10   S9 23937
+  Wattwil       an  10:26  1
+  Wattwil   ab  10:32  4  IR 2414
+  Arth-Goldau     an  11:46  6
+  Arth-Goldau   ab  11:50  4  EC 17
+  Milano Centrale     an  14:50
+  Milano Centrale   ab  15:15   R 2018
+  Chivasso     an  16:42
+  Chivasso   ab  17:08   R 24823
+  Ivrea     an  17:30
+  Dauer: 7:54; fährt Verkehrstage
+
+2012-03-12 loe-fr:
+  Lörrach Hbf   ab  19:31  1:13  1  SBB, RE  12,20 EUR
+  Freiburg Hbf  an  20:44
+
+2012-03-09 loe-fr:
+  Lörrach Hbf    ab  14:31 1  SBB87837  SBB GmbH
+  Basel Bad Bf   an  14:41   8
+  Basel Bad Bf   ab  14:48 pünktlich 9  RE 26512  Regional-Express
+  Freiburg Hbf   an  15:44   2
+  Freiburg Hbf   ab  15:52    STR 1  Straßenbahn Richtung: Lassbergstraße, Freiburg im Breisgau
+  Lassbergstraße an  16:10
+
+2012-04-23 loe-munich-rosenheimer platz:
+  Lörrach Hbf  ab  11:01 1  SBB87823  SBB GmbH
+  Basel Bad Bf  an  11:11   5
+  Basel Bad Bf  ab  11:22  4  ICE 208  Intercity-Express
+  Karlsruhe Hbf  an  12:58   3
+  Karlsruhe Hbf  ab  13:06  9  IC 2069  Intercity
+  Stuttgart Hbf  an  14:03   16
+  Stuttgart Hbf  ab  14:12  15  ICE 517  Intercity-Express
+  München Hbf  an  16:27   19
+  fährt täglich, nicht 23. Apr, 26., 27. Mai, 9., 10., 16., 17. Jun
+
+2012-04-27 munich-loe:
+  München Hbf    ab  08:28  19  ICE 690  Intercity-Express
+  Stuttgart Hbf  an  10:47   10
+  Stuttgart Hbf  ab  11:11  10  IC 1268  Intercity
+  Karlsruhe Hbf  an  11:53   5
+  Karlsruhe Hbf  ab  12:00  2  ICE 375  Intercity-Express
+  Basel Bad Bf   an  13:36   3
+
+2012-05-22 bsl-zrh:
+  Pratteln  ab  03:58  5  S 17005
+  Rheinfelden     an  04:07  3
+  Rheinfelden   ab  04:51  3  IR 2057
+  Zürich Flughafen     an  05:56  1
+  Dauer: 1:58; fährt Sa, So, auch 1. Au
+
+  Basel SBB  ab  03:45      1:45  1  S, IR
+  Zürich Flughafen     an  05:30
+  Dauer: 1:16; fährt täglich
+
+2012-06-04 bsl-zrh:
+  Lörrach Hbf  Mo, 04.06.12  ab  15:01  1  R 87839
+  Basel SBB     an  15:24  2
+  Basel SBB   ab  15:33  7  IC 579
+  Zürich HB     an  16:26  8
+  Zürich HB   ab  16:37  9  IR 2129
+  Zürich Flughafen     an  16:46  1
+  Dauer: 1:45; fährt täglich
+
+  Lörrach Hbf  Mo, 04.06.12  ab  15:01  1  R 87839
+  Basel SBB     an  15:24  2
+  Basel SBB   ab  15:40  9  IR 2081
+  Zürich Flughafen     an  16:56  1
+  Dauer: 1:55; fährt täglich
+
+2012-07-06 ne-lauenen:
+  Neuchâtel  Fr, 06.07.12  ab  14:34  3  ICN 1524
+  Lausanne     an  15:15  8AB
+  Lausanne   ab  15:20  3  IR 1731
+  Montreux     an  15:39  3
+  Montreux   ab  15:45  5  D 2128
+  Gstaad     an  17:03  1
+  Gstaad, Bahnhof   ab  17:12   BUS18123
+  Lauenen b. Gstaad, Enge     an  17:22
+  Dauer: 2:48; fährt 3. Jul bis 14. Okt 2012 täglich
+
+2012-08-17 loe-staufen:
+  Lörrach Hbf ab 16:31 1:28 2 SBB, RE, BUS 13,30 EUR
+  Bonne Ville Platz, Staufen im Breisgau    2 Min. an 17:57
+    Lörrach Hbf  ab 16:31 1  SBB87845  SBB GmbH
+    Basel Bad Bf    an  16:41   8
+    Basel Bad Bf    ab  16:48 pünktlich 4  RE 5336  Regional-Express
+    Bad Krozingen    an  17:32   1
+    Bad Krozingen Bahnhof    ab  17:40    Bus SEV  Bus Richtung: Brühlweg/Sportplatz, Münstertal (Schwarzwald)
+    Bonne Ville Platz, Staufen im Breisgau    an  17:57
+    Staufen im Breisgau, Grunerner Straße 3
+
+  Lörrach Hbf ab 17:31 1:19 2 SBB, RE, BUS 13,30 EUR
+  Bonne Ville Platz, Staufen im Breisgau    2 Min. an 18:48
+    Lörrach Hbf  ab 17:31 1  SBB87849  SBB GmbH
+    Basel Bad Bf    an  17:41   8
+    Basel Bad Bf    ab  17:48  4  RE 5338  Regional-Express
+    Bad Krozingen    an  18:32   1
+    Bad Krozingen Bahnhof    ab  18:36    Bus SEV  Bus Richtung: Wolfacker/Gymnasium, Staufen im Breisgau
+    Bonne Ville Platz, Staufen im Breisgau    an  18:48
+    Staufen im Breisgau, Grunerner Straße 3
+
+  Lörrach Hbf ab 18:16 1:16 2 SBB, RB, BUS 13,30 EUR
+  Bonne Ville Platz, Staufen im Breisgau    2 Min. an 19:30
+    Lörrach Hbf  ab 18:16 1  SBB87925  SBB GmbH
+    Weil am Rhein    an  18:27
+    Weil am Rhein    ab  18:31  7  RB 26584  Regionalbahn
+    Bad Krozingen    an  19:09   1
+    Bad Krozingen Bahnhof    ab  19:13    Bus SEV  Bus Richtung: Brühlweg/Sportplatz, Münstertal (Schwarzwald)
+    Bonne Ville Platz, Staufen im Breisgau    an  19:30
+    Staufen im Breisgau, Grunerner Straße 3
+
+2012-09-06 bsl-ne
+  Basel SBB  ab  07:04      1:28  1  EC, ICN
+  Neuchâtel  an  08:32
+
+  Neuchâtel  ab  17:27      1:26  0  ICN
+  Basel SBB  an  18:53
+
+  Neuchâtel  ab  18:24      1:29  0  ICN
+  Basel SBB  an  19:53
+
+2012-09-07 ne-wildhaus
+  Bern Bümpliz Nord  ab  18:20  5  S5216267
+  Bern     an  18:26  13C
+  Bern     ab  18:32  7  IC 737
+  Zürich   an  19:28  10
+  Zürich   ab  19:37  8  IC 587
+  Sargans  an  20:32  3BC
+  Buchs SG an  20:59  1
+  Buchs SG ab  21:03   BUS79044
+  Wildhaus, Post an  21:34
+  Dauer: 3:14; fährt täglich
+
+2012-09-15 bsl-fr
+  Basel Bad Bf  ab  12:48    0:56  0  RE  12,20 EUR
+  Freiburg Hbf  an  13:44
+
+2012-09-27 bsl-zuri:
+ Basel SBB  Do, 27.09.12  ab  17:07  5  ICE 75
+ Zürich HB     an  18:00  13
+ Zürich, Bahnhofplatz/HB   ab  18:08   Tram 3
+ Zürich, Stauffacher     an  18:12
+  Dauer: 1:05; fährt Mo - Sa
+
+ Basel SBB  Do, 27.09.12  ab  17:33  8  IC 585
+ Zürich HB     an  18:26  7
+ Zürich, Bahnhofplatz/HB   ab  18:34   Tram 14 Richtung: Zürich, Triemli
+ Zürich, Stauffacher     an  18:38
+  Dauer: 1:05; fährt Mo - Sa
+
+2012-10-07 bsl-zuri Untergraben 7, CH-8045 Zürich:
+  Pratteln  So, 07.10.12  ab  11:17  1  S3 17334
+  Basel SBB     an  11:26  16
+  Basel SBB   ab  11:33  8  TGV 9207
+  Zürich HB     an  12:26  10
+  Zürich HB SZU   ab  12:35  2  S1024803 S-Bahn Linie 10
+  Zürich Binz     an  12:39
+  Dauer: 1:22; fährt täglich
+
+  Pratteln  So, 07.10.12  ab  11:46  1  S3 17336
+  Basel SBB     an  11:56  16
+  Basel SBB   ab  12:07  9  IC 773
+  Zürich HB     an  13:00  8
+  Zürich HB SZU   ab  13:15  2  S1024811 S-Bahn Linie 10
+  Zürich Binz     an  13:19
+  Dauer: 1:33; fährt Sa, So
+
+  Zürich Binz  So, 07.10.12  ab  19:22   S1024882
+  Zürich HB SZU     an  19:27  2
+  Zürich HB   ab  19:34  13 Gleisänderung!  IC 588
+  Basel SBB     an  20:27  6
+  Basel SBB   ab  20:50  1  S1 17285
+  Pratteln     an  20:57  5
+  Dauer: 1:35; fährt täglich
+
+  Zürich Binz  So, 07.10.12  ab  19:42   S1024886
+  Zürich HB SZU     an  19:47  2
+  Zürich HB   ab  20:00  15  IC 788
+  Basel SBB     an  20:53  8
+  Basel SBB   ab  21:01  17  S3 17383
+  Pratteln     an  21:11  2
+  Dauer: 1:29; fährt täglich
+
+2012-11-02 ne-ehrikon:
+  Neuchâtel ab 17:24 1:32 0 ICN
+  Zürich HB an 18:56
+  Zürich HB an 18:56
+  Neuchâtel ab 17:33 1:55 1 RE, IC
+  Zürich HB an 19:28
+  Neuchâtel ab 17:36 1:52 2 R, S52, IC
+  Zürich HB an 19:28
+  Neuchâtel ab 17:37 1:53 1 R, IR
+  Zürich HB an 19:30
+  Zürich HB ab 19:33 43/44 S3 18381 S-Bahn Linie 3
+  Fehraltorf an 19:58 2
+  Fehraltorf, Bahnhof ab 20:02 NFB82539 Niederflur-Bus
+  Ehrikon an 20:18
+
+2012-12-14 milano-bsl:
+  /Users/tammikj/a/doc/travel/trip/milano/sbb_milano_bsl.pdf
+  Milano Centrale  ab  17:25   EC 36
+  Brig     an  19:16  3
+  Brig     ab  19:20  4  IC 1090
+  Olten    an  21:00  3
+  Olten    ab  21:17  11  S3 17384 S-Bahn Linie 3
+  Pratteln an  21:45  1
+  Dauer: 4:20; fährt 9. Dez 2012 bis 14. Dez 2013 täglich
+
+  Milano Centrale  Fr, 14.12.12   ab  18:25  EC 56   EuroCity
+  Olten     an  22:00  4
+  Olten   ab  22:17  11 S3 17388   S-Bahn Linie 3
+  Pratteln     an  22:45  1
+  Dauer: 4:20; fährt täglich
+
+2012-12-16 winti-muenchen:
+  Winterthur   ab  13:42      3:46  0  EC
+  München Hbf  an  17:28
+
+2012-12-17 muenchen:
+  http://www.mvv-muenchen.de
+  07:19  ab Rosenheimer Platz S-Bahn S8 Herrsching
+  07:22  an Marienplatz
+  07:25  ab Marienplatz U-Bahn U6 Fröttmaning
+  07:34  an Alte Heide
+  07:37  ab Alte Heide Bus 50 Dessauerstraße
+  07:39  an Alfred-Arndt-Straße
+  07:39  ab Alfred-Arndt-Straße Fußweg ca. 1 Minute < 50m
+  07:40  an München, Domagkstraße 26
+
+2013-01-06 zrh-bsl:
+  Zürich Binz  ab  20:02   S1024890  S-Bahn Linie 10
+  Zürich HB SZU     an  20:07  2
+  Zürich HB   ab  20:30  15 Gleisänderung!  IR 2140
+  Olten       an  21:00  4
+  Olten       ab  21:17  11  S3 17384  S-Bahn Linie 3
+  Pratteln    an  21:45  1
+  Dauer: 1:43; fährt Sa, So, an allg. Feiertag
+
+2013-02-17 bsl-verbania-pallanza:
+  Ab 12:01 pratteln
+  Ab 12:31 Basel SBB - Gleis 3 (EC 57 )
+  An 15:12 Domodossola (I)
+  Ab 15:22 Domodossola (I) (RE 2151 )
+  An 15:42 Verbania-Pallanza
+  Dauer 3:11
+
+2013-02-17 domosossola-ivrea:
+  Domodossola  an  15:12
+  Domodossola  ab  15:57
+  Novara       an  17:53
+  Novara       ab  17:59 R 2018
+  Chivasso     an  18:42
+  Chivasso     ab  19:02 R 24823
+  Ivrea        an  19:26
+
+2013-02-22 ivrea-napoli:
+  Ivrea  Fr, 22.02.13  ab  20:28   R 24830
+  Torino Porta Nuova     an  21:32
+  Torino Porta Nuova   ab  21:55   IN 799 InterCityNacht Liegewagen GP
+  Napoli Centrale  Sa, 23.02.13  an  08:27
+  Dauer: 11:59; fährt 21. Feb bis 8. Jun 2013 täglich
+
+2013-03-08 napoli-milano:
+  intercity notte 1910
+  napoli centrale 21:30
+  milano centrale 6:55
+  carozza 8 posto 83+84
+  codice di recupero 12861323
+
+2013-03-09 milano-zrh:
+  eurocity 12
+  milano central 7:10
+  zurich hbf 10:51
+  carozza 8 posto 95+96
+  codice prenotazione PNR CJ7CZ5
+  codice master 121997123595
+  consegna biglietto self service
+
+2013-03-24 glarus-wildhaus:
+  Glarus  ab 14:41
+  Ulznach an 15:14
+  Ulznach ab 15:16
+  Wattwil an 15:28
+  Wattwil ab 15:34
+  Nesslau-Neu St. Johann an 15:50
+  Nesslau-Neu St. Johann an 15:55
+  Wildhaus, Lisighaus an 16:20 BUS79027
+  Dauer: 1:49; fährt täglich
+
+2013-03-30 wildhaus-loe:
+  Wildhaus, Lisighaus Sa, 30.03.13 ab 08:17 BUS79009
+  Buchs SG, Bahnhof an 08:55
+  Buchs SG ab 09:01 2 RE 3807
+  Sargans an 09:12 6
+  Sargans ab 09:28 2 IC 568
+  Basel SBB an 11:27 4
+  Basel SBB ab 11:35 2 S6 87826
+  Lörrach Hbf an 11:58
+  Dauer: 3:45; fährt täglich
+
+2013-05-22 bsl-be:
+  Basel SBB  Mi, 22.05.13  ab  07:31  4  ICE 1061
+  Bern     an  08:27  3
+  Dauer: 0:56; fährt täglich, nicht 9. Jun
+  Basel SBB  Mi, 22.05.13  ab  07:59   IC 961
+  Bern     an  08:56
+  Dauer: 0:57; fährt täglich, nicht 9. Jun
+
+2013-05-29 bsl-be-ne-bsl:
+  Basel SBB  ab  07:59      0:57  0  IC
+  Bern       an  08:56
+
+  Bern    ab  09:50      0:05  0  S2
+  Bern Bümpliz Süd     an  09:55
+  Bern    ab  10:08      0:04  0  S5
+  Bern Bümpliz Nord     an  10:12
+  Bern    ab  10:15      0:04  0  S1
+  Bümpliz Süd     an  10:19
+  Bern    ab  10:19      0:07  0  S51
+  Bümpliz Nord     an  10:26
+  Bern    ab  10:20      0:05  0  S2
+  Bümpliz Süd     an  10:25
+
+  Bern Bümpliz Süd    ab  10:39      0:48  1  S1, RE
+  Neuchâtel     an  11:27
+
+2013-05-30 loe-zrh:
+  Lörrach Hbf   ab  14:31  1  RB 87837
+  Basel SBB     an  14:50  2
+  Basel SBB     ab  15:07  5  ICE 73
+  Zürich HB     an  16:00
+  Zürich HB     ab  16:07  11  IC 829
+  Zürich Flughafen     an  16:16  1
+  Dauer: 1:49; fährt Mo - Sa, nicht 13. Jul
+
+2013-06-13 zrh-sissach:
+  Zürich Flughafen  Mi, 12.06.13  ab  11:10  4  IR 2120 Richtung: Biel/Bienne
+  Olten     an  12:00  4
+  Olten   ab  12:12  10  IR 2464 Richtung: Basel SBB
+  Sissach     an  12:26  3
+  Dauer: 1:16; fährt täglich, nicht 13., 14. Jul
+
+  Zürich Flughafen  Mi, 12.06.13  ab  11:13  3  IC 720
+  Zürich HB     an  11:23  16
+  Zürich HB   ab  11:30  14  IR 2120 Richtung: Biel/Bienne
+  Olten     an  12:00  4
+  Olten   ab  12:12  10  IR 2464 Richtung: Basel SBB
+  Sissach     an  12:26  3
+  Dauer: 1:13; fährt täglich
+
+  Zürich Flughafen  Mi, 12.06.13  ab  11:47  4  IR 2333
+  Zürich HB     an  11:59
+  Zürich HB   ab  12:08  12  IR 1772 Richtung: Basel SBB
+  Sissach     an  12:54  3
+  Dauer: 1:07; fährt täglich
+
+  Zürich Flughafen  Mi, 12.06.13  ab  12:10  4  IR 2122 Richtung: Biel/Bienne
+  Olten     an  13:00  4
+  Olten   ab  13:12  10  IR 2466 Richtung: Basel SBB
+  Sissach     an  13:26  3
+  Dauer: 1:16; fährt täglich, nicht 13., 14. Jul
+
+2013-06-24 pratteln-zrh:
+  Pratteln   ab  10:28  5  S1 17135 S-Bahn 1 Richtung: Frick
+  Rheinfelden     an  10:37  3
+  Rheinfelden   ab  10:51  3  IR 2071
+  Zürich Flughafen     an  11:56  1
+  Dauer: 1:31; fährt täglich, nicht 13., 14. Jul
+
+  Pratteln   ab  10:41  2  S3 17335 S-Bahn 3 Richtung: Olten
+  Liestal     an  10:47  1
+  Liestal   ab  10:57  1  IR 1771 Richtung: Chur Minibar
+  Zürich HB     an  11:52  8
+  Zürich HB   ab  12:01   IR 2332
+  Zürich Flughafen     an  12:13  2
+  Dauer: 1:35; fährt täglich
+
+  Pratteln   ab  10:41  2  S3 17335 S-Bahn 3 Richtung: Olten
+  Olten     an  11:10  11
+  Olten   ab  11:20  7  ICN 1521
+  Zürich Flughafen     an  12:20  2
+  Dauer: 1:42; fährt täglich
+
+  Pratteln   ab  10:46  1  S3 17332 S-Bahn 3 Richtung: Laufen
+  Basel SBB     an  10:56  16
+  Basel SBB   ab  11:07   IC 771
+  Zürich HB     an  12:00
+  Zürich HB   ab  12:07   IC 821
+  Zürich Flughafen     an  12:16  1
+  Dauer: 1:33; fährt täglich, nicht 13., 14. Jul
+
+2013-07-10 loe-bsl:
+  Lörrach Hbf   ab  19:01   RB 87855
+  Basel SBB     an  19:24  2
+  Basel SBB, Bahnhof   ab  19:30   NFB 50 Niederflur-Bus Richtung: Basel, EuroAirport
+  Basel, EuroAirport     an  19:46
+  Dauer: 0:49; fährt Mo - Fr, nicht 1. Aug
+
+  Lörrach Hbf   ab  19:31   RB 87857
+  Basel SBB     an  19:50  2
+  Basel SBB, Bahnhof   ab  20:00   NFB 50
+  Basel, EuroAirport     an  20:14
+  Dauer: 0:47; fährt Mo - Fr, nicht 1. Aug
+
+2013-07-12 gatwick-egham:
+  https://maps.google.de/maps?hl=en
+
+  Gatwick Airport, Horley, United Kingdom
+  Egham, United Kingdom
+
+  1 hour 1 min
+  10:26pm - 11:27pm
+
+  Gatwick Airport West Sussex RH6 0NP United Kingdom
+  Gatwick Airport Stop ID: GTW
+  Ore to London Victoria
+  Train towards London Victoria
+  10:26pm - 10:50pm (24 mins, 2 stops)
+
+  Clapham Junction Stop ID: CLJ
+  London Waterloo to Reading
+  Train towards Reading
+  10:58pm - 11:27pm (29 mins, 5 stops)
+  Egham, Surrey, UK
+
+  http://ojp.nationalrail.co.uk/service/timesandfares/GTW/EGH/today/2200/dep
+
+  Gatwick Airport [GTW] to Egham [EGH]
+  Friday 12 July 2013
+  22:11-23:27 duration 1h 16m 1 change
+  Ticket type: Anytime Day Single Price: £17.00
+
+  22:11  Gatwick Airport [GTW] platform 2
+  22:40  Clapham Junction [CLJ] platform 12
+  0h 29m
+
+  Southern service from Southampton Central to London Victoria
+
+  22:58  Clapham Junction [CLJ]  6
+  23:27    Egham [EGH] 2
+  0h 29m
+
+2013-07-19 piazzongna-goeschenen:
+  17:44-18:00 magadino-vira S30 --> bellinzona
+  18:06-19:08 bellinzona --> goeschenen
+
+  Magadino-Vira, Stazione   ab  18:26   BUS 132
+  Cadenazzo, Stazione     an  18:42
+  Cadenazzo   ab  18:57  3  IR 2292
+  Göschenen     an  20:08  2
+  Dauer: 1:46; fährt Mo - Fr, So
+
+  Magadino-Vira  Fr, 19.07.13  ab  19:44  3  S3025348
+  Cadenazzo     an  19:52  1
+  Cadenazzo   ab  19:57  3  IR 2194
+  Göschenen     an  21:08  2
+  Dauer: 1:26; fährt täglich, nicht 20., 21., 27. Jul, 3. Aug
+
+2013-07-21 goeschenen-zrh:
+  18:08-19:51 goeschenen-zrh bhf
+  20:01:20:13 zrh
+
+  19:08-20:06 goeschenen-arth-goldau
+  20:13-20:51 zrh hbf
+  21:07-21:16 zrh
+
+2013-09-06 bsl-ziegelvruecke:
+  Basel SBB     ab  12:47  7  IR 1775 Richtung: Chur
+  Ziegelbrücke  an  14:57  9
+  Dauer: 2:10; fährt täglich
+
+  Basel SBB     ab  13:07  8  IC 775 Richtung: Zürich HB
+  Zürich HB     an  14:00  10
+  Zürich HB     ab  14:12  7  IR 1775 Richtung: Chur
+  Ziegelbrücke  an  14:57  9
+  Dauer: 1:50; fährt täglich
+
+2013-09-28 pratteln-buchs:
+  Pratteln  ab  07:41  2  S3 17321 Richtung: Olten
+  Liestal   an  07:47  1
+  Liestal   ab  07:57  1  IR 1765 Richtung: Chur Restaurant Minibar
+  Aarau     an  08:22  3
+  Aarau     ab  08:26  12  S14 213 S-Bahn 14 Richtung: Menziken X
+  Buchs AG  an  08:28
+  Dauer: 0:47; fährt Mo - Sa, nicht 19. Okt, 16., 23. Nov
+
+2013-10-16 loe-wiechs:
+  Lörrach Hbf  ab  09:29   RB 87816
+  Schopfheim   an  09:44  2
+
+2013-11-15 rheinfelden-zrh:
+  Rheinfelden    ab  15:25  3  IR 1979
+  Zürich HB      an  16:24  14
+  Zürich HB SZU  ab  16:35  S1024851 S-Bahn 10 Richtung: Uetliberg
+  Zürich Binz    an  16:39
+  Dauer: 1:14
+
+  Transit directions to Kanghua GmbH
+
+  Rheinfelden Train towards Zürich HB
+  3:25pm - 4:24pm (59 mins, 5 stops)
+  Zürich HB S10 Commuter train towards Uetliberg
+  4:35pm - 4:39pm (4 mins, 2 stops)
+  Zürich Binz Walk to Kanghua GmbH
+  About 3 mins (260 m)
+
+  Kanghua GmbH
+  Uetlibergstrasse 24
+  8045 Zürich, Switzerland
+  Travel time: about 1 hour 17 mins
+
+  /a/doc/travel/trip/zrh/binz.png
+  /a/doc/travel/trip/zrh/binz_on_foot.png
+
+2013-12-07 bsl-zug:
+  Pratteln  ab  08:11  2  S3 17325 Richtung: Olten
+  Liestal   an  08:17  1
+  Liestal   ab  08:27  1  IR 2457
+  Luzern    an  09:30  8
+  Luzern   ab  09:35  6  IR 2326
+  Zug       an  09:57  5
+  Dauer: 1:46; fährt 6. bis 14. Dez 2013 täglich
+
+2013-12-07 zug-dietikon:
+  Zug       ab  17:31  5  IR 2362 Richtung: Zürich Flughafen
+  Thalwil   an  17:45  5
+  Thalwil   ab  17:51  3  S2 18271 Richtung: Ziegelbrücke
+  Pfäffikon SZ     an  18:12  5
+  Pfäffikon SZ   ab  18:22  6  S5 18578 Richtung: Rafz
+  Rapperswil     an  18:28  4 Richtung: Linthal
+  Uznach     an  18:45  3
+  Uznach     ab  18:47  1  S4 23489 Richtung: St. Gallen
+  Wattwil    an  18:59  2
+  Wattwil    ab  19:04  1  S9 23979 Richtung: Wil SG
+  Dietfurt   an  19:10
+  Dauer: 1:39; fährt 7. bis 14. Dez 2013 täglich
+
+  Zug   ab  17:31  5  IR 2362  Richtung: Zürich Flughafen
+  Zürich HB     an  17:56  4
+  Zürich HB   ab  18:09  10  ICN 1535  Richtung: St. Gallen
+  Wil SG     an  18:52  1
+  Wil SG   ab  19:02  4  S9 23978  Richtung: Nesslau-Neu St. Johann
+  Dietfurt     an  19:18
+  Dauer: 1:47; fährt 7. bis 14. Dez 2013 täglich
+
+2013-12-15 zrh
+  Zürich Wiedikon   ab  16:16  2  S2 18264
+  Zürich Flughafen  an  16:38  1
+  Dauer: 0:22; fährt 15. Dez 2013 bis 8. Jun 2014 So; an allg. Feiertag; nicht 1. Aug 2014
+
+  Zürich Wiedikon  ab  16:22  2  S2420464
+  Zürich HB        an  16:27  52
+  Zürich HB        ab  16:37  12  IR 2129
+  ZRH Flughafen    an  16:46  1
+  Dauer: 0:24; fährt 15. Dez 2013 bis 14. Jun 2014 täglich
+
+2013-12-26 loe-wildhaus:
+  Lörrach Hbf   dep  12:01  RB 87827
+  Basel SBB     arr  12:24  2
+  Basel SBB     dep  12:33  11  IC 573 Direction: Chur
+  Sargans       arr  14:32  3
+  Sargans       dep  14:35  6  RE 3828 Direction: Wil SG
+  Buchs SG      arr  14:44  1
+  Buchs SG      dep  14:48  BUS 790 Direction: Alt St. Johann, Post
+  Wildhaus, Lisighaus  arr  15:20
+  Duration: 3:23; runs 15. Dec 2013 until 13. Dec 2014 daily
+
+2014-01-05 pratteln-binz:
+  Pratteln    ab  11:41  2  S3 17339 Richtung: Olten
+  Liestal     an  11:47  1
+  Liestal     ab  11:57  1  IR 1823 Richtung: Zürich HB
+  Zürich HB   an  12:52  12 Gleisänderung!
+  Dauer: 1:11; fährt täglich, nicht 18., 19. Jan 2014, 1., 2. Mär 2014
+
+  Zürich HB       Fussweg  7 Min.; Run, run, run! Made it in under 3 minutes!
+  Zürich HB SZU   ab  12:55  22  S1024807 S-Bahn 10
+  Zürich Binz     an  12:59
+  Dauer: 0:11; fährt täglich
+
+2014-01-29 pratteln-zrh:
+  Pratteln     ab  07:28  5  S1 17121 S-Bahn 1 Richtung: Frick
+  Rheinfelden  an  07:37  3
+  Rheinfelden  ab  07:51  3  IR 2065 Richtung: Zürich Flughafen
+  Zürich Flughafen     an  08:56  1
+  Dauer: 1:28; fährt täglich
+
+2014-02-18 pratteln-bern:
+  Pratteln    ab  10:17  1  S3 17330 Richtung: Porrentruy
+  Basel SBB   an  10:26  16
+  Basel SBB   ab  10:31  10  IC 1069 Richtung: Domodossola (I)
+  Bern        an  11:27  3
+  Bern        ab  11:34  13  S5216242 Richtung: Kerzers
+  Bümpliz N.  an  11:38  4/5
+  Dauer: 1:21; fährt täglich
+
+  Pratteln    ab  10:41  2  S3 17335 Richtung: Olten
+  Liestal     an  10:47  1
+  Liestal     ab  11:09  1  IC 969 Richtung: Interlaken Ost
+  Bern        an  11:56  5
+  Bern        ab  12:08  12  S5 15544 Richtung: Neuchâtel
+  Bümpliz N.  an  12:12  4/5
+  Dauer: 1:31; fährt täglich
+
+  Bern Bümpliz Nord ab  13:34      0:06  0  S51
+  Bern     an  13:40
+
+  Bern Bümpliz Süd    ab  13:39      0:05  0  S1
+  Bern     an  13:44
+
+  Bern Bümpliz Nord    ab  13:47      0:05  0  S5
+  Bern     an  13:52
+
+2014-02-22 pratteln-zrh
+  Pratteln  Sa, 22.02.14  ab  09:28  5  S1 17131 Richtung: Frick
+  Rheinfelden     an  09:37  3
+  Rheinfelden   ab  09:51  3  IR 2069 Richtung: Zürich Flughafen
+  Zürich Flughafen     an  10:56  1
+  Dauer: 1:28; fährt täglich
+
+2014-02-22 pratteln-zrh
+  Pratteln        ab  14:28  5 S1 17151 Richtung: Frick
+  Rheinfelden     an  14:37  3
+  Rheinfelden     ab  14:51  3 IR 2079 Richtung: Zürich Flughafen
+  Zrh Altstetten  an  15:42  6
+  Dauer: 1:14; fährt täglich
+
+2014-05-02 bsl-braunwald
+  Basel SBB     ab  12:07  9 IC 773
+  Zürich HB     an  13:00  17
+  Zürich HB     ab  13:12  9 RE 1773 Richtung: Chur
+  Ziegelbrücke  an  13:58  9
+  Ziegelbrücke  ab  14:05  10 S6 7745 Richtung: Linthal
+  Linthal Braunwaldbahn     an  14:44
+  Linthal Braunwaldbahn (Talst.)   ab  14:55  FUN 100
+  Braunwald     an  15:04
+  Dauer: 2:57; fährt 2. Mai bis 14. Jun 2014 täglich
+
+2014-05-04 braunwald-pratteln
+  Braunwald    ab  13:55  FUN 1090
+  Linthal Braunwaldbahn (Talst.)     an  14:02
+  Linthal Braunwaldbahn   ab  14:14  S6 7758
+  Ziegelbrücke     an  14:55  5
+  Ziegelbrücke   ab  15:00  6 RE 1778 Richtung: Zürich HB
+  Zürich HB     an  15:48  9
+  Zürich HB   ab  16:08  17 IR 1830 Richtung: Basel SBB
+  Liestal     an  17:00  3
+  Liestal   ab  17:11  3 S3 17360 Richtung: Porrentruy
+  Pratteln     an  17:17  1
+  Dauer: 3:22; fährt 4. Mai bis 14. Jun 2014 täglich
+
+  Braunwald    ab  13:55  FUN 1090
+  Linthal Braunwaldbahn (Talst.)     an  14:02
+  Linthal Braunwaldbahn   ab  14:14  S6 7758 Richtung: Rapperswil
+  Ziegelbrücke     an  14:55  5
+  Ziegelbrücke   ab  15:00  6 RE 1778
+  Zürich HB     an  15:48  9
+  Zürich HB   ab  16:00  15 IC 780 Richtung: Basel SBB
+  Basel SBB     an  16:53  8
+  Basel SBB   ab  17:01  17 S3 17365 Richtung: Olten
+  Pratteln     an  17:11  2
+  Dauer: 3:16; fährt 4. Mai bis 14. Jun 2014 täglich
+
+2014-05-16 pratteln-zrh:
+  Pratteln     ab  06:28  5 S1 17117 Richtung: Frick
+  Rheinfelden  an  06:37  3
+  Rheinfelden  ab  06:51  3 IR 2061 Richtung: Zürich Flughafen
+  ZRH Flghfn   an  07:56  1
+  Dauer: 1:28; fährt täglich
+
+2014-06-02 pratteln-zrh:
+  Pratteln  ab  07:28  5  S 1 Richtung: Frick
+  Rheinfelden  an  07:37  3
+  Rheinfelden  ab  07:51  3  IR 2065 Richtung: Zürich Flughafen
+  Zürich Flughafen  an  08:56  1
+  Dauer: 1:28;
+
+2014-07-14 bsl-luzern:
+  Basel SBB  ab  11:04  4  ICN 671 Richtung: Lugano
+  Luzern  an  12:05  7
+  Dauer: 1:01;
+  Veloreservierung obligatorisch
+
+  Basel SBB  ab  11:17  10  IR 2463
+  Luzern  an  12:30  8
+  Dauer: 1:13;
+  Baustelle IR 2463  (Olten - Luzern)  Bauarbeiten: Brittnau-Wikon - Dagmersellen (SBB CFF FFS) IR Olten - Luzern Zwischen Brittnau-Wikon und Dagmersellen auf der Linie Olten - Luzern ist die Strecke für den Bahnverkehr nur beschränkt befahrbar. IR Olten - Luzern Mehr
+
+2014-07-19 luzern-griesalp mit velo:
+  Luzern  ab  11:00  8  IR 2520 Richtung: Genève
+  Bern  an  12:00  2
+  Bern  ab  12:39  4  RE 3177 Richtung: Brig
+  Reichenbach im Kandertal  an  13:19  1/2
+  Reichenbach i. K., Bahnhof  ab  13:27   BUS 220 Richtung: Griesalp, Kurhaus
+  Griesalp, Kurhaus  an  14:12
+  Dauer: 3:13;
+
+  Luzern  ab  13:00  8  IR 2524 Richtung: Genève
+  Bern  an  14:00  2
+  Bern  ab  14:39  4  RE 3181
+  Reichenbach im Kandertal  an  15:19  1/2
+  Reichenbach i. K., Bahnhof  ab  15:27   BUS 220
+  Griesalp, Kurhaus  an  16:12
+  Dauer: 3:13;
+
+  Luzern  ab  15:00  8  IR 2528
+  Bern  an  16:00  2
+  Bern  ab  16:39  4  RE 3185
+  Reichenbach im Kandertal  an  17:19  1/2
+  Reichenbach i. K., Bahnhof  ab  17:27   BUS 220
+  Griesalp, Kurhaus  an  18:12
+  Dauer: 3:13;
+
+2014-08-29 pratteln-stein am rhein:
+  Pratteln ab 09:28 5  S 1 Richtung: Frick
+  Rheinfelden an 09:37 3
+  Rheinfelden, Bahnhof ab 09:40   NFB 73 Richtung: Rheinfelden (D), Kreiskrankenh
+  Rheinfelden (D), Busbahnhof an 09:44
+  Rheinfelden (D) ab 09:50 1  IRE 3373 Richtung: Konstanz
+  Schaffhausen an 10:40
+  Schaffhausen ab 11:01 3  S 8 Richtung: Nesslau-Neu St. Johann
+  Stein am Rhein an 11:25 3
+  Dauer: 2:00;
+
+  Pratteln ab 09:46 1  S 3
+  Basel SBB an 09:56 16
+  Basel SBB ab 10:07 9  ICE 5
+  Zürich HB an 11:00 10
+  Zürich HB ab 11:07 8  IC 819 Richtung: Romanshorn
+  Frauenfeld an 11:46 2
+  Frauenfeld, Bahnhof ab 11:58 E  BUS 825 Richtung: Stein am Rhein, Bahnhof
+  Eschenz, Barriere an 12:20
+  Dauer: 2:37;
+
+2014-10-02 pratteln-uster:
+  Pratteln    ab 06:28 5  S 1 Richtung: Frick
+  Rheinfelden an 06:37 3
+  Rheinfelden ab 06:42 3  IR 1957 Richtung: Zürich HB
+  Zürich HB   an 07:40 8
+  Zürich HB   ab 07:55 43/44  S 5 Richtung: Pfäffikon SZ
+  Uster       an 08:09 2
+  Dauer: 1:41;
+
+2014-10-11 zrh-lenk:
+  haus zelg, ammertenstrasse, oberriet, lenk, richtung simmenfälle
+
+  Zürich HB  ab 17:32 17  IC 732 Richtung: Genève
+  Bern       an 18:28 5
+  Bern       ab 18:39 1  RE 3189 LÖTSCHBERGER Richtung: Zweisimmen
+  Zweisimmen an 19:57 12
+  Zweisimmen ab 20:03 8  R 2546 Richtung: Lenk im Simmental
+  Lenk im Simmental an 20:21
+  Dauer: 2:49;
+
+  Zürich HB  ab 18:32 16  IC 736 Richtung: Genève
+  Bern       an 19:28 5
+  Bern       ab 19:39 4  RE 3191 LÖTSCHBERGER Richtung: Zweisimmen
+  Zweisimmen an 20:57 12
+  Zweisimmen ab 21:03 8  R 2548 Richtung: Lenk im Simmental
+  Lenk im Simmental an 21:21
+  Dauer: 2:49;
+
+2014-10-14 bsl-koeln:
+  Pratteln  ab 09:46 1 S 3 Richtung: Laufen
+  Basel SBB an 09:56 16
+  Basel SBB ab 10:13 11 ICE 370 Richtung: Berlin Ostbahnhof
+  Mannheim  an 12:23 2
+  Mannheim  ab 12:36 3 ICE 610 Richtung: Dortmund Hbf
+  Köln Hbf  an 14:05 5
+  Dauer: 4:19;
+
+2014-10-16 koeln-brussels:
+  Köln Hbf       ab 18:42  8 THA 9484 Thalys
+  Bruxelles-Midi an 20:32  6
+
+  Köln Hbf         ab 16:42 8 THA 9472 Thalys
+  Bruxelles-Midi   an 18:32 6
+  Bruxelles-Midi   ab 19:05 15 IC 540 Intercity
+  Gent St Pieters  an 19:35 12
+
+2014-10-21 bsl-offenback:
+  Basel Bad Bf           ab 09:15 4 ICE 76 Intercity-Express Bordrestaurant, WLAN verfügbar
+  Frankfurt(Main)Hbf     an 11:53 8
+  Frankfurt Hbf (tief)   ab 12:09 102 S 2 S-Bahn Richtung: Dietzenbach Bahnhof
+  Offenbach Ledermuseum  an 12:23 1
+  fährt nicht täglich
+
+2014-10-29 berlin-bsl:
+  Berlin Hbf 09:34-Basel Bad Bf an 16:34
+  dauer 7:00
+    Berlin Hbf    ab 09:34  13 ICE 597 Intercity-Express Bordrestaurant, WLAN verfügbar
+    Mannheim Hbf  an 14:27  5
+    Mannheim Hbf  ab 14:34  4 ICE 1107 Intercity-Express Bordbistro, WLAN verfügbar
+    Basel Bad Bf  an 16:34  3
+
+  Berlin Hbf 09:46-Basel Bad Bf 16:45
+  dauer 6:59
+    Berlin Hermannstr. ab 09:16 +0 1 S 46 S-Bahn Richtung: Berlin Westend
+    Berlin Westkreuz   an 09:35 11
+    Berlin Westkreuz   ab 09:41 1 S 5 S-Bahn Richtung: Berlin-Spandau
+    Berlin-Spandau     an 09:55 1
+    Berlin Hbf    ab 09:46  13 A - D ICE 942 ICE 952 Intercity-Express, Bordrestaurant, WLAN verfügbar
+    Hannover Hbf  an 11:28  12
+    Hannover Hbf  ab 11:41  4 ICE 75 Intercity-Express, Bordrestaurant, WLAN verfügbar
+    Basel Bad Bf  an 16:45  3
+
+2014-10-31 pratteln-altstetten:
+  Pratteln    ab 19:58 5  S 1 Richtung: Laufenburg
+  Rheinfelden an 20:07 3
+  Rheinfelden ab 20:25 3  IR 1991 Richtung: Zürich HB
+  Baden       an 21:07 1
+  Baden       ab 21:15 1  S 12 Richtung: Winterthur Seen
+  Altstetten  an 21:37 4
+  Dauer: 1:39;
+
+2014-11-04 bsl-be:
+  Basel SBB ab 13:31 10  IC 1075 Richtung: Interlaken Ost
+  Bern      an 14:27 3
+  Bern      ab 14:34 13C  S 52 Richtung: Kerzers
+  Bümpliz Nord an 14:38 4/5
+  Dauer: 1:07;
+
+2014-11-07 bsl-zrh:
+  Basel SBB ab 16:47    1:05 0 IR
+  Zürich HB an 17:52
+  Basel SBB ab 17:07    0:53 0 ICE
+  Zürich HB an 18:00
+  Basel SBB ab 17:13    1:11 0 IR
+  Zürich HB an 18:24
+  Basel SBB ab 17:33    0:53 0 IC
+  Zürich HB an 18:26
+
+2014-11-08 winti-pratteln:
+  Elsau, Dorf ab 17:57   NFB 680
+  Winterthur, Hauptbahnhof an 18:14
+  Winterthur ab 18:28 3  ICN30538
+  Olten an 19:38 8
+  Olten ab 19:48 11  S 3
+  Pratteln an 20:17 1
+  Dauer: 2:20;
+  fährt 8. Nov 2014
+
+2014-12-17 milano - verbania-pallanza:
+  17:29-18:44 Milano Centrale to Verbania-Pallanza, Regionale 2152, eur 8.90
+
+2014-12-18 magadino-vira - basel:
+  09:26 bus cadenazzo
+  09:58 train basel sbb
+
+2014-12-23 bsl-bern:
+  Basel SBB ab 09:31    0:56 0 IC
+  Bern an 10:27
+
+  Pratteln ab 09:11 2  S 3
+  Olten an 09:40 11
+  Olten ab 09:58 8  IR 2164
+  Bern an 10:25 9
+  Dauer: 1:14;
+
+2014-12-29 bsl-blonay:
+  Basel SBB ab 12:03 14  ICN 1622 Richtung: Lausanne
+  Lausanne an 14:15 4
+  Lausanne ab 14:21 5  IR 1721 Richtung: Brig
+  Vevey an 14:34 3
+  Vevey ab 14:38 7  R 1389 Regio 1389 Richtung: Les Pléiades
+  Fayaux an 15:19
+  1807 Blonay, Route de Fayaux 8
+  Dauer: 3:22;
+
+2015-01-13 pratteln-be:
+  Pratteln ab 08:11 2  S 3 Richtung: Olten
+  Olten an 08:40 11AB Gleisänderung!
+  Olten ab 08:58 8  IR 2162 Richtung: Bern
+  Bern an 09:25 8
+  Dauer: 1:14;
+
+  Bern ab 11:04 6  ICE 278 Richtung: Berlin Ostbahnhof
+  Liestal an 11:47 3
+  Liestal ab 12:11 3  S 3 Richtung: Porrentruy
+  Pratteln an 12:17 1
+  Dauer: 1:13;
+
+  Bern ab 11:36 9  IR 2171 Richtung: Zürich HB
+  Olten an 12:02 7
+  Olten ab 12:17 11  S 3 Richtung: Laufen
+  Pratteln an 12:45 1
+  Dauer: 1:09;
+
+  Bern ab 12:04 7  IC 968 Richtung: Basel SBB
+  Liestal an 12:47 3
+  Liestal ab 13:11 3  S 3 Richtung: Porrentruy
+  Pratteln an 13:17 1
+  Dauer: 1:13;
+
+2015-01-28 pratteln-zrh:
+  Pratteln    ab 09:28 5  S 1 Richtung: Frick
+  Rheinfelden an 09:37 3
+  Rheinfelden ab 09:51 3  IR 2065 Richtung: Zürich Flughafen
+  Zürich Flughafen an 10:56 1
+  Dauer: 1:28;
+
+2015-03-30 bsl-brest (f):
+  Basel SBB ab 08:34 9  TGV 9206 Richtung: Paris-Gare de Lyon
+  Paris-Gare de Lyon an 11:38
+  Übergang 60 Min., YM
+  Paris-Montparnasse ab 14:08   TGV 8623 Richtung: Brest (F)
+  Brest (F) an 18:28
+  Dauer: 9:54;
+
+  Basel SBB          ab 12:34 5  TGV 9218 Richtung: Paris-Gare de Lyon
+  Paris-Gare de Lyon an 15:39
+  Paris-Montparnasse ab 17:08   TGV 8643 Richtung: Brest (F)
+  Brest (F)          an 21:30
+  Dauer: 8:56;
+
+  Normalangebot 390.00
+  Sparangebot 257.00
+
+2015-03-05 pratteln-gemmipass:
+  Pratteln ab 06:31 4  S 1 Richtung: Basel SBB
+  Basel SBB an 06:40 1
+  Dauer: 0:09;
+  fährt täglich
+  wir treffen uns um 6:50 auf Gleis 6 in Basel am SBB, da fährt der Zug nach Bern, es sind für uns Plätze reserviert
+
+2015-03-13 pratteln-zrh-binz:
+  Pratteln  ab 11:41 2  S 3 Richtung: Olten
+  Liestal   an 11:47 1
+  Liestal   ab 11:57 1  IR 2269 Richtung: Zürich HB
+  Zürich HB an 12:52 12
+  Zürich HB SZU ab 13:05 22  S 10 Richtung: Uetliberg
+  Zürich Binz an 13:09
+  Dauer: 1:28;
+
+  Pratteln  ab 11:46 1  S 3 Richtung: Laufen
+  Basel SBB an 11:56 16
+  Basel SBB ab 12:07 8  IC 771 Richtung: Zürich HB
+  Zürich HB an 13:00 17
+  Zürich HB SZU ab 13:25 22  S 10 Richtung: Zürich Triemli
+  Zürich Binz an 13:29
+  Dauer: 1:43;
+
+2015-04-18 loe-zell:
+  Lörrach Hbf ab 08:28   S 6 Richtung: Zell (Wiesental)
+  Zell (Wiesental) an 08:55
+
+2015-05-06 koeln-duesseldorf flughafen:
+  Köln Messe/Deutz      ab 11:52   0:35
+  Düsseldorf Flughafen  an 12:27
+
+2015-06-01 pratteln-zrh:
+  Pratteln dep 07:41 2  S 3
+  Olten    arr 08:10 11
+  Olten    dep 08:20 7  ICN 515 Direction: St. Gallen
+  ZRH airp arr 09:20 2
+  Duration: 1:39;
+  runs daily
+
+2015-06-18 pratteln-ne:
+  Pratteln ab 08:41 2  S 3 Richtung: Olten
+  Olten an 09:10 11
+  Olten ab 09:40 8  ICN 1514 Richtung: Lausanne
+  Neuchâtel an 10:32 3
+  Dauer: 1:51; fährt täglich
+
+  Pratteln ab 08:46 1  S 3 Richtung: Laufen
+  Basel SBB an 08:56 16
+  Basel SBB ab 09:03 14  ICN 614 Richtung: Genève-Aéroport
+  Biel/Bienne an 10:10 4
+  Biel/Bienne ab 10:16 5  ICN 1514 Richtung: Lausanne
+  Neuchâtel an 10:32 3
+  Dauer: 1:46; fährt täglich
+
+  Pratteln ab 08:46 1  S 3 Richtung: Laufen
+  Basel SBB an 08:56 16
+  Basel SBB ab 09:03 14  ICN 614 Richtung: Genève-Aéroport
+    Neuchâtel an 10:35 4
+  Dauer: 1:49; fährt täglich
+
+  Neuchâtel ab 15:27 4  ICN 1631 Richtung: Basel SBB
+  Basel SBB an 16:53 14
+  Basel SBB ab 16:58 1  S 17081 Richtung: Stein-Säckingen
+  Pratteln  an 17:05 5
+  Dauer: 1:38; fährt Mo - Fr
+
+2015-06-26 pratteln-pallanza:
+  Pratteln  ab 06:43 4  IR 1956 Richtung: Basel SBB
+  Basel SBB an 06:51 9
+  Basel SBB ab 06:59 6  IC 959 Richtung: Interlaken Ost
+  Thun an 08:21 1
+  Thun ab 08:27 1  EC 329 Richtung: Domodossola (I)
+  Domodossola (I) an 09:43 3
+  Domodossola (I) ab 09:54   R 10445 Richtung: Milano Porta Garibaldi
+  Verbania-Pallanza an 10:19
+  Dauer: 3:36; fährt 22. Jun bis 31. Okt 2015 täglich
+
+  Pratteln  ab 08:17 1  S 3 Richtung: Porrentruy
+  Basel SBB an 08:26 16
+  Basel SBB ab 08:31 7  IC 1063 Richtung: Brig
+  Brig an 10:40 6
+  Brig ab 10:44 7  IR 3317 Richtung: Domodossola (I)
+  Domodossola (I) an 11:12 3
+  Domodossola (I) ab 11:58   R 10417 Richtung: Milano Porta Garibaldi
+  Verbania-Pallanza an 12:23
+  Dauer: 4:06;  fährt täglich
+
+2015-06-26 verbania-milano:
+  Verbania-Pallanza ab 07:14   R 2145 Richtung: Milano Centrale
+  Milano Centrale an 08:35
+  Dauer: 1:21; fährt täglich
+
+  Verbania-Pallanza ab 07:43   R 10407 Richtung: Milano Porta Garibaldi
+  Stresa an 07:50
+  Stresa ab 08:40   EC 35 Richtung: Milano Centrale
+  Milano Centrale an 09:37
+  Dauer: 1:54; fährt Mo - Sa, nicht 15. Aug, 8. Dez
+
+  Verbania-Pallanza ab 07:43   R 10407 Richtung: Milano Porta Garibaldi
+  Milano Porta Garibaldi an 09:12
+  Übergang 45 Min. nach Milano Centrale
+  Dauer: 2:14; fährt Mo - Sa, nicht 15. Aug, 8. Dez
+
+2015-06-27 milano-visp:
+  Milano Centrale ab 19:23   EC 42 Richtung: Genève
+  Brig an 21:16 3
+  Brig ab 21:20 4  IC 1088 Richtung: Bern
+  Visp an 21:26 4
+  Dauer: 2:03; fährt täglich
+
+  Milano Centrale ab 19:23   EC 42 Richtung: Genève
+  Brig an 21:16 3
+  Brig ab 22:07 7  RE 4290 Richtung: Spiez
+  Kandersteg an 22:43 2
+  Dauer: 3:20; fährt täglich
+
+  Milano Centrale ab 19:23   EC 42 Richtung: Genève
+  Brig an 21:16 3
+  Brig ab 21:20 4  IC 1088 Richtung: Bern
+  Spiez an 21:53 4
+  Spiez ab 22:12 5  RE 4289 Richtung: Brig
+  Frutigen an 22:24 3
+  Dauer: 3:01; fährt täglich
+
+2015-08-06 les monnins dessous - fiesso:
+  Le Locle ab 05:26 2  R 7153 Richtung: Neuchâtel
+  Neuchâtel an 06:19 7
+  Neuchâtel ab 06:24 5  ICN 1511 Richtung: St. Gallen
+  Olten an 07:18 7
+  Olten ab 07:30 12  IR 2313 Richtung: Locarno
+  Faido an 10:16 2
+  Faido, Stazione ab 10:42   BUS 191 Richtung: Airolo, Stazione
+  Fiesso, Paese an 10:49
+  Dauer: 5:24;
+
+  La Chaux-de-Fonds ab 04:46 4  R 7201 Richtung: Biel/Bienne
+  Biel/Bienne an 05:38 1
+  Biel/Bienne ab 05:43 2  ICN 509 Richtung: St. Gallen
+  Olten an 06:18 7
+  Olten ab 06:30 12  IR 2311 Richtung: Locarno
+  Airolo an 08:58 2
+  Airolo, Stazione ab 09:30   BUS 117 Richtung: Dalpe, Villaggio
+  Fiesso, Paese an 09:48
+  Dauer: 5:02;
+
+2015-09-12 pratteln-zrh:
+  Pratteln ab 09:41 2  S 3 Richtung: Olten
+  Olten an 10:10 11
+  Olten ab 10:20 7  ICN 519 Richtung: St. Gallen
+  Zürich Flughafen an 11:20 2
+  Dauer: 1:39;
+
+  Pratteln ab 10:11 2  S 3 S 3
+  Olten an 10:40 11
+  Olten ab 10:59 2  IR 2117 Richtung: Konstanz
+  Zürich Flughafen an 11:46 1
+  Dauer: 1:35;
+
+2015-10-05 pratteln-zrh:
+  Pratteln ab 06:41 2  S 3 Richtung: Olten
+  Olten    an 07:10 11
+  Olten    ab 07:20 7  ICN 1511 Richtung: St. Gallen
+  zrh Flgh an 08:20 2
+  Dauer: 1:39;
+  fährt täglich, nicht 10., 11. Okt, 21., 22., 28., 29. Nov
+
+2015-10-28 pratteln-bsl:
+  Pratteln ab 09:17 1  S 3 Richtung: Porrentruy
+  Basel SBB an 09:26 16
+  Basel SBB, Bahnhof ab 09:37   NFB 50 Richtung: Basel EuroAirport
+  Basel EuroAirport an 09:53
+  Dauer: 0:36;
+
+2015-11-26 pratteln-bsl:
+  Pratteln ab 05:17 1  S 3 Richtung: Porrentruy
+  Basel SBB an 05:26 16
+  Basel SBB, Bahnhof ab 05:35   NFB 50 Richtung: Basel EuroAirport
+  Basel EuroAirport an 05:49
+  Dauer: 0:32; fährt 24. Nov bis 11. Dez 2015 Mo - Fr
+
+2016-01-13 bsl-koeln:
+  Basel SBB ab 10:13 12  ICE 370 Richtung: Berlin Ostbahnhof
+  Basel Bad Bhf ab 10:23 12  ICE 370 Richtung: Berlin Ostbahnhof
+  Mannheim Hbf an 12:23 2
+  Mannheim Hbf ab 12:36 3  ICE 610 Richtung: Dortmund Hbf
+  Köln Hbf an 14:05 5
+  Dauer: 3:52;
+  fährt täglich, nicht 16. Jul bis 28. Aug 2016
+
+2016-01-17 koeln-munich:
+  Köln Hbf ab 12:31
+  Köln Messe/Deutz Gl. 9-10 an 12:33
+  Köln Messe/Deutz Gl.11-12 ab 12:44
+  Muenchen Hbf an 17:04
+
+2016-01-22 muenchen-pratteln:
+  München Hbf  ab 11:28 ICE 518
+  Mannheim Hbf an 14:28
+  Mannheim Hbf ab 14:45 ICE 75
+  Basel SBB    an 16:54
+  Basel SBB    ab 17:01 S 3
+  Pratteln     an 17:11
+  dauer 5:43
+
+2016-01-23 pratteln-bsl:
+  Pratteln ab 08:17 1  S 3 Richtung: Porrentruy
+  Basel SBB an 08:26 16
+  Basel, Bahnhof SBB ab 08:33   Niederflur-Bus 50 Richtung: Basel EuroAirport
+  Basel EuroAirport an 08:48
+  Dauer: 0:31;
+
+2016-01-29 zrh-lützelflüh-goldbach:
+  Zürich Flughafen ab 15:36 1  S 2 Richtung: Ziegelbrücke
+  Zürich HB an 15:45 31
+  Zürich HB ab 15:55 18  IR 2376 Richtung: Bern
+  Burgdorf an 17:06 2
+  Burgdorf ab 17:11 4B  S 44 Richtung: Sumiswald-Grünen
+  Lützelflüh-Goldbach an 17:25 2
+  Dauer: 1:51;
+
+  Zürich Flughafen ab 16:13 3  ICN 1528 Richtung: Lausanne
+  Olten an 17:00 3
+  Olten ab 17:06 10  RE 3880 Richtung: Bern
+  Burgdorf an 17:37 2
+  Burgdorf ab 17:49 11  S 4 Richtung: Langnau i.E.
+  Lützelflüh-Goldbach an 18:01 2
+  Dauer: 1:50;
+
+  Zürich Flughafen ab 16:18 4  IC 726 Richtung: Genève-Aéroport
+  Zürich HB an 16:27 32
+  Zürich HB ab 16:30 31  ICN 1528 Richtung: Lausanne
+  Olten an 17:00 3
+  Olten ab 17:06 10  RE 3880 Richtung: Bern
+  Burgdorf an 17:37 2
+  Burgdorf ab 17:49 11  S 4 Richtung: Langnau i.E.
+  Lützelflüh-Goldbach an 18:01 2
+  Dauer: 1:45;
+
+  Zürich Flughafen ab 16:18 4  IC 726 Richtung: Genève-Aéroport
+  Bern an 17:28 5
+  Bern ab 17:50 10  S 44 Richtung: Sumiswald-Grünen
+  Lützelflüh-Goldbach an 18:25 2
+  Dauer: 2:09;
+  fährt täglich
+
+2016-02-05 pratteln-bern:
+  Pratteln  ab 13:17 1  S 3 Richtung: Porrentruy
+  Basel SBB an 13:26 16
+  Basel SBB ab 13:31 10  IC 1073 Richtung: Interlaken Ost
+  Bern      an 14:24 6
+  Dauer: 1:07;
+
+2016-02-10 bsl-bad krozingen:
+  eur 12.30
+  Lörrach Hbf   ab 16:16
+  Weil am Rhein an 16:27 SBB87917
+  Weil am Rhein ab 16:34
+  Bad Krozingen an 17:10
+
+  eur 10.20
+  Basel Bad Bf  ab 16:30
+  Bad Krozingen an 17:10
+
+  rvl tageskarte 24 h 3 zonen 6.90 alle zonen 9.50
+  auggen-bad krozingen 8.30
+
+2016-02-29 pratteln-bern:
+  Pratteln ab 08:17 1  S 3 Richtung: Porrentruy
+  Basel SBB an 08:26 16
+  Basel SBB ab 08:31 7  IC 1063 Richtung: Brig
+  Bern an 09:24 6
+  Dauer: 1:13;
+
+  Bern ab 12:04 6  IC 968 Richtung: Basel SBB
+  Liestal an 12:47 3
+  Liestal ab 13:11 3  S 3 Richtung: Porrentruy
+  Pratteln an 13:17 1
+  Dauer: 1:13;
+
+2016-03-04 bsl-rueras:
+  Basel SBB ab 06:04 11  IR 2311 Richtung: Locarno
+  Göschenen an 08:47 3
+  Göschenen ab 08:53   R 625 Richtung: Andermatt
+  Andermatt an 09:04
+  Andermatt ab 09:28 1  R 824 Richtung: Disentis/Mustér
+  Rueras X an 10:12
+  Dauer: 4:08;
+
+2016-03-04 pratteln-bsl bad bhf:
+  Pratteln ab 05:46 1  S 3 Richtung: Laufen
+  Basel SBB an 05:56 16
+  Basel SBB ab 06:03 2  S 6 Richtung: Zell (Wiesental)
+  Basel Bad Bf an 06:09 8
+
+2016-03-08 pratteln-bsl airport:
+  Pratteln ab 05:31 4  S 1 Richtung: Basel SBB
+  Basel SBB an 05:41 3
+  Basel, Bahnhof SBB ab 05:55   NFB 50 Richtung: Basel EuroAirport
+  Basel EuroAirport an 06:09
+  Dauer: 0:38;
+
+  Pratteln ab 05:46 1  S 3 Richtung: Laufen
+  Basel SBB an 05:56 16
+  Basel, Bahnhof SBB ab 06:05   NFB 50 Richtung: Basel EuroAirport
+  Basel EuroAirport an 06:21
+  Dauer: 0:35;
+
+2016-03-02 covent garden-paddington:
+  6 Broad Court, London WC2B 5QZ, UK: Walk About 3 min , 0.1 mi to Covent Garden
+  Covent Garden Subway Piccadilly towards Northfields 2 min (2 stops)
+  Piccadilly Circus Walk to Piccadilly Circus About 1 min
+  Piccadilly Circus Subway Bakerloo towards Queen's Park 9 min (6 stops)
+  Paddington Station, London W2 1HA, UK
+
+2016-03-15 bsl-zrh:
+  Basel SBB ab 08:07 11  ICE 3 Richtung: Zürich HB
+  Zürich HB an 09:00 10
+  Zürich, Bahnhofstrasse/HB ab 09:10   NFT 7 Niederflur-Tram 7 Richtung: Stettbach, Bahnhof
+  Zürich, Haldenegg an 09:14
+  Zürich, Haldenegg ab 09:17   NFB E Niederflur-Bus E Richtung: Zürich, ETH Hönggerberg
+  Zürich, ETH Hönggerberg an 09:28
+  Dauer: 1:21;
+
+2016-03-15 zrh-pratteln:
+  Zürich, ETH Hönggerberg ab 12:34   NFB 37 Niederflur-Bus 37 Richtung: Zürich Affoltern, Bahnhof
+  Zürich, Zehntenhausplatz an 12:39
+  Zürich Affoltern ab 12:44 1  S 6 Richtung: Uetikon
+  Zürich HB an 12:58 43/44
+  Dauer: 0:24;
+
+  Zürich, ETH Hönggerberg ab 12:36   NFB 80 Niederflur-Bus 80 Richtung: Zürich, Triemlispital
+  Zürich Altstetten, Bahnhof an 12:48
+  Zürich Altstetten ab 12:54 4  S 3 Richtung: Wetzikon
+  Zürich HB an 13:00 43/44
+  Dauer: 0:24;
+
+  Zürich HB ab 13:08 15  IR 2268 Richtung: Basel SBB
+  Liestal an 14:01 3
+  Liestal ab 14:11 3  S 3 Richtung: Porrentruy
+  Pratteln an 14:17 1
+  Dauer: 1:09;
+
+2016-03-23 pratteln-mont-soleil:
+  Pratteln ab 13:11 2  S 3 Richtung: Olten
+  Olten an 13:40 11
+  Olten ab 14:02 3  ICN 1522 Richtung: Lausanne
+  Biel/Bienne an 14:43 5
+  Biel/Bienne ab 14:47 1CD  RE 3674 Richtung: La Chaux-de-Fonds
+  St-Imier an 15:12 1
+  Fussweg 12 Min., Y
+  St-Imier SMtS ab 15:35   FUN 37 Standseilbahn 37 Richtung: Mont-Soleil
+  Mont-Soleil an 15:39
+  Fussweg 9 Min.
+  2610 Mont-Soleil 140
+  Dauer: 2:37;
+
+  Pratteln ab 14:11 2  S 3 Richtung: Olten
+  Olten an 14:40 11
+  Olten ab 15:02 3  ICN 1524 Richtung: Lausanne
+  Biel/Bienne an 15:43 5
+  Biel/Bienne ab 15:47 1  RE 3676 Richtung: La Chaux-de-Fonds
+  St-Imier an 16:12 1
+  Fussweg 12 Min., Y
+  St-Imier SMtS ab 16:35   FUN 41 Standseilbahn 41 Richtung: Mont-Soleil
+  Mont-Soleil an 16:39
+  Fussweg 9 Min.
+  2610 Mont-Soleil 140
+  Dauer: 2:37;
+
+2016-06-29 zrh-loerrach:
+  Zürich Flughafen ab 15:56 3  IR 2078 Richtung: Basel SBB
+  Basel SBB an 17:24 11
+  Basel SBB ab 17:34 2  S 6 Richtung: Zell (Wiesental)
+  Lörrach Hbf an 17:57 2
+  Dauer: 2:05;
+
+  Zürich Flughafen ab 16:18 4  IC 726 Richtung: Genève-Aéroport
+  Zürich HB an 16:27 32
+  Zürich HB ab 16:34 13  IC 576 Richtung: Basel SBB
+  Basel SBB an 17:27 8
+  Basel SBB ab 17:34 2  S 6 Richtung: Zell (Wiesental)
+  Lörrach Hbf an 17:57 2
+  Dauer: 1:43;
+
+2016-08-14 pratteln-loe:
+  Pratteln ab 12:17 1  S 3 Richtung: Porrentruy
+  Basel SBB an 12:26 16
+  Basel SBB ab 12:34 2  S 6 Richtung: Zell (Wiesental)
+  Lörrach Hbf an 12:57 2
+
+2016-08-19 bsl-koeln:
+  Basel SBB ab 07:13  12 ICE 202 Intercity-Express Richtung: Köln Hbf
+  Basel Bad Bf ab 07:22 4
+  Freiburg(Breisgau) Hbf ab 07:55 1
+  Offenburg ab 08:26 3
+  Baden-Baden ab 08:42 4
+  Karlsruhe Hbf ab 08:59 3
+  Mannheim Hbf ab 09:33 3
+  Frankfurt(M) Flughafen Fernbf ab 10:09 Fern 6
+  Siegburg/Bonn ab 10:49 3
+  Köln Hbf an 11:05  4
+
+2016-08-19 bonn-auel:
+  Bahnhof, Siegburg ab 10:40   Bus 557 Bus Richtung: Bahnhof, Overath
+  Wahlscheid Schloßstr., Lohmar an 11:14
+  Fußweg 7 Min.
+  53797 Lohmar, Haus Auel 1
+
+  Bonn Hbf (tief) ab 11:03   STR 66 Straßenbahn Richtung: Siegburg Bahnhof
+  Siegburg Bahnhof an 11:27
+  Bahnhof, Siegburg ab 11:40   Bus 557 Bus Richtung: Bahnhof, Overath
+  Wahlscheid Schloßstr., Lohmar an 12:14
+  Fußweg 7 Min.
+  53797 Lohmar, Haus Auel 1
+
+2016-08-19 bsl-auel:
+  Basel SBB ab 07:13  12 ICE 202 Intercity-Express Richtung: Köln Hbf
+  Siegburg/Bonn an 10:47  3
+  Bahnhof, Siegburg ab 11:40   Bus 557 Bus Richtung: Bahnhof, Overath
+  Wahlscheid Schloßstr. Lohmar an 12:14
+  Fußweg 7 Min.
+  53797 Lohmar, Haus Auel 1
+
+2016-08-21 auel-koeln:
+  Schloßstraße, 53797 Lohmar, Germany
+  Weyerstraße 39, 50676 Köln, Germany
+  Zitronenfalterstrasse 38, 50999
+  Herzogenrath, Eygelshovener Straße 2
+
+  Lohmar - Wahlscheid, Schloßstraße 4-7
+  Fußweg 5 Min.
+  Wahlscheid Schloßstr., Lohmar ab 13:44   Bus 557 Bus Richtung: Bahnhof, Overath
+  Bahnhof, Overath an 13:55
+  Overath ab 14:01 +0 2 RB 11549 Regionalbahn Richtung: Köln Hansaring
+  Köln Hbf an 14:36 +0 11
+  Breslauer Platz/Hauptbahnhof, Köln ab 14:48   STR 16 Straßenbahn Richtung: Bad Godesberg Stadthalle, Bonn
+  Sürth Bahnhof, Köln an 15:16
+  Sürth Bahnhof, Köln ab 15:25   Bus 131 Bus Richtung: Sülz Berrenrather Str./Gürtel (Linie 131), Köln
+  Weiß Zum Hedelsberg, Köln an 15:35
+  50999 Köln, Peterstraße 18
+
+  Lohmar - Wahlscheid, Schloßstraße 10
+  Wahlscheid Schloßstr., Lohmar ab 13:44   Bus 557 Bus Richtung: Bahnhof, Overath
+  Bahnhof, Overath an 13:55
+  Overath ab 14:01 +0 2 RB 11549 Regionalbahn Richtung: Köln Hansaring
+  Köln Hbf an 14:36 +0 11
+  Köln Hbf ab 14:47 +0 8 RE 10918 Regional-Express Richtung: Aachen Hbf
+  Aachen Hbf an 15:44 8
+  Aachen Hbf ab 16:02 1 RB 11024 Regionalbahn Richtung: Stolberg(Rheinl)Hbf Gl.44
+  Herzogenrath an 16:18 1
+  Herzogenrath, Eygelshovener Straße 2
+
+  to lina's house: STR 16 or 18 to Barbarossaplatz
+
+2016-10-27 munich-pratteln:
+  Aidenbachstraße, München ab 16:24   U 3 U-Bahn Richtung: Moosach, München
+  Sendlinger Tor, München an 16:34
+  Sendlinger Tor, München ab 16:36   U 2 U-Bahn Richtung: Feldmoching, München
+  München Hbf ab 16:48  17 IC 2264 Intercity Richtung: Basel Bad Bf
+  Karlsruhe Hbf an 19:53  6
+  Karlsruhe Hbf ab 20:00  2 ICE 375 Intercity-Express Richtung: Basel SBB
+  Basel SBB an 21:47  9
+  Basel SBB ab 22:01  17 S 3 S-Bahn Richtung: Olten
+  Pratteln an 22:11  2
+  Dauer  5:47
+
+  München Hbf ab 16:33   EC 192 Richtung: Basel SBB
+  Liestal an 22:01 3
+  Liestal ab 22:11 3  S 3 Richtung: Porrentruy
+  Umgebungskarte: Pratteln
+  Pratteln an 22:17 1
+  Dauer: 5:44;
+
+  München ZOB (Hackerbrücke) ab 17:33   ICB42233 InterCity-Bus 42233 Richtung: Zürich, Sihlquai/HB
+  Zürich, Sihlquai/HB an 21:15
+  Zürich HB ab 21:34 11  ICE 1258 Richtung: Basel SBB
+  Basel SBB an 22:27 7
+  Basel SBB ab 22:33 17  S 3 Richtung: Olten
+  Pratteln an 22:41 2
+  Dauer: 5:18;
+
+2016-11-03 loe-darmstadt:
+  Basel Bad Bf ab 07:22  4 ICE 202 Intercity-Express Richtung: Dortmund Hbf
+  Karlsruhe Hbf an 08:58  3
+  Karlsruhe Hbf ab 09:05  7 IC 2374 Intercity Richtung: Westerland(Sylt)
+  Darmstadt Hbf an 10:22
+  dauer 3:00
+
+2016-11-22 sbb-zrh:
+  Basel SBB ab 14:33 8  IC 575 Richtung: Chur
+  Zürich HB an 15:26 11
+  Dauer: 0:53;
+
+  Zürich Binz ab 22:22 1  S 10 Richtung: Zürich HB SZU
+  Zürich HB SZU an 22:27 22
+  Zürich HB ab 22:36 17  IR 1990 Richtung: Basel SBB
+  Basel SBB an 23:47 12
+  Dauer: 1:25;
+
+2016-12-02 bsl-muc:
+  Basel Bad Bf ab 14:42, Gleis 8 IRE 3059
+  Ulm Hbf an 17:53, Gleis 8
+  Ulm Hbf ab 18:00 , Gleis 2 IC 1269
+  München Hbf an 19:11, Gleis 13
+  München Hbf ab 19:22 U 2
+  Messestadt West, München an 19:43
+
+2016-12-09 muc-pratteln:
+
+2016-12-11 loe-bsl:
+  Lörrach Hbf ab 17:02    0:11 0 S 6
+  Basel Bad Bf an 17:13
+  faehrt sonntags nur einmal pro stunde
+
+2017-01-19 bsl-koeln:
+  Basel Bad Bf 12:30  4:35 EC
+  Köln Hbf 17:05
+
+2017-02-20 bsl-bonn:
+  Basel Bad Bf ab 12:30 Gl. 5 EC 8
+  Bonn Hbf an 16:44 2
+
+2017-02-21 loe-bonn:
+  Lo?rrach ab 09:02
+  Basel Bad Bf an 09:13 ab 09:23
+  Siegburg/Bonn an 12:46
+  Siegburg Bahnhof ab 12:54
+  Bonn Hbf (tief) an 13:18
+
+2017-02-24 bonn-bsl:
+  Rodenkirchen Michaelshoven, Köln ab 07:35   STR 16 Straßenbahn Richtung: Bad Godesberg Stadthalle, Bonn
+  Hauptbahnhof, Bonn an 08:04
+  Bonn Hbf (tief) ab 08:12   STR 66 Straßenbahn Richtung: Siegburg Bahnhof
+  Siegburg Bahnhof an 08:36
+
+  Rodenkirchen Michaelshoven, Köln ab 07:55   STR 16 Straßenbahn Richtung: Bad Godesberg Stadthalle, Bonn
+  Hauptbahnhof, Bonn an 08:24
+  Bonn Hbf (tief) ab 08:32   STR 66 Straßenbahn Richtung: Siegburg Bahnhof
+  Siegburg Bahnhof an 08:56
+
+  Bonn Hbf ab 09:14 Gl. 3 EC 7
+  Basel Bad Bf an 13:22 3
+
+2017-04-01 braennoe-landvetter:
+  12:32 Brännö Rödsten, Läge A Färja 283  Färja 283 mot Saltholmen
+  12:55 Saltholmens brygga, Läge A Gå ca 300 m, ca 3 min.
+  13:04 Saltholmen, Läge A 11  Spårvagn 11 mot Bergsjön
+  13:36 Brunnsparken, Läge F Gå ca 400 m, ca 7 min.
+  13:49 Kungsportsplatsen, Läge D Flygbussarna mot Landvetter Airport
+  14:15 Landvetter flygplats, Läge 1
+
+2017-04-01 zrh-rheinfelden:
+  Zürich Flughafen ab 23:13 3  RE 2142
+  Zürich HB an 23:23 5
+  Zürich HB ab 23:36   IR 1992
+  Rheinfelden an 00:33 4
+
+2017-05-16 bsl-pilatus:
+  Basel SBB ab 07:04
+  Pilatus Kulm an 09:20
+  Dauer 2:16 2 mal umsteigen IR, S 5, R
+
+2017-05-20 bonn-bsl:
+  Bonn Hbf 09:23 +0 4:11 0 EC 44,90 EUR
+  45,00 EUR
+  Basel Bad Bf 13:34 +0
+
+  Bonn Hbf 11:24 +0 4:12 0 EC 44,90 EUR
+  45,00 EUR
+  Basel Bad Bf 15:36 +0
+
+michaelshoven 8:44 oder 10:44 29 minuten 9:13 oder 11:13
+http://auskunft.kvb-koeln.de
+
+2017-05-24 bsl-stanserhorn:
+  Basel SBB ab 08:04 10  IR 2315 Richtung: Erstfeld
+  Luzern an 09:05 7
+  Luzern ab 09:10 13  IR 2964 LUZERN-ENGELBERG EXPRESS Richtung: Engelberg
+  Stans an 09:23 1
+  Stans SthB ab 09:30   FUN 4 Standseilbahn 4 Richtung: Stanserhorn
+  Stanserhorn an 09:54
+  Dauer: 1:50
+
+2017-06-12 sbb-bsl:
+  Basel, Bahnhof SBB ab 08:20    0:22 0 NFB 50
+  Basel EuroAirport an 08:36
+
+  Basel, Bahnhof SBB ab 08:27    0:22 0 NFB 50
+  Basel EuroAirport an 08:43
+
+  Basel, Bahnhof SBB ab 08:33    0:21 0 NFB 50
+  Basel EuroAirport an 08:48
+
+2017-07-05 bsl-brunni:
+  Basel SBB ab 06:33    2:29 3 IC, S 25, S 13, BUS 554 
+    Basel SBB ab 06:33 8  IC 559 Richtung: Chur
+    Zürich HB an 07:26 11
+    Zürich HB ab 07:43 6  S 25 Richtung: Linthal
+    Wädenswil an 08:00 3
+    Wädenswil ab 08:09 1  S 13 Richtung: Einsiedeln
+    Einsiedeln an 08:32 6
+    Einsiedeln, Bahnhof ab 08:37   BUS 554 Richtung: Brunni SZ, Talstation LBH
+    Brunni SZ, Talstation LBH an 08:57 
+    Dauer: 2:29;
+  Brunni SZ, Talstation LBH an 08:57
+  Basel SBB ab 07:33    2:29 3 ICE, S 25, S 13, BUS 554 
+  Brunni SZ, Talstation LBH an 09:57
+  Basel SBB ab 08:33    2:29 3 IC, S 25, S 13, BUS 554
+  Brunni SZ, Talstation LBH an 10:57
+
+20170-07-13 11:10-11:45 luino-intra:
+  201 Luino 11:10 Intra 11:55 duration 45 minutes http://www.navigazionelaghi.it/eng/m_orari_1.asp
+
+20170-07-14 11:55-12:45 intra-luino:
+  200 Intra 11:55 Luino 12:45 duration 50 minutes
+
+20170-07-17 bsl-brienzer rothorn:
+  Basel SBB ab 05:24 5  IC 1057 Richtung: Interlaken Ost
+  Bern an 06:24 6
+  Bern ab 06:36 2  RE 4359 Richtung: Luzern
+  Schüpfheim an 07:28 2
+  Schüpfheim, Bahnhof ab 07:33 BUS 241 Richtung: Giswil, Bahnhof
+  Sörenberg, Rothornbahn an 08:03 
+  Sörenberg-Schönenboden ab 08:15   LB 1 Richtung: Brienzer Rothorn LSBR
+  Brienzer Rothorn LSBR an 08:25 
+  Dauer: 3:06; 
+
+20170-07-17 bsl-gurtnellen:
+  Basel SBB ab 07:04 IR 2313
+  Erstfeld an 09:24 
+  Erstfeld, Bahnhof ab 09:28 Niederflur-Bus 1 32 Richtung: Göschenen, Bahnhof
+  Gurtnellen, Fellital an 09:47 
+  Dauer: 2:43;
+
+2017-08-11 bsl-flueh
+  Basel, Heuwaage ab 08:57     Baustelle 0:27 0 NFT 10
+  Flüh, Bahnhof an 09:24
+
+2017-09-16 bonn-bsl
+  09:14 abfahrt bonn
+  07:44 or 08:14 abfahrt 29 Min. Fahrtzeit
+  Michaelshoven, Köln-Rodenkirchen 
+  Bonn Hauptbahnhof (U) (Gleis 2) 
+  08:13 or 08:43 ankunft
+
+2017-09-21 bsl-nante:
+  Basel SBB ab 08:04    3:57 2 IR, RE, BUS 113 
+  Nante an 12:01
+  
+  Basel SBB ab 09:04    3:55 2 ICN, RE, BUS 113 
+  Nante an 12:59
+  
+  Basel SBB ab 08:04 10  IR 2315 Richtung: Erstfeld
+  Erstfeld an 10:24 2
+  Erstfeld ab 10:30 1  RE 4321 Richtung: Lugano
+  Airolo an 11:09 2
+  Airolo, Stazione ab 11:52   BUS 113 Richtung: Nante
+  Nante an 12:01 
+  Dauer: 3:57; 
+  
+  Basel SBB ab 09:04 11  ICN 667 Richtung: Lugano
+  Bellinzona an 11:47 2
+  Bellinzona ab 11:51 1  RE 4312 Richtung: Erstfeld
+  Airolo an 12:44 3
+  Airolo, Stazione ab 12:50   BUS 113 Richtung: Nante
+  Nante an 12:59 
+  Dauer: 3:55; 
+
+2017-10-22 zrh-avignon:
+  Zürich HB ab 15:34 14  TGV 9226 Richtung: Paris-Gare de Lyon
+  Mulhouse Ville an 16:53 
+  Mulhouse Ville ab 17:08   TGV 9581 Richtung: Marseille-Saint-Charles
+  Avignon TGV an 21:08 
+  Dauer: 5:34; 
+
+  Basel SBB ab 16:34 5  TGV 9226 Richtung: Paris-Gare de Lyon
+  Mulhouse Ville an 16:53 
+  Mulhouse Ville ab 17:08   TGV 9581 Richtung: Marseille-Saint-Charles
+  Avignon TGV an 21:08 
+  Dauer: 4:34; 
+
+2017-10-24 avignon-lyon:
+  Avignon TGV ab 16:45   TGV 9898 Richtung: Luxembourg
+  Mulhouse Ville an 20:58 
+  Mulhouse Ville ab 21:06   TGV 9223 Richtung: Zürich HB
+  Basel SBB an 21:26 7AB
+  Dauer: 4:41;
+
+2017-10-25 avignon-lyon:
+  Avignon TGV ab 12:51   TGV 9866 Richtung: Bruxelles-Midi
+  Lyon-Part-Dieu an 13:54 
+  Dauer: 1:03; 
+
+2017-10-27 lyon-trogen:
+  Lyon-Part-Dieu ab 08:34   TER96502 Train Express Regional 96502
+  Genève an 10:28 
+  Genève ab 10:42 4  IC 717 Richtung: St. Gallen
+  St. Gallen an 14:35 1
+  St. Gallen AB ab 14:55 12  S 21 S-Bahn 21 4148
+  Trogen an 15:20 
+  Dauer: 6:48;
