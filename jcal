@@ -73,7 +73,7 @@ echo s/body bgcolor=\"#ffffff\"/body bgcolor=\"#ffffff\" onload=\"window.locatio
 
 #cat $F
 
-echo 's|a><br|a>\&nbsp\;<a href="http://jeremytammik.github.io/jcal">url</a><br|' >> $F
+echo 's|a><br|a>\&nbsp\;<a href="http://jeremytammik.github.io/jcal">url</a>\&nbsp\;<a href="tt.txt">tt</a><br|' >> $F
 echo 's|<title>|<meta charset="UTF-8"><title>|' >> $F
 
 sed -f $DIR/unisodate.sed < $DIR/calendar.txt > $DIR/tmp/calendar
