@@ -6826,11 +6826,13 @@ year 2015
 2017-10-19 09:30-10:30 ruecken@vhs
 
 2017-10-22 intensiv@pascal
+2017-10-23 accelerator@lyon begin
 
 2017-10-26 09:30-10:30 ruecken@vhs
 
 2017-10-26 luciAnna
 2017-10-27 luciAnna
+2017-10-27 accelerator@lyon end
 2017-10-28 luciAnna
 
 2017-10-27 moni@kurs
