@@ -6132,7 +6132,7 @@ year 2015
 2016-08-13 ticino end
 2016-08-14 moni holiday end
 
-2016-08-14 15:00 h3@delemont # train station near main entrance 
+2016-08-14 15:00 h3@delemont # train station near main entrance
 
 2016-08-15 19:00 axel
 
@@ -6339,11 +6339,11 @@ year 2015
 2016-11-27 marie end
 
 2016-12-02 17:00 loslassen@moni
-2016-12-04 11:00 rose@kesselhaus # offenes atelier 19.2 Am Kesselhaus 15 D-79576 Weil am Rhein www.rosethurow.com 
+2016-12-04 11:00 rose@kesselhaus # offenes atelier 19.2 Am Kesselhaus 15 D-79576 Weil am Rhein www.rosethurow.com
 2016-12-04 munich travel
 2016-12-04 14:42-19:43 bsl-muc
 2016-12-04 19:30 calabrone # http://www.calabrone.de /a/doc/travel/trip/munich/map_calabrone.png
-2016-12-05 devday@munich # Ramada Hotel Messe 
+2016-12-05 devday@munich # Ramada Hotel Messe
 2016-12-06 accelerator@munich
 2016-12-07 accelerator@munich
 2016-12-08 accelerator@munich
@@ -6611,7 +6611,7 @@ year 2015
 
 2017-05-13 15:00 spiele@rose # nice weather
 
-2017-05-16 07:00 nik@pilatus # Basel SBB ab 07:04 Pilatus Kulm an 09:20 Dauer 2:16 2 mal umsteigen IR, S 5, R 
+2017-05-16 07:00 nik@pilatus # Basel SBB ab 07:04 Pilatus Kulm an 09:20 Dauer 2:16 2 mal umsteigen IR, S 5, R
 
 2017-05-17 au + devcon cfp # deadline call for proposals for the Las Vegas AU and DevCon events
 2017-05-17 08:23-12:44 bsl-bonn # /a/doc/travel/trip/koeln/2017-05-17_db_bsl_koeln.pdf
@@ -6636,7 +6636,7 @@ year 2015
 2017-06-02 muelital begin
 2017-06-03 klasstraeff@stockholm
 2017-06-05 muelital end
-2017-06-05 19:15-21:30 ci # falling up! annatina im tanzraum warteck pp. 
+2017-06-05 19:15-21:30 ci # falling up! annatina im tanzraum warteck pp.
 
 2017-06-11 11:30-20:00 oelbad # aufbau 11.30, ritual 13.00, rein 15.00, abbau 19.00 uhr
 2017-06-11 forge@barca begin
@@ -6723,7 +6723,7 @@ year 2015
 2017-07-29 jogi@ecrins # https://en.wikipedia.org/wiki/Barre_des_%C3%89crins
 
 2017-07-27 soca@zegg begin # Sommercamp im ZEGG, https://sommercamp.zegg.de/de/
-2017-08-06 soca@zegg end 
+2017-08-06 soca@zegg end
 
 2017-07-29 piazzogna begin
 2017-08-04 piazzogna end
@@ -6762,7 +6762,7 @@ year 2015
 2017-09-01 mantra@sunahla
 2017-09-01 20:00 andreas@frick # jazzchor im ref. Kirchgemeindehaus Frick /j/tmp/2017-09-01_andreas_jazzchor_einladung.docx
 
-2017-09-02 19:00 sleep@silo # 
+2017-09-02 19:00 sleep@silo #
 
 2017-09-02 bernd@pizbuin begin # dav
 2017-09-03 bernd@pizbuin end # dav
@@ -6780,7 +6780,7 @@ year 2015
 2017-09-15 h3@bernau begin # https://www.meetup.com/Basel-Hash/events/235706821 http://www.harrier.eu.org/snh2017/
 2017-09-16 09:14-14:34 bonn-bsl
 2017-09-16 19:00-24:00 ateliernacht@qomico
-2017-09-18 09:00-10:30 yoga 
+2017-09-18 09:00-10:30 yoga
 2017-09-18 08:00 ciprian@grondaia
 
 2017-09-19 h3@bernau end # https://www.meetup.com/Basel-Hash/events/235706821
@@ -6826,8 +6826,10 @@ year 2015
 2017-10-19 09:30-10:30 ruecken@vhs
 
 2017-10-22 intensiv@pascal
+2017-10-22 15:34-21:08 zrh-avignon
 2017-10-23 accelerator@lyon begin
 2017-10-23 16:34-21:08 bsl-avignon
+2017-10-24 16:45-21:26 avignon-lyon
 2017-10-25 12:51-13:54 avignon-lyon
 2017-10-26 09:30-10:30 ruecken@vhs
 2017-10-26 luciAnna
