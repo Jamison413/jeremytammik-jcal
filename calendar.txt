@@ -6854,6 +6854,9 @@ year 2015
 
 2017-11-09 09:30-10:30 ruecken@vhs
 
+2017-11-07 10:20-11:30 fra-yvr # Air Canada AC9101 Frankfurt Terminal 1 Vancouver Main Terminal 10h10m
+2017-11-09 13:25-16:03 yvr-las # Air Canada AC1898 Vancouver Main Terminal Mccarran Terminal 2h38m 
+
 2017-11-10 forum@wandelhof
 2017-11-11 forum@wandelhof
 2017-11-12 forum@wandelhof
@@ -6867,9 +6870,12 @@ year 2015
 2017-11-14 au@las
 2017-11-14 13:00-17:00 devlab
 2017-11-15 au@las
-2017-11-15 14:15-15:15 revi api panel # SD124063 - Revit API Expert Roundtable: Open House on the Factory Floor
+2017-11-15 14:15-15:15 revit api panel # SD124063 - Revit API Expert Roundtable: Open House on the Factory Floor
 2017-11-16 au@las
 2017-11-17 checkout
+
+2017-11-17 12:05-15:50 las-yyc # Air Canada AC1861 Mccarran Terminal 3 - Calgary (YYC), Alberta 2h45m
+2017-11-17 17:55-11:05 yyc-fra # Air Canada AC0844 Calgary - Frankfurt 9h10m
 
 2017-11-15 Rishi+Dwhani@bafudi
 2017-11-16 09:30-10:30 ruecken@vhs
