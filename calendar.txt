@@ -6829,12 +6829,12 @@ year 2015
 2017-10-22 15:34-21:08 zrh-avignon
 2017-10-23 accelerator@lyon begin
 2017-10-23 16:34-21:08 bsl-avignon
-2017-10-24 16:45-21:26 avignon-bsl
+2017-10-24 16:45-17:51-21:26 avignon-lyon-bsl
 2017-10-25 12:51-13:54 avignon-lyon
 2017-10-26 09:30-10:30 ruecken@vhs
 2017-10-26 luciAnna
 2017-10-27 luciAnna
-2017-10-27 08:34-15:20 lyon-trogen
+2017-10-26 08:34-15:20 lyon-trogen
 2017-10-27 accelerator@lyon end
 2017-10-28 luciAnna
 
