@@ -4715,6 +4715,11 @@ http://auskunft.kvb-koeln.de
 
 2017-10-24 avignon-lyon:
   Avignon TGV ab 16:45   TGV 9898 Richtung: Luxembourg
+  Lyon-Part-Dieu an 17:51 
+  Dauer: 1:06; 
+
+2017-10-24 avignon-bsl:
+  Avignon TGV ab 16:45   TGV 9898 Richtung: Luxembourg
   Mulhouse Ville an 20:58 
   Mulhouse Ville ab 21:06   TGV 9223 Richtung: Zürich HB
   Basel SBB an 21:26 7AB
@@ -4725,7 +4730,7 @@ http://auskunft.kvb-koeln.de
   Lyon-Part-Dieu an 13:54 
   Dauer: 1:03; 
 
-2017-10-27 lyon-trogen:
+2017-10-26 lyon-trogen:
   Lyon-Part-Dieu ab 08:34   TER96502 Train Express Regional 96502
   Genève an 10:28 
   Genève ab 10:42 4  IC 717 Richtung: St. Gallen
