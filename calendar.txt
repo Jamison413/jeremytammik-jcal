@@ -6816,6 +6816,8 @@ year 2015
 
 2017-10-15 moni ferien end
 2017-10-15 14:00 georg
+2017-10-15 20:00 team # Ratskeller Darmstadt http://www.ratskeller-darmstadt.de/
+2017-10-16 08:30 team@saal # Team Huddle” in room “Saal” of Centralstation http://www.centralstation-darmstadt.de/centralstation-darmstadt/vermietung/
 
 2017-10-16 10:00-17:30 devcon.de # Centralstation (cancelled: Room Ferrum at Darmstadtium)
 2017-10-16 19:00-21:00 3dwebfest # Centralstation
