@@ -6815,6 +6815,7 @@ year 2015
 2017-10-12 09:30-10:30 ruecken@vhs
 
 2017-10-15 moni ferien end
+2017-10-15 10:52-13:38 bsl-da # gleis 4 IC 1174 Westausgang (Galerie)
 2017-10-15 14:00 georg
 2017-10-15 20:00 team # Ratskeller Darmstadt http://www.ratskeller-darmstadt.de/
 2017-10-16 08:30 team@saal # Team Huddle” in room “Saal” of Centralstation http://www.centralstation-darmstadt.de/centralstation-darmstadt/vermietung/
@@ -6824,6 +6825,7 @@ year 2015
 2017-10-17 au@darmstadt
 2017-10-18 au@darmstadt
 2017-10-18 11:30-12:30 bim # 2. Tag, Sessionrunde 3
+2017-10-18 13:00 goldbeck@au # Basti Sebastian Hüttig mark jaeckel goldbeck
 
 2017-10-19 09:30-10:30 ruecken@vhs
 
