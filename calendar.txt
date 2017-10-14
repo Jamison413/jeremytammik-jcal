@@ -6852,6 +6852,7 @@ year 2015
 
 2017-10-30 au handout
 
+2017-11-01 anmeldung hinteri spillgerte # dav skitour jogi
 2017-11-02 09:30-10:30 ruecken@vhs
 
 2017-11-05 intensiv@thomas
@@ -6889,6 +6890,9 @@ year 2015
 2017-12-01 chris begin
 2017-12-02 18:00-24:00 reserved for moni
 
+2017-12-02 vollmondskitour # dav
+2017-12-03 vollmondskitour # dav
+
 2017-12-07 09:30-10:30 ruecken@vhs
 
 2017-12-07 luciAnna
@@ -6897,6 +6901,9 @@ year 2015
 2017-12-10 luciAnna
 
 2017-12-10 intensiv@beat
+
+2017-12-16 sicherheitstag # dav lawine skitour jogi
+2017-12-17 sicherheitstag # dav lawine skitour jogi
 
 2017-12-23 moni ferien begin
 2018-01-03 moni ferien end
@@ -6908,6 +6915,8 @@ year 2015
 2018-01-25 luciAnna
 2018-01-26 luciAnna
 2018-01-27 luciAnna
+
+2018-02-10 hinteri spillgerte # dav skitour jogi
 
 2018-06-01 mark@london begin
 2018-06-19 mark@london end
