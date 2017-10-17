@@ -6823,6 +6823,7 @@ year 2015
 2017-10-16 10:00-17:30 devcon.de # Centralstation (cancelled: Room Ferrum at Darmstadtium)
 2017-10-16 19:00-21:00 3dwebfest # Centralstation
 2017-10-17 au@darmstadt
+2017-10-17 11:00 georg@schulstr14
 2017-10-18 au@darmstadt
 2017-10-18 11:30-12:30 bim # 2. Tag, Sessionrunde 3
 2017-10-18 13:00 goldbeck@au # Basti Sebastian Hüttig mark jaeckel goldbeck
