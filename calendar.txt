@@ -6825,8 +6825,11 @@ year 2015
 2017-10-17 au@darmstadt
 2017-10-17 11:00 georg@schulstr14
 2017-10-18 au@darmstadt
+2017-10-18 08:30-09:00 foto@au # Portraitfotoshooting @ AU für die Webseiten AU 2018
 2017-10-18 11:30-12:30 bim # 2. Tag, Sessionrunde 3
 2017-10-18 13:00 goldbeck@au # Basti Sebastian Hüttig mark jaeckel goldbeck
+2017-10-18 15:00 georg
+2017-10-18 19:37-22:51 darmstadt-bsl
 
 2017-10-19 09:30-10:30 ruecken@vhs
 
