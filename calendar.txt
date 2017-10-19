@@ -6844,10 +6844,10 @@ year 2015
 #2017-10-23 16:34-21:08 bsl-avignon
 2017-10-24 16:45-17:51-21:26 avignon-lyon-bsl
 #2017-10-25 12:51-13:54 avignon-lyon
-2017-10-25 lyon-bsl:
-  Avignon TGV ab 16:45   TGV 9898 Richtung: Luxembourg
-  Mulhouse Ville an 20:58 
-  Mulhouse Ville ab 21:06   TGV 9223 Richtung: Zürich HB
+#2017-10-25 lyon-bsl:
+#  Avignon TGV ab 16:45   TGV 9898 Richtung: Luxembourg
+#  Mulhouse Ville an 20:58 
+#  Mulhouse Ville ab 21:06   TGV 9223 Richtung: Zürich HB
 
 2017-10-26 09:30-10:30 ruecken@vhs
 2017-10-26 luciAnna
