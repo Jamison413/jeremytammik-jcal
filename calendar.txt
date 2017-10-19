@@ -1111,7 +1111,7 @@ odd tuesdays in year 8:00 triage
 2006-09-17 luetschenbach
 2006-09-17 christoph wohnungsaufloesung
 
-2006-09-18 je˚ne fÈdÈral
+2006-09-18 jeune federal
 
 2006-09-23 13:00-21:30 sweat lodge
 
@@ -1707,7 +1707,7 @@ odd tuesdays in year 8:00 triage
 2008-05-19 13:30 renato
 2008-05-20 9:30 tile cutter
 
-2008-05-21 17:00 bieri # abschiedsvorlesung "Originale und Kopien", Institut fuer exakte Wissenschaften, Sidlerstrasse 5, Bern, Hˆrsaal A6, Mittwoch, 21.5.2008, 17:15 - ca. 18:00, Mit anschliessendem ApÈro
+2008-05-21 17:00 bieri # abschiedsvorlesung "Originale und Kopien", Institut fuer exakte Wissenschaften, Sidlerstrasse 5, Bern, Hˆrsaal A6, Mittwoch, 21.5.2008, 17:15 - ca. 18:00, Mit anschliessendem Apero
 2008-05-22 18:00 meeting gary stephen
 
 2008-05-23 17:00 WaldhuettenWundertuetenWe
@@ -1859,7 +1859,7 @@ odd tuesdays in year 8:00 triage
 2008-09-18 9:00-17:00 mpg ne # Managing Professional Growth (MPG) http://training/etr/training/catalog.aspx?CourseID=971&TimeFrame=future&
 2008-09-19 9:00-13:00 mpg ne
 
-2008-09-22 neuch‚tel je˚ne fÈdÈral
+2008-09-22 neuch‚tel je˚ne federal
 
 2008-09-24 men christian garden
 2008-09-25 20:00 venezuela vortrag # Burghof - Venezuela The Lost World http://www.kurt-albert.de/frame2.htm
@@ -2558,7 +2558,7 @@ odd fridays in year education day
 2009-05-21 Ascension Day
 2009-05-22 Ascension Day Bridging Day
 2009-06-01 White Monday
-2009-09-21 Je˚ne FÈdÈral
+2009-09-21 Je˚ne Federal
 2009-12-24 Annual Week of Rest until 2010-01-03
 2010-01-01 New Year's Day
 
@@ -4624,7 +4624,7 @@ even thursdays in year 20:30 tanz
 2014-01-26 11:00 gemeinschaft@allschwil tram 6
 2014-01-26 axel@jaunpass end
 
-2014-01-27 19:00-21:00 tango # Cèsars Studio, Nauenstraße 71, Basel, kein Schild, Tür ist offen, EG rechts
+2014-01-27 19:00-21:00 tango # Cesars Studio, Nauenstraße 71, Basel, kein Schild, Tür ist offen, EG rechts
 
 2014-01-29 10:00-11:10 zrh-fra # Lufthansa 1185 Confirmation 4WNEUV eTicket Receipt 2204669882567 - TAMMI/J
 2014-01-29 12:25-14:05 fra-got # Lufthansa 816
@@ -5961,7 +5961,7 @@ year 2015
 2016-05-20 accelerator@barca end
 2016-05-20 17:25-19:20 bcn-bsl # Barcelona Terminal 2C easyjet flight EZS1072, booking EQJ5B1X, check in closes 40 mins before departure
 
-2016-05-21 14:00 geburi barbara@sion # Chalet des Eclaireurs, ehemaliges Pfadihaus zwischen Ayent und Anzère auf 1200m
+2016-05-21 14:00 geburi barbara@sion # Chalet des Eclaireurs, ehemaliges Pfadihaus zwischen Ayent und Anzere auf 1200m
 2016-05-22 14:00 barbara end
 
 2016-05-23 no zimmermann@loe # due to rain
@@ -6837,7 +6837,7 @@ year 2015
 2017-10-22 15:34-21:08 zrh-avignon
 
 2017-10-22 16:03-18:45 zrh-geneve 
-2017-10-22 19:29-21:22 genève-lyon
+2017-10-22 19:29-21:22 geneve-lyon
 2017-10-22 21:36-22:40 lyon-avignon
 
 2017-10-23 accelerator@lyon begin
