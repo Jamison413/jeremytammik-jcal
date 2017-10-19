@@ -4714,6 +4714,15 @@ http://auskunft.kvb-koeln.de
   Avignon TGV an 21:08 
   Dauer: 4:34; 
 
+2017-10-22 zrh-geneve
+  Zürich HB ab 16:03 15  ICN 528 Richtung: Genève-Aéroport
+  Genève an 18:45 2
+  Dauer: 2:42; 
+
+2017-10-22 geneve-avignon
+  19:29-21:22 Genève - Lyon-Part-Dieu 6 TER 96578 Train Express Regional, VL
+  21:36-22:40 Lyon-Part-Dieu - Avignon TGV TGV 5125 T Bestelldatum: Do, 19.10.2017 Bestellnummer: 116279610
+
 2017-10-24 avignon-lyon:
   Avignon TGV ab 16:45   TGV 9898 Richtung: Luxembourg
   Lyon-Part-Dieu an 17:51 
@@ -4756,6 +4765,3 @@ http://auskunft.kvb-koeln.de
   Trogen an 15:20 
   Dauer: 2:49;
 
-2017-10-22 zrh-avignon
-19:29-21:22 Genève - Lyon-Part-Dieu 6 TER 96578 Train Express Regional, VL
-21:36-22:40 Lyon-Part-Dieu - Avignon TGV TGV 5125 T
