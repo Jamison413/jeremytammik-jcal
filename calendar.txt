@@ -6842,9 +6842,10 @@ year 2015
 
 2017-10-23 accelerator@lyon begin
 #2017-10-23 16:34-21:08 bsl-avignon
+2017-10-24 15:51-20:55 avignon-bsl # moni
 2017-10-24 16:45-17:51-21:26 avignon-lyon-bsl
 #2017-10-25 12:51-13:54 avignon-lyon
-#2017-10-25 lyon-bsl:
+#2017-10-25 lyon-bsl
 #  Avignon TGV ab 16:45   TGV 9898 Richtung: Luxembourg
 #  Mulhouse Ville an 20:58 
 #  Mulhouse Ville ab 21:06   TGV 9223 Richtung: Zürich HB
@@ -6853,6 +6854,7 @@ year 2015
 2017-10-26 luciAnna
 2017-10-27 luciAnna
 #2017-10-26 08:34-15:20 lyon-trogen
+2017-10-26 10:16-15:09 lyon-bsl
 2017-10-27 accelerator@lyon end
 2017-10-28 luciAnna
 
@@ -6874,6 +6876,7 @@ year 2015
 2017-11-05 intensiv@thomas
 
 2017-11-09 09:30-10:30 ruecken@vhs
+2017-11-09 19:00 cornelia
 
 2017-11-07 10:20-11:30 fra-yvr # Air Canada AC9101 Frankfurt Terminal 1 Vancouver Main Terminal 10h10m
 2017-11-09 13:25-16:03 yvr-las # Air Canada AC1898 Vancouver Main Terminal Mccarran Terminal 2h38m 
