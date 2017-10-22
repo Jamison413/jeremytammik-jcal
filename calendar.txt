@@ -6834,8 +6834,7 @@ year 2015
 2017-10-19 09:30-10:30 ruecken@vhs
 
 2017-10-22 10:00 intensiv@pascal
-2017-10-22 15:34-21:08 zrh-avignon
-
+#2017-10-22 15:34-21:08 zrh-avignon
 2017-10-22 16:03-18:45 zrh-geneve 
 2017-10-22 19:29-21:22 geneve-lyon
 2017-10-22 21:36-22:40 lyon-avignon
