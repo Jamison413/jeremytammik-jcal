@@ -6850,16 +6850,17 @@ year 2015
 #  Mulhouse Ville ab 21:06   TGV 9223 Richtung: Zürich HB
 
 2017-10-26 09:30-10:30 ruecken@vhs
-2017-10-26 luciAnna
-2017-10-27 luciAnna
 #2017-10-26 08:34-15:20 lyon-trogen
 2017-10-26 10:16-15:09 lyon-bsl
 2017-10-27 accelerator@lyon end
-2017-10-28 luciAnna
 
-2017-10-27 moni@kurs
-2017-10-28 moni@kurs
-2017-10-29 moni@kurs
+#2017-10-26 luciAnna
+#2017-10-27 luciAnna
+#2017-10-28 luciAnna
+
+2017-10-27 moni@aob # alan lowen universal experience
+2017-10-28 moni@aob
+2017-10-29 moni@aob
 
 2017-10-27 tel@trogen
 2017-10-28 tel@trogen
