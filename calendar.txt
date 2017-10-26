@@ -4095,7 +4095,7 @@ even thursdays in year 20:30 tanz
 2013-02-08 10:00 cloud mobile # devtech meeting
 2013-02-08 19:00 nik + beate
 2013-02-09 13:30 sabine sweat lodge
-2013-02-09 19:30 fr tanzfest # Bernd-Matthias und Claudia in Freiburg zu ihrem Tanzfest im Theater Haus Dürr
+2013-02-09 19:30 fr tanzfest # Bernd-Matthias und Claudia in Freiburg zu ihrem Tanzfest im Theater Haus Duerr
 
 2013-02-12 10:30 bsl nick
 2013-02-12 chamonix
@@ -4165,7 +4165,7 @@ even thursdays in year 20:30 tanz
 2013-04-06 10:00 dajekamimoth@eva
 2013-04-06 22:00 feuerfest # /j/tmp/feuerfest_2013-04-06.jpeg
 2013-04-07 13:00-18:00 sunahla
-2013-04-07 17:00-22:00 tantrische wave # hans, oerlikerhus an der thurgauerstrasse 72 in zürich oerlikon, yogaraum von maya höliner
+2013-04-07 17:00-22:00 tantrische wave # hans, oerlikerhus an der thurgauerstrasse 72 in zuerich oerlikon, yogaraum von maya höliner
 2013-04-08 8:20 marie
 
 2013-04-09 11:00 jan liska # nitrogen and oxygen
@@ -4175,11 +4175,11 @@ even thursdays in year 20:30 tanz
 2013-04-11 9:00 christian
 2013-04-11 19:00 dav
 
-2013-04-13 skitour jogi # Il Chapütschin - Piz Glüschaint - Piz Morteratsch, Jürgen Kühnöl
+2013-04-13 skitour jogi # Il Chapuetschin - Piz Glueschaint - Piz Morteratsch, Juergen Kuehnöl
 2013-04-14 skitour jogi
 2013-04-15 skitour jogi
 
-# Drei große Gipfel im Engadin. Anspruchsvolle Skihochtour für geübte und konditionsstarke Skitourengänger. Übernachtet wird einmal auf der bewirteten Coaz Hütte und auf der Selbstversorgerhütte Tschierva
+# Drei große Gipfel im Engadin. Anspruchsvolle Skihochtour fuer geuebte und konditionsstarke Skitourengänger. uebernachtet wird einmal auf der bewirteten Coaz Huette und auf der Selbstversorgerhuette Tschierva
 
 2013-04-20 17:00 georg antonia 140 # alten Güterbahnhof von Traisa Darmstadt Mühltal Am Bahnhof 4, D-64367 Mühltal Odenwaldstr. 31
 
@@ -4227,8 +4227,8 @@ even thursdays in year 20:30 tanz
 2013-05-23 20:00 ma valise@nellie
 
 2013-05-29 9:15 be russian visa # Visa Handling Services, Bern, Eigerstrasse 80, Telefon 031 370 13 00
-2013-05-30 14:40-15:56 bsl-zrh # Basel (ZDH) - Zürich (ZRH) LX 7417 14:40 ZDH - 15:56 ZRH
-2013-05-30 17:30-19:55 zrh-bos # Zürich (ZRH) - Boston (BOS) LX 52 17:30 ZRH - 19:55 BOS
+2013-05-30 14:40-15:56 bsl-zrh # Basel (ZDH) - Zuerich (ZRH) LX 7417 14:40 ZDH - 15:56 ZRH
+2013-05-30 17:30-19:55 zrh-bos # Zuerich (ZRH) - Boston (BOS) LX 52 17:30 ZRH - 19:55 BOS
 
 #Car Rental at Boston (BOS) Thu May 30 Hertz
 #Pick Up: Thu May 30 8:30 PM
@@ -4246,8 +4246,8 @@ even thursdays in year 20:30 tanz
 2013-06-04 tech summit
 2013-06-05 tech summit
 
-2013-06-11 21:45-10:55+1 bos-zrh # Boston (BOS) - Zürich (ZRH) LX 53 21:45 BOS - 10:55+1 ZRH
-2013-06-12 12:04-13:23 zrh-bsl # Zürich (ZRH) - Basel (ZDH) Mi. 12.06.2013 LX 7410 12:04 ZRH - 13:23 ZDH
+2013-06-11 21:45-10:55+1 bos-zrh # Boston (BOS) - Zuerich (ZRH) LX 53 21:45 BOS - 10:55+1 ZRH
+2013-06-12 12:04-13:23 zrh-bsl # Zuerich (ZRH) - Basel (ZDH) Mi. 12.06.2013 LX 7410 12:04 ZRH - 13:23 ZDH
 
 2013-06-14 16:00 gerardo
 2013-06-14 18:30 gellert
@@ -4320,11 +4320,11 @@ even thursdays in year 20:30 tanz
 2013-07-18 20:00 medispaziergang
 
 2013-07-19 20:00 jogi furka travel
-2013-07-20 klettern furka # die grossen grate am furkapass, jürgen kühnöl
+2013-07-20 klettern furka # die grossen grate am furkapass, juergen kuehnöl
 2013-07-21 klettern furka
-# Sa: Gross Bielenhorn über den SE-Grat
-# So. Gross Furkahorn über den ESE-Grat
-# Anreise: Freitagabend Biwakieren am Furkapass, Samstag Übernachtung Siedelenhütte
+# Sa: Gross Bielenhorn ueber den SE-Grat
+# So. Gross Furkahorn ueber den ESE-Grat
+# Anreise: Freitagabend Biwakieren am Furkapass, Samstag uebernachtung Siedelenhuette
 
 2013-07-21 piazzogna end
 
@@ -4399,7 +4399,7 @@ even thursdays in year 20:30 tanz
 
 2013-09-06 10:00 anna
 2013-09-06 16:30 adsk party # La bonne Franquette (Tennis Des Cadolles), Rue du Plan 24, 2000 Neuchatel
-2013-09-06 14:57 urs@ziegelbruecke # wiesendanger zrh ab 14:12 Richtung Chur, Ziegelbrücke an 14:57
+2013-09-06 14:57 urs@ziegelbruecke # wiesendanger zrh ab 14:12 Richtung Chur, Ziegelbruecke an 14:57
 
 2013-09-07 moni kurs
 2013-09-07 berg ruft
@@ -4498,7 +4498,7 @@ even thursdays in year 20:30 tanz
 2013-11-10 matti@moni
 
 2013-11-15 11:00 otto
-2013-11-15 17:00-20:00 euro 40,- Norbekov # Gesundheitskurs Stufe 1, Kanghua Zürich, Uetlibergstrasse 24, 8045 Zürich
+2013-11-15 17:00-20:00 euro 40,- Norbekov # Gesundheitskurs Stufe 1, Kanghua Zuerich, Uetlibergstrasse 24, 8045 Zuerich
 
 2013-11-16 dajekamimoth@eva
 
@@ -4624,7 +4624,7 @@ even thursdays in year 20:30 tanz
 2014-01-26 11:00 gemeinschaft@allschwil tram 6
 2014-01-26 axel@jaunpass end
 
-2014-01-27 19:00-21:00 tango # Cesars Studio, Nauenstraße 71, Basel, kein Schild, Tür ist offen, EG rechts
+2014-01-27 19:00-21:00 tango # Cesars Studio, Nauenstraße 71, Basel, kein Schild, Tuer ist offen, EG rechts
 
 2014-01-29 10:00-11:10 zrh-fra # Lufthansa 1185 Confirmation 4WNEUV eTicket Receipt 2204669882567 - TAMMI/J
 2014-01-29 12:25-14:05 fra-got # Lufthansa 816
@@ -4675,7 +4675,7 @@ even thursdays in year 20:30 tanz
 
 2014-03-15 wildhaus end
 2014-03-15 13:00 astrid + thomas
-2014-03-16 11:00 vernissage@pratteln # Restaurant Engel, Hauptstrasse 46, Pratteln, Buch-Vernissage In memoriam Heinz Hüper 'Himmelbett-Geschichten'
+2014-03-16 11:00 vernissage@pratteln # Restaurant Engel, Hauptstrasse 46, Pratteln, Buch-Vernissage In memoriam Heinz Hueper 'Himmelbett-Geschichten'
 2014-03-16 14:00 iris + hanna
 
 2014-03-18 20:00 tangoanleitung
@@ -4701,7 +4701,7 @@ even thursdays in year 20:30 tanz
 2014-04-03 noralinaben
 2014-04-03 12:47-17:28 koeln-munich # /a/doc/travel/trip/koeln/koeln_munich_ticket_db_FLT_KXVKFG11889_0.pdf
 2014-04-03 17:30 peter@munich_hbf # +49 151 62828 871
-2014-04-03 19:00 ultracode@munich #  'Ultracode, IoT & Robotics enthusiasts pres. Galileo, thethings.io & Veterobot', Werk1, Grafinger Straße 6, 81671, München
+2014-04-03 19:00 ultracode@munich #  'Ultracode, IoT & Robotics enthusiasts pres. Galileo, thethings.io & Veterobot', Werk1, Grafinger Straße 6, 81671, Muenchen
 
 2014-04-05 07:00-16:00 moni flohmi
 
@@ -5017,15 +5017,15 @@ even thursdays in year 20:30 tanz
 2014-11-04 10:00 andreas@skype
 2014-11-04 15:00 men@hugo
 2014-11-04 18:30 hugo geburi abendessen
-2014-11-05 18:45 dav hallentraining # Turnhalle Theodor-Heuss-Realschule (THR), Schützenstrasse 22, schräg gegenüber der alten HTG-Halle, fahre von der Kreuzstrasse in die Schützenstrasse und dann in den Schulhof
+2014-11-05 18:45 dav hallentraining # Turnhalle Theodor-Heuss-Realschule (THR), Schuetzenstrasse 22, schräg gegenueber der alten HTG-Halle, fahre von der Kreuzstrasse in die Schuetzenstrasse und dann in den Schulhof
 2014-11-05 20:30 franziska@bafudi
 2014-11-06 vollmondfeuer?
 2014-11-07 18:30 andreas@stauffacher
-2014-11-07 19:00-22:00 somosorganicos@zrh # Prema Yoga, Stauffacherstr. 28, 8004 Zürich, /j/tmp/Be_Ecstatic_Live_in_Zürich_mit_Somos_Organicos.docx
+2014-11-07 19:00-22:00 somosorganicos@zrh # Prema Yoga, Stauffacherstr. 28, 8004 Zuerich, /j/tmp/Be_Ecstatic_Live_in_Zürich_mit_Somos_Organicos.docx
 2014-11-07 22:30 moni@cafelang
 
 2014-11-09 norbekov end
-2014-11-09 12:00-18:30 gemeinwohl@derendingen # Schützenstrasse 7, CH-4552 Derendingen, ehemalige Schreinerei, Eingang Brockenstube, mit Bus Nr. 1 (Richtung Recherswil, Pestalozziplatz aussteigen) vom Bahnhof Solothurn in Kürze erreichbar.
+2014-11-09 12:00-18:30 gemeinwohl@derendingen # Schuetzenstrasse 7, CH-4552 Derendingen, ehemalige Schreinerei, Eingang Brockenstube, mit Bus Nr. 1 (Richtung Recherswil, Pestalozziplatz aussteigen) vom Bahnhof Solothurn in Kuerze erreichbar.
 
 2014-11-11 17:00-19:00 moni@mainx
 2014-11-12 lina@loe
@@ -5101,7 +5101,7 @@ even thursdays in year 20:30 tanz
 2014-12-20 9:00 lina + nora
 2014-12-20 13:00 sweatlodge@wiechs
 2014-12-21 bejekamimoth@michelle
-2014-12-21 15:00-17:00 waedel@kuenisbergfels # weit hinten in den jura hügeln, mit feuer etc., den ort findet ihr oberhalb nenzlingen im birstal
+2014-12-21 15:00-17:00 waedel@kuenisbergfels # weit hinten in den jura huegeln, mit feuer etc., den ort findet ihr oberhalb nenzlingen im birstal
 2014-12-21 18:00 wintersonnenwende@tatjana
 2014-12-23 11:15 vhs@bern # Eigerstrasse 80 3007 Bern, Anmeldung nr. 19203753
 2014-12-24 20:00 xmasbafudi
@@ -5299,7 +5299,7 @@ year 2015
 2015-05-03 skitour@gauli
 2015-05-04 skitour@gauli
 
-2015-05-02 14:30 telvorbereitung@piarene # piarenefrankerika, Sennrütistrasse 23, CH-9113 Degersheim
+2015-05-02 14:30 telvorbereitung@piarene # piarenefrankerika, Sennruetistrasse 23, CH-9113 Degersheim
 2015-05-03 telvorbereitung@piarene
 2015-05-03 vollmondfeuer?
 
@@ -5307,11 +5307,11 @@ year 2015
 2015-05-05 lina
 2015-05-06 lina
 2015-05-06 11:30 koeln messe deutz
-2015-05-06 15:25-23:55 dus-dxb # Flughafen Düsseldorf International, Deutschland - Dubai International Airport, Vereinigte Arabische Emirate Direkt 06:30, eTicket 1698950074574 - TAMMI/J, reservation code UGKAHO, emirates airlines confirmation number FIVLSN
+2015-05-06 15:25-23:55 dus-dxb # Flughafen Duesseldorf International, Deutschland - Dubai International Airport, Vereinigte Arabische Emirate Direkt 06:30, eTicket 1698950074574 - TAMMI/J, reservation code UGKAHO, emirates airlines confirmation number FIVLSN
 2015-05-07 19:00 angelhack@dubai
 2015-05-08 dubai
 2015-05-09 dubai
-2015-05-10 15:00-19:45 dxb-dus ek057 # Dubai, Vereinigte Arabische Emirate - Düsseldorf, Deutschland - Direkt 06:45
+2015-05-10 15:00-19:45 dxb-dus ek057 # Dubai, Vereinigte Arabische Emirate - Duesseldorf, Deutschland - Direkt 06:45
 2015-05-10 lina
 2015-05-11 lina
 
@@ -5400,7 +5400,7 @@ year 2015
 2015-07-02 19:00 heiner@lange_erlen
 
 2015-07-03 kreativ@rose begin
-2015-07-03 20:00 fimimpro # in der alten Rumfabrik, Güterstr. 145, Basel
+2015-07-03 20:00 fimimpro # in der alten Rumfabrik, Gueterstr. 145, Basel
 
 #2015-07-03 klettern@windegghuette # dav mit jogi, anmeldung ab 2015-05-01, angefragt, abgelehnt
 #2015-07-04 klettern
@@ -5530,7 +5530,7 @@ year 2015
 2015-10-01 16:00 xopher@skype
 
 2015-10-02 hackzurich # http://www.hackzurich.com
-2015-10-02 20:00 fimimpro # alten Rumfabrik, Güterstr. 145
+2015-10-02 20:00 fimimpro # alten Rumfabrik, Gueterstr. 145
 2015-10-03 moni holiday begin
 2015-10-03 geburi nina holz@robert
 2015-10-03 hackzurich
@@ -5576,7 +5576,7 @@ year 2015
 
 2015-10-27 16:00 moni
 
-2015-10-28 11:20-12:55 bsl-bud # easyJet 1233 1:35, Basel Euroairport, Basel-Mülhausen Ferihegy, Budapest, Confirmation EPKZJCJ, Trip Record Locator OODCEI
+2015-10-28 11:20-12:55 bsl-bud # easyJet 1233 1:35, Basel Euroairport, Basel-Muelhausen Ferihegy, Budapest, Confirmation EPKZJCJ, Trip Record Locator OODCEI
 2015-10-28 hotel # /a/doc/expense/receipt/2015/2015-10-28_rtc_hotel.pdf
 2015-10-28 12:00 rtceu@budapest
 2015-10-28 19:00 rtc speaker event
@@ -5587,7 +5587,7 @@ year 2015
 2015-10-30 andrea herbstfest # Hadid Pavillon, Mattrain 1, 79576 Weil am Rhein
 2015-10-31 rtceu@budapest
 2015-10-31 14:30-15:45 revit api # Session 3.4 All you Ever Wanted to ask about the Revit API, The Building Coder, and all Other Non-UI Revit Topics
-2015-11-02 12:35-14:20 bud-bsl # easyJet 1234 1:45, Ferihegy, Budapest, Basel Euroairport, Basel-Mülhausen, Confirmation EPKZJCJ
+2015-11-02 12:35-14:20 bud-bsl # easyJet 1234 1:45, Ferihegy, Budapest, Basel Euroairport, Basel-Muelhausen, Confirmation EPKZJCJ
 2015-11-02 18:30 klimafreunde@nellie # https://klimafreundeloerrach.wordpress.com
 
 #2015-11-04 17:00 wolfgang
@@ -5597,7 +5597,7 @@ year 2015
 2015-11-06 11:00 wolfgang
 2015-11-06 13:00 domschat
 2015-11-06 19:30 klimafreunde@gemeindehaus # https://klimafreundeloerrach.wordpress.com, www.klimafreunde-loerrach.de, Lörrach, Evang. Gemeindehaus der Friedensgemeinde, Bächlinweg 1, Referent Frank Leichsenring, /j/tmp/karlgeck/klimapilger/Klimapilgern_2015_Faltblatt_Pilgerweg_Markgraeflerland.pdf
-2015-11-06 20:00 fimimpro # in der alten Rumfabrik, Güterstr. 145, Basel
+2015-11-06 20:00 fimimpro # in der alten Rumfabrik, Gueterstr. 145, Basel
 2015-11-07 telvorbereitung@erikafrank # piarenefrankerika
 2015-11-08 telvorbereitung@erikafrank
 2015-11-08 15:00 hhh@delemont # November Run, Delemont Station, Near Main entrance, A to B run from Delémont station, return via public transport, no bag car, http://www.meetup.com/basel-hash/events/226254980
@@ -5668,7 +5668,7 @@ year 2015
 2015-12-11 19:30 basti@altstazione
 
 2015-12-12 10:00 karin@zrh
-2015-12-12 14:00 h3@glattbrugg # zrh The Great Northern Swiss Hashmas Casa Alegria Schaffhauserstrasse 116, 8152 Glattbrugg, Zürich http://www.meetup.com/The-Zurich-Hash-House-Harriers/events/225155265/
+2015-12-12 14:00 h3@glattbrugg # zrh The Great Northern Swiss Hashmas Casa Alegria Schaffhauserstrasse 116, 8152 Glattbrugg, Zuerich http://www.meetup.com/The-Zurich-Hash-House-Harriers/events/225155265/
 2015-12-12 18:00 christine + daniel
 2015-12-13 14:00 h3@liestal # Hashmas Hangover run Basel Hash House Harriers Bahnhof Liestal Bahnhofplatz Liestal http://www.meetup.com/Basel-Hash/events/226867168
 
@@ -5724,12 +5724,12 @@ year 2015
 2016-01-24 intensiv@jeremy
 
 2016-01-25 10:00 gate closes
-2016-01-25 10:30-12:50 bsl-mad # Easyjet, Basel Euroairport, Basel-Mülhausen, Adolfo Suárez Madrid - Barajas, Madrid, 2h 20m, EQ3G4WJ
+2016-01-25 10:30-12:50 bsl-mad # Easyjet, Basel Euroairport, Basel-Muelhausen, Adolfo Suárez Madrid - Barajas, Madrid, 2h 20m, EQ3G4WJ
 2016-01-25 travel madrid
 2016-01-26 webserviceapi@madrid
 2016-01-27 webserviceapi@madrid
 2016-01-28 travel madrid
-2016-01-29 13:10-15:25 mad-bsl # Easyjet, Adolfo Suárez Madrid - Barajas, Madrid, Basel Euroairport, Basel-Mülhausen, 2h 15m 
+2016-01-29 13:10-15:25 mad-bsl # Easyjet, Adolfo Suárez Madrid - Barajas, Madrid, Basel Euroairport, Basel-Muelhausen, 2h 15m 
 2016-01-29 16:00 tel@luetzelflueh
 2016-01-30 tel@luetzelflueh
 2016-01-31 tel@luetzelflueh
@@ -5740,7 +5740,7 @@ year 2015
 
 2016-02-05 13:17-14:24 pratteln-bern
 2016-02-05 15:00-17:00 stallman@unibern # Richard M Stallman: For A Free Digital Society http://www.digitale-nachhaltigkeit.unibe.ch/veranstaltungen/richard_m_stallman/index_ger.html http://www.digitale-nachhaltigkeit.unibe.ch/unibe/portal/fak_wiso/a_bwl/inst_wi/abt_digital/content/e303953/e359189/e370648/RMS_ForAFreeDigitalSociety_ger.pdf, hashtag #RMS, research center Twitter account @researchdigisus
-2016-02-05 20:00 fimimpro # in der alten Rumfabrik, Güterstr. 145, Basel
+2016-02-05 20:00 fimimpro # in der alten Rumfabrik, Gueterstr. 145, Basel
 
 2016-02-06 skitour@furka # dav mit christian tritschler, anmeldung bis 2015-12-23, angemeldet, zugesagt, abgesagt wegen sturm
 2016-02-07 skitour@furka
@@ -5751,7 +5751,7 @@ year 2015
 2016-02-08 chinese new year
 2016-02-08 17:00-18:00 rvt devdays online # Revit - Features and APIs
 2016-02-09 17:00-18:00 bim360 devdays online
-2016-02-09 17:00 geburi@sabine # adelsberg, 59 geburi; ab 19:00 ist die Durchfahrt in Zell wegen dem Altwiiberrenne gesperrt. Kommt also vorher oder über das kleine Wiesental, in Tegernau rechts über Gresgen.
+2016-02-09 17:00 geburi@sabine # adelsberg, 59 geburi; ab 19:00 ist die Durchfahrt in Zell wegen dem Altwiiberrenne gesperrt. Kommt also vorher oder ueber das kleine Wiesental, in Tegernau rechts ueber Gresgen.
 
 2016-02-10 16:16 loe
 2016-02-10 16:30 Basel Bad Bf
@@ -5803,7 +5803,7 @@ year 2015
 
 2016-03-03 16:00 moni
 
-2016-03-04 20:00 fimimpro # in der alten rumfabrik, güterstr. 145, basel
+2016-03-04 20:00 fimimpro # in der alten rumfabrik, gueterstr. 145, basel
 
 2016-03-04 06:04 skitour@sedrun # dav mit bastian feifel, anmeldung ab 2015-12-01, angemeldet, zugesagt,
 2016-03-05 skitour@sedrun
@@ -5878,7 +5878,7 @@ year 2015
 2016-04-10 14:00 rose
 
 2016-04-11 11:00 bim360 a360 api
-2016-04-11 17:15 nik@HouseOfSounds # Nauenstrasse 63, bei der Peter-Merian-Strasse, in der Filiale in der Ecke des roten Postgebäudes, nicht ggü
+2016-04-11 17:15 nik@HouseOfSounds # Nauenstrasse 63, bei der Peter-Merian-Strasse, in der Filiale in der Ecke des roten Postgebäudes, nicht ggue
 
 2016-04-11 20:00 klaus
 2016-04-12 08:30 dentist scherble
@@ -5914,7 +5914,7 @@ year 2015
 2016-04-29 10:30 ritter # zimmerei
 2016-04-29 18:00 kulturnacht@kesselhaus # http://www.rosethurow.com
 2016-04-29 19:00 joelle
-2016-04-29 19:30-23:30 welttanztag@hotel_bauer # Müllheim im Hotel Bauer gegenüber vom Bahnhof
+2016-04-29 19:30-23:30 welttanztag@hotel_bauer # Muellheim im Hotel Bauer gegenueber vom Bahnhof
 
 2016-04-29 kletteraufbaukurs # dav mit jogi, anmeldung ab 2016-02-01
 2016-04-30 kletteraufbaukurs
@@ -6099,7 +6099,7 @@ year 2015
 2016-07-09 intensiv@pascal
 
 2016-07-09 kreativ@rose begin
-2016-07-10 14:00 daniel # Daniel Börlin, Laufenstrasse 1, 4142 Münchenstein, 061/301 13 85, 079/428 79 89
+2016-07-10 14:00 daniel # Daniel Börlin, Laufenstrasse 1, 4142 Muenchenstein, 061/301 13 85, 079/428 79 89
 2016-07-12 08:00 andrea
 2016-07-12 falk
 2016-07-13 falk
@@ -6246,7 +6246,7 @@ year 2015
 
 2016-10-23 09:35-13:25 opo-muc # transavia HV9228 Porto - Munique número de reserva J1S7TB Duração de voo 2h50
 
-2016-10-23 19:00-21:00 open floor wave # mohr–villa gewölbesaal, situlistraße 73, 80939 münchen, in der mohr–villa in münchen freimann, u6 r garching bis freimann, dann der beschilderung folgen, zu fuß ca. 5 minuten, http://www.moving-awareness.com
+2016-10-23 19:00-21:00 open floor wave # mohr–villa gewölbesaal, situlistraße 73, 80939 muenchen, in der mohr–villa in muenchen freimann, u6 r garching bis freimann, dann der beschilderung folgen, zu fuß ca. 5 minuten, http://www.moving-awareness.com
 
 2016-10-24 altmetall
 
@@ -6360,7 +6360,7 @@ year 2015
 2016-12-14 yellow sack <a href="doc/loerrach_abfallkalender_2016.pdf">^</a>
 2016-12-15 gruenabfuhr
 
-2016-12-16 20:00 tanz@muellheim # DJ Midheaven, Freies Tanzen, Eisenbahnstraße 1, zu Fuß 5 Minuten vom Bahnhof Müllheim
+2016-12-16 20:00 tanz@muellheim # DJ Midheaven, Freies Tanzen, Eisenbahnstraße 1, zu Fuß 5 Minuten vom Bahnhof Muellheim
 2016-12-16 20:00-22:00 enno # pro familia, Rainstr. 20
 2016-12-16 22:00 dunkelbunt@nellie
 2016-12-16 dan moebel packen
@@ -6452,7 +6452,7 @@ year 2015
 2017-02-10 16:00 ciprian
 
 2017-02-11 12:00-21:00 oelen@ursula # emmendingen /j/tmp/2017-02-11_oelbad.pdf /j/tmp/2017-02-11_oelbad_flyer.pdf
-2017-02-12 15:00-18:00 h3@schuetzenmattpark # tram stop schützenhaus (trams 1 + 8) https://www.meetup.com/basel-hash/events/237133790
+2017-02-12 15:00-18:00 h3@schuetzenmattpark # tram stop schuetzenhaus (trams 1 + 8) https://www.meetup.com/basel-hash/events/237133790
 2017-02-13 11:15 plombe@benz # dentist scherble, A6 is dead
 2017-02-13 18:30 karen + falk
 
@@ -6546,7 +6546,7 @@ year 2015
 
 2017-04-05 20:00-21:30 tanz@nellie # Tanz- und Theaterimpro im Nellie Nashorn
 
-2017-04-07 18:30 sunahla # gemüsecurry; wenn ihr mögt könnt ihr gerne was leichtes zum dessert bringen.
+2017-04-07 18:30 sunahla # gemuesecurry; wenn ihr mögt könnt ihr gerne was leichtes zum dessert bringen.
 
 2017-04-09 14:00 h3@olten bhf # https://www.meetup.com/Basel-Hash/events/238538329
 
@@ -6555,7 +6555,7 @@ year 2015
 
 2017-04-17 17:00 tanz@leonhardskirchplatz # erster basler stadt-rund-tanz am ostermontag um 17 uhr treffpunkt: auf dem leonhardskirchplatz beim labyrinth
 
-2017-04-20 20:30-22:00 tanz@gruett # Tanz- und Theaterimpro im Grütt
+2017-04-20 20:30-22:00 tanz@gruett # Tanz- und Theaterimpro im Gruett
 
 2017-04-21 moni ferien end
 2017-04-21 compensation halfdays end
@@ -6568,7 +6568,7 @@ year 2015
 
 2017-04-27 17:00 luciAnna
 2017-04-27 18:00 hackergarten@canoo # Kirschgartenstrasse 5, https://www.meetup.com/Hackergarten-Basel/events
-2017-04-27 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Grütt
+2017-04-27 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Gruett
 
 2017-04-28 11:30 bez@scherble # dentist
 2017-04-28 15:00 bagger
@@ -6607,7 +6607,7 @@ year 2015
 
 2017-05-11 12:00 bez@scherble # dentist
 
-2017-05-11 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Grütt
+2017-05-11 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Gruett
 
 2017-05-13 15:00 spiele@rose # nice weather
 
@@ -6619,7 +6619,7 @@ year 2015
 
 2017-05-18 lina
 2017-05-18 19:00 vernissage@pompe # St. Josefshaus Herten, Hauptstr. 1, 79618 Rheinfelden, /j/tmp/2017-05-18_FlyerNaturwunder.pdf
-2017-05-18 20:30-22:00 tanz@gruett # Tanz- und Theaterimpro im Grütt
+2017-05-18 20:30-22:00 tanz@gruett # Tanz- und Theaterimpro im Gruett
 
 2017-05-19 lina
 2017-05-19 18:00 frauen@moni
@@ -6664,7 +6664,7 @@ year 2015
 2017-06-21 au@london # tobacco dock http://au.autodesk.com/london
 2017-06-22 au@london # tobacco dock
 
-2017-06-22 20:30-22:00 tanz@gruett # Tanz- und Theaterimpro im Grütt
+2017-06-22 20:30-22:00 tanz@gruett # Tanz- und Theaterimpro im Gruett
 2017-06-23 17:00 umzug@andrea
 2017-06-23 19:00 geburi@bettina
 
@@ -6689,7 +6689,7 @@ year 2015
 2017-07-05 20:00-21:30 tanz@nellie # Tanz- und Theaterimpro im Nellie Nashorn
 2017-07-05 19:00 vuejs@magnolia # St Johanns-Vorstadt 38, Basel, https://www.meetup.com/basel-js/events/240164492
 
-2017-07-06 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Grütt
+2017-07-06 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Gruett
 2017-07-07 harald@pfalz begin # dav
 2017-07-07 adsk shutdown end
 2017-07-07 19:00 fete@hugenschmidt # schreinerei
@@ -6795,7 +6795,7 @@ year 2015
 2017-09-24 ralf@watzmann end # dav
 
 2017-09-23 intensiv@beat
-2017-09-23 15:00 konzert@schmiedehof # basel beim rümelinsplatz, iMediahaus <natascha.stohler@sunrise.ch>
+2017-09-23 15:00 konzert@schmiedehof # basel beim ruemelinsplatz, iMediahaus <natascha.stohler@sunrise.ch>
 
 2017-09-25 18:00 madlee + matthias # zwiebelwaihe
 2017-09-26 19:00 michael + sandra
@@ -6825,9 +6825,9 @@ year 2015
 2017-10-17 au@darmstadt
 2017-10-17 11:00 georg@schulstr14
 2017-10-18 au@darmstadt
-2017-10-18 08:30-09:00 foto@au # Portraitfotoshooting @ AU für die Webseiten AU 2018
+2017-10-18 08:30-09:00 foto@au # Portraitfotoshooting @ AU fuer die Webseiten AU 2018
 2017-10-18 11:30-12:30 bim # 2. Tag, Sessionrunde 3
-2017-10-18 13:00 goldbeck@au # Basti Sebastian Hüttig mark jaeckel goldbeck
+2017-10-18 13:00 goldbeck@au # Basti Sebastian Huettig mark jaeckel goldbeck
 2017-10-18 15:00 georg
 2017-10-18 19:37-22:51 darmstadt-bsl
 
@@ -6847,7 +6847,7 @@ year 2015
 #2017-10-25 lyon-bsl
 #  Avignon TGV ab 16:45   TGV 9898 Richtung: Luxembourg
 #  Mulhouse Ville an 20:58 
-#  Mulhouse Ville ab 21:06   TGV 9223 Richtung: Zürich HB
+#  Mulhouse Ville ab 21:06   TGV 9223 Richtung: Zuerich HB
 
 2017-10-26 09:30-10:30 ruecken@vhs
 #2017-10-26 08:34-15:20 lyon-trogen
@@ -6885,7 +6885,7 @@ year 2015
 2017-11-10 forum@wandelhof
 2017-11-11 forum@wandelhof
 2017-11-12 forum@wandelhof
-#2017-11-12 13:00 sweat@wiechs
+2017-11-12 13:00 sweat@wiechs
 
 2017-11-13 au slides
 
