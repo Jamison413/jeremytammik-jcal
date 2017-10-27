@@ -6862,7 +6862,7 @@ year 2015
 2017-10-28 moni@aob
 2017-10-29 moni@aob
 
-2017-10-27 tel@trogen
+2017-10-27 18:30 tel@trogen
 2017-10-28 tel@trogen
 2017-10-29 tel@trogen
 
