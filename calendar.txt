@@ -6883,9 +6883,9 @@ year 2015
 2017-11-07 10:20-11:30 fra-yvr # Air Canada AC9101 Frankfurt Terminal 1 Vancouver Main Terminal 10h10m
 2017-11-09 13:25-16:03 yvr-las # Air Canada AC1898 Vancouver Main Terminal Mccarran Terminal 2h38m 
 
-2017-11-10 forum@wandelhof
-2017-11-11 forum@wandelhof
-2017-11-12 forum@wandelhof
+2017-11-10 10:00 forum@wandelhof
+2017-11-11 10:00 forum@wandelhof
+2017-11-12 10:00 forum@wandelhof
 2017-11-12 13:00 sweat@wiechs
 
 2017-11-13 au slides
