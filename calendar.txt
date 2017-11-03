@@ -6950,3 +6950,7 @@ year 2015
 
 2018-06-01 mark@london begin
 2018-06-19 mark@london end
+
+2018-10-16 devcon@da # full day and evening , what kind of evening activity is open.
+2018-10-17 au@germany # au germany will be from oct 17-18, so we go for tuesday oct 16th.
+2018-10-18 au@germany # au germany will be from oct 17-18, so we go for tuesday oct 16th.
