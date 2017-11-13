@@ -4782,3 +4782,10 @@ http://auskunft.kvb-koeln.de
   Trogen an 15:20 
   Dauer: 2:49;
 
+2017-11-10 bsl-bern:
+  Basel SBB ab 08:31 7  IC 1063 Richtung: Brig
+  Bern an 09:24 6
+  Bern, Hauptbahnhof ab 09:33 5  BUS 105 Richtung: Seedorf BE, Post
+  Bern, Unitobler an 09:36 
+  3012 Bern, Hochfeldstrasse 49   
+  Dauer: 1:11;
