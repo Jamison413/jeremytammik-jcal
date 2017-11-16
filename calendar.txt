@@ -6958,8 +6958,8 @@ year 2015
 2018-01-18 chris end
 
 2018-01-19 18:00 tel@lueflu
-2018-01-21 tel@lueflu
-2018-01-22 15:00 tel@lueflu end
+2018-01-20 tel@lueflu
+2018-01-21 15:00 tel@lueflu end
 
 #2018-01-25 luciAnna
 #2018-01-26 luciAnna
