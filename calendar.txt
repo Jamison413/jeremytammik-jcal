@@ -6911,7 +6911,7 @@ year 2015
 #2017-11-17 17:55-11:05+1 yyc-fra # Air Canada AC0844 Calgary - Frankfurt 9h10m
 
 2017-11-15 Rishi+Dwhani@bafudi
-2017-11-16 09:30-10:30 ruecken@vhs
+#2017-11-16 09:30-10:30 ruecken@vhs
 2017-11-17 18:00 joachim@bollschweil # hexentalstrasse 51
 
 2017-11-19 15:00 huenerberger
