@@ -226,8 +226,6 @@ year 2017 # https://www.myworkday.com/autodesk/d/task/1422$739.htmld
 2017-12-25 ne_holiday # week of rest begin
 2017-12-29 ne_holiday # week of rest end
 
-every friday 08:30-10:00 yoga
-
 # ne_holiday end.
 
 #
@@ -506,6 +504,9 @@ odd tuesdays in year 8:00 triage
 #
 #year 2009
 #14th day in all lucianna
+
+year 2017
+every friday in year 08:30-10:00 yoga
 
 #
 # beginning of normal calendar dates:
