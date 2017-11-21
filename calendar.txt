@@ -6919,6 +6919,8 @@ year 2015
 2017-11-20 14:00 friedlein # bahnhofstr 6
 
 2017-11-21 17:00 juergen@wiechs
+2017-11-22 14:30 moni@gellert
+2017-11-22 15:00-17:00 pratteln
 2017-11-22 18:15 jb@bafudi
 
 2017-11-23 09:30-10:30 ruecken@vhs
