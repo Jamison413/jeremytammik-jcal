@@ -6918,6 +6918,9 @@ year 2015
 2017-11-19 15:00 huenerberger
 2017-11-20 14:00 friedlein # bahnhofstr 6
 
+2017-11-21 17:00 juergen@wiechs
+2017-11-22 18:15 jb@bafudi
+
 2017-11-23 09:30-10:30 ruecken@vhs
 
 2017-11-24 11:45-14:00 rene + tobias # zum wilden mann http://zum-wilden-mann.com
