@@ -6936,6 +6936,8 @@ year 2015
 2017-11-30 09:30-10:30 ruecken@vhs
 
 2017-12-01 chris begin
+2017-12-01 20:00 tanz@muellheim # Freies Tanzen, Müllheim, Eisenbahnstrasse 1a, neben Fitnesscenter, DJ Just Us und DJ Midheaven
+
 2017-12-02 18:00-24:00 reserved for moni
 
 2017-12-02 vollmondskitour # dav
@@ -6979,6 +6981,11 @@ year 2015
 2018-06-01 mark@london begin
 2018-06-19 mark@london end
 
+2018-10-11 bilt@ljubljana # bilt eur 2018, ljubljana, slovenia
+2018-10-12 bilt
+2018-10-13 bilt
+
 2018-10-16 devcon@da # full day and evening , what kind of evening activity is open.
 2018-10-17 au@germany # au germany will be from oct 17-18, so we go for tuesday oct 16th.
 2018-10-18 au@germany # au germany will be from oct 17-18, so we go for tuesday oct 16th.
+
