@@ -6946,6 +6946,7 @@ year 2015
 2017-12-03 vollmondskitour # dav
 
 2017-12-07 09:30-10:30 ruecken@vhs
+2017-12-07 19:00 forum@zrh # wandellust
 
 #2017-12-07 luciAnna
 #2017-12-08 luciAnna
@@ -6959,7 +6960,6 @@ year 2015
 #2017-12-10 15:00 dani + paolo end
 
 2017-12-10 17:00-21:00 liebe tanzen # http://www.liebe-tanzen.net/basel
-
 
 2017-12-16 sicherheitstag # dav lawine skitour jogi
 2017-12-17 sicherheitstag # dav lawine skitour jogi
@@ -6998,4 +6998,3 @@ year 2015
 2018-10-16 devcon@da # full day and evening , what kind of evening activity is open.
 2018-10-17 au@germany # au germany will be from oct 17-18, so we go for tuesday oct 16th.
 2018-10-18 au@germany # au germany will be from oct 17-18, so we go for tuesday oct 16th.
-
