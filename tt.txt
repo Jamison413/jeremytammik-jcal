@@ -4789,3 +4789,7 @@ http://auskunft.kvb-koeln.de
   Bern, Unitobler an 09:36 
   3012 Bern, Hochfeldstrasse 49   
   Dauer: 1:11;
+
+2017-12-06 bsl-bonn:
+  Basel Bad Bf Mannheim Hbf ab 05:49 4 ICE 676 an 08:00 4
+  Mannheim Hbf Bonn Hbf     ab 08:08 2 IC 2010 an 10:21 2

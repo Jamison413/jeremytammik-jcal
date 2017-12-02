@@ -6947,7 +6947,7 @@ year 2015
 
 2017-12-05 15:00 mikako
 2017-12-05 16:00 max@impulsiv
-
+2017-12-06 05:49-10:21 bsl-bonn
 2017-12-07 09:30-10:30 ruecken@vhs
 2017-12-07 19:00 forum@zrh # wandellust
 
@@ -6964,6 +6964,7 @@ year 2015
 
 2017-12-10 17:00-21:00 liebe tanzen # http://www.liebe-tanzen.net/basel
 
+2017-12-14 09:30-10:30 ruecken@vhs
 2017-12-16 sicherheitstag # dav lawine skitour jogi
 2017-12-17 sicherheitstag # dav lawine skitour jogi
 
