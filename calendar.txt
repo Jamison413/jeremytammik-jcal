@@ -6580,7 +6580,6 @@ year 2015
 
 2017-04-29 dan@moni # fantasy
 2017-04-30 dan@moni
-2017-04-31 dan@moni
 2017-05-01 dan@moni
 
 #2017-04-30 intensiv@eva
