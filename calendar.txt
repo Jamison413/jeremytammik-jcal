@@ -6971,6 +6971,7 @@ year 2015
 2017-12-16 sicherheitstag # dav lawine skitour jogi
 2017-12-17 sicherheitstag # dav lawine skitour jogi
 
+2017-12-22 17:00 rose
 2017-12-23 moni ferien begin
 2017-12-26 13:30-16:30 h3@bsl # Restaurant Alte Post, Centralbahnstrasse 21, Basel https://www.meetup.com/Basel-Hash/events/245446605
 2017-12-26 lina@loe
