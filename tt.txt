@@ -4798,3 +4798,8 @@ http://auskunft.kvb-koeln.de
   Bonn Hbf ab 09:14 3 EC 7 
   Basel Bad Bf an 13:22 3
 
+  http://auskunft.kvb-koeln.de
+  Michaelshoven, Köln-Rodenkirchen - Bonn Hbf
+  ab 08:14 - an 08:43 29 Min
+  ab 08:44 - an 09:13 29 Min
+
