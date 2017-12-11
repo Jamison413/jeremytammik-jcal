@@ -6971,6 +6971,7 @@ year 2015
 2017-12-12 15:00 bergfried
 2017-12-13 18:00 falk
 2017-12-14 09:30-10:30 ruecken@vhs
+2017-12-14 19:30 eintueten@dav
 2017-12-16 07:00 sicherheitstag # dav lawine skitour jogi, kaltenbachparkplatz, stetten
 2017-12-17 sicherheitstag # dav lawine skitour jogi
 
@@ -6996,6 +6997,9 @@ year 2015
 2018-01-19 18:00 tel@lueflu
 2018-01-20 tel@lueflu
 2018-01-21 15:00 tel@lueflu end
+
+2018-01-25 18:00 vivian dittmar begin
+2018-01-28 vivian dittmar end
 
 #2018-01-25 luciAnna
 #2018-01-26 luciAnna
