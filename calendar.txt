@@ -507,6 +507,7 @@ odd tuesdays in year 8:00 triage
 
 year 2017
 every friday in year 08:30-10:00 yoga
+every tuesday in year 16:00-20:00 climb
 
 #
 # beginning of normal calendar dates:
