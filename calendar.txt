@@ -6969,11 +6969,11 @@ year 2015
 
 2017-12-10 17:00-21:00 liebe tanzen # http://www.liebe-tanzen.net/basel
 
-2017-12-11 15:30 katja
-
 2017-12-12 15:00 bergfried
 2017-12-13 18:00 falk
 2017-12-14 09:30-10:30 ruecken@vhs
+2017-12-14 15:30 katja
+2017-12-14 17:00 bergfried
 2017-12-14 19:30 eintueten@dav
 2017-12-16 07:00 sicherheitstag # dav lawine skitour jogi, kaltenbachparkplatz, stetten
 2017-12-17 sicherheitstag # dav lawine skitour jogi
@@ -7008,6 +7008,7 @@ year 2015
 #2018-01-26 luciAnna
 #2018-01-27 luciAnna
 2018-01-28 ben@turnier
+2018-01-28 bilt@eur cfp deadline # http://www.rtcevents.com/bilt/eur18/call-for-abstracts
 
 2018-02-10 hinteri spillgerte # dav skitour jogi angemeldet zugesagt
 
