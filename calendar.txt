@@ -7025,6 +7025,9 @@ year 2015
 2018-06-06 mark@london begin
 2018-06-14 mark@london end
 
+2018-06-15 football@bordeaux
+2018-06-17 football end
+
 2018-06-19 au@london # tobacco dock, london e1
 2018-06-20 au@london
 
