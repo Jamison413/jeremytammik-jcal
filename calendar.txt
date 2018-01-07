@@ -7028,6 +7028,12 @@ year 2015
 
 2018-03-17 intensiv@michelle
 
+2018-04-07 intensiv@thomas
+
+2018-05-19 intensiv@muelital
+2018-05-21 muelital end
+
+
 2018-06-06 mark@london begin
 2018-06-14 mark@london end
 
@@ -7036,6 +7042,8 @@ year 2015
 
 2018-06-19 au@london # tobacco dock, london e1
 2018-06-20 au@london
+
+2018-06-23 intensiv@beat
 
 2018-10-11 bilt@ljubljana # bilt eur 2018, ljubljana, slovenia
 2018-10-12 bilt
