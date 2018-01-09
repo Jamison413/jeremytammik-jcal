@@ -7003,6 +7003,8 @@ year 2015
 
 2018-01-10 14:00 notar@loe
 
+2017-01-14 14:00-18:00 h3@bsl # S3 Ankunft 13:59, Gelterkinden SBB, Bahnhofstrasse 1, https://www.meetup.com/Basel-Hash/events/246582720
+
 2018-01-18 chris end
 
 2018-01-19 18:00 tel@lueflu
