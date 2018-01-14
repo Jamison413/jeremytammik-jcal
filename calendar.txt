@@ -7013,12 +7013,11 @@ year 2015
 
 2018-01-18 chris end
 2018-01-18 09:30-10:30 ruecken@vhs 
+2018-01-18 16:30 harry@impulsiv
 
 2018-01-19 18:00 tel@lueflu
 2018-01-20 tel@lueflu
 2018-01-21 15:00 tel@lueflu end
-
-2018-01-25 16:30 harry@impulsiv
 
 2018-01-25 18:00 vivian dittmar begin
 2018-01-28 vivian dittmar end
