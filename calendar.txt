@@ -7024,7 +7024,7 @@ year 2015
 #2018-01-25 luciAnna
 #2018-01-26 luciAnna
 #2018-01-27 luciAnna
-2018-01-28 ben@turnier
+2018-01-28 ben@turnier # red eagle
 2018-01-28 bilt@eur cfp deadline # http://www.rtcevents.com/bilt/eur18/call-for-abstracts
 
 2018-02-09 19:00 forum@florli # florastrasse 21, olten, heiner und artemi
