@@ -7018,6 +7018,8 @@ year 2015
 2018-01-20 tel@lueflu
 2018-01-21 15:00 tel@lueflu end
 
+2018-01-25 16:30 harry@impulsiv
+
 2018-01-25 18:00 vivian dittmar begin
 2018-01-28 vivian dittmar end
 
@@ -7026,6 +7028,8 @@ year 2015
 #2018-01-27 luciAnna
 2018-01-28 ben@turnier # red eagle
 2018-01-28 bilt@eur cfp deadline # http://www.rtcevents.com/bilt/eur18/call-for-abstracts
+
+2018-02-02 19:00 schnitzelbaenke
 
 2018-02-09 19:00 forum@florli # florastrasse 21, olten, heiner und artemi
 
