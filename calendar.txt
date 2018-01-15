@@ -7029,9 +7029,12 @@ year 2015
 #2018-01-26 luciAnna
 #2018-01-27 luciAnna
 2018-01-28 07:00 ben@turnier # red eagle
-2018-01-28 bilt@eur cfp deadline # http://www.rtcevents.com/bilt/eur18/call-for-abstracts
+2018-01-26 bilt@eur cfp deadline # http://www.rtcevents.com/bilt/eur18/call-for-abstracts
 
 2018-02-02 19:00 schnitzelbaenke
+2018-02-03 15:00 fairnetzt@nellie # https://www.fairnetzt-loerrach.de/veranstaltung/save-the-date-fairnetzt-wird-3-jahre-alt-wir-feiern-gemeinsam/
+2018-02-03 17:00 transition@free
+2018-02-03 21:00 tanztee@nellie
 
 2018-02-09 19:00 forum@florli # florastrasse 21, olten, heiner und artemi
 
