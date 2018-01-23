@@ -7022,6 +7022,7 @@ year 2015
 2018-01-22 lommiswil begin
 2018-01-24 lommiswil end
 
+2018-01-25 10:30 # RE: extraction des données électriques d'un fichier Revit, Anne-Cécile LESART, http://www.algotech-informatique.com
 2018-01-25 18:00 vivian dittmar begin
 2018-01-28 vivian dittmar end
 
