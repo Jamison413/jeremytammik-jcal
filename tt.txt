@@ -4803,3 +4803,25 @@ http://auskunft.kvb-koeln.de
   ab 08:14 - an 08:43 29 Min
   ab 08:44 - an 09:13 29 Min
 
+bsl-sedrun:
+
+Basel SBB ab 05:04 8  IR 26 Richtung: Erstfeld
+Erstfeld an 07:24 2
+Erstfeld ab 07:37 4  RE 4315 Richtung: Bellinzona
+Göschenen an 08:02 1
+Göschenen ab 08:04 11  R 621 Richtung: Andermatt
+Andermatt an 08:14 
+Andermatt ab 08:28 1  R 820 Richtung: Disentis/Mustér
+Sedrun an 09:15 
+Dauer: 4:11; 
+
+Basel SBB ab 05:33 9  IC 3 Richtung: Zürich HB
+Zürich HB an 06:26 13
+Zürich HB ab 06:37 9  IC 3 Richtung: Chur
+Chur an 07:52 9
+Chur ab 07:56 11  RE 1721 Richtung: Disentis/Mustér
+Disentis/Mustér an 09:11 3
+Disentis/Mustér ab 09:14   R 823 Richtung: Andermatt
+Sedrun an 09:30 
+Dauer: 3:57; 
+
