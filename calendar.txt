@@ -7050,6 +7050,9 @@ year 2015
 
 2018-02-10 hinteri spillgerte # dav skitour jogi angemeldet zugesagt
 2018-02-10 moni@wildhaus
+
+2018-02-11 skitourenwoche@avers # dav T705 gerhard kozdon
+
 2018-02-16 wildhaus end
 
 2018-02-19 basti@rossbodenstock # skitour
@@ -7060,6 +7063,7 @@ year 2015
 2018-02-24 fffffff
 2018-02-25 fffffff end
 
+2018-02-25 skitour@lidernen # dav t710 angela rosin im lidernen gebiet
 2018-02-25 intensiv@beat
 
 2018-03-17 intensiv@michelle
