@@ -4803,25 +4803,33 @@ http://auskunft.kvb-koeln.de
   ab 08:14 - an 08:43 29 Min
   ab 08:44 - an 09:13 29 Min
 
-bsl-sedrun:
+2018-01-30 bsl-lommiswil:
+  Basel SBB ab 08:31 7  IC 6 Richtung: Brig
+  Olten an 08:55 12
+  Olten ab 09:02 3  IC 5 Richtung: Lausanne
+  Solothurn an 09:24 2
+  Solothurn ab 09:32 3CD  R 7535 Richtung: Moutier
+  Oberdorf SO an 09:46 1
+  Dauer: 1:15;
 
-Basel SBB ab 05:04 8  IR 26 Richtung: Erstfeld
-Erstfeld an 07:24 2
-Erstfeld ab 07:37 4  RE 4315 Richtung: Bellinzona
-Göschenen an 08:02 1
-Göschenen ab 08:04 11  R 621 Richtung: Andermatt
-Andermatt an 08:14 
-Andermatt ab 08:28 1  R 820 Richtung: Disentis/Mustér
-Sedrun an 09:15 
-Dauer: 4:11; 
-
-Basel SBB ab 05:33 9  IC 3 Richtung: Zürich HB
-Zürich HB an 06:26 13
-Zürich HB ab 06:37 9  IC 3 Richtung: Chur
-Chur an 07:52 9
-Chur ab 07:56 11  RE 1721 Richtung: Disentis/Mustér
-Disentis/Mustér an 09:11 3
-Disentis/Mustér ab 09:14   R 823 Richtung: Andermatt
-Sedrun an 09:30 
-Dauer: 3:57; 
+2018-02-18 bsl-sedrun:
+  Basel SBB ab 05:04 8  IR 26 Richtung: Erstfeld
+  Erstfeld an 07:24 2
+  Erstfeld ab 07:37 4  RE 4315 Richtung: Bellinzona
+  Göschenen an 08:02 1
+  Göschenen ab 08:04 11  R 621 Richtung: Andermatt
+  Andermatt an 08:14 
+  Andermatt ab 08:28 1  R 820 Richtung: Disentis/Mustér
+  Sedrun an 09:15 
+  Dauer: 4:11; 
+  
+  Basel SBB ab 05:33 9  IC 3 Richtung: Zürich HB
+  Zürich HB an 06:26 13
+  Zürich HB ab 06:37 9  IC 3 Richtung: Chur
+  Chur an 07:52 9
+  Chur ab 07:56 11  RE 1721 Richtung: Disentis/Mustér
+  Disentis/Mustér an 09:11 3
+  Disentis/Mustér ab 09:14   R 823 Richtung: Andermatt
+  Sedrun an 09:30 
+  Dauer: 3:57; 
 
