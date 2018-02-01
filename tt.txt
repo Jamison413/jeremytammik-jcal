@@ -4811,6 +4811,7 @@ http://auskunft.kvb-koeln.de
   Solothurn ab 09:32 3CD  R 7535 Richtung: Moutier
   Oberdorf SO an 09:46 1
   Dauer: 1:15;
+  get off at ...den ersten Lommiswil-Bahnhof von Solothurn her fahrend...
 
 2018-02-18 bsl-sedrun:
   Basel SBB ab 05:04 8  IR 26 Richtung: Erstfeld
