@@ -7083,8 +7083,8 @@ year 2015
 2018-03-30 plum village begin
 2018-04-06 plum village end
 
-2018-04-06 tribe@Montebasso # http://www.tribeliebe.com/
-2018-04-08 tribe end
+2018-04-06 10:00 tribe@montebasso # http://www.tribeliebe.com -- http://www.montebasso.ch
+2018-04-08 17:00 tribe end
 
 2018-04-07 intensiv@thomas
 
