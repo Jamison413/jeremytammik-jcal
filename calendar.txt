@@ -7058,6 +7058,8 @@ year 2015
 
 2018-02-16 wildhaus end
 
+2018-02-17 10:30-17:00 ci@warteck # simon tanzraum warteck
+
 2018-02-18 09:30 sedrun piz calmut # skitour jörg heinz
 2018-02-19 basti@rossbodenstock # skitour
 2018-02-20 09:30-10:30 gymnastik # AK30206 Wirbelsäulen- und Fitnessgymnastik für Männer Holger Friedrich
@@ -7082,6 +7084,8 @@ year 2015
 
 2018-03-17 intensiv@michelle
 
+2018-03-20 19:00-21:00 forum@florli # florastrasse 21, olten, heiner und artemi
+
 2018-03-22 skitour@oetztal # dav T721 Venter Runde - Ötztaler Alpen - Achtung: Viertagestour!, Jürgen Kühnöl Sandra Tremmel; angemeldet, zugesagt
 
 2018-03-30 plum village begin
@@ -7094,6 +7098,8 @@ year 2015
 
 2018-04-12 emea@montreal
 2018-04-13 emea@montreal
+
+2018-04-13 19:00-21:00 forum@florli # florastrasse 21, olten, heiner und artemi
 
 2018-05-18 intensiv@muelital
 2018-05-21 muelital end
