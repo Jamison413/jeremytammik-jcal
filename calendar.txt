@@ -7091,6 +7091,8 @@ year 2015
 2018-03-25 skitour end
 
 2018-03-27 13:00-16:35 bsl-tfs # Basel to Tenerife South EZS1225
+2018-03-27 19:30-20:20 tfs-gomera ss # TENERIFE Los Cristianos 50 min - LA GOMERA S.S. de La Gomera
+2018-03-27 21:00-22:10 s.s.-valle gran rey # LA GOMERA S.S. de La Gomera 70 min - LA GOMERA Valle Gran Rey
 2018-04-03 17:15-22:35 tfs-bsl # Tenerife South to Basel EZS1226
 
 #2018-03-30 plum village begin
