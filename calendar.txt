@@ -7090,17 +7090,15 @@ year 2015
 2018-03-22 skitour@oetztal # dav T721 Venter Runde - Ötztaler Alpen - Achtung: Viertagestour!, Jürgen Kühnöl Sandra Tremmel; angemeldet, zugesagt
 2018-03-25 skitour end
 
-2018-03-27 bsl-tfs
+2018-03-27 13:00-16:35 bsl-tfs # Basel to Tenerife South EZS1225
+2018-04-03 17:15-22:35 tfs-bsl # Tenerife South to Basel EZS1226
 
-2018-03-30 plum village begin
-2018-04-06 plum village end
-
-2018-03-31 tfs-bsl
+#2018-03-30 plum village begin
+#2018-04-06 plum village end
 
 2018-04-06 10:00 tribe@montebasso # http://www.tribeliebe.com -- http://www.montebasso.ch
 2018-04-08 17:00 tribe end
 
-2018-04-07 tfs-bsl
 2018-04-07 intensiv@thomas
 
 2018-04-12 emea@montreal
