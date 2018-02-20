@@ -7063,14 +7063,15 @@ year 2015
 2018-02-18 05:04-09:15 bsl-sedrun
 2018-02-18 09:30 sedrun piz calmut # skitour jörg heinz
 2018-02-19 basti@rossbodenstock # skitour
-2018-02-20 09:30-10:30 gymnastik # AK30206 Wirbelsäulen- und Fitnessgymnastik für Männer Holger Friedrich
+#2018-02-20 09:30-10:30 gymnastik # AK30206 Wirbelsäulen- und Fitnessgymnastik für Männer Holger Friedrich
 
-2018-02-22 fffffff@eriz
-2018-02-23 fffffff
-2018-02-24 fffffff
-2018-02-25 fffffff end
+#2018-02-22 fffffff@eriz
+#2018-02-23 fffffff
+#2018-02-24 fffffff
+#2018-02-25 fffffff end
 
-2018-02-25 skitour@lidernen # dav t710 angela rosin im lidernen gebiet
+#2018-02-25 skitour@lidernen # dav t710 angela rosin im lidernen gebiet
+
 2018-02-25 intensiv@beat
 
 2018-03-06 18:00 wohnwandel@nellie # stammtisch, frank leichsenring, manfred steinbach
