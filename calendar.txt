@@ -7082,9 +7082,9 @@ year 2015
 
 2018-03-06 18:00 wohnwandel@nellie # stammtisch, frank leichsenring, manfred steinbach
 
-2018-03-06 15:00-19:00 h3 # https://www.meetup.com/Basel-Hash/events/247686851
-
+2018-03-09 meighelshuette
 2018-03-10 meighelshuette # skitour joerg buestrich
+2018-03-10 15:00-19:00 h3 # https://www.meetup.com/Basel-Hash/events/247686851
 2018-03-11 meighelshuette
 
 2018-03-13 lina begin
