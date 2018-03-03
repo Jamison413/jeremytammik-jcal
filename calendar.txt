@@ -7070,12 +7070,15 @@ year 2015
 #2018-02-24 fffffff
 #2018-02-25 fffffff end
 
+2018-02-23 18:00 h3@versobar # farewell party in Basel Versobar (formerly known as Skubar) in Petersgraben 50 https://www.versobar.ch/kontakt-1/ 
+
 #2018-02-25 skitour@lidernen # dav t710 angela rosin im lidernen gebiet
 
 2018-02-25 09:00 intensiv@beat
 2018-02-26 16:30 andrea + magnus
 
 2018-03-01 ne_holiday # republic day of neuchatel
+2018-03-02 18:00 karen + daniel
 
 2018-03-06 18:00 wohnwandel@nellie # stammtisch, frank leichsenring, manfred steinbach
 
