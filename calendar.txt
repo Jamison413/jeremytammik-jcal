@@ -7080,6 +7080,8 @@ year 2015
 2018-03-01 ne_holiday # republic day of neuchatel
 2018-03-02 18:00 karen + daniel
 
+2018-03-04 angela@skitour # rosin
+
 2018-03-06 18:00 wohnwandel@nellie # stammtisch, frank leichsenring, manfred steinbach
 
 2018-03-09 meighelshuette
