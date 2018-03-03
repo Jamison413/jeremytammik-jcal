@@ -7090,6 +7090,8 @@ year 2015
 2018-03-11 meighelshuette
 
 2018-03-13 lina begin
+2018-03-13 09:23-13:19 bsl-bonn
+2018-03-16 11:14-15:27 bonn-bsl
 2018-03-16 lina end
 
 2018-03-15 10:00-11:00 review

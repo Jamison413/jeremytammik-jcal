@@ -4834,3 +4834,12 @@ http://auskunft.kvb-koeln.de
   Sedrun an 09:30 
   Dauer: 3:57; 
 
+2018-03-13 bsl-bonn:
+  09:23 ab Basel Bad Bf 4 ICE 200
+  12:46 an Siegburg/Bonn 3
+  12:54 ab Siegburg Bahnhof Bonn Hbf (tief)
+  13:19 an Bonn Hbf
+
+2018-03-16 bonn-bsl:
+  11:14 ab Bonn Hbf 3 EC 9
+  15:27 an Basel Bad Bf 3
