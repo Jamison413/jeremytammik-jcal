@@ -7088,6 +7088,7 @@ year 2015
 2018-03-10 meighelshuette # skitour joerg buestrich
 2018-03-10 15:00-19:00 h3 # https://www.meetup.com/Basel-Hash/events/247686851
 2018-03-11 meighelshuette
+2018-03-12 falk@sauna
 
 2018-03-13 lina begin
 2018-03-13 09:23-13:19 bsl-bonn
@@ -7125,6 +7126,8 @@ year 2015
 
 2018-04-13 19:00-21:00 forum@florli # florastrasse 21, olten, heiner und artemi
 2018-04-13 mich gerber # liestal
+
+2018-04-14 17:30 atmo@ft
 
 2018-05-09 15:00 ci@berlin begin # Berlin Contact Impro Festival, Münchener Straße, 10777 Berlin, Deutschland
 2018-05-13 15:00 ci@berlin end
