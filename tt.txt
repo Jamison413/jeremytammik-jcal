@@ -4843,3 +4843,13 @@ http://auskunft.kvb-koeln.de
 2018-03-16 bonn-bsl:
   11:14 ab Bonn Hbf 3 EC 9
   15:27 an Basel Bad Bf 3
+
+2018-03-09 bsl-andermatt:
+Umgebungskarte: Basel SBB
+Basel SBB ab 07:04 8  IR 26 Richtung: Erstfeld
+Erstfeld an 09:24 2
+Erstfeld ab 09:37 4  RE 4319 Richtung: Bellinzona
+Göschenen an 10:02 1
+Göschenen ab 10:04 11  R 629 Richtung: Andermatt
+Andermatt an 10:14 
+Dauer: 3:10;

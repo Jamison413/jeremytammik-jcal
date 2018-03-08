@@ -1668,7 +1668,7 @@ every tuesday in year 16:00-20:00 climb
 #2008-04-24 aec sales camp
 #2008-04-25 aec sales camp
 
-2008-04-21 9:00 dentist
+2008-04-21 9:00 dentist # scherble
 
 2008-04-22 12:30 of
 2008-04-22 19:30 heisser auflauf
@@ -1898,7 +1898,7 @@ every tuesday in year 16:00-20:00 climb
 2008-11-02 fr wave
 
 2008-11-03 sh
-2008-11-04 14:00 dentist
+2008-11-04 14:00 dentist # scherble
 2008-11-04 20:00 wave
 
 2008-11-06 freenet
@@ -2289,7 +2289,7 @@ every tuesday in year 16:00-20:00 climb
 2009-07-13 18:00 tatjana + juergen jurte
 
 2009-07-14 11:00 garni
-2009-07-14 14:00 dentist
+2009-07-14 14:00 dentist # scherble
 
 2009-07-15 8:30 christian
 
@@ -4218,7 +4218,7 @@ even thursdays in year 20:30 tanz
 2013-05-08 19:00 christian 50 geburi
 2013-05-12 14:00 moni vertiefung end # klotisberg
 2013-05-12 17:00 tango@nellie
-2013-05-13 dentist
+2013-05-13 dentist # scherble
 2013-05-13 corinna
 2013-05-13 19:30 thomas & veena
 
@@ -4871,7 +4871,7 @@ even thursdays in year 20:30 tanz
 2014-08-17 healing heart festival end
 2014-08-17 moni vacation end
 
-2014-08-18 14:30 dentist # zahnarzt dr. richter
+2014-08-18 14:30 dentist # zahnarzt dr. richter bei scherble
 
 2014-08-20 20:00 bafudi
 2014-08-21 10:00 geburi@anja
@@ -7106,6 +7106,7 @@ year 2015
 
 2018-03-17 intensiv@michelle
 
+2018-03-20 20:00 dav@sak # mitgliederversammlung
 2018-03-20 19:00-21:00 forum@florli # florastrasse 21, olten, heiner und artemi
 2018-03-21 12:00 cornelius end
 
@@ -7132,9 +7133,11 @@ year 2015
 2018-04-13 mich gerber # liestal
 
 2018-04-14 17:30 atmo@ft
+2018-04-15 12:00 jam@bsl # sonntagsjam tanzraum warteck, 12-14 crashcourse, 14-18 jam
 
 2018-05-09 15:00 ci@berlin begin # Berlin Contact Impro Festival, Münchener Straße, 10777 Berlin, Deutschland
 2018-05-13 15:00 ci@berlin end
+2018-05-13 12:00 jam@bsl # sonntagsjam tanzraum warteck, 12-14 crashcourse, 14-18 jam
 
 2018-05-18 intensiv@muelital
 2018-05-21 muelital end
@@ -7149,6 +7152,9 @@ year 2015
 2018-06-20 au@london
 
 2018-06-23 intensiv@beat
+
+2018-09-01 embodyment # 5rhythms as a daily practice by alain allard in basel http://www.movesintoconsciousness.com/
+2018-09-02 embodyment
 
 2018-10-11 bilt@ljubljana # bilt eur 2018, ljubljana, slovenia
 2018-10-12 bilt
