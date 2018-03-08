@@ -5911,7 +5911,7 @@ year 2015
 
 2016-04-24 klaus
 
-2016-04-26 09:00 belz # dentist scherble schiene abholen
+2016-04-26 09:00 betz # dentist scherble schiene abholen
 2016-04-26 17:30 klettern@tuefleten # muttenz 47.5303,7.628396
 
 2016-04-27 18:00 hackergarten@canoo # http://www.meetup.com/Hackergarten-Basel/events/229280644/
@@ -6461,7 +6461,7 @@ year 2015
 
 2017-02-11 12:00-21:00 oelen@ursula # emmendingen /j/tmp/2017-02-11_oelbad.pdf /j/tmp/2017-02-11_oelbad_flyer.pdf
 2017-02-12 15:00-18:00 h3@schuetzenmattpark # tram stop schuetzenhaus (trams 1 + 8) https://www.meetup.com/basel-hash/events/237133790
-2017-02-13 11:15 plombe@benz # dentist scherble, A6 is dead
+2017-02-13 11:15 plombe@betz # dentist scherble, A6 is dead
 2017-02-13 18:30 karen + falk
 
 2017-02-16 15:30 werkbank
@@ -6509,7 +6509,7 @@ year 2015
 2017-03-14 18:00 pfluger@dhbw # die welt braucht eine geldreform, Campus Hangstraße 46-50, Hörsaal A361
 2017-03-14 20:00 tatjana
 
-2017-03-16 12:15 bez@scherble # dentist
+2017-03-16 12:15 betz@scherble # dentist
 2017-03-16 18:30 falk
 
 2017-03-19 10:00 sweat lodge
@@ -6578,7 +6578,7 @@ year 2015
 2017-04-27 18:00 hackergarten@canoo # Kirschgartenstrasse 5, https://www.meetup.com/Hackergarten-Basel/events
 2017-04-27 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Gruett
 
-2017-04-28 11:30 bez@scherble # dentist
+2017-04-28 11:30 betz@scherble # dentist
 2017-04-28 15:00 bagger
 2017-04-28 18:00 bafudi@moni
 2017-04-28 18:00-20:00 vr+ar+web # https://www.meetup.com/Meetup-GDG-Basel/events/239208806
@@ -6593,7 +6593,7 @@ year 2015
 
 2017-05-03 20:00-21:30 tanz@nellie # Tanz- und Theaterimpro im Nellie Nashorn
 
-2017-05-05 08:30 bez@scherble # dentist
+2017-05-05 08:30 betz@scherble # dentist
 2017-05-05 18:00 zehnder@wildhaus
 2017-05-06 zehnder@wildhaus
 2017-05-07 zehnder@wildhaus
@@ -6612,7 +6612,7 @@ year 2015
 2017-05-10 techsummit@london # Hilton London Metropole Hotel, 225 Edgware Road, London W2 1JU, http://www.hiltonlondonmet.com
 2017-05-11 techsummit@london
 
-2017-05-11 12:00 bez@scherble # dentist
+2017-05-11 12:00 betz@scherble # dentist
 
 2017-05-11 20:30-22:00 tanztheater@gruett # Tanztheaterprojekt im Gruett
 
@@ -7111,6 +7111,7 @@ year 2015
 2018-03-21 12:00 cornelius end
 
 2018-03-22 skitour@oetztal # dav T721 Venter Runde - Ötztaler Alpen - Achtung: Viertagestour!, Jürgen Kühnöl Sandra Tremmel; angemeldet, zugesagt
+2018-03-24 13:00 sweat@wiechs
 2018-03-25 skitour end
 
 2018-03-27 13:00-16:35 bsl-tfs # Basel to Tenerife South EZS1225
@@ -7134,6 +7135,8 @@ year 2015
 
 2018-04-14 17:30 atmo@ft
 2018-04-15 12:00 jam@bsl # sonntagsjam tanzraum warteck, 12-14 crashcourse, 14-18 jam
+
+2018-04-25 10:30 dentist betz
 
 2018-05-09 15:00 ci@berlin begin # Berlin Contact Impro Festival, Münchener Straße, 10777 Berlin, Deutschland
 2018-05-13 15:00 ci@berlin end
