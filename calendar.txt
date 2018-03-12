@@ -7092,8 +7092,8 @@ year 2015
 2018-03-11 meighelshuette
 2018-03-12 12:00 cornelius@loe begin
 2018-03-12 13:00 andrea + magnus
-2018-03-12 17:00 besichtugung
-2018-03-12 18:00 falk@sauna
+2018-03-12 17:30 besichtugung
+2018-03-12 18:30 falk@sauna
 
 2018-03-13 lina begin
 2018-03-13 09:23-13:19 bsl-bonn
