@@ -7091,7 +7091,9 @@ year 2015
 2018-03-10 15:00-19:00 h3 # https://www.meetup.com/Basel-Hash/events/247686851
 2018-03-11 meighelshuette
 2018-03-12 12:00 cornelius@loe begin
-2018-03-12 falk@sauna
+2018-03-12 13:00 andrea + magnus
+2018-03-12 17:00 besichtugung
+2018-03-12 18:00 falk@sauna
 
 2018-03-13 lina begin
 2018-03-13 09:23-13:19 bsl-bonn
@@ -7155,6 +7157,9 @@ year 2015
 2018-06-20 au@london
 
 2018-06-23 intensiv@beat
+
+2018-07-28 pia rene begin
+2018-08-03 pia rene end
 
 2018-09-01 embodyment # 5rhythms as a daily practice by alain allard in basel http://www.movesintoconsciousness.com/
 2018-09-02 embodyment
