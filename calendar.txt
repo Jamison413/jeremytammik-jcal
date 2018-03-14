@@ -6952,7 +6952,7 @@ year 2015
 2017-12-03 16:58-18:00 geschwend-loe
 
 2017-12-05 16:00 max@impulsiv
-2017-12-06 05:49-10:21 bsl-bonn
+2017-12-06 05:49-10:21 bsl-bonn # lina
 2017-12-06 15:00 mikako
 2017-12-07 09:30-10:30 ruecken@vhs
 2017-12-07 19:00 forum@zrh # wandellust
