@@ -4834,6 +4834,16 @@ http://auskunft.kvb-koeln.de
   Sedrun an 09:30 
   Dauer: 3:57; 
 
+2018-03-09 bsl-andermatt:
+  Umgebungskarte: Basel SBB
+  Basel SBB ab 07:04 8  IR 26 Richtung: Erstfeld
+  Erstfeld an 09:24 2
+  Erstfeld ab 09:37 4  RE 4319 Richtung: Bellinzona
+  Göschenen an 10:02 1
+  Göschenen ab 10:04 11  R 629 Richtung: Andermatt
+  Andermatt an 10:14 
+  Dauer: 3:10;
+
 2018-03-13 bsl-bonn:
   09:23 ab Basel Bad Bf 4 ICE 200
   12:46 an Siegburg/Bonn 3
@@ -4844,12 +4854,8 @@ http://auskunft.kvb-koeln.de
   11:14 ab Bonn Hbf 3 EC 9
   15:27 an Basel Bad Bf 3
 
-2018-03-09 bsl-andermatt:
-Umgebungskarte: Basel SBB
-Basel SBB ab 07:04 8  IR 26 Richtung: Erstfeld
-Erstfeld an 09:24 2
-Erstfeld ab 09:37 4  RE 4319 Richtung: Bellinzona
-Göschenen an 10:02 1
-Göschenen ab 10:04 11  R 629 Richtung: Andermatt
-Andermatt an 10:14 
-Dauer: 3:10;
+  http://auskunft.kvb-koeln.de
+  Michaelshoven, Köln-Rodenkirchen - Bonn Hbf
+  ab 09:11 - an 09:44 29 Min
+  ab 09:35 - an 10:04 29 Min
+

@@ -7113,6 +7113,7 @@ year 2015
 2018-03-21 12:00 cornelius end
 
 2018-03-22 skitour@oetztal # dav T721 Venter Runde - Ötztaler Alpen - Achtung: Viertagestour!, Jürgen Kühnöl Sandra Tremmel; angemeldet, zugesagt
+2018-03-23 17:00 singen@kt
 2018-03-24 13:00 sweat@wiechs
 2018-03-25 skitour end
 
@@ -7128,6 +7129,8 @@ year 2015
 2018-04-08 17:00 tribe end
 
 2018-04-07 intensiv@thomas
+
+2018-04-10 zukunftsforum@loe
 
 2018-04-12 emea@montreal
 2018-04-13 emea@montreal
