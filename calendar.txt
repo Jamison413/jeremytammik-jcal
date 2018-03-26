@@ -7175,6 +7175,9 @@ year 2015
 
 2018-06-30 moni vacation begin
 
+2018-07-01 nik begin
+2018-07-07 nik end
+
 2018-07-20 <a href="https://plumvillage.org/retreats/info/summer-retreat-2018">plumvillage</a> begin
 2018-07-27 plumvillage end
 
