@@ -7126,6 +7126,8 @@ year 2015
 #2018-03-30 plum village begin
 #2018-04-06 plum village end
 
+2018-04-06 19:00 petrapompe@brombach # http://www.petrapompe.de -- /j/tmp/FlyerSpektrumNatur.pdf -- PlakatSpektrumNATUR.pdf
+
 2018-04-07 10:00 tribe@zueri # http://www.tribeliebe.com -- http://www.montebasso.ch -- jupiterhaus, jupiterstrasse 1, zueri
 2018-04-08 17:00 tribe end
 
@@ -7148,6 +7150,8 @@ year 2015
 
 2018-04-28 hochbeet
 2018-04-29 hochbeet
+
+2018-05-05 18:00 dancespirit@eulerhof # http://dancespirit-basel.ch
 
 2018-05-06 13:00 moni@women
 
