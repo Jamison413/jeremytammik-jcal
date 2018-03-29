@@ -4859,3 +4859,17 @@ http://auskunft.kvb-koeln.de
   ab 09:11 - an 09:44 29 Min
   ab 09:35 - an 10:04 29 Min
 
+2018-04-03 gomera-tenerifa:
+  https://www.navieraarmas.com/en/ventas_disponibilidad_en
+  La Gomera (Valle Gran Rey) - Tenerife (Los Cristianos)
+  03-04-2018 06:00 08:00 E
+  eur 44 p.p.
+  
+  https://www.fredolsen.es/en-US/CompraOnline/C-DatosTarifa.aspx
+  07:30 LA GOMERA (Valle Gran Rey) 
+  08:40 LA GOMERA (S.S. de La Gomera)
+  Con escala en Playa de Santiago
+  12:00 LA GOMERA (S.S. de La Gomera) 
+  12:50 TENERIFE (Los Cristianos)
+  70 min + 50 min 
+  eur 79.20
