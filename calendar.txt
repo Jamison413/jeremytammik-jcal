@@ -7136,6 +7136,7 @@ year 2015
 
 2018-04-10 18:00 zukunftsforum@dreilaendermuseum # symposium 'gemeinschaftliches wohnen in lö+', hebelsaal, dreiländermuseum
 
+2018-04-12 lina begin
 2018-04-12 emea@montreal
 2018-04-13 emea@montreal
 
@@ -7148,6 +7149,7 @@ year 2015
 2018-04-15 12:00 jam@bsl # sonntagsjam tanzraum warteck, 12-14 crashcourse, 14-18 jam
 2018-04-15 13:00 moni@women
 2018-04-15 18:00 rose@sak
+2018-04-15 lina end
 
 2018-04-25 10:30 dentist betz
 
