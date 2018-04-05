@@ -4873,3 +4873,17 @@ http://auskunft.kvb-koeln.de
   12:50 TENERIFE (Los Cristianos)
   70 min + 50 min 
   eur 79.20
+
+2018-04-07 dietikon-jupiter:
+  Zürich Altstetten ab 09:16 4  S 5 Richtung: Pfäffikon SZ
+  Zürich Stadelhofen an 09:27 3
+  Zürich Stadelhofen FB ab 09:33   S 18 Richtung: Forch
+  Zürich Hegibachplatz an 09:36 
+  Dauer: 0:20; 
+  
+  Dietikon ab 09:15 1  S 3 Richtung: Wetzikon
+  Zürich Stadelhofen an 09:35 3
+  Zürich Stadelhofen FB ab 09:40   T 11 Richtung: Zürich, Rehalp
+  Zürich Hegibachplatz an 09:43 
+  Dauer: 0:29; 
+
