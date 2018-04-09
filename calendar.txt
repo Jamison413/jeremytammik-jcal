@@ -7139,8 +7139,10 @@ year 2015
 2018-04-10 18:00 zukunftsforum@dreilaendermuseum # symposium 'gemeinschaftliches wohnen in lö+', hebelsaal, dreiländermuseum
 
 2018-04-12 lina begin
-2018-04-12 emea@montreal
-2018-04-13 emea@montreal
+2018-04-12 18:00 generalprobe?
+
+#2018-04-12 emea@montreal
+#2018-04-13 emea@montreal
 
 2018-04-13 19:00-21:00 forum@florli # florastrasse 21, olten, heiner und artemi
 2018-04-13 mich gerber # liestal
