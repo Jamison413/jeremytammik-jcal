@@ -7134,6 +7134,8 @@ year 2015
 2018-04-07 intensiv@thomas
 2018-04-08 h3@muenchenstein # https://www.meetup.com/Basel-Hash/events/249329453
 
+2018-04-09 15:00 rose
+
 2018-04-10 18:00 zukunftsforum@dreilaendermuseum # symposium 'gemeinschaftliches wohnen in lö+', hebelsaal, dreiländermuseum
 
 2018-04-12 lina begin
