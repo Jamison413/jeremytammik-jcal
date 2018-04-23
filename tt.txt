@@ -4887,3 +4887,9 @@ http://auskunft.kvb-koeln.de
   Zürich Hegibachplatz an 09:43 
   Dauer: 0:29; 
 
+2018-06-27 loe-bad krozingen: 
+  Abfahrt um 15:31 Uhr, Dauer 01:07
+  27.06.2018 15:31 ab Lörrach Hauptbahnhof Gleis 1
+  27.06.2018 15:41 an Basel, Badischer Bahnhof Gleis 10 S-Bahn S6
+  27.06.2018 15:46 ab Basel, Badischer Bahnhof Gleis 9
+  27.06.2018 16:31 Bad Krozingen Bahnhof Gleis 1 Zug RE 17026 Regional-Express Offenburg Bahnhof
