@@ -7181,11 +7181,14 @@ year 2015
 2018-05-05 18:00 dancespirit@eulerhof # http://dancespirit-basel.ch
 
 2018-05-06 13:00 moni@women
+2018-05-07 wohnwandel@rathaus
 
 2018-05-09 bafudi
 2018-05-09 15:00 ci@berlin begin # Berlin Contact Impro Festival, Münchener Straße, 10777 Berlin, Deutschland
 2018-05-13 15:00 ci@berlin end
 2018-05-13 12:00 jam@bsl # sonntagsjam tanzraum warteck, 12-14 crashcourse, 14-18 jam
+
+2018-05-14 18:00 ww@nellie # WohnWandel-Stammtisch im Nellie-Foyer, Nellie Nashorn
 
 2018-05-18 intensiv@muelital
 2018-05-21 muelital end
