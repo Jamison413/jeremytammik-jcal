@@ -7170,6 +7170,7 @@ year 2015
 2018-04-24 18:05 cornelius@bsl dep
 
 2018-04-25 10:30 dentist betz
+2018-04-26 18:30 falken@turm # Herbert Sitterle Führung durch den Turm der Stadtkirche 
 
 2018-04-27 bouldern@fontainebleau begin # dav, harald erbacher, angemeldet, zugesagt, http://www.dav-loerrach.de/touren-und-kursprogramm/klettern-bouldern/touren.html
 2018-04-27 18:30 dav@sak
@@ -7197,6 +7198,8 @@ year 2015
 
 2018-05-27 15:00 men@jt # hugo klaus stefan
 
+2018-06-02 nick@uk # nick returns from australia
+
 2018-06-06 mark@london begin
 2018-06-14 mark@london end
 
@@ -7204,8 +7207,15 @@ year 2015
 2018-06-15 football@bordeaux
 2018-06-17 football end
 
+2018-06-16 nick@london
+
 2018-06-19 au@london # tobacco dock, london e1
 2018-06-20 au@london
+
+2018-06-19 bam setup
+2018-06-20 bam
+2018-06-21 bam
+2018-06-22 bam travel
 
 2018-06-23 intensiv@beat
 
