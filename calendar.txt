@@ -7195,6 +7195,7 @@ year 2015
 2018-05-14 18:00 ww@nellie # WohnWandel-Stammtisch im Nellie-Foyer, Nellie Nashorn
 
 2018-05-18 intensiv@muelital
+2018-05-20 14:00-17:00 h3@fribourg # https://www.meetup.com/Basel-Hash/events/250143584, https://www.meetup.com/Fribourg-Hash-House-Harriers/events/245073623/
 2018-05-21 muelital end
 
 2018-05-27 15:00 men@jt # hugo klaus stefan
