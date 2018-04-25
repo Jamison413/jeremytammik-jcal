@@ -7207,6 +7207,7 @@ year 2015
 2018-06-15 football@bordeaux
 2018-06-17 football end
 
+2018-06-16 06:50-07:35 bsl-lhr T5 # 1h 45m, British Airways 751, Record Locator WRYFWK, Confirmation NHR3ET
 2018-06-16 nick@london
 
 2018-06-19 au@london # tobacco dock, london e1
@@ -7215,7 +7216,7 @@ year 2015
 2018-06-19 bam setup
 2018-06-20 bam
 2018-06-21 bam
-2018-06-22 bam travel
+2018-06-22 14:50-17:35 man-bsl # 1h 45m, easyJet 1811, Record Locator VXRLPN, Confirmation EV1QGTL, Manchester (Terminal 1) to Basel-Mulhouse-Freiburg, EZY1811, Bag drop closes Fri 22 Jun 14:10, Check in closes 40 mins before departure
 
 2018-06-23 intensiv@beat
 
