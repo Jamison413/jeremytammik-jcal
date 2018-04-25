@@ -7184,7 +7184,8 @@ year 2015
 2018-05-05 18:00 dancespirit@eulerhof # http://dancespirit-basel.ch
 
 2018-05-06 13:00 moni@women
-2018-05-07 wohnwandel@rathaus
+2018-05-07 18:00 wohnwandel@rathaus # Eröffnung der Ausstellung 'Bürger beteiligen', Foyer, EG des Rathauses, Luisenstraße 16
+
 
 2018-05-09 bafudi
 2018-05-09 15:00 ci@berlin begin # Berlin Contact Impro Festival, Münchener Straße, 10777 Berlin, Deutschland
