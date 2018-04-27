@@ -7156,7 +7156,7 @@ year 2015
 2018-04-15 13:00 moni@women
 2018-04-15 18:00 tanztheater@sak # rose nicol
 
-2018-04-16 08:50 dentist betz
+2018-04-16 08:50 dentist betz # plombe kaputt tooth 46
 
 2018-04-16 19:30 harald@weil # mattweg 4
 
@@ -7169,7 +7169,8 @@ year 2015
 2018-04-24 17:00-17:30 fpd@zoom # all hands https://autodesk.zoom.us/j/683221753
 2018-04-24 18:05 cornelius@bsl dep
 
-2018-04-25 10:30 dentist betz
+2018-04-25 10:30 dentist betz # routine checkup
+
 2018-04-26 18:30 falken@turm # Herbert Sitterle Führung durch den Turm der Stadtkirche 
 
 2018-04-27 bouldern@fontainebleau begin # dav, harald erbacher, angemeldet, zugesagt, http://www.dav-loerrach.de/touren-und-kursprogramm/klettern-bouldern/touren.html
@@ -7221,6 +7222,8 @@ year 2015
 2018-06-22 14:50-17:35 man-bsl # 1h 45m, easyJet 1811, Record Locator VXRLPN, Confirmation EV1QGTL, Manchester (Terminal 1) to Basel-Mulhouse-Freiburg, EZY1811, Bag drop closes Fri 22 Jun 14:10, Check in closes 40 mins before departure
 
 2018-06-23 intensiv@beat
+
+2018-06-26 09:00-10:00 betz # replace amalgan plombe in two teeth, fix surface on 48, dentin liegt blank
 
 2018-06-30 moni vacation begin
 
