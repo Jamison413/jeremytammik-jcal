@@ -7181,7 +7181,8 @@ year 2015
 2018-04-30 fontainebleau end
 2018-04-30 22:00 dav@loe
 
-2018-05-04 10:00 kt trauer # Kapelle, Hauptfriedhof Lörrach, anschliessend Essen im Restaurant Ganges 
+2018-05-04 10:00-12:00 kt trauer # Kapelle, Hauptfriedhof Lörrach, anschliessend Essen im Restaurant Ganges 
+2018-05-04 12:00 kt traueressen # restaurant ganges
 
 2018-05-05 18:00 dancespirit@eulerhof # http://dancespirit-basel.ch
 
