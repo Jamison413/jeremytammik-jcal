@@ -7187,6 +7187,8 @@ year 2015
 2018-05-05 18:00 dancespirit@eulerhof # http://dancespirit-basel.ch
 
 2018-05-06 13:00 moni@women
+2018-05-07 12:00 martina
+2018-05-07 16:00 andrea + magnus
 2018-05-07 18:00 wohnwandel@rathaus # Eröffnung der Ausstellung 'Bürger beteiligen', Foyer, EG des Rathauses, Luisenstraße 16
 
 #2018-05-09 bafudi
@@ -7237,6 +7239,9 @@ year 2015
 2018-07-10 kunst@rose end
 
 2018-07-08 helene begin? # pernes or barcelona
+
+2018-07-13 fest@rose # Tanztheaterstück mit Fest im Garten, spaeter schauen wir das Stück an der Hauswand an
+
 
 2018-07-20 <a href="https://plumvillage.org/retreats/info/summer-retreat-2018">plumvillage</a> begin
 2018-07-27 plumvillage end
