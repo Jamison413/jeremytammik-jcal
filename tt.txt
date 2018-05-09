@@ -4893,3 +4893,12 @@ http://auskunft.kvb-koeln.de
   27.06.2018 15:41 an Basel, Badischer Bahnhof Gleis 10 S-Bahn S6
   27.06.2018 15:46 ab Basel, Badischer Bahnhof Gleis 9
   27.06.2018 16:31 Bad Krozingen Bahnhof Gleis 1 Zug RE 17026 Regional-Express Offenburg Bahnhof
+
+2018-05-09 loe-murg:
+  Lörrach Hbf 11:31  0:50 1 SBB, RB 11,50 EUR 
+  Murg(Baden) 12:21
+  Lörrach Hbf ab 11:31 1 SBB S6 (87825) SBB GmbH Richtung: Basel SBB
+  Basel Bad Bf an 11:41 10
+  Basel Bad Bf ab 11:47 6 RB 17353 Regionalbahn Richtung: Waldshut
+  Murg(Baden) an 12:21 1
+
