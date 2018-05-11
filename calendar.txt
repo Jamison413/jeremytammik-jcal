@@ -7246,6 +7246,8 @@ year 2015
 2018-07-20 <a href="https://plumvillage.org/retreats/info/summer-retreat-2018">plumvillage</a> begin
 2018-07-27 plumvillage end
 
+2018-07-28 jeanlemoine # /j/tmp/2018-07-28_matthias_einladung.jpeg
+
 2018-07-28 pia rene begin
 2018-08-03 pia rene end
 
