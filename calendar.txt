@@ -7209,6 +7209,8 @@ year 2015
 
 2018-06-02 nick@uk # nick returns from australia
 
+2018-06-04 19:00 ferien@nik
+
 2018-06-06 mark@london begin
 2018-06-14 mark@london end
 
