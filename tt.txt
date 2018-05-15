@@ -4897,8 +4897,15 @@ http://auskunft.kvb-koeln.de
 2018-05-09 loe-murg:
   Lörrach Hbf 11:31  0:50 1 SBB, RB 11,50 EUR 
   Murg(Baden) 12:21
-  Lörrach Hbf ab 11:31 1 SBB S6 (87825) SBB GmbH Richtung: Basel SBB
+  Lörrach Hbf ab  11:31 1 SBB S6 (87825) SBB GmbH Richtung: Basel SBB
   Basel Bad Bf an 11:41 10
   Basel Bad Bf ab 11:47 6 RB 17353 Regionalbahn Richtung: Waldshut
-  Murg(Baden) an 12:21 1
+  Murg(Baden) an  12:21 1
 
+2018-05-18 loe-murg:
+  Lörrach Hbf  12:31  0:50 1 SBB, RB 11,50 EUR 
+  Murg(Baden)  13:21
+  Lörrach Hbf ab  12:31 1 SBB S6 (87829) SBB GmbH Richtung: Basel SBB
+  Basel Bad Bf an 12:41 10
+  Basel Bad Bf ab 12:47 6 RB 17355 Regionalbahn Richtung: Lauchringen
+  Murg(Baden) an  13:21 1
