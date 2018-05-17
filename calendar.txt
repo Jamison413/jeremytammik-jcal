@@ -7246,7 +7246,6 @@ year 2015
 
 2018-07-13 fest@rose # Tanztheaterstück mit Fest im Garten, spaeter schauen wir das Stück an der Hauswand an
 
-
 2018-07-20 <a href="https://plumvillage.org/retreats/info/summer-retreat-2018">plumvillage</a> begin
 2018-07-27 plumvillage end
 
@@ -7255,7 +7254,9 @@ year 2015
 2018-07-28 pia rene begin
 2018-08-03 pia rene end
 
+2018-08-08 ci@kiel begin # https://www.facebook.com/events/321452448380250/
 2018-08-11 moni vacation end
+2018-08-12 ci@kiel end
 
 2018-09-01 embodyment # 5rhythms as a daily practice by alain allard in basel http://www.movesintoconsciousness.com/
 2018-09-02 embodyment
