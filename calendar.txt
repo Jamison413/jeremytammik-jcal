@@ -7224,7 +7224,7 @@ year 2015
 2018-05-27 15:00 men@jt # hugo klaus stefan
 2018-05-28 17:00 tichu@rose
 
-2018-05-30 09:00-17:00 climb
+2018-05-30 08:40-17:00 climb # degerfelden
 
 2018-06-02 nick@uk # nick returns from australia
 
@@ -7285,6 +7285,8 @@ year 2015
 
 2018-09-01 embodyment # 5rhythms as a daily practice by alain allard in basel http://www.movesintoconsciousness.com/
 2018-09-02 embodyment
+
+2018-09-23 11:00 cousinen@moni
 
 2018-10-11 bilt@ljubljana # bilt eur 2018, ljubljana, slovenia
 2018-10-12 bilt
