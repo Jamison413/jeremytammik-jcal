@@ -7228,6 +7228,8 @@ year 2015
 
 2018-06-02 nick@uk # nick returns from australia
 
+2018-06-03 09:30 nik@rhine
+
 2018-06-04 19:00 ferien@nik + truc # offenburgerstr. 6 
 
 2018-06-05 cedric@piazzogna begin
