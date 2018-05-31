@@ -7237,6 +7237,9 @@ year 2015
 2018-06-08 cedric@piazzogna end
 
 2018-06-06 mark@london begin
+
+2018-06-11 15:00 singen@altesrathaus # wallbrunn 2, erika hogl
+
 2018-06-14 mark@london end
 
 2018-06-15 18:00 moni@women
@@ -7258,6 +7261,7 @@ year 2015
 
 2018-06-23 intensiv@beat
 
+2018-06-25 15:00 singen@altesrathaus # wallbrunn 2, erika hogl
 2018-06-26 09:00-10:00 betz # replace amalgan plombe in two teeth, fix surface on 48, dentin liegt blank
 
 2018-06-29 18:00 harald@pfalz
