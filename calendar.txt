@@ -7295,6 +7295,9 @@ year 2015
 
 2018-09-23 11:00 cousinen@moni
 
+2018-09-24 accelerator@rome begin
+2018-09-28 rome end
+
 2018-10-11 bilt@ljubljana # bilt eur 2018, ljubljana, slovenia
 2018-10-12 bilt
 2018-10-13 bilt
