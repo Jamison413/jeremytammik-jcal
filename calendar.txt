@@ -7295,6 +7295,7 @@ year 2015
 2018-08-03 pia rene end
 
 2018-08-08 ci@kiel begin # https://www.facebook.com/events/321452448380250/
+2018-08-10 anja + joachim
 2018-08-11 moni vacation end
 2018-08-12 ci@kiel end
 
