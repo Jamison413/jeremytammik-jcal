@@ -7238,7 +7238,7 @@ year 2015
 
 2018-06-06 mark@london begin
 
-2018-06-10 15:00-16:00 h3 # George Moonie garden hut opposite 119 Unterer Batterieweg Basel
+2018-06-10 15:00-16:00 h3@bruderholz # George Moonie garden hut opposite 119 Unterer Batterieweg Basel
 2018-06-11 09:30-11:30 franziska@sak
 2018-06-11 15:00 singen@altesrathaus # wallbrunn 2, erika hogl
 2018-06-12 08:00-10:00 magnus@sak
