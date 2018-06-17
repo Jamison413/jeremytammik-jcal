@@ -4909,3 +4909,12 @@ http://auskunft.kvb-koeln.de
   Basel Bad Bf an 12:41 10
   Basel Bad Bf ab 12:47 6 RB 17355 Regionalbahn Richtung: Lauchringen
   Murg(Baden) an  13:21 1
+
+2018-06-15 sbb-bsl:
+  Basel, Bahnhof SBB ab 05:25    0:21 0 NFB 50  
+  Basel EuroAirport an 05:40
+  Basel, Bahnhof SBB ab 05:40    0:21 0 NFB 50  
+  Basel EuroAirport an 05:55
+  Basel, Bahnhof SBB ab 05:55    0:21 0 NFB 50  
+  Basel EuroAirport an 06:10
+
