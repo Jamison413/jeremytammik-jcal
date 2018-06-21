@@ -7332,3 +7332,6 @@ year 2015
 2018-10-16 devcon@da # full day and evening -- evening activity is open
 2018-10-17 au@germany # au germany will be from oct 17-18, so we go for tuesday oct 16th.
 2018-10-18 au@germany
+
+2018-10-28 14:00 franziska # + david /j/tmp/2018-10-28_franziska_geburi.pdf
+
