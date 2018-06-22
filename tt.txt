@@ -4918,3 +4918,8 @@ http://auskunft.kvb-koeln.de
   Basel, Bahnhof SBB ab 05:55    0:21 0 NFB 50  
   Basel EuroAirport an 06:10
 
+2018-06-22 manchester piccadilly-airport:
+13:13 Manchester Piccadilly	
+13:30 Manchester Airport
+Getting your tickets: Self-service ticket machine
+Ref KGGCJ76W

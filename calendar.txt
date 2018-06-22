@@ -7267,6 +7267,7 @@ year 2015
 2018-06-21 bam
 2018-06-21 18:00-22:00 hackergarten@karakun # Krakung AG HQ, Leonhardsgraben 36, https://www.meetup.com/Hackergarten-Basel
 
+2018-06-22 13:50 arrive@man
 2018-06-22 14:50-17:35 man-bsl # 1h 45m, easyJet 1811, Record Locator VXRLPN, Confirmation EV1QGTL, Manchester (Terminal 1) to Basel-Mulhouse-Freiburg, EZY1811, Bag drop closes Fri 22 Jun 14:10, Check in closes 40 mins before departure
 2018-06-22 18:00-20:00 braeteln@langeerlen # /a/doc/travel/trip/basel/deepr_disco_draussen.png
 2018-06-22 20:15-22:15 tanzen
