@@ -7312,11 +7312,13 @@ year 2015
 2018-08-10 anja + joachim
 2018-08-11 moni vacation end
 2018-08-12 ci@kiel end
+2018-08-18 intensiv@pascal
 2018-08-19 climb@dauphine end
 
 2018-09-01 11:00 embodyment begin # 5rhythms as a daily practice by alain allard in basel http://www.movesintoconsciousness.com/
 2018-09-02 17:00 embodyment end # http://www.movesintoconsciousness.com/embodyment-5r-as-a-daily-practique-basel-switzerland/
 
+2018-09-15 intensiv@moni
 2018-09-23 11:00 cousinen@moni
 
 2018-09-24 accelerator@rome begin
@@ -7334,5 +7336,6 @@ year 2015
 2018-10-17 au@germany # au germany will be from oct 17-18, so we go for tuesday oct 16th.
 2018-10-18 au@germany
 
+2018-10-27 intensiv@michelle
 2018-10-28 14:00 franziska # + david /j/tmp/2018-10-28_franziska_geburi.pdf
 
