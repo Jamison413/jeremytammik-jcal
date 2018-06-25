@@ -4919,7 +4919,46 @@ http://auskunft.kvb-koeln.de
   Basel EuroAirport an 06:10
 
 2018-06-22 manchester piccadilly-airport:
-13:13 Manchester Piccadilly	
-13:30 Manchester Airport
-Getting your tickets: Self-service ticket machine
-Ref KGGCJ76W
+  13:13 Manchester Piccadilly 
+  13:30 Manchester Airport
+  Getting your tickets: Self-service ticket machine
+  Ref KGGCJ76W
+
+2018-06-25 loe-rickenbach:
+  Lörrach Hbf 10:28  0:16 0 SBB Preisauskunft nicht möglich
+  Schopfheim 10:44
+  Busbahnhof, Schopfheim   ab 10:48 Bus 7335
+  Bahnhof (Bus), Wehr (Baden) an 11:01
+  Bahnhof (Bus), Wehr (Baden) 12:19  0:43 1 BUS Preisauskunft nicht möglich
+  Hottingen Abzw. Oberwihl, Rickenbach 13:02
+  Bahnhof (Bus), Wehr (Baden) ab 12:19   Bus 7329 Bus Richtung: Strittmatt Abzw. Segeten, Görwihl
+  Busbahnhof, Rickenbach an 12:49  
+  Busbahnhof, Rickenbach ab 12:50   Bus 7327 Bus Richtung: Rotzingen Oberdorf, Görwihl
+  Hottingen Abzw. Oberwihl, Rickenbach an 13:02
+  
+  Lörrach Hbf 11:28  0:16 0 SBB Preisauskunft nicht möglich
+  Schopfheim 11:44
+  Busbahnhof, Schopfheim ab 12:00   Bus 7335 Bus Richtung: Busbahnhof, Bad Säckingen
+  Bahnhof (Bus), Wehr (Baden) an 12:14
+  Bahnhof (Bus), Wehr (Baden) ab 12:19   Bus 7329 Bus Richtung: Strittmatt Abzw. Segeten, Görwihl
+  Mediathek, Wehr (Baden) an 12:20 ab 12:20   
+  Waldstüble, Wehr (Baden) an 12:25 ab 12:25   
+  Bergalinger Rank, Wehr (Baden) an 12:28 ab 12:28   
+  Bergalingen Abzw. Jungholz, Rickenbach an 12:32 ab 12:32   
+  Bergalingen, Rickenbach an 12:34 ab 12:34   
+  Willaringen Schule, Rickenbach an 12:42 ab 12:42   
+  Willaringen, Rickenbach an 12:43 ab 12:43   
+  Abzw. Bergalingen, Rickenbach an 12:44 ab 12:44   
+  GMS, Rickenbach an 12:46 ab 12:46  
+  Busbahnhof, Rickenbach an 12:49 ab 12:49   
+  Abzw. Glashütten, Rickenbach an 12:52 ab 12:52   
+  Glashütten, Rickenbach an 12:53 ab 12:53   
+  Hütten, Rickenbach an 12:56 ab 12:56   
+  Hütten Flugplatz, Rickenbach an 12:57 ab 12:57   
+  Abzw. Rüttehof, Rickenbach an 12:58 ab 12:58   
+  Rüttehof, Rickenbach an 12:59 ab 12:59   
+  Herrischried Abzw. Strick, Rickenbach an 13:01 ab 13:01   
+  Altdorf Hotzenhof, Herrischried an 13:03 ab 13:03   
+  /a/doc/travel/trip/haenner/map_rickenbach_haenner.png
+  /j/tmp/liniennetz_suedbadenbus.pdf
+
