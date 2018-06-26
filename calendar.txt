@@ -7280,11 +7280,12 @@ year 2015
 2018-06-25 09:00 tandem@yvonne # kirchstrasse 21, rheinfelden
 2018-06-25 15:00 singen@altesrathaus # wallbrunn 2, erika hogl
 2018-06-25 15:15 franziska@flue
-2018-06-26 09:00-10:00 betz # replace amalgan plombe in two teeth, fix surface on 48, dentin liegt blank
 2018-06-26 11:28-13:03 loe-rickenbach
 2018-06-26 16:00 falk # mit moni, karen + daniel
 2018-06-26 18:00-21:00 it trends # Future Trends of Software Engineering, LaunchLabs, Halle 8, Gundeldingerfeld, Dornacherstrasse 192
+2018-06-27 09:00-11:00 magnus@sak
 
+2018-06-28 09:00-10:00 betz # replace amalgan plombe in two teeth, fix surface on 48, dentin liegt blank
 2018-06-29 18:00 harald@pfalz
 2018-06-30 moni vacation begin
 2018-06-30 guests@moni
