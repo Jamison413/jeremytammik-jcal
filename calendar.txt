@@ -7296,8 +7296,8 @@ year 2015
 
 2018-07-03 kunst@rose begin # Kunstwoche im Garten
 
-2018-07-08 magnus@auhof
-2018-07-09 magnus@auhof
+2018-07-08 magnus@auhof?
+2018-07-09 magnus@auhof?
 
 2018-07-10 kunst@rose end
 
