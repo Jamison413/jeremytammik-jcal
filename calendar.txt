@@ -7313,11 +7313,14 @@ year 2015
 2018-07-28 pia rene begin
 2018-08-03 pia rene end
 
-2018-08-08 ci@kiel begin # https://www.facebook.com/events/321452448380250/
+#2018-08-08 ci@kiel begin # https://www.facebook.com/events/321452448380250/
+2018-08-08 06:50-09:10 zrh-arn # lx1248 
 2018-08-08 climb@dauphine begin # angela rosin
 2018-08-10 anja + joachim
 2018-08-11 moni vacation end
-2018-08-12 ci@kiel end
+#2018-08-12 ci@kiel end
+2018-08-16 07:20-09:45 arn-zrh # lx4707 SAS
+
 2018-08-18 intensiv@pascal
 2018-08-19 climb@dauphine end
 
