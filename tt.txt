@@ -4950,3 +4950,33 @@ http://auskunft.kvb-koeln.de
   Lörrach Hbf   12:31  0:50 1 SBB, RB 5,75 EUR 
   Murg(Baden)  13:21
 
+
+
+Murg(Baden)	14:03 	0:54	1	RB, SBB	32,00 EUR  in der 1.Klasse
+11,50 EUR 
+Lörrach Hbf	14:57
+Details einblenden			
+Zur Angebotsauswahl
+Murg(Baden)	14:32 	0:55	1	RB, SBB	32,00 EUR  in der 1.Klasse
+11,50 EUR 
+Lörrach Hbf	15:27
+Details einblenden			
+Zur Angebotsauswahl
+Murg(Baden)	15:03 	0:54	1	RB, SBB	32,00 EUR  in der 1.Klasse
+11,50 EUR 
+Lörrach Hbf	15:57
+Details einblenden			
+Zur Angebotsauswahl
+Murg(Baden)	15:32 	0:55	1	RB, SBB	32,00 EUR  in der 1.Klasse
+11,50 EUR 
+Lörrach Hbf	16:27
+Details einblenden			
+Zur Angebotsauswahl
+Murg(Baden)	16:03 	0:54	1	RB, SBB	32,00 EUR  in der 1.Klasse
+11,50 EUR 
+Lörrach Hbf	16:57
+Details einblenden			
+Zur Angebotsauswahl
+Murg(Baden)	16:32 	0:55	1	RB, SBB	32,00 EUR  in der 1.Klasse
+11,50 EUR 
+Lörrach Hbf	17:27
