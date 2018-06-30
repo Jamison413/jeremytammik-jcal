@@ -7285,7 +7285,7 @@ year 2015
 2018-06-26 18:00-21:00 it trends # Future Trends of Software Engineering, LaunchLabs, Halle 8, Gundeldingerfeld, Dornacherstrasse 192
 2018-06-27 09:00-11:00 magnus@sak
 
-2018-06-28 09:00-10:00 betz # replace amalgan plombe in two teeth, fix surface on 48, dentin liegt blank
+2018-06-28 09:00-10:00 betz # dentist replace amalgan plombe in two teeth, fix surface on 48, dentin liegt blank
 2018-06-29 18:00 harald@pfalz
 2018-06-30 moni vacation begin
 2018-06-30 guests@moni
@@ -7312,6 +7312,8 @@ year 2015
 
 2018-07-28 pia rene begin
 2018-08-03 pia rene end
+
+2018-08-01 (+-2 ca.) conny@klettern
 
 #2018-08-08 ci@kiel begin # https://www.facebook.com/events/321452448380250/
 2018-08-08 06:50-09:10 zrh-arn # lx1248 Buchungsreferenz SZEOAH
@@ -7352,3 +7354,4 @@ year 2015
 2018-10-27 intensiv@michelle
 2018-10-28 14:00 franziska # + david /j/tmp/2018-10-28_franziska_geburi.pdf
 
+2019-04-24 09:00 betz # dentist
