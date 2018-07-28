@@ -7313,8 +7313,8 @@ year 2015
 2018-07-28 jeanlemoine # /j/tmp/2018-07-28_matthias_einladung.jpeg
 
 2018-07-29 12:00 pia rene begin
-2018-08-02 dani begin
-2018-08-03 dani end
+2018-08-02 12:45 dani@luino arrivo
+2018-08-03 11:20 dani@luino partenza
 2018-08-03 pia rene end
 
 2018-08-01 (+-2 ca.) conny@klettern
