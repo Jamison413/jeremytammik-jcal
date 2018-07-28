@@ -6722,7 +6722,7 @@ year 2015
 2017-07-09 harald@pfalz end # dav
 
 2017-07-13 dany
-2017-07-13 11:10-11:45 luino-intra # 201 duration 45 minutes http://www.navigazionelaghi.it/eng/m_orari_1.asp
+2017-07-13 11:10-11:45 luino-intra # 201 duration 45 minutes http://www.navigazionelaghi.it
 2017-07-14 11:55-12:45 intra-luino # 200 duration 50 minutes
 2017-07-15 piazzogna end
 
@@ -7313,6 +7313,8 @@ year 2015
 2018-07-28 jeanlemoine # /j/tmp/2018-07-28_matthias_einladung.jpeg
 
 2018-07-29 12:00 pia rene begin
+2018-08-02 dani begin
+2018-08-03 dani end
 2018-08-03 pia rene end
 
 2018-08-01 (+-2 ca.) conny@klettern
