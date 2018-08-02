@@ -7319,6 +7319,8 @@ year 2015
 2018-08-03 pia rene end
 
 2018-08-07 14:00 aec wg
+2018-08-07 18:00 maris@skype
+
 #2018-08-08 ci@kiel begin # https://www.facebook.com/events/321452448380250/
 2018-08-08 06:50-09:10 zrh-arn # lx1248 Buchungsreferenz SZEOAH
 2018-08-08 climb@dauphine begin # angela rosin
