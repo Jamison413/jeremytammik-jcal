@@ -7325,7 +7325,7 @@ year 2015
 
 2018-08-08 04:37-06:04 bsl-zrh
 2018-08-08 06:10 check-in@zrh
-2018-08-08 06:50-09:10 zrh-arn # lx1248 Buchungsreferenz SZEOAH
+2018-08-08 06:50-09:10 zrh-arn # lx1248 Buchungsreferenz SZEOAH arn Terminal 5
 
 #2018-08-08 climb@dauphine begin # angela rosin
 
