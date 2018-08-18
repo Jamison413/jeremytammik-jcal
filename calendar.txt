@@ -7356,9 +7356,9 @@ year 2015
 2018-08-27 18:30-21:30 haka@zrh # Matiu Te Huki, Pädagogische Hochschule, Lagerstrasse 2, Room LAC-C012, 8090 Zürich
 2018-08-28 18:00-22:00 hackergarten@trivadis # Trivadis AG, Elisabethenanlage 9, 9th floor
 
-2018-09-01 11:00-18:00 embodyment begin # 5rhythms as a daily practice by alain allard in basel http://www.movesintoconsciousness.com/
+2018-09-01 11:00-18:00 embodyment # 5rhythms as a daily practice by alain allard in basel http://www.movesintoconsciousness.com/
 2018-09-01 17:00 fruendinnetraeffe vors schwuemmbad joggeli # /j/tmp/2018-09-01_FruendInnetraeffe.docx
-2018-09-02 11:00-17:00 embodyment end # http://www.movesintoconsciousness.com/embodyment-5r-as-a-daily-practique-basel-switzerland/
+2018-09-02 11:00-17:00 embodyment # http://www.movesintoconsciousness.com/embodyment-5r-as-a-daily-practique-basel-switzerland/
 
 2018-09-09 nik@berge
 2018-09-10 nik@berge
