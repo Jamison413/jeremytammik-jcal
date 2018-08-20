@@ -4962,3 +4962,10 @@ http://auskunft.kvb-koeln.de
   Lörrach Hbf 16:57
   Murg(Baden) 16:32  0:55 1 RB, SBB 32,00 EUR  in der 1.Klasse
   Lörrach Hbf 17:27
+
+2018-08-20 bsl heuwaage-flueh
+  Basel, Heuwaage ab 15:27    0:27 0 NFT 10  
+  Flüh, Bahnhof an 15:54
+  Basel, Heuwaage ab 15:42    0:27 0 NFT 10  
+  Flüh, Bahnhof an 16:09
+
