@@ -7161,13 +7161,13 @@ year 2015
 2018-04-13 10:25 cornelius@bsl arr
 2018-04-13 19:00-21:00 forum@florli # florastrasse 21, olten, heiner und artemi
 2018-04-13 mich gerber # liestal
-2018-04-13 18:00 tanztheater@sak # rose nicol
+2018-04-13 18:00 tanztheater@sak # rose nicol 'ich heute wo du?' https://youtu.be/uqWhkQxjfSM
 
 2018-04-14 17:30 atmo@ft
 2018-04-15 11:30-16:00 zuegeln@moc # pfeffingerstr 85
 2018-04-15 12:00 jam@bsl # sonntagsjam tanzraum warteck, 12-14 crashcourse, 14-18 jam
 2018-04-15 13:00 moni@women
-2018-04-15 18:00 tanztheater@sak # rose nicol https://youtu.be/uqWhkQxjfSM
+2018-04-15 18:00 tanztheater@sak
 
 2018-04-16 08:50 dentist betz # plombe kaputt tooth 46
 
@@ -7369,6 +7369,7 @@ year 2015
 
 2018-09-15 intensiv@moni
 2018-09-15 17:00 nachbarn@moni
+2018-09-16 14:00 couples # daniel + karen, nik + leandra, j + m
 2018-09-23 11:00 cousinen@moni
 
 2018-09-24 accelerator@rome begin
