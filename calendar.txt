@@ -7379,6 +7379,7 @@ year 2015
 2018-09-29 moni vacation begin
 
 2018-09-29 07:15-10:25 sxf-otp # Duration 2h 10', Schoenefeld – Berlin, Ryanair FR 314, Otopeni International – Bucharest
+2018-09-29 14:55-16:35 fco T3-zrh # Rome (FCO) to Zurich (ZRH) Swiss 1737 Rome Fiumicino Airport (FCO) Terminal 3 Duration: 1 hour, 40 minutes, Confirmation: QQ4EEA, Air Frequent Flyer Number:LH-543985782
 
 2018-09-30 06:40-09:55 zrh-otp # Zürich (ZRH) - Bukarest (OTP) Reisedauer 2h 15m LX 1886, Cornelius Buchungsreferenz N4BSBE
 2018-09-30 10:55 car@magrenta # buchungsnummer RO372738510
