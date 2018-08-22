@@ -7350,6 +7350,7 @@ year 2015
 2018-08-21 14:00 aec wg
 
 2018-08-22 08:30-11:00 magnus@sangha
+2018-08-22 17:30-18:30 m + n @ rhii
 2018-08-22 18:30-20:00 dragonboat@wettsteinbruecke # https://www.meetup.com/Basel-Sports-and-Recreation-Meetup/events/253838884
 2018-08-22 20:00 7x7 franziska@bafudi
 
@@ -7370,7 +7371,7 @@ year 2015
 
 2018-09-15 intensiv@moni
 2018-09-15 17:00 nachbarn@moni
-2018-09-16 14:00 couples # daniel + karen, nik + leandra, j + m
+2018-09-16 15:00-18:00 couples # daniel + karen, nik + leandra, j + m
 2018-09-23 11:00 cousinen@moni
 2018-09-23 14:50-16:20 bls-fco # Basel/Mulhouse (BSL) to Rome (FCO) easyJet 1061 Duration: 1 hour, 30 minutes Rome Fiumicino Airport (FCO) Confirmation: EVMX5PC
 
@@ -7379,7 +7380,7 @@ year 2015
 2018-09-29 moni vacation begin
 
 2018-09-29 07:15-10:25 sxf-otp # Duration 2h 10', Schoenefeld – Berlin, Ryanair FR 314, Otopeni International – Bucharest
-2018-09-29 14:55-16:35 fco T3-zrh # Rome (FCO) to Zurich (ZRH) Swiss 1737 Rome Fiumicino Airport (FCO) Terminal 3 Duration: 1 hour, 40 minutes, Confirmation: QQ4EEA, Air Frequent Flyer Number:LH-543985782
+2018-09-29 14:55-16:35 fco T3-zrh # Rome (FCO) to Zurich (ZRH) Swiss 1737 Rome Fiumicino Airport (FCO) Terminal 3 Duration: 1 hour, 40 minutes, Confirmation QQ4EEA, Air Frequent Flyer Number LH-543985782, Trip Record Locator MTMGKB
 
 2018-09-30 06:40-09:55 zrh-otp # Zürich (ZRH) - Bukarest (OTP) Reisedauer 2h 15m LX 1886, Cornelius Buchungsreferenz N4BSBE
 2018-09-30 10:55 car@magrenta # buchungsnummer RO372738510
