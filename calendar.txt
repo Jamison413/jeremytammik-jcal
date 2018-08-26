@@ -7357,7 +7357,7 @@ year 2015
 2018-08-24 16:00 geburi@anja # /j/tmp/anja_geburi.pdf
 2018-08-24 18:00-22:00 moni@tagifest
 
-2018-08-27 18:00-21:30 haka@zrh # Matiu Te Huki, Pädagogische Hochschule, Lagerstrasse 2, Untergeschoss, Room LAC-C012, 8090 Zürich
+2018-08-27 18:00-21:30 haka@zrh # Matiu Te Huki, Pädagogische Hochschule, Lagerstrasse 2, Untergeschoss, Room LAC-C012, 8090 Zürich /a/doc/expense/receipt/2018/2018-08-27_sbb_bsl_zrh.pdf
 
 2018-08-28 18:00-22:00 hackergarten@trivadis # Trivadis AG, Elisabethenanlage 9, 9th floor
 2018-08-29 12:00 conny
