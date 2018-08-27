@@ -4969,3 +4969,6 @@ http://auskunft.kvb-koeln.de
   Basel, Heuwaage ab 15:42    0:27 0 NFT 10  
   Flüh, Bahnhof an 16:09
 
+2018-08-27 bsl-zrh:
+  Basel ab 16:33 Gleis 10
+  Zurich an 17:26  
