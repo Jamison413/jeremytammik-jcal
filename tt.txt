@@ -4971,4 +4971,14 @@ http://auskunft.kvb-koeln.de
 
 2018-08-27 bsl-zrh:
   Basel ab 16:33 Gleis 10
-  Zurich an 17:26  
+  Zurich an 17:26
+  
+2018-08-29 bsl-murg:
+  Basel Bad Bf 11:47  0:34 0 RB 9,50 EUR 
+  Murg(Baden) 12:21
+  
+  Bahnhof, Murg 16:33 IRE 3048
+  Basel Bad Bf 17:16
+  
+  Murg(Baden) 17:03  0:35 0 RB 9,50 EUR 
+  Basel Bad Bf 17:38
