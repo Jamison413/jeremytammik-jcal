@@ -7368,8 +7368,8 @@ year 2015
 
 2018-09-01 11:00-18:00 embodyment # 5rhythms as a daily practice by alain allard in basel http://www.movesintoconsciousness.com/
 2018-09-01 17:00 fruendinnetraeffe@nik # /j/tmp/2018-09-01_FruendInnetraeffe.docx
-2018-09-01 19:00 feuer@andrea # magischen Feuerkreis anzuenden, bespielen und betanzen
 2018-09-02 11:00-17:00 embodyment # http://www.movesintoconsciousness.com/embodyment-5r-as-a-daily-practique-basel-switzerland/
+2018-09-02 18:00 feuer@andrea # magischen Feuerkreis anzuenden, bespielen und betanzen
 
 2018-09-03 alex@hochtour
 
@@ -7380,6 +7380,7 @@ year 2015
 2018-09-09 nik@berge
 2018-09-10 nik@berge
 
+2018-09-14 15:00 bewuss-treff # andreas wern, breslauerstr. 14, rheinfelden
 2018-09-15 intensiv@moni
 2018-09-15 17:00 nachbarn@moni
 2018-09-16 15:00-18:00 couples # daniel + karen, nik + leandra, j + m
@@ -7406,7 +7407,10 @@ year 2015
 2018-10-09 15:00 car return
 2018-10-09 16:00-17:25 otp-zrh # Bukarest (OTP) - Zürich (ZRH) Reisedauer 2h 25m LX 1885
 
-2018-10-13 19:00 michel geburi # hotel victoria universum bahnhof sbb bsl
+2018-10-10 moni@tessin begin
+2018-10-13 moni@tessin end
+
+#2018-10-13 19:00 michel geburi # hotel victoria universum bahnhof sbb bsl
 
 2018-10-11 bilt@ljubljana # bilt eur 2018, ljubljana, slovenia
 2018-10-12 bilt
