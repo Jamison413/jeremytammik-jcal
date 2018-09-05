@@ -7374,9 +7374,8 @@ year 2015
 2018-09-03 06:40 alex@hochtour
 2018-09-04 16:30 stefan@picassoplatz # unterm Baum vor dem Kiosk
 
-2018-09-05 19:00 huenerberger
-
 2018-09-05 12:00 conny@oberried
+2018-09-05 19:00 huenerberger
 
 2018-09-09 11:00 pia + rene
 2018-09-10 pia + rene end
