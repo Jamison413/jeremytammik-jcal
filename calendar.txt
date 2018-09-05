@@ -7376,8 +7376,9 @@ year 2015
 
 2018-09-05 19:00 huenerberger
 
-2018-09-06 09:00 andrea + magnus
 2018-09-06 12:00 conny@oberried
+
+2018-09-07 09:00 andrea + magnus
 
 2018-09-09 11:00 pia + rene
 2018-09-10 pia + rene end
