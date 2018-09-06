@@ -7380,8 +7380,7 @@ year 2015
 
 2018-09-07 09:00 andrea + magnus
 
-2018-09-09 11:00 pia + rene
-2018-09-10 pia + rene end
+2018-09-09 11:00-21:00 pia + rene
 
 2018-09-12 18:00 falk + karen
 2018-09-13 nik@berge
