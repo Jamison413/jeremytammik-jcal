@@ -7376,9 +7376,11 @@ year 2015
 
 2018-09-05 19:00 huenerberger
 
-2018-09-06 12:00 conny@oberried
+#2018-09-05 12:00 conny@oberried &ndash; abgesagt
+#2018-09-06 12:00 conny@oberried &ndash; abgesagt
 
 2018-09-07 09:00 andrea + magnus
+2018-09-08 07:00 alex@brotmesser
 
 2018-09-09 11:00-21:00 pia + rene
 
