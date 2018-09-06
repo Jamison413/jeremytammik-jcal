@@ -7383,16 +7383,17 @@ year 2015
 2018-09-09 11:00 pia + rene
 2018-09-10 pia + rene end
 
-2018-09-09 nik@berge
-2018-09-10 nik@berge
-
 2018-09-12 18:00 falk + karen
+2018-09-13 nik@berge
 2018-09-13 18:00-22:00 hackergarten#karakun # Karakun AG, Leonhardsgraben 36
+2018-09-14 nik@berge
 2018-09-14 15:00 bewuss-treff # andreas wern, breslauerstr. 14, rheinfelden
 2018-09-14 17:00 marion geburi # Saal des Kulturzentrums Dreiklang in Sulzburg/Laufen
 2018-09-15 intensiv@moni
 2018-09-15 17:00 nachbarn@moni
 2018-09-16 15:00-18:00 couples # daniel + karen, nik + leandra, j + m
+2018-09-21 tagliare alberi # con ciprian 
+2018-09-22 tagliare alberi
 2018-09-23 11:00 cousinen@moni
 2018-09-23 14:50-16:20 bls-fco # Basel/Mulhouse (BSL) to Rome (FCO) easyJet 1061 Duration: 1 hour, 30 minutes Rome Fiumicino Airport (FCO) Confirmation: EVMX5PC
 
