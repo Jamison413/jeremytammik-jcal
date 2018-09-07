@@ -7383,6 +7383,7 @@ year 2015
 2018-09-08 07:00 alex@brotmesser
 
 2018-09-09 11:00-21:00 pia + rene
+2018-09-10 09:00-14:00 conny
 2018-09-11 18:00 huenerberger
 2018-09-12 18:00 falk + karen
 2018-09-13 nik@berge
