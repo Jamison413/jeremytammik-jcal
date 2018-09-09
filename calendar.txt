@@ -7390,7 +7390,8 @@ year 2015
 2018-09-13 18:00-22:00 hackergarten#karakun # Karakun AG, Leonhardsgraben 36
 2018-09-14 nik@berge
 2018-09-14 15:00 bewuss-treff # andreas wern, breslauerstr. 14, rheinfelden
-2018-09-14 17:00 marion geburi # Saal des Kulturzentrums Dreiklang in Sulzburg/Laufen
+2018-09-14 14:00 marion@3klang # /a/doc/travel/trip/sulzburg/map_heitersheim_laufen_sulzburg.png
+2018-09-14 17:00 marion geburi # Saal des Kulturzentrums3klang in Sulzburg/Laufen, Doretmatt 2, 79295 Laufen https://www.kulturzentrum3klang.de
 2018-09-15 intensiv@moni
 2018-09-15 17:00 nachbarn@moni
 2018-09-16 15:00-18:00 couples@nik # daniel + karen, nik + leandra, j + m
