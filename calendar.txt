@@ -7421,6 +7421,7 @@ year 2015
 2018-10-09 16:00-17:25 otp-zrh # Bukarest (OTP) - Zürich (ZRH) Reisedauer 2h 25m LX 1885
 
 2018-10-11 moni@tessin begin
+2018-10-12 08:30 yoga begin
 2018-10-13 moni@tessin end
 
 #2018-10-13 19:00 michel geburi # hotel victoria universum bahnhof sbb bsl
