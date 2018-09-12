@@ -4976,9 +4976,20 @@ http://auskunft.kvb-koeln.de
 2018-08-29 bsl-murg:
   Basel Bad Bf 11:47  0:34 0 RB 9,50 EUR 
   Murg(Baden) 12:21
-  
   Bahnhof, Murg 16:33 IRE 3048
   Basel Bad Bf 17:16
-  
   Murg(Baden) 17:03  0:35 0 RB 9,50 EUR 
   Basel Bad Bf 17:38
+
+2018-09-12 bsl-matthorn:
+  Basel SBB 06:17 15 dauer 1:13 IR 2459 Luzern 07:30 8
+  Luzern 07:42 14 dauer 0:17 S5 21526 Alpnachstad 07:59 2
+  Alpnachstad PB 08:10 dauer 0:12 R 5 Aemsigen 08:22
+ 
+  Basel SBB ab 07:04 8  IR 26 Richtung: Erstfeld
+  Luzern an 08:05 7
+  Luzern ab 08:12 14  S 5 Richtung: Giswil
+  Alpnachstad an 08:29 2
+  Alpnachstad PB ab 08:50   R 7 Richtung: Pilatus Kulm
+  Aemsigen X an 09:02 
+  Dauer: 1:58; 
