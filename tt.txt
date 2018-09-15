@@ -4993,3 +4993,9 @@ http://auskunft.kvb-koeln.de
   Alpnachstad PB ab 08:50   R 7 Richtung: Pilatus Kulm
   Aemsigen X an 09:02 
   Dauer: 1:58; 
+
+2018-09-14 loe-heitersheim:
+  Lörrach Hbf Fr, 14.09.2018 13:16 SBB87905 
+  Weil am Rhein 13:27
+  Weil am Rhein Fr, 14.09.2018 13:31 RB 17042 
+  Heitersheim 14:03
