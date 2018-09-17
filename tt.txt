@@ -4999,3 +4999,36 @@ http://auskunft.kvb-koeln.de
   Weil am Rhein 13:27
   Weil am Rhein Fr, 14.09.2018 13:31 RB 17042 
   Heitersheim 14:03
+
+2018-09-18 bsl-schwefelbergbad:
+  Basel SBB ab 06:59 7  IC 61 Richtung: Interlaken Ost
+  Bern an 07:56 4
+  Bern ab 08:12 6  S 44 Richtung: Thun
+  Thurnen an 08:33 1
+  Thurnen, Bahnhof ab 08:35   BUS 323 Richtung: Schwarzenburg, Bahnhof
+  Schwefelberg Bad an 09:22 
+  Dauer: 2:23; 
+
+2018-09-18 bsl-isenthal:
+
+  Basel SBB ab 05:04 8  IR 26 Richtung: Erstfeld
+  Flüelen an 07:15 3
+  Flüelen, Hauptplatz ab 07:19   NFB 1 Niederflur-Bus 1 18 Richtung: Amsteg, Post
+  Altdorf UR, Telldenkmal an 07:26 
+  Altdorf UR, Post ab 07:30   BUS 405 Richtung: Isenthal, Seilbahn St. Jakob
+  Isenthal, Post an 07:56 
+  Dauer: 2:52; 
+  
+  Isenthal, Seilbahn St. Jakob 08:03
+    
+  Basel SBB ab 06:33 8  IC 3 Richtung: Chur
+  Zürich HB an 07:26 11
+  Zürich HB ab 07:35 10  IR 70 Richtung: Luzern
+  Zug an 08:01 4
+  Zug ab 08:05 2  S 2 Richtung: Erstfeld
+  Flüelen an 08:46 3
+  Flüelen, Bahnhof ab 09:18   BUS 405 Richtung: Isenthal, Seilbahn St. Jakob
+  Isenthal, Post an 09:44 
+  Dauer: 3:11;
+  
+  Isenthal, Seilbahn St. Jakob 09:51  
