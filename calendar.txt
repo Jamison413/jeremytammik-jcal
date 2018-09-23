@@ -7405,7 +7405,8 @@ year 2015
 
 2018-09-23 11:00 cousinen@moni
 
-2018-09-23 14:50-16:20 bls-fco # Basel/Mulhouse (BSL) to Rome (FCO) easyJet 1061 Duration: 1 hour, 30 minutes Rome Fiumicino Airport (FCO) Confirmation: EVMX5PC /a/doc/travel/trip/roma/2018-09-23_easyjet_boardingpass.pdf
+2018-09-23 14:20 gate closes
+2018-09-23 14:50-16:20 bls-fco # Basel/Mulhouse (BSL) to Rome (FCO) easyJet 1061 Duration: 1 hour, 30 minutes Rome Fiumicino Airport (FCO) Confirmation: EVMX5PC -- /a/doc/travel/trip/roma/2018-09-23_easyjet_boardingpass.pdf -- https://www.easyjet.com/en/flight-tracker/EZS1061?fd=2018-09-23
 
 2018-09-24 accelerator@rome begin
 2018-09-28 rome end
