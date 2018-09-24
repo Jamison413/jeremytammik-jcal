@@ -7429,6 +7429,8 @@ year 2015
 2018-10-09 16:00-17:25 otp-zrh # Bukarest (OTP) - Zürich (ZRH) Reisedauer 2h 25m LX 1885
 2018-10-09 18:43-20:03 zrh-bsl # /a/doc/expense/receipt/2018/2018-10-09_sbb_zrh_bsl_*.pdf
 
+2018-10-10 10:00 mediweb@wolfgang 
+
 2018-10-11 moni@tessin begin
 2018-10-12 08:30 yoga begin
 2018-10-13 moni@tessin end
