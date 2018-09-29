@@ -7458,8 +7458,10 @@ year 2015
 
 2018-11-21 18:00 gemeinschaft # barbara, michael, moni, jeremy, nik
 
+2018-11-23 21:30 annette begin
 2018-11-24 <a href="https://novemberparty.github.io/">novemberparty</a>
 2018-11-25 sweat lodge
+2018-11-25 16:00 annette end
 
 2019-03-02 madlee@wildhaus begin # with moni + matthias
 2019-03-09 madlee@wildhaus end
