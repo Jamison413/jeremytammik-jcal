@@ -7425,6 +7425,8 @@ year 2015
 2018-10-05 dav@aftersteg begin
 2018-10-07 dav@aftersteg end
 
+2018-10-09 11:00 lina@
+
 2018-10-09 11:00-12:10 otp-sxf # Duration 2h 10', Otopeni International – Bucharest, Ryanair FR 315, Schoenefeld – Berlin
 
 2018-10-09 15:00 car return
