@@ -7449,6 +7449,9 @@ year 2015
 #2018-10-13 19:00 michel geburi # hotel victoria universum bahnhof sbb bsl
 #2018-10-14 13:00 sweat@wiechs
 
+2018-10-12 lina begin
+2018-10-14 lina end
+
 2018-10-14 moni vacation end
 2018-10-14 14:00-17:00 h3@bsl # Strassburger Denkmal Basel by the SBB, https://www.meetup.com/Basel-Hash/events/255245784
 
@@ -7465,28 +7468,35 @@ year 2015
 2018-10-20 13:00 sweat@wiechs
 2018-10-22 spain begin
 
+2018-10-26 lina begin
+2018-10-28 lina end
+
 2018-10-27 intensiv@michelle
 2018-10-28 14:00 franziska # + david /j/tmp/2018-10-28_franziska_geburi.pdf
 
 2018-11-04 spain end
 2018-11-04 koeln begin
 2018-11-05 koeln 
-2018-11-05 koeln 
+2018-11-06 koeln
+2018-11-07 08:15 frederik@suerth
 2018-11-07 koeln end
 
 2018-11-11 koeln begin
 2018-11-12 koeln 
 2018-11-13 koeln 
+2018-11-14 08:15 frederik@suerth
 2018-11-14 koeln end
 
 2018-11-18 15:00-19:00 couples@leandra # daniel + karen, nik + leandra, j + m
 
 2018-11-21 18:00 gemeinschaft # barbara, michael, moni, jeremy, nik
 
+2018-11-23 lina begin
 2018-11-23 21:30 annette begin
 2018-11-24 <a href="https://novemberparty.github.io/">novemberparty</a>
 2018-11-25 sweat lodge
 2018-11-25 16:00 annette end
+2018-11-25 lina end
 
 2019-03-02 madlee@wildhaus begin # with moni + matthias
 2019-03-09 madlee@wildhaus end
