@@ -7453,7 +7453,7 @@ year 2015
 2018-10-14 lina end
 
 2018-10-14 moni vacation end
-2018-10-14 14:00-17:00 h3@bsl # Strassburger Denkmal Basel by the SBB, https://www.meetup.com/Basel-Hash/events/255245784
+2018-10-14 14:00-17:00 h3@bsl # Strassburger Denkmal Basel by the SBB, https://www.meetup.com/Basel-Hash/events/255245784, https://www.google.com/maps/place/Strassburger+Denkmal/@47.5491214,7.5903742,247m/data=!3m1!1e3!4m5!3m4!1s0x4791b84d97d62021:0x32f7cff8912386a!8m2!3d47.5489848!4d7.5909036
 
 2018-10-15 19:00 georg
 
