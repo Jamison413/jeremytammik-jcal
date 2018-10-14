@@ -5032,3 +5032,10 @@ http://auskunft.kvb-koeln.de
   Dauer: 3:11;
   
   Isenthal, Seilbahn St. Jakob 09:51  
+
+2018-10-15 fr-da:
+  Freiburg(Breisgau) ab 15:49,  Gleis 1 ICE 70
+  Frankfurt(Main) an 17:53,  Gleis 8
+  Frankfurt(Main) ab 18:06,  Gleis 12 RB 15329
+  Darmstadt Hbf   an 18:25,  Gleis 10 
+
