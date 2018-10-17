@@ -7460,7 +7460,7 @@ year 2015
 2018-10-16 devcon@da # full day and evening -- evening activity is open
 2018-10-16 16:20 da4r@devcon # Breakout 8: Design Automation for Revit, Augusto Goncalves / Jeremy Tammik
 2018-10-17 au@germany # au germany will be from oct 17-18, so we go for tuesday oct 16th.
-2018-10-17 11:30-12:30 da4r@au # BIM360 News und Online Live Revit-Programmierung von BIM via Forge Design Automation API für RVT
+2018-10-17 11:30-12:30 da4r@au 2.07 # BIM360 News und Online Live Revit-Programmierung von BIM via Forge Design Automation API für RVT
 2018-10-18 au@germany
 2018-10-18 georg end
 2018-10-18 15:00-22:00 bewusst@schopfheim # Bewußt-Treff in Schopfheim, Familienzentrum, E.-F. Gottschalk-Weg 3, 30 m links rein in den Häuserblock, Leiterin Frau Cornelia Hartmann
