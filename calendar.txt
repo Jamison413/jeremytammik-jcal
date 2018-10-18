@@ -7465,7 +7465,7 @@ year 2015
 2018-10-18 georg end
 2018-10-18 15:00-22:00 bewusst@schopfheim # Bewußt-Treff in Schopfheim, Familienzentrum, E.-F. Gottschalk-Weg 3, 30 m links rein in den Häuserblock, Leiterin Frau Cornelia Hartmann
 2018-10-18 20:30-22:00 tanzimpro@gruett
-2018-10-19 18:30-20:30 agora@bsl # Unternehmen Mitte, Gerbergasse 30, https://www.meetup.com/Agora-of-Basel/events/255575842
+2018-10-19 18:30-20:30 agora@bsl # Unternehmen Mitte, Gerbergasse 30, https://www.meetup.com/Agora-of-Basel/events/255575842, Threat to democracy and the role technology will play!
 
 2018-10-20 09:30 veloedach
 2018-10-20 13:00 sweat@wiechs
@@ -7487,6 +7487,8 @@ year 2015
 2018-11-06 koeln
 2018-11-07 08:15 frederik@suerth
 2018-11-07 koeln end
+
+2018-11-09 party@hadid # /j/tmp/andrea_balint_herbstfest_2018.jpeg
 
 2018-11-11 koeln begin
 2018-11-12 koeln 
