@@ -7492,6 +7492,8 @@ year 2015
 #2018-11-07 08:15 frederik@suerth
 #2018-11-07 koeln end
 
+2018-11-08 15:45-18:25 agp-bsl # easyjet EZS1068 Malaga - Basel-Mulhouse-Freiburg EW18D12
+
 2018-11-09 party@hadid # /j/tmp/andrea_balint_herbstfest_2018.jpeg
 
 #2018-11-11 koeln begin
