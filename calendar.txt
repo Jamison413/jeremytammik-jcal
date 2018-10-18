@@ -7481,20 +7481,20 @@ year 2015
 
 2018-10-29 16:25-19:00 bsl-agp # Basel-Mulhouse-Freiburg - Malaga
 
-2018-11-04 spain end
-2018-11-04 koeln begin
-2018-11-05 koeln 
-2018-11-06 koeln
-2018-11-07 08:15 frederik@suerth
-2018-11-07 koeln end
+#2018-11-04 spain end
+#2018-11-04 koeln begin
+#2018-11-05 koeln 
+#2018-11-06 koeln
+#2018-11-07 08:15 frederik@suerth
+#2018-11-07 koeln end
 
 2018-11-09 party@hadid # /j/tmp/andrea_balint_herbstfest_2018.jpeg
 
-2018-11-11 koeln begin
-2018-11-12 koeln 
-2018-11-13 koeln 
-2018-11-14 08:15 frederik@suerth
-2018-11-14 koeln end
+#2018-11-11 koeln begin
+#2018-11-12 koeln 
+#2018-11-13 koeln 
+#2018-11-14 08:15 frederik@suerth
+#2018-11-14 koeln end
 
 2018-11-18 15:00-19:00 couples@leandra # daniel + karen, nik + leandra, j + m
 
@@ -7506,6 +7506,10 @@ year 2015
 2018-11-25 sweat lodge
 2018-11-25 16:00 annette end
 2018-11-25 lina end
+
+2018-12-01 lina begin
+2018-12-01 20:00 lina@party
+2018-12-02 lina end
 
 2019-03-02 madlee@wildhaus begin # with moni + matthias
 2019-03-09 madlee@wildhaus end
