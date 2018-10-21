@@ -7481,7 +7481,8 @@ year 2015
 2018-10-26 lina begin
 2018-10-28 lina end
 
-2018-10-27 intensiv@michelle
+2018-10-27 09:00 znueni@michelle
+2018-10-27 10:00 intensiv@michelle
 2018-10-28 security awareness training
 2018-10-28 14:00 franziska # + david /j/tmp/2018-10-28_franziska_geburi.pdf
 
