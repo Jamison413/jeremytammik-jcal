@@ -7478,7 +7478,7 @@ year 2015
 
 #2018-10-24 17:00 rath@krozingen # such einen zug aus und sag wann
 
-2018-10-26 12:00 tichu ta + jue
+2018-10-26 11:30 tichu ta + jue
 
 2018-10-26 lina begin
 2018-10-28 lina end
@@ -7512,6 +7512,7 @@ year 2015
 2018-11-18 15:00-19:00 couples@leandra # daniel + karen, nik + leandra, j + m
 
 2018-11-21 18:00 gemeinschaft # barbara, michael, moni, jeremy, nik
+2018-11-22 18:00-22:30 hackergarten#magnolia # Oslo-Strasse 2
 
 2018-11-23 lina begin
 2018-11-23 21:30 annette begin
