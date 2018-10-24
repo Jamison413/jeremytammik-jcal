@@ -7491,7 +7491,8 @@ year 2015
 2018-10-28 security awareness training
 2018-10-28 14:00 franziska # + david /j/tmp/2018-10-28_franziska_geburi.pdf
 
-2018-10-29 16:25-19:00 bsl-agp # Basel-Mulhouse-Freiburg - Malaga
+2018-10-29 16:25-19:00 bsl-agp # easyjet EZS1067 Basel-Mulhouse-Freiburg - Malaga EVZHB3P
+2018-10-29 19:00 malagacar # numero de reserva 960702 /a/doc/travel/trip/malaga/2018-10-29_malagacar_booking_voucher.pdf
 
 2018-10-31 15:00 gerre@agp
 
@@ -7502,6 +7503,7 @@ year 2015
 #2018-11-07 08:15 frederik@suerth
 #2018-11-07 koeln end
 
+2018-11-08 15:00 car return
 2018-11-08 15:45-18:25 agp-bsl # easyjet EZS1068 Malaga - Basel-Mulhouse-Freiburg EW18D12
 
 2018-11-09 party@hadid # /j/tmp/andrea_balint_herbstfest_2018.jpeg
@@ -7519,6 +7521,7 @@ year 2015
 2018-11-21 18:00 gemeinschaft # barbara, michael, moni, jeremy, nik
 2018-11-22 18:00-22:30 hackergarten#magnolia # Oslo-Strasse 2
 
+2018-11-23 12:00 tobias
 2018-11-23 lina begin
 2018-11-23 21:30 annette begin
 2018-11-24 <a href="https://novemberparty.github.io/">novemberparty</a>
