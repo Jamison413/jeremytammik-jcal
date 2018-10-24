@@ -7478,17 +7478,22 @@ year 2015
 
 #2018-10-24 17:00 rath@krozingen # such einen zug aus und sag wann
 
+2018-10-24 18:00 magnus@sangha
+2018-10-24 20:00 falk
+
 2018-10-26 11:30 tichu ta + jue
 
 2018-10-26 lina begin
 2018-10-28 lina end
 
 2018-10-27 09:00 znueni@michelle
-2018-10-27 10:00 intensiv@michelle
+2018-10-27 10:25 intensiv@michelle
 2018-10-28 security awareness training
 2018-10-28 14:00 franziska # + david /j/tmp/2018-10-28_franziska_geburi.pdf
 
 2018-10-29 16:25-19:00 bsl-agp # Basel-Mulhouse-Freiburg - Malaga
+
+2018-10-31 15:00 gerre@agp
 
 #2018-11-04 spain end
 #2018-11-04 koeln begin
