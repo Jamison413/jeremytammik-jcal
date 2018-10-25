@@ -7479,9 +7479,9 @@ year 2015
 #2018-10-24 17:00 rath@krozingen # such einen zug aus und sag wann
 
 2018-10-24 18:00 magnus@sangha
-2018-10-24 20:00 falk
 
 2018-10-26 11:30 tichu ta + jue
+2018-10-26 16:00 falk
 
 2018-10-26 lina begin
 2018-10-28 lina end
