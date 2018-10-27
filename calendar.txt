@@ -7546,6 +7546,8 @@ year 2015
 
 2019-04-24 09:00 betz # dentist
 
+2019-05-04 intensiv@pascal
+
 2019-06-07 muelital
 2019-06-08 muelital
 2019-06-09 muelital
