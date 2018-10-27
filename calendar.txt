@@ -7542,7 +7542,11 @@ year 2015
 2019-03-02 madlee@wildhaus begin # with moni + matthias
 2019-03-09 madlee@wildhaus end
 
-2019-03-30 intensiv@
-
+2019-03-30 intensiv@michelle
 
 2019-04-24 09:00 betz # dentist
+
+2019-06-07 muelital
+2019-06-08 muelital
+2019-06-09 muelital
+2019-06-10 muelital
