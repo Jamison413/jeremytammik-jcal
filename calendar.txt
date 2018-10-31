@@ -7497,7 +7497,7 @@ year 2015
 2018-10-29 16:25-19:00 <a href="https://www.easyjet.com/en/flight-tracker/EZS1067">bsl-agp</a> # easyjet EZS1067 Basel-Mulhouse-Freiburg - Malaga EVZHB3P
 2018-10-29 19:00 malagacar # numero de reserva 960702 /a/doc/travel/trip/malaga/2018-10-29_malagacar_booking_voucher.pdf
 
-2018-10-31 15:00 gerre@agp
+2018-10-31 15:00 <a href="https://www.easyjet.com/en/flight-tracker/1717">gerre@agp</a>
 
 #2018-11-04 spain end
 #2018-11-04 koeln begin
