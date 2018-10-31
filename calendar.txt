@@ -7508,6 +7508,7 @@ year 2015
 
 2018-11-07 18:45 winterfit@thr # THR-Halle, Theodor Heuss Realschule, Schützenstrasse
  
+2018-11-08 10:00 pat@nerja
 2018-11-08 15:00 car return
 2018-11-08 15:45-18:25 agp-bsl # easyjet EZS1068 Malaga - Basel-Mulhouse-Freiburg EW18D12
 
