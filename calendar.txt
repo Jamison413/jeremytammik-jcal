@@ -7506,6 +7506,10 @@ year 2015
 #2018-11-07 08:15 frederik@suerth
 #2018-11-07 koeln end
 
+2018-11-05 09:00 registro catastral
+
+2018-11-07 09:00 contract@aguas
+
 2018-11-07 18:45 winterfit@thr # THR-Halle, Theodor Heuss Realschule, Schützenstrasse
  
 2018-11-08 10:00 pat@nerja
