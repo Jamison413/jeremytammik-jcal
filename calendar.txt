@@ -7527,6 +7527,8 @@ year 2015
 #2018-11-14 08:15 frederik@suerth
 #2018-11-14 koeln end
 
+2018-11-14 15:00-22:00 bewusst-treff # Familienzentrum Schopfheim in der Kaffeestube 
+
 2018-11-16 14:00 rath@schwarzwald
 2018-11-16 18:00 party@joachim # laux
 
