@@ -7520,6 +7520,8 @@ year 2015
 2018-11-09 party@hadid # /j/tmp/andrea_balint_herbstfest_2018.jpeg
 
 2018-11-10 10:00 birgit@impulsiv
+2018-11-10 15:00 europa@nellie # Ab 15:00 bietet das Nellie Nashorn Kaffee, Kuchen und Raum für Gedankenaustausch. Pünktlich um 16:00 wird das Manifest der Europäischen Republik von der Haupttreppe des Nellie Nashorn ausgerufen werden.
+2018-11-10 16:00 europa@nellie # um 16:00 wird das Manifest der Europäischen Republik von der Haupttreppe des Nellie Nashorn ausgerufen werden
 2018-11-11 14:40 h3@stein_ag # Meeting point is a parking lot, 5 minutes walk from the station. One of us will be at the station (Stein-Säckingen) when the train from Basel arrives at 14:33 (fast train direction Zurich leaving Basel SBB at 14:13) to guide you to the meeting point, https://www.meetup.com/Basel-Hash/events/256120191
 
 #2018-11-11 koeln begin
