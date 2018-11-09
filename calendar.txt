@@ -7569,8 +7569,12 @@ year 2015
 
 2019-02-24 intensiv@thomas
 
+2019-03-02 moni vac beg
+
 2019-03-02 madlee@wildhaus begin # with moni + matthias
 2019-03-09 madlee@wildhaus end
+
+2019-03-17 moni vac end
 
 2019-03-30 intensiv@michelle
 
