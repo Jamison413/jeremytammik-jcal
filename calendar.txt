@@ -7574,6 +7574,9 @@ year 2015
 2019-03-02 madlee@wildhaus begin # with moni + matthias
 2019-03-09 madlee@wildhaus end
 
+2019-03-07 12:35-15:10 bsl-agp # Basel to Malaga EZS1067	
+2019-03-16 10:15-12:55 agp-bsl # Malaga to Basel EZS1068	
+
 2019-03-17 moni vac end
 
 2019-03-30 intensiv@michelle
