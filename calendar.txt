@@ -7536,8 +7536,9 @@ year 2015
 
 2018-11-14 15:00-22:00 bewusst-treff # Familienzentrum Schopfheim in der Kaffeestube 
 
-2018-11-16 14:00 rath@schwarzwald
-2018-11-16 18:00 party@joachim # laux
+2018-11-16 14:30-16:30 rath@krozingen
+
+#2018-11-16 18:00 party@joachim # laux
 
 2018-11-18 15:00-19:00 couples@leandra # daniel + karen, nik + leandra, j + m
 
