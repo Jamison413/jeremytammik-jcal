@@ -7536,7 +7536,8 @@ year 2015
 
 2018-11-14 15:00-22:00 bewusst-treff # Familienzentrum Schopfheim in der Kaffeestube 
 
-2018-11-16 13:30-16:30 rath@krozingen
+2018-11-16 12:52-13:32 weil-krozingen
+2018-11-16 13:32-16:30 rath@krozingen
 
 #2018-11-16 18:00 party@joachim # laux
 
