@@ -5042,5 +5042,5 @@ http://auskunft.kvb-koeln.de
   Darmstadt Hbf   an 18:25 Gleis 10 
 
 2018-11-14 weil-krozingen:
-Weil am Rhein 12:52  0:40 0 RE 5,50 EUR 
-Bad Krozingen 13:32
+  Weil am Rhein 12:52  0:40 0 RE 5,50 EUR 
+  Bad Krozingen 13:32
