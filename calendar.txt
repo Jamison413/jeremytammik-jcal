@@ -7543,6 +7543,9 @@ year 2015
 
 2018-11-18 15:00-19:00 couples@leandra # daniel + karen, nik + leandra, j + m
 
+2018-11-19 bierbaenke@lasser
+
+2018-11-21 partyshopping
 2018-11-21 18:00 gemeinschaft # barbara, michael, moni, jeremy, nik
 
 2018-11-22 08:00 schiene@betz # dentist abdruck neue knirschschiene
@@ -7555,6 +7558,7 @@ year 2015
 2018-11-23 10:00 rose
 2018-11-23 11:45 tobias
 #2018-11-23 lina begin
+2018-11-23 18:00 dinner
 2018-11-23 21:30 annette begin
 2018-11-24 <a href="https://novemberparty.github.io/">novemberparty</a>
 2018-11-25 sweat lodge
