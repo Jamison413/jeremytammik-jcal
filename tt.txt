@@ -5044,3 +5044,14 @@ http://auskunft.kvb-koeln.de
 2018-11-14 weil-krozingen:
   Weil am Rhein 12:52  0:40 0 RE 5,50 EUR 
   Bad Krozingen 13:32
+
+2018-12-01 bsl-bonn:
+  Basel Bad Bf 08:23 ICE 372 
+  Mannheim Hbf 10:23
+  Mannheim Hbf 10:39 IC 2218 
+  Bonn Hbf 12:44
+
+2018-12-03 bonn-bsl:
+  Bonn Hbf ab 09:14 3 EC 7
+  Basel Bad Bf an 13:22 3
+
