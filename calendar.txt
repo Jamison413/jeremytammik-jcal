@@ -7570,7 +7570,7 @@ year 2015
 2018-11-28 16:00 nicole
 2018-11-28 20:15 sandra + michael
 
-2018-11-30 19.30-21.30 zuhal@kaltenbach
+#2018-11-30 19.30-21.30 zuhal@kaltenbach -- cancelled
 
 2018-12-01 lina begin
 2018-12-01 20:00 lina@party
