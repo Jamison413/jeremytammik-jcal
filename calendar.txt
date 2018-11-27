@@ -7572,9 +7572,11 @@ year 2015
 
 #2018-11-30 19.30-21.30 zuhal@kaltenbach -- cancelled
 
+2018-12-01 08:23-12:44 bsl-bonn
 2018-12-01 lina begin
 2018-12-01 20:00 lina@party
 2018-12-02 lina end
+2018-12-03 09:14-13:22 bonn-bsl
 
 2018-12-05 19:30 fairnetzt@nellie # oeffentlichen Premiere des Filmclips Im Anschluss den Dokumentarfilm 'Zeit für Utopien' www.fairnetzt-loerrach.de
 2018-12-06 09:45 schiene@betz # dentist neue knirschschiene anpassen
