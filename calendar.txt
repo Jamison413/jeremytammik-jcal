@@ -7629,7 +7629,9 @@ year 2015
 
 2019-03-30 intensiv@michelle
 
+2019-04-13 moni vac beg
 2019-04-24 09:00 betz # dentist
+2019-04-28 moni vac end
 
 2019-05-04 intensiv@pascal
 
