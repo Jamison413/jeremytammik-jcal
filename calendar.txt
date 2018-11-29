@@ -7590,6 +7590,7 @@ year 2015
 
 2018-12-21 19.30-21.30 zuhal@kaltenbach
 
+2018-12-22 moni vac begin
 2018-12-22 wintersonnenwende@tatjana
 
 2018-12-26 nik + markus
@@ -7602,6 +7603,7 @@ year 2015
 
 2019-01-04 lina begin
 2019-01-06 lina end
+2019-01-06 moni vac end
 
 2019-01-11 15:00-18:00 couples@nik # daniel + karen, nik + leandra, j + m
 
@@ -7613,10 +7615,10 @@ year 2015
 2019-02-24 intensiv@thomas
 
 2019-03-02 moni vac beg
-
+2019-02-28 wilhaus begin
 2019-03-02 madlee@wildhaus begin # with moni + matthias
 2019-03-09 madlee@wildhaus end
-
+2019-03-06 wilhaus end
 2019-03-07 12:35-15:10 bsl-agp # Basel to Malaga EZS1067 booking EW4Q1G3
 2019-03-16 10:15-12:55 agp-bsl # Malaga to Basel EZS1068	
 
