@@ -7627,6 +7627,10 @@ year 2015
 
 2019-03-17 moni vac end
 
+2019-03-16 saft build # burning man
+2019-03-21 saft begin # burning man
+2019-03-25 saft end
+
 2019-03-18 ben@usa begin
 2019-03-25 lina begin?
 2019-03-29 ben@usa end
