@@ -7651,5 +7651,8 @@ year 2015
 2019-06-09 muelital
 2019-06-10 muelital
 
+2019-06-14 football@dublin begin
+2019-06-16 football@dublin end
+
 2019-06-29 moni vac beg
 2019-08-11 moni vac end
