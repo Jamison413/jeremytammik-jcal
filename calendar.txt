@@ -7647,10 +7647,17 @@ year 2015
 2019-03-25 saft end
 
 2019-03-18 ben@usa begin
+
+2019-03-21 jogi@silvretta begin # skidurchquerung
+2019-03-24 jogi@silvretta end
+
 2019-03-25 lina begin?
 2019-03-29 ben@usa end
 
 2019-03-30 intensiv@michelle
+
+2019-04-04 jogi@ortler begin # skidurchquerung
+2019-04-09 jogi@ortler end
 
 2019-04-13 moni vac beg
 2019-04-24 09:00 betz # dentist
