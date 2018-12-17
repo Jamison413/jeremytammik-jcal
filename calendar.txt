@@ -203,7 +203,7 @@ year 2015 # http://www.officeholidays.com/countries/switzerland/regional.php?lis
 2015-03-01 ne_holiday Republic Day # Neuchâtel only; in 1848, Neuchâtel declared itself a republic and part of Switzerland
 2015-04-03 ne_holiday Good Friday # Friday before Easter Sunday
 2015-04-06 ne_holiday Easter Monday # Monday after Easter Sunday
-#2015-05-01  Labour Day
+#2015-05-01 Labour Day
 2015-05-14 ne_holiday Ascension Day # 40 days after Easter
 2015-05-15 ne_holiday Bridge day
 2015-05-25 ne_holiday Whitmonday # 7th Monday after Easter, also known as Pentecost Monday
@@ -225,6 +225,36 @@ year 2017 # https://www.myworkday.com/autodesk/d/task/1422$739.htmld
 2017-08-01 ne_holiday # national day
 2017-12-25 ne_holiday # week of rest begin
 2017-12-29 ne_holiday # week of rest end
+
+year 2018 # https://www.myworkday.com/autodesk/d/inst/1422$739/rel-task/3001$14.htmld
+2018-01-01 ne_holiday # new year's day
+2018-01-02 ne_holiday # saint berchtold's day (guemligen)
+2018-03-01 ne_holiday # republic day (neuchatel)
+2018-03-30 ne_holiday # good friday
+2018-04-02 ne_holiday # easter monday
+2018-05-01 ne_holiday # labour day (neuchatel)
+2018-05-10 ne_holiday # ascension day
+2018-05-11 ne_holiday # ascension bridge day
+2018-05-21 ne_holiday # whit monday
+2018-08-01 ne_holiday # national day
+2018-09-17 ne_holiday # bettagsmontag (neuchatel)
+2018-12-24 ne_holiday # annual week of rest begin
+2018-12-30 ne_holiday # annual week of rest end
+
+year 2019 # https://www.myworkday.com/autodesk/d/inst/1422$739/rel-task/3001$14.htmld
+2019-01-01 ne_holiday # new year's day
+2018-01-02 ne_holiday # saint berchtold's day (guemligen)
+2019-03-01 ne_holiday # republic day (neuchatel)
+2019-04-19 ne_holiday # good friday
+2019-04-22 ne_holiday # easter monday
+2019-05-01 ne_holiday # labour day (neuchatel)
+2019-05-30 ne_holiday # ascension day & bridge day
+2019-05-31 ne_holiday # ascension day & bridge day
+2019-06-10 ne_holiday # whit monday
+2019-08-01 ne_holiday # national day
+2019-09-20 ne_holiday # bettagsmontag (neuchatel)
+2019-12-24 ne_holiday # annual week of rest
+2019-12-31 ne_holiday # annual week of rest
 
 # ne_holiday end.
 
