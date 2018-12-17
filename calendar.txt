@@ -243,7 +243,7 @@ year 2018 # https://www.myworkday.com/autodesk/d/inst/1422$739/rel-task/3001$14.
 
 year 2019 # https://www.myworkday.com/autodesk/d/inst/1422$739/rel-task/3001$14.htmld
 2019-01-01 ne_holiday # new year's day
-2018-01-02 ne_holiday # saint berchtold's day (guemligen)
+2019-01-02 ne_holiday # saint berchtold's day (guemligen)
 2019-03-01 ne_holiday # republic day (neuchatel)
 2019-04-19 ne_holiday # good friday
 2019-04-22 ne_holiday # easter monday
