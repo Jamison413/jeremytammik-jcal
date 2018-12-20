@@ -7635,7 +7635,7 @@ year 2015
 2018-12-21 23:23 wintersonnenwende
 
 2018-12-22 moni vac begin
-2018-12-22 wintersonnenwende@tatjana
+2018-12-22 18:00 wintersonnenwende@tatjana
 
 2018-12-26 nik + markus
 2018-12-26 13:30 h3@bsl # Restaurant Alte Post - Centralbahnstrasse 21, Basel, https://www.meetup.com/Basel-Hash/events/256349808
@@ -7650,6 +7650,7 @@ year 2015
 2019-01-03 17:00 nik + leandra?
 2019-01-04 moni@martina geburi
 2019-01-04 lina begin
+2019-01-05 umtrunk@karen
 2019-01-06 lina end
 2019-01-06 moni vac end
 
