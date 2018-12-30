@@ -7643,7 +7643,8 @@ year 2015
 2018-12-27 nik + markus
 2018-12-28 12:00 n + m end
 
-2018-12-31 pia rene
+2018-12-30 pia rene begin
+2018-12-31 pia rene 
 2019-01-01 pia rene
 2019-01-02 pia rene end
 2019-01-02 20:00 moni@bafudi
