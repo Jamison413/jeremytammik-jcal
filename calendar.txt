@@ -7649,9 +7649,9 @@ year 2015
 2019-01-02 pia rene end
 2019-01-02 20:00 moni@bafudi
 
-2019-01-03 17:00 nik + leandra?
+#2019-01-03 17:00 nik + leandra?
+2019-01-03 22:00 lina begin
 2019-01-04 moni@martina geburi
-2019-01-04 lina begin
 2019-01-04 19:00 umtrunk@burda
 2019-01-04 20:30 tanz@rumfabrik # andrea maeder gueterstr 145
 2019-01-05 16:00-20:00 umtrunk@karen
