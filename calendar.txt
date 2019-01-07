@@ -7674,13 +7674,13 @@ year 2015
 
 2019-01-31 sunahla
 
-2019-02-01 skitour@maighels # dav jochen kuri
-2019-02-02 skitour
-2019-02-03 skitour
+2019-02-01 skitour@maighels? # dav jochen kuri, angemeldet, warteliste
+2019-02-02 skitour?
+2019-02-03 skitour?
 
-2019-02-08 skitour@presda # dav luca dressino, angemeldet, warteliste platz 6
-2019-02-09 skitour
-2019-02-10 skitour
+2019-02-08 skitour@preda? # dav luca dressino, angemeldet, warteliste platz 6
+2019-02-09 skitour?
+2019-02-10 skitour?
 
 2019-02-24 intensiv@thomas
 
