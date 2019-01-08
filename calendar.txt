@@ -7663,6 +7663,7 @@ year 2015
 2019-01-12 12:00-22:00 sweat lodge
 
 2019-01-13 15:00-17:00 huenerberger
+2019-01-13 15:00-20:00 h3@arlesheim # https://www.meetup.com/Basel-Hash/events/257900973
 2019-01-14 zuhal
 
 2019-01-18 lueflue begin
