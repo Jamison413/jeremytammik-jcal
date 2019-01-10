@@ -7670,6 +7670,7 @@ year 2015
 2019-01-19 anja zuegeln
 2019-01-20 lueflue end
 
+2019-01-25 19:00-21:00 circling@schaueburg # integrales zentrum schaueburg, schauenburgerstrasse 17
 2019-01-26 18:00 frnaziska # sauna
 2019-01-27 intensiv@beat
 
@@ -7684,7 +7685,6 @@ year 2015
 2019-02-10 skitour?
 
 2019-02-24 intensiv@thomas
-2019-02-25 19:00-21:00 circling@schaueburg # integrales zentrum schaueburg, schauenburgerstrasse 17
 
 2019-03-02 moni vac beg
 2019-02-28 wilhaus begin
