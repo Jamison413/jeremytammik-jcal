@@ -7689,7 +7689,7 @@ year 2015
 2019-02-26 cornelius return
 
 2019-03-02 moni vac beg
-2019-02-28 wilhaus begin
+2019-02-28 wildhaus begin
 2019-03-02 madlee@wildhaus begin # with moni + matthias
 2019-03-09 madlee@wildhaus end
 2019-03-06 wilhaus end
