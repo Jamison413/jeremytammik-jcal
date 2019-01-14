@@ -5062,3 +5062,10 @@ http://auskunft.kvb-koeln.de
   Basel Bad Bf an 13:22 3
   50 Minuten Verspaetung
 
+2019-01-16 bsl-duedingen:
+  Basel SBB ab 06:59 7  IC 61 Richtung: Interlaken Ost
+  Bern an 07:56 4
+  Bern ab 08:09 2  RE 3812 Richtung: Bulle
+  Düdingen an 08:25 1
+  Dauer: 1:26; 
+
