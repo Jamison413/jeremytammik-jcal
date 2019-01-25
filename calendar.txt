@@ -7578,7 +7578,7 @@ year 2015
 2018-11-21 partyshopping
 2018-11-21 18:00 gemeinschaft # barbara, michael, moni, jeremy, nik
 
-2018-11-22 08:00 schiene@betz # dentist abdruck neue knirschschiene fixed caries hole in upper right wisdom tooth
+2018-11-22 08:00 schiene@betz # dentist abdruck neue knirschschiene fixed huge caries hole in upper right wisdom tooth that she missed in april
 
 #2018-11-22 09:30-10:30 ursula
 
@@ -7690,6 +7690,9 @@ year 2015
 2019-01-26 18:00 frnaziska # sauna
 2019-01-27 cornelius depart
 2019-01-27 intensiv@beat
+
+2019-01-29 13:00 lente@weil # dentist fix broken filling in upper right wisdowm tooth tht betz put in in december
+
 
 2019-01-30 18:30 kernies@bafudi
 2019-01-31 sunahla
