@@ -7693,20 +7693,23 @@ year 2015
 
 2019-01-29 13:00 lente@weil # dentist fix broken filling in upper right wisdowm tooth tht betz put in in december
 
-
 2019-01-30 18:30 kernies@bafudi
 2019-01-31 17:00 sunahla
 
-2019-02-01 skitour@maighels? # dav jochen kuri, angemeldet, warteliste
-2019-02-02 skitour?
-2019-02-03 skitour?
+#2019-02-01 skitour@maighels # dav jochen kuri, angemeldet, warteliste, zugesagt
+#2019-02-02 skitour
+#2019-02-03 skitour
 
 2019-02-06 16:00 andrea geburi
 
 2019-02-08 19:00-21:00 circling@schaueburg # integrales zentrum schaueburg, schauenburgerstrasse 17, https://www.meetup.com/meetup-group-eXCDOTdj/events/258412536
 
-2019-02-08 skitour@preda? # dav luca dressino, angemeldet, warteliste platz 6
-2019-02-09 skitour?
+2019-02-08 skitour@maighels # dav jochen kuri, angemeldet, warteliste, zugesagt
+2019-02-09 skitour
+
+#2019-02-08 skitour@preda? # dav luca dressino, angemeldet, warteliste platz 6
+#2019-02-09 skitour?
+
 2019-02-09 09:00 ben@turnier
 2019-02-09 10:00 brunch@sabine
 2019-02-09 13:00 rundi@sabine
