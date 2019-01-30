@@ -7716,6 +7716,7 @@ year 2015
 2019-02-09 13:00 rundi@sabine
 2019-02-09 17:00 sueppli@sabine
 
+2019-02-10 15:00-18:00 huenerberger
 2019-02-11 19:30-21:30 zuhal@kaltenbach
 
 2019-02-15 19:00 huenerberger
@@ -7724,8 +7725,8 @@ year 2015
 2019-02-25 19:00-21:00 zuhal # bodypoetry
 2019-02-26 cornelius return
 
-2019-03-02 moni vac beg
 2019-02-28 wildhaus begin
+2019-03-02 moni vac beg
 2019-03-02 madlee@wildhaus begin # with moni + matthias
 2019-03-09 madlee@wildhaus end
 2019-03-06 wilhaus end
@@ -7734,7 +7735,7 @@ year 2015
 2019-03-15 accelerator dublin end
 2019-03-16 10:15-12:55 agp-bsl # Malaga to Basel EZS1068	
 
-2019-03-17 11:00-14:00 huenerberger
+2019-03-17 15:00-18:00 huenerberger
 2019-03-17 moni vac end
 2019-03-18 19:00-21:00 zuhal # bodypoetry
 
