@@ -7700,6 +7700,8 @@ year 2015
 #2019-02-02 skitour
 #2019-02-03 skitour
 
+2019-02-02 15:00 oekodemo@barfi
+
 2019-02-06 16:00 andrea geburi
 
 2019-02-08 19:00-21:00 circling@schaueburg # integrales zentrum schaueburg, schauenburgerstrasse 17, https://www.meetup.com/meetup-group-eXCDOTdj/events/258412536
@@ -7719,8 +7721,8 @@ year 2015
 2019-02-10 15:00-18:00 huenerberger
 2019-02-11 19:30-21:30 zuhal@kaltenbach
 
-2019-02-15 19:00 huenerberger
-2019-02-23 11:00-14:00 huenerberger
+#2019-02-15 19:00 huenerberger
+#2019-02-23 11:00-14:00 huenerberger
 2019-02-24 intensiv@thomas
 2019-02-25 19:00-21:00 zuhal # bodypoetry
 2019-02-26 cornelius return
@@ -7735,7 +7737,7 @@ year 2015
 2019-03-15 accelerator dublin end
 2019-03-16 10:15-12:55 agp-bsl # Malaga to Basel EZS1068	
 
-2019-03-17 15:00-18:00 huenerberger
+#2019-03-17 15:00-18:00 huenerberger
 2019-03-17 moni vac end
 2019-03-18 19:00-21:00 zuhal # bodypoetry
 
