@@ -7614,7 +7614,7 @@ year 2015
 2018-12-04 18:00 fondue@anja
 
 2018-12-05 19:30 fairnetzt@nellie # oeffentlichen Premiere des Filmclips Im Anschluss den Dokumentarfilm 'Zeit für Utopien' www.fairnetzt-loerrach.de
-2018-12-06 09:45 schiene@betz # dentist neue knirschschiene anpassen
+2018-12-06 09:45 schiene@betz # dentist neue knirschschiene abholen, keine anpassung, daher schlimme folgeschmerzen
  
 2018-12-08 16:30 nikolaus@scheideck # /j/tmp/2018-12-08_dav_nikolaus.pdf
 
@@ -7702,6 +7702,8 @@ year 2015
 
 2019-02-02 15:00 oekodemo@barfi
 
+2019-02-04 18:00 schiene@betz # dentist neue knirschschiene anpassen
+
 2019-02-06 16:00 andrea geburi
 
 2019-02-08 19:00-21:00 circling@schaueburg # integrales zentrum schaueburg, schauenburgerstrasse 17, https://www.meetup.com/meetup-group-eXCDOTdj/events/258412536
@@ -7726,6 +7728,8 @@ year 2015
 
 2019-02-17 15:00-18:00 h3@sbb # basel city https://www.meetup.com/Basel-Hash/events/258666085
 
+2019-02-18 08:45 schiene@betz # dentist neue knirschschiene anpassen
+
 2019-02-22 15:00-18:00 paare@loe
 2019-02-22 18:00 sauna
 
@@ -7736,6 +7740,7 @@ year 2015
 2019-02-26 cornelius return
 
 2019-02-28 wildhaus begin
+2019-03-01 14:00-16:00 bouygues
 2019-03-02 moni vac beg
 2019-03-02 madlee@wildhaus begin # with moni + matthias
 2019-03-09 madlee@wildhaus end
