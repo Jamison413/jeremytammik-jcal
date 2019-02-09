@@ -7706,10 +7706,10 @@ year 2015
 
 2019-02-06 16:00 andrea geburi
 
-2019-02-08 19:00-21:00 circling@schaueburg # integrales zentrum schaueburg, schauenburgerstrasse 17, https://www.meetup.com/meetup-group-eXCDOTdj/events/258412536
+#2019-02-08 19:00-21:00 circling@schaueburg # integrales zentrum schaueburg, schauenburgerstrasse 17, https://www.meetup.com/meetup-group-eXCDOTdj/events/258412536
 
-2019-02-08 skitour@maighels # dav jochen kuri, angemeldet, warteliste, zugesagt
-2019-02-09 skitour
+#2019-02-08 skitour@maighels # dav jochen kuri, angemeldet, warteliste, zugesagt
+#2019-02-09 skitour
 
 #2019-02-08 skitour@preda? # dav luca dressino, angemeldet, warteliste platz 6
 #2019-02-09 skitour?
@@ -7719,7 +7719,7 @@ year 2015
 2019-02-09 10:00 brunch@sabine
 2019-02-09 13:00 rundi@sabine
 2019-02-09 14:30 tatjana depart
-2019-02-09 17:00 sueppli@sabine
+#2019-02-09 17:00 sueppli@sabine
 
 2019-02-10 15:00-18:00 huenerberger
 2019-02-11 19:30-21:30 zuhal@kaltenbach
