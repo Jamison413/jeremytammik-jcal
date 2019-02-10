@@ -7810,7 +7810,7 @@ year 2015
 2019-08-12 19:00-21:00 zuhal # bodypoetry
 
 2019-08-17 nerja begin
-2019-08-17 15:35-18:40 dus-agp # OE 350, ryanair + laudamotion, Düsseldorf Int - Malaga, 3:05, Reservierungsnummer GVH23P
+2019-08-17 15:35-18:40 dus-agp # OE 350, ryanair + laudamotion, Düsseldorf Int - Malaga, 3:05, reservation GVH23P
 2019-08-24 nerja end
 
 2019-09-16 19:00-21:00 zuhal # bodypoetry
