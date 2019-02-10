@@ -5069,3 +5069,8 @@ http://auskunft.kvb-koeln.de
   Düdingen an 08:25 1
   Dauer: 1:26; 
 
+2019-02-09 loe-zell:
+  Lörrach Hbf ab 08:58 2  S 6 Richtung: Zell (Wiesental)
+  Zell (Wiesental) an 09:26 
+  Dauer: 0:28; 
+
