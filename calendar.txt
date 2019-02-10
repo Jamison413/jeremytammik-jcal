@@ -7764,6 +7764,7 @@ year 2015
 2019-03-18 ben@usa begin
 
 2019-03-21 jogi@silvretta begin # skidurchquerung
+2019-03-24 15:00-17:00 huenerberger@andrea
 2019-03-24 jogi@silvretta end
 
 2019-03-25 lina begin?
