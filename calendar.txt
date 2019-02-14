@@ -7741,6 +7741,8 @@ year 2015
 2019-02-22 15:00-18:00 paare@loe
 2019-02-22 18:00 sauna
 
+2019-02-23 14:30-17:30 repaircafe # café kirche, nansenstr. 10
+
 #2019-02-23 11:00-14:00 huenerberger
 
 2019-02-24 intensiv@thomas
