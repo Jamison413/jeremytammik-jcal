@@ -7735,7 +7735,7 @@ year 2015
 
 2019-02-17 15:00-18:00 h3@sbb # basel city https://www.meetup.com/Basel-Hash/events/258666085
 
-2019-02-18 08:45 schiene@betz # dentist neue knirschschiene anpassen
+2019-02-18 08:45 schiene@betz # dentist neue knirschschiene anpassen, abgesprungene stelle am weisheitszahn 18 flicken
 2019-02-19 10:00 glas fritz
 2019-02-19 15:00 ma@preis # https://www.praxis-dr-preis.de
 2019-02-19 19:00 dib@nellie # Demokratie in Bewegung, Junge Partei, die Demokratie anders machen will
@@ -7765,6 +7765,7 @@ year 2015
 
 #2019-03-17 15:00-18:00 huenerberger
 2019-03-17 moni vac end
+2019-03-18 08:00 schiene@betz # dentist neue knirschschiene anpassen
 2019-03-18 19:00-21:00 zuhal # bodypoetry
 
 2019-03-16 saft build # burning man
