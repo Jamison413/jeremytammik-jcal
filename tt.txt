@@ -5074,3 +5074,46 @@ http://auskunft.kvb-koeln.de
   Zell (Wiesental) an 09:26 
   Dauer: 0:28; 
 
+2019-02-20 loe-murg:
+  Lörrach Hbf ab 08:31 1  S 6 Richtung: Basel SBB
+  Basel Bad Bf an 08:41 
+  Basel Bad Bf ab 08:47 6  RB 17343 Richtung: Lauchringen
+  Murg (Baden) an 09:21 1
+  Dauer: 0:50; 
+  
+  Lörrach Hbf ab 09:31 1  S 6 Richtung: Basel SBB
+  Basel Bad Bf an 09:41 
+  Basel Bad Bf ab 09:47 6  RB 17345 Richtung: Lauchringen
+  Murg (Baden) an 10:21 1
+  Dauer: 0:50;
+
+2019-02-22 sbb-muotalthal:
+  Basel SBB ab 05:33 7  IC 3 Richtung: Zürich HB
+  Zürich HB an 06:26 9
+  Zürich HB ab 06:35 6  IR 75 Richtung: Luzern
+  Zug ab 07:05 2  S 2 Richtung: Erstfeld
+  Schwyz an 07:33 2
+  Schwyz, Bahnhof ab 07:37 B  Niederflur-Bus 1 1026 Richtung: Muotathal, Hölloch
+  Muotathal, Post an 08:01 
+  Dauer: 2:28;
+  
+  Muotathal, Post ab 12:19   NFB 1 Niederflur-Bus 1 1077 Richtung: Lauerz, Dorf
+  Schwyz, Bahnhof an 12:49 B
+  Schwyz ab 12:58 3  IR 46 Richtung: Zürich HB
+  Zürich HB an 13:50 9
+  Zürich HB ab 14:00 11  ICE 70 Richtung: Hamburg-Altona
+  Basel SBB an 14:53 9
+  Dauer: 2:34;
+
+  Basel SBB ab 06:04 11  IR 26 Richtung: Erstfeld
+  Schwyz an 08:00 2
+  Dauer: 1:56; 
+  
+  Basel SBB ab 06:07 9  IC 3 Richtung: Zürich HB
+  Zürich HB an 07:00 11
+  Zürich HB ab 07:10 9  EC 13 Richtung: Milano Centrale
+  Arth-Goldau an 07:47 4
+  Arth-Goldau ab 07:53 5  IR 26 Richtung: Erstfeld
+  Schwyz an 08:00 2
+  Dauer: 1:53;
+
