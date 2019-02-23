@@ -5117,3 +5117,10 @@ http://auskunft.kvb-koeln.de
   Schwyz an 08:00 2
   Dauer: 1:53;
 
+2019-02-23 bsl-schwyz:
+  Basel, Badischer Bahnhof ab 05:46   NFT 6 Niederflur-Tram 6 Richtung: Allschwil, Dorf
+  Basel, Bahnhof SBB an 05:56 D
+  Basel SBB ab 06:04 11  IR 26 Richtung: Erstfeld
+  Schwyz an 08:00 2
+  Dauer: 2:20;
+
