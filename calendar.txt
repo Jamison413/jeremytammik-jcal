@@ -7745,8 +7745,7 @@ year 2015
 2019-02-24 skitour conny
 2019-02-24 intensiv@thomas
 
-2019-02-25 19:00-21:00 zuhal # bodypoetry
-2019-02-26 cornelius return
+#2019-02-26 cornelius return
 2019-02-26 10:00 ma@preis # https://www.praxis-dr-preis.de
 
 2019-02-28 wildhaus begin
