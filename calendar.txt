@@ -7812,7 +7812,7 @@ year 2015
 #2019-06-15 liebesfeld
 #2019-06-16 liebesfeld
 
-2019-06-14 bergseehuette # dav jogi kuehnoel
+2019-06-14 bergseehuette # dav jogi kuehnoel, angemeldet, zugesagt
 2019-06-15 bergseehuette
 2019-06-16 bergseehuette
 
@@ -7829,7 +7829,7 @@ year 2015
 2019-07-25 jusoca begin
 2019-08-03 jusoca end
 
-2019-08-08 dauphine begin # dav angela rosin, Ecrins Nationalpark, südwestliche französische Alpen, Briançon
+2019-08-08 dauphine begin # dav angela rosin, ecrins nationalpark, südwestliche französische alpen, briançon, http://www.sonnige-hoehen.com/index.php/hochtour/eine-woche-franzoesiche-alpen-dauphine-ecrins-nationalpark
 2019-08-18 dauphine end
 
 2019-08-12 19:00-21:00 zuhal # bodypoetry
