@@ -7841,7 +7841,7 @@ year 2015
 2019-08-16 lina
 2019-08-17 nerja begin
 2019-08-17 18:10 marie + christian arrival
-2019-08-17 15:35-18:40 dus-agp # OE 350, ryanair + laudamotion, Düsseldorf Int - Malaga, 3:05, reservation GVH23P
+2019-08-17 15:25-18:30 dus-agp # OE 350, ryanair + laudamotion, Düsseldorf Int - Malaga, 3:05, reservation GVH23P
 2019-08-24 10:15 lina agp-bonn
 2019-08-24 nerja end
 
