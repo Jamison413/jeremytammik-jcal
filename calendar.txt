@@ -7780,8 +7780,11 @@ year 2015
 2019-03-24 15:00-17:00 huenerberger@andrea
 2019-03-24 jogi@silvretta end
 
-2019-03-25 lina begin?
-2019-03-29 ben@usa end
+#2019-03-25 lina begin?
+#2019-03-29 ben@usa end
+
+2019-03-28 19:00 apero@sak
+2019-03-28 20:00 dav@sak
 
 2019-03-30 intensiv@michelle
 
