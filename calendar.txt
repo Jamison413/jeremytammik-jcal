@@ -7758,6 +7758,7 @@ year 2015
 2019-03-07 12:35-15:10 bsl-agp # Basel to Malaga EZS1067 booking EW4Q1G3
 2019-03-11 accelerator dublin begin
 2019-03-15 accelerator dublin end
+2019-03-16 09:45 agp closes
 2019-03-16 10:15-12:55 agp-bsl # Malaga to Basel EZS1068	
 
 #2019-03-17 15:00-18:00 huenerberger
