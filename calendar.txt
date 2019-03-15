@@ -7760,7 +7760,7 @@ year 2015
 2019-03-15 accelerator dublin end
 2019-03-16 07:00 nerja depart
 2019-03-16 08:00 malagacar 
-2019-03-16 09:45 agp closes
+2019-03-16 09:45 gate closes
 2019-03-16 10:15-12:55 agp-bsl # Malaga to Basel EZS1068	
 
 #2019-03-17 15:00-18:00 huenerberger
