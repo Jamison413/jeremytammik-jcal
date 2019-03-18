@@ -7765,7 +7765,7 @@ year 2015
 
 #2019-03-17 15:00-18:00 huenerberger
 2019-03-17 moni vac end
-2019-03-18 08:00 schiene@betz # dentist neue knirschschiene anpassen
+2019-03-18 08:00 schiene@betz # dentist neue knirschschiene anpassen, schiene vergessen, roentgenbild, kurzes gespraech, max. 10 min
 2019-03-18 table@ines # merten, dr. heinekamp, schuetzenmattstrasse 27, bsl
 2019-03-18 19:00-21:00 zuhal # bodypoetry
 2019-03-19 19:00 parade@senser # kaleidoskop, pilar buira ferre, parade ab senser platz, um 20 uhr performance in der alten feuerwache
@@ -7797,7 +7797,7 @@ year 2015
 2019-04-09 jogi@ortler end
 
 2019-04-13 moni vac beg
-2019-04-24 09:00 betz # dentist
+#2019-04-24 09:00 betz # dentist
 2019-04-28 moni vac end
 
 2019-05-04 intensiv@pascal
@@ -7860,6 +7860,9 @@ year 2015
 2019-08-24 nerja end
 
 2019-09-16 19:00-21:00 zuhal # bodypoetry
+
+2019-09-23 08:00 kontrolle@betz # dentist routinekontrolle
+
 2019-10-14 19:00-21:00 zuhal # bodypoetry
 2019-12-16 19:00-21:00 zuhal # bodypoetry
 
