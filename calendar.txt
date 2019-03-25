@@ -7788,6 +7788,8 @@ year 2015
 #2019-03-25 lina begin?
 #2019-03-29 ben@usa end
 
+2019-03-27 15:00 nik
+
 2019-03-28 19:00 apero@sak
 2019-03-28 20:00 dav@sak
 
@@ -7797,6 +7799,7 @@ year 2015
 
 2019-04-04 18:00 jogi@ortler begin # dav skitour skidurchquerung
 2019-04-07 jogi@ortler end
+2019-04-08 18:00 falk
 
 2019-04-13 moni vac beg
 #2019-04-24 09:00 betz # dentist
