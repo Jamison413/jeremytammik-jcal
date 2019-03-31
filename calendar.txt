@@ -7804,7 +7804,7 @@ year 2015
 2019-04-08 18:00 falk
 
 2019-04-13 moni vac beg
-#2019-04-24 09:00 betz # dentist
+2019-04-13 14:00-20:00 h3@muttenz # https://www.meetup.com/Basel-Hash/events/260200174
 2019-04-28 moni vac end
 
 2019-05-04 intensiv@pascal
