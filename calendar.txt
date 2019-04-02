@@ -7803,6 +7803,8 @@ year 2015
 2019-04-07 jogi@ortler end
 2019-04-08 18:00 falk
 
+2019-04-10 19:30-22:00 playfight@deepr # mit Noah, Leon und Julian, Vereinslokal Basel, Lehenmattstrasse 353, 4052 Basel, chf 20
+
 2019-04-13 moni vac beg
 2019-04-13 14:00-20:00 h3@muttenz # https://www.meetup.com/Basel-Hash/events/260200174
 2019-04-28 moni vac end
