@@ -7850,8 +7850,10 @@ year 2015
 2019-06-25 accelerator barca begin
 2019-06-28 accelerator barca end
 
+2019-06-28 piazzogna begin
 2019-06-29 moni vac beg
 
+2019-07-06 piazzogna end
 2019-07-12 plumvillage begin
 2019-07-19 plumvillage end
 
