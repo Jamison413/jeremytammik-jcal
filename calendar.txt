@@ -7814,6 +7814,7 @@ year 2015
 2019-04-13 moni vac beg
 2019-04-13 moni@tessin begin
 2019-04-13 14:00-20:00 h3@muttenz # https://www.meetup.com/Basel-Hash/events/260200174
+2019-04-15 18:00 gartenfestli@heiner # am Schorenweg 113 und in der Langen Erle
 2019-04-19 moni@tessin end
 2019-04-24 moni@bafudi
 2019-04-28 moni vac end
