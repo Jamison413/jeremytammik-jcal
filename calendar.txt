@@ -7821,7 +7821,10 @@ year 2015
 2019-04-24 moni@bafudi
 2019-04-28 moni vac end
 
+2019-05-03 14:45 dav@rathausplatz
+2019-05-03 16:00 dav@feldberg
 2019-05-04 intensiv@pascal
+2019-05-04 16:00 dav@loe
 
 2019-05-09 <a href="https://openspace-yoga.com">yoga@landguet</a> begin 
 2019-05-10 09:00-10:00 autismus
