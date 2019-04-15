@@ -7822,6 +7822,7 @@ year 2015
 2019-04-18 moni@tessin end
 2019-04-21 family@wadley
 2019-04-22 andrea + magnus
+2019-04-24 12:00 heiner
 2019-04-24 moni@bafudi
 2019-04-26 18:00 rose
 2019-04-28 moni vac end
