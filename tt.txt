@@ -5124,3 +5124,17 @@ http://auskunft.kvb-koeln.de
   Schwyz an 08:00 2
   Dauer: 2:20;
 
+2019-04-23 loe-murg:
+  Lörrach Hbf ab 08:31 1  S 6 Richtung: Basel SBB
+  Basel Bad Bf an 08:41 10
+  Basel Bad Bf ab 08:47 6  RB 17343 Richtung: Lauchringen
+  Murg (Baden) an 09:21 1
+  Dauer: 0:50;
+
+2019-04-23 murg-loe:
+  Murg (Baden) ab 13:32 2  RB 17382 Richtung: Basel Bad Bf
+  Basel Bad Bf an 14:07 6
+  Basel Bad Bf ab 14:17 10  S 6 Richtung: Zell (Wiesental)
+  Lörrach Hbf an 14:27 2
+  Dauer: 0:55;
+

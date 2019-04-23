@@ -7823,8 +7823,11 @@ year 2015
 2019-04-18 moni@tessin end
 2019-04-21 family@wadley
 2019-04-22 andrea + magnus
+2019-04-24 08:31-09:21 loe-murg
+2019-04-24 13:32-14:27 murg-loe
+
 2019-04-24 12:00 heiner
-2019-04-24 moni@bafudi
+2019-04-24 20:30 moni@bafudi
 2019-04-26 18:00 rose
 2019-04-27 18:30-22:40 lab@spitalstrasse # Phil McCammon Beyond Infinity Live-- Audio/Visual journey from another universe, The Lab, Spitalstrasse 32, Basel
 2019-04-28 moni vac end
