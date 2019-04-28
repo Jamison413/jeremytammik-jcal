@@ -5138,3 +5138,26 @@ http://auskunft.kvb-koeln.de
   Lörrach Hbf an 14:27 2
   Dauer: 0:55;
 
+2019-06-21 mulhouse-bcn:
+  10:56 Mulhouse Lyria No. 9210 To Paris-Gare-de-Lyon
+  13:37 PARIS GARE DE LYON
+  14:07 Paris-Gare-de-Lyon RENFE SNCF No. 9715
+  20:34 Barcelona-Sants
+
+  Basel SBB ab 09:21 31  TE296218 Richtung: Strasbourg Ville
+  Mulhouse Ville an 09:44 
+  Mulhouse Ville ab 09:59   TGV 9880 Richtung: Montpellier Saint-Roch
+  Nîmes an 14:33 
+  Nîmes ab 15:50   AVE 9743 Alta Velocidad ES 9743 Richtung: Barcelona Sants
+  Barcelona Sants an 19:30 
+  Dauer: 10:09; 
+  
+  Basel SBB ab 10:34 5  TGV 9210 Richtung: Paris-Gare de Lyon
+  Paris-Gare de Lyon an 13:41 
+  Paris-Gare de Lyon ab 14:07   TGV 9715 Richtung: Barcelona Sants
+  Barcelona Sants an 20:34 
+  Dauer: 10:00;
+  CHF 336,-
+  
+  18:30-20:10 Basel to Barcelona Easyjet Flight number EZS1077 CHF 88.00
+
