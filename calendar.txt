@@ -7830,7 +7830,10 @@ year 2015
 2019-04-24 20:30 moni@bafudi
 2019-04-26 18:00 rose
 2019-04-27 18:30-22:40 lab@spitalstrasse # Phil McCammon Beyond Infinity Live-- Audio/Visual journey from another universe, The Lab, Spitalstrasse 32, Basel
+2019-04-28 12:00-15:00 paare@moni
 2019-04-28 moni vac end
+
+2019-04-30 18:00 walpurgis@waedel
 
 2019-05-02 20:00 panne@nellie # gut & edel: die panne – premiere
 2019-05-03 14:45 dav@rathausplatz
