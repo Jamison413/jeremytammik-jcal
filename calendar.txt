@@ -7841,14 +7841,15 @@ year 2015
 2019-05-04 intensiv@pascal
 2019-05-04 16:00 dav@loe
 
-2019-05-09 <a href="https://openspace-yoga.com">yoga@landguet</a> begin 
+#2019-05-09 <a href="https://openspace-yoga.com">yoga@landguet</a> begin 
 2019-05-10 09:00-10:00 autismus
 2019-05-10 klettern@tessin # dav patrick nacke, abgesagt, warteliste
 2019-05-11 klettern@tessin
 2019-05-12 klettern@tessin
-2019-05-09 yoga@landguet end
 
 2019-05-13 19:00-21:00 zuhal # bodypoetry
+
+2019-05-15 18:00 bafudi@<a href="https://www.brauerei-basel.ch">alte Brauerei</a>
 
 2019-05-17 anmeldeschluss # 3laenderlauf
 2019-05-19 09:00 3laenderlauf # https://3laenderlauf.org

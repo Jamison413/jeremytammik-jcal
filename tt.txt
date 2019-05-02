@@ -5138,6 +5138,15 @@ http://auskunft.kvb-koeln.de
   Lörrach Hbf an 14:27 2
   Dauer: 0:55;
 
+2019-05-01 bsl-fluelen:
+  Basel SBB ab 05:33 7  IC 3 Richtung: Zürich HB
+  Zürich HB an 06:26 9
+  Zürich HB ab 06:35 6  IR 75 Richtung: Luzern
+  Zug an 07:01 4
+  Zug ab 07:05 2  S 2 Richtung: Erstfeld
+  Flüelen an 07:46 3
+  Dauer: 2:13;
+
 2019-06-21 mulhouse-bcn:
   10:56 Mulhouse Lyria No. 9210 To Paris-Gare-de-Lyon
   13:37 PARIS GARE DE LYON
