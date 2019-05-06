@@ -7819,7 +7819,7 @@ year 2015
 2019-04-15 10:55-11:55 <a href="http://www.navigazionelaghi.it">luino-intra</a> # http://www.navigazionelaghi.it
 2019-04-15 18:00 gartenfestli@heiner # am Schorenweg 113 und in der Langen Erle
 2019-04-16 16:40-17:40 intra-luino
-2019-04-17 07:30 conny@forni # airolo skitour all'aqua bedretto
+2019-04-17 07:30 conny@forni # airolo skitour all'aqua bedretto pancione val piana 2653 m
 2019-04-18 moni@tessin end
 2019-04-21 family@wadley
 2019-04-22 andrea + magnus
@@ -7836,8 +7836,8 @@ year 2015
 2019-04-30 18:00 walpurgis@waedel
 
 2019-05-02 20:00 panne@nellie # gut & edel: die panne – premiere
-2019-05-03 14:45 dav@rathausplatz # 25h-wanderung feldberg-loerrach westweg ostvariante
-2019-05-03 16:00 dav@feldberg
+2019-05-03 14:45 24h-wanderung # dav feldberg-loerrach westweg ostvariante rathausplatz 
+2019-05-03 17:00 24h end
 2019-05-04 intensiv@pascal
 2019-05-04 16:00 dav@loe
 
