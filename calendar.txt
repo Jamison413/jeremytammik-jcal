@@ -7837,15 +7837,17 @@ year 2015
 
 2019-05-02 20:00 panne@nellie # gut & edel: die panne – premiere
 2019-05-03 14:45 24h-wanderung # dav feldberg-loerrach westweg ostvariante rathausplatz 
-2019-05-03 17:00 24h end
+2019-05-04 17:00 24h end
 2019-05-04 intensiv@pascal
-2019-05-04 16:00 dav@loe
 
 #2019-05-09 <a href="https://openspace-yoga.com">yoga@landguet</a> begin 
+2019-05-07 16:00 dav@baerenfels
+
 2019-05-10 09:00-10:00 autismus
 2019-05-10 klettern@tessin # dav patrick nacke, abgesagt, warteliste
 2019-05-11 klettern@tessin
 2019-05-12 klettern@tessin
+2019-05-12 15:00-20:00 h3@delemont # Meet at fountain in front of Delémont train station -- https://www.meetup.com/Basel-Hash/events/261227300
 
 2019-05-13 19:00-21:00 zuhal # bodypoetry
 
