@@ -7843,7 +7843,6 @@ year 2015
 #2019-05-09 <a href="https://openspace-yoga.com">yoga@landguet</a> begin 
 2019-05-07 16:00 dav@baerenfels
 
-2019-05-10 09:00-10:00 autismus
 2019-05-10 klettern@tessin # dav patrick nacke, abgesagt, warteliste
 2019-05-11 klettern@tessin
 2019-05-12 klettern@tessin
@@ -7854,6 +7853,7 @@ year 2015
 2019-05-15 18:00 bafudi@<a href="https://www.brauerei-basel.ch">alte brauerei</a> # grenzacherstrasse 60 ch-4058 basel
 
 2019-05-17 anmeldeschluss # 3laenderlauf
+2019-05-17 11:00-12:00 autismus # +49-30-450 517 756
 2019-05-19 09:00 3laenderlauf # https://3laenderlauf.org
 
 2019-05-25 11:00 lueflue@loe
