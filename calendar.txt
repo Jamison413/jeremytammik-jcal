@@ -7885,6 +7885,7 @@ year 2015
 2019-06-23 21:00 nick departure
 
 2019-06-25 accelerator barca begin
+2019-06-26 16:00 airbnb # Calle Laberinto 1, Barcelona 08005
 2019-06-27 14:00 men@stefan
 2019-06-28 accelerator barca end
 2019-06-28 20:45-22:40 bcn-bsl T2 # ez u2 1078 terminal 2 flight confirmation ex4l61n itinerary thmn87 duration 1h 55m
