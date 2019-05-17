@@ -5170,3 +5170,10 @@ http://auskunft.kvb-koeln.de
   
   18:30-20:10 Basel to Barcelona Easyjet Flight number EZS1077 CHF 88.00
 
+2019-05-18 bsl-muelital:
+  Basel SBB ab 10:59 8  IC 61 Richtung: Interlaken Ost
+  Bern an 11:56 5
+  Bern, Hauptbahnhof ab 12:03 3  Bus 100 21 Richtung Aarberg
+  Detligen, Post an 12:31 
+  Dauer: 1:32;
+
