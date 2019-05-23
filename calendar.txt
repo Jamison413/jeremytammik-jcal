@@ -7874,6 +7874,7 @@ year 2015
 2019-05-25 11:00 lueflue@loe
 2019-05-25 18:00 jazz@burg # roetteln
 2019-05-26 15:00 huenerberger@johanna
+2019-05-26 19:00 feuer@wiechs
 2019-05-26 23:00 geburi@urs end
 
 2019-05-29 17:00-18:00 fpd@zoom
