@@ -7880,7 +7880,7 @@ year 2015
 
 2019-05-29 17:00-18:00 fpd@zoom
 
-2019-06-02 14:30-17:30 <a href="/j/tmp/2019-06-02_einladungpaartreffen.pdf">paare@daniel</a>
+2019-06-02 14:30-17:30 <a href="file:///j/tmp/2019-06-02_einladungpaartreffen.pdf">paare@daniel</a>
 
 2019-06-03 rudi
 2019-06-04 rudi
