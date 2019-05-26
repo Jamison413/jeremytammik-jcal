@@ -7891,6 +7891,9 @@ year 2015
 2019-06-09 muelital
 2019-06-10 muelital
 
+2019-06-15 theater@wildhaus
+2019-06-16 wildhaus end
+
 2019-06-14 football@dublin begin
 2019-06-16 football@dublin end
 2019-06-16 17:00 huenerberger@eckhard
