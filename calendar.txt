@@ -557,10 +557,10 @@ every friday in year 08:30-10:00 yoga
 every tuesday in year 16:00-20:00 climb
 
 year 2019
-every friday in year 08:30-10:00 yoga
-every tuesday in year 16:00-20:00 climb
 every tuesday in year 06:30-07:30 zen@feuerwache
+every tuesday in year 16:00-20:00 climb
 every wednesday in year 06:30 preis@rosenfels # Der frühe Vogel turnt im Park (Rosenfels) Mittwochs, ab 08.05.2019, 6:30h am Rondell
+every friday in year 08:30-10:00 yoga
 
 #
 # beginning of normal calendar dates:
