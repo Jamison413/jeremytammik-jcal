@@ -6891,7 +6891,7 @@ year 2015
 
 2017-10-22 10:00 intensiv@pascal
 #2017-10-22 15:34-21:08 zrh-avignon
-2017-10-22 16:03-18:45 zrh-geneve 
+2017-10-22 16:03-18:45 zrh-geneve
 2017-10-22 19:29-21:22 geneve-lyon
 2017-10-22 21:36-22:40 lyon-avignon
 
@@ -6902,7 +6902,7 @@ year 2015
 #2017-10-25 12:51-13:54 avignon-lyon
 #2017-10-25 lyon-bsl
 #  Avignon TGV ab 16:45   TGV 9898 Richtung: Luxembourg
-#  Mulhouse Ville an 20:58 
+#  Mulhouse Ville an 20:58
 #  Mulhouse Ville ab 21:06   TGV 9223 Richtung: Zuerich HB
 
 2017-10-26 09:30-10:30 ruecken@vhs
@@ -7055,13 +7055,13 @@ year 2015
 2018-01-07 intensiv@moni
 
 2018-01-10 14:00 notar@loe
-2018-01-11 09:30-10:30 ruecken@vhs 
+2018-01-11 09:30-10:30 ruecken@vhs
 2018-01-11 20:30 tanzimpro@gruett
 
 2017-01-14 14:00-18:00 h3@bsl # S3 Ankunft 13:59, Gelterkinden SBB, Bahnhofstrasse 1, https://www.meetup.com/Basel-Hash/events/246582720
 
 2018-01-18 chris end
-2018-01-18 09:30-10:30 ruecken@vhs 
+2018-01-18 09:30-10:30 ruecken@vhs
 2018-01-18 16:30 harry@impulsiv
 
 2018-01-19 18:00 tel@lueflu
@@ -7119,7 +7119,7 @@ year 2015
 #2018-02-24 fffffff
 #2018-02-25 fffffff end
 
-2018-02-23 18:00 h3@versobar # farewell party in Basel Versobar (formerly known as Skubar) in Petersgraben 50 https://www.versobar.ch/kontakt-1/ 
+2018-02-23 18:00 h3@versobar # farewell party in Basel Versobar (formerly known as Skubar) in Petersgraben 50 https://www.versobar.ch/kontakt-1/
 
 #2018-02-25 skitour@lidernen # dav t710 angela rosin im lidernen gebiet
 
@@ -7220,7 +7220,7 @@ year 2015
 
 2018-04-25 10:30 dentist betz # routine checkup
 
-2018-04-26 18:30 falken@turm # Herbert Sitterle Führung durch den Turm der Stadtkirche 
+2018-04-26 18:30 falken@turm # Herbert Sitterle Führung durch den Turm der Stadtkirche
 
 2018-04-27 17:30 patrick
 2018-04-27 bouldern@fontainebleau begin # dav, harald erbacher, angemeldet, zugesagt, http://www.dav-loerrach.de/touren-und-kursprogramm/klettern-bouldern/touren.html
@@ -7230,7 +7230,7 @@ year 2015
 2018-04-30 fontainebleau end
 2018-04-30 22:00 dav@loe
 
-2018-05-04 10:00-12:00 kt trauer # Kapelle, Hauptfriedhof Lörrach, anschliessend Essen im Restaurant Ganges 
+2018-05-04 10:00-12:00 kt trauer # Kapelle, Hauptfriedhof Lörrach, anschliessend Essen im Restaurant Ganges
 2018-05-04 12:00 kt traueressen # restaurant ganges
 
 2018-05-05 18:00 dancespirit@eulerhof # http://dancespirit-basel.ch
@@ -7267,7 +7267,7 @@ year 2015
 2018-06-03 10:00 rosenduft@wiechs
 2018-06-03 11:00 nik@rhine
 
-2018-06-04 19:00 ferien@nik + truc # offenburgerstr. 6 
+2018-06-04 19:00 ferien@nik + truc # offenburgerstr. 6
 
 2018-06-05 cedric@piazzogna begin
 2018-06-08 cedric@piazzogna end
@@ -7469,7 +7469,7 @@ year 2015
 2018-10-09 16:00-17:25 otp-zrh # Bukarest (OTP) - Zürich (ZRH) Reisedauer 2h 25m LX 1885
 2018-10-09 18:43-20:03 zrh-bsl # /a/doc/expense/receipt/2018/2018-10-09_sbb_zrh_bsl_*.pdf
 
-2018-10-10 10:00 mediweb@wolfgang 
+2018-10-10 10:00 mediweb@wolfgang
 
 2018-10-11 08:00 medi w magnus
 2018-10-11 09:00 breakfast w madlee
@@ -7537,7 +7537,7 @@ year 2015
 
 #2018-11-04 spain end
 #2018-11-04 koeln begin
-#2018-11-05 koeln 
+#2018-11-05 koeln
 #2018-11-06 koeln
 #2018-11-07 08:15 frederik@suerth
 #2018-11-07 koeln end
@@ -7547,7 +7547,7 @@ year 2015
 2018-11-07 09:00 contract@aguas
 
 2018-11-07 18:45 winterfit@thr # THR-Halle, Theodor Heuss Realschule, Schützenstrasse
- 
+
 2018-11-08 10:00 pat@nerja
 2018-11-08 15:00 car return
 2018-11-08 15:45-18:25 agp-bsl # easyjet EZS1068 Malaga - Basel-Mulhouse-Freiburg EW18D12
@@ -7565,12 +7565,12 @@ year 2015
 2018-11-12 09:00 eva
 
 #2018-11-11 koeln begin
-#2018-11-12 koeln 
-#2018-11-13 koeln 
+#2018-11-12 koeln
+#2018-11-13 koeln
 #2018-11-14 08:15 frederik@suerth
 #2018-11-14 koeln end
 
-2018-11-14 15:00-22:00 bewusst-treff # Familienzentrum Schopfheim in der Kaffeestube 
+2018-11-14 15:00-22:00 bewusst-treff # Familienzentrum Schopfheim in der Kaffeestube
 
 2018-11-16 12:52-13:32 weil-krozingen
 2018-11-16 13:32-16:30 rath@krozingen
@@ -7621,7 +7621,7 @@ year 2015
 
 2018-12-05 19:30 fairnetzt@nellie # oeffentlichen Premiere des Filmclips Im Anschluss den Dokumentarfilm 'Zeit für Utopien' www.fairnetzt-loerrach.de
 2018-12-06 09:45 schiene@betz # dentist neue knirschschiene abholen, keine anpassung, daher schlimme folgeschmerzen
- 
+
 2018-12-08 16:30 nikolaus@scheideck # /j/tmp/2018-12-08_dav_nikolaus.pdf
 
 2018-12-10 10:00-13:00 franziska
@@ -7650,7 +7650,7 @@ year 2015
 2018-12-28 12:00 n + m end
 
 2018-12-30 pia rene begin
-2018-12-31 pia rene 
+2018-12-31 pia rene
 2019-01-01 pia rene
 2019-01-02 pia rene end
 2019-01-02 20:00 moni@bafudi
@@ -7679,7 +7679,7 @@ year 2015
 2019-01-19 anja zuegeln
 2019-01-20 lueflue end
 
-2019-01-23 17:00-19:00 rvt2020 # Meet the Expert: the next major release of Revit  
+2019-01-23 17:00-19:00 rvt2020 # Meet the Expert: the next major release of Revit
 
 #2019-01-25 19:00-21:00 circling@schaueburg # integrales zentrum schaueburg, schauenburgerstrasse 17, https://www.meetup.com/meetup-group-eXCDOTdj/events/257925692
 2019-01-26 18:00 frnaziska # sauna
@@ -7765,9 +7765,9 @@ year 2015
 2019-03-11 accelerator dublin begin
 2019-03-15 accelerator dublin end
 2019-03-16 07:00 nerja depart
-2019-03-16 08:00 malagacar 
+2019-03-16 08:00 malagacar
 2019-03-16 09:45 gate closes
-2019-03-16 10:15-12:55 agp-bsl # Malaga to Basel EZS1068	
+2019-03-16 10:15-12:55 agp-bsl # Malaga to Basel EZS1068
 
 #2019-03-17 15:00-18:00 huenerberger
 2019-03-17 moni vac end
@@ -7842,11 +7842,11 @@ year 2015
 2019-04-30 18:00 walpurgis@waedel
 
 2019-05-02 20:00 panne@nellie # gut & edel: die panne – premiere
-2019-05-03 14:45 24h-wanderung # dav feldberg-loerrach westweg ostvariante rathausplatz 
+2019-05-03 14:45 24h-wanderung # dav feldberg-loerrach westweg ostvariante rathausplatz
 2019-05-04 17:00 24h end
 2019-05-04 intensiv@pascal
 
-#2019-05-09 <a href="https://openspace-yoga.com">yoga@landguet</a> begin 
+#2019-05-09 <a href="https://openspace-yoga.com">yoga@landguet</a> begin
 
 2019-05-07 16:00 dav@baerenfels
 
@@ -7897,6 +7897,7 @@ year 2015
 2019-06-07 muelital
 2019-06-08 muelital
 2019-06-09 muelital
+2019-06-09 15:00-18:00 <a href="https://www.meetup.com/Basel-Hash/events/261950796">h3@frick</a>
 2019-06-10 muelital
 
 2019-06-15 theater@wildhaus

@@ -4626,7 +4626,7 @@ http://auskunft.kvb-koeln.de
   Basel EuroAirport an 08:48
 
 2017-07-05 bsl-brunni:
-  Basel SBB ab 06:33    2:29 3 IC, S 25, S 13, BUS 554 
+  Basel SBB ab 06:33    2:29 3 IC, S 25, S 13, BUS 554
     Basel SBB ab 06:33 8  IC 559 Richtung: Chur
     Zürich HB an 07:26 11
     Zürich HB ab 07:43 6  S 25 Richtung: Linthal
@@ -4634,10 +4634,10 @@ http://auskunft.kvb-koeln.de
     Wädenswil ab 08:09 1  S 13 Richtung: Einsiedeln
     Einsiedeln an 08:32 6
     Einsiedeln, Bahnhof ab 08:37   BUS 554 Richtung: Brunni SZ, Talstation LBH
-    Brunni SZ, Talstation LBH an 08:57 
+    Brunni SZ, Talstation LBH an 08:57
     Dauer: 2:29;
   Brunni SZ, Talstation LBH an 08:57
-  Basel SBB ab 07:33    2:29 3 ICE, S 25, S 13, BUS 554 
+  Basel SBB ab 07:33    2:29 3 ICE, S 25, S 13, BUS 554
   Brunni SZ, Talstation LBH an 09:57
   Basel SBB ab 08:33    2:29 3 IC, S 25, S 13, BUS 554
   Brunni SZ, Talstation LBH an 10:57
@@ -4654,16 +4654,16 @@ http://auskunft.kvb-koeln.de
   Bern ab 06:36 2  RE 4359 Richtung: Luzern
   Schüpfheim an 07:28 2
   Schüpfheim, Bahnhof ab 07:33 BUS 241 Richtung: Giswil, Bahnhof
-  Sörenberg, Rothornbahn an 08:03 
+  Sörenberg, Rothornbahn an 08:03
   Sörenberg-Schönenboden ab 08:15   LB 1 Richtung: Brienzer Rothorn LSBR
-  Brienzer Rothorn LSBR an 08:25 
-  Dauer: 3:06; 
+  Brienzer Rothorn LSBR an 08:25
+  Dauer: 3:06;
 
 20170-07-17 bsl-gurtnellen:
   Basel SBB ab 07:04 IR 2313
-  Erstfeld an 09:24 
+  Erstfeld an 09:24
   Erstfeld, Bahnhof ab 09:28 Niederflur-Bus 1 32 Richtung: Göschenen, Bahnhof
-  Gurtnellen, Fellital an 09:47 
+  Gurtnellen, Fellital an 09:47
   Dauer: 2:43;
 
 2017-08-11 bsl-flueh
@@ -4673,32 +4673,32 @@ http://auskunft.kvb-koeln.de
 2017-09-16 bonn-bsl
   09:14 abfahrt bonn
   07:44 or 08:14 abfahrt 29 Min. Fahrtzeit
-  Michaelshoven, Köln-Rodenkirchen 
-  Bonn Hauptbahnhof (U) (Gleis 2) 
+  Michaelshoven, Köln-Rodenkirchen
+  Bonn Hauptbahnhof (U) (Gleis 2)
   08:13 or 08:43 ankunft
 
 2017-09-21 bsl-nante:
-  Basel SBB ab 08:04    3:57 2 IR, RE, BUS 113 
+  Basel SBB ab 08:04    3:57 2 IR, RE, BUS 113
   Nante an 12:01
-  
-  Basel SBB ab 09:04    3:55 2 ICN, RE, BUS 113 
+
+  Basel SBB ab 09:04    3:55 2 ICN, RE, BUS 113
   Nante an 12:59
-  
+
   Basel SBB ab 08:04 10  IR 2315 Richtung: Erstfeld
   Erstfeld an 10:24 2
   Erstfeld ab 10:30 1  RE 4321 Richtung: Lugano
   Airolo an 11:09 2
   Airolo, Stazione ab 11:52   BUS 113 Richtung: Nante
-  Nante an 12:01 
-  Dauer: 3:57; 
-  
+  Nante an 12:01
+  Dauer: 3:57;
+
   Basel SBB ab 09:04 11  ICN 667 Richtung: Lugano
   Bellinzona an 11:47 2
   Bellinzona ab 11:51 1  RE 4312 Richtung: Erstfeld
   Airolo an 12:44 3
   Airolo, Stazione ab 12:50   BUS 113 Richtung: Nante
-  Nante an 12:59 
-  Dauer: 3:55; 
+  Nante an 12:59
+  Dauer: 3:55;
 
 2017-10-22 loe-zrh:
   Lörrach Hbf ab 08:02 1  S 6 Richtung: Basel SBB
@@ -4709,22 +4709,22 @@ http://auskunft.kvb-koeln.de
 
 2017-10-22 zrh-avignon:
   Zürich HB ab 15:34 14  TGV 9226 Richtung: Paris-Gare de Lyon
-  Mulhouse Ville an 16:53 
+  Mulhouse Ville an 16:53
   Mulhouse Ville ab 17:08   TGV 9581 Richtung: Marseille-Saint-Charles
-  Avignon TGV an 21:08 
+  Avignon TGV an 21:08
   Dauer: 5:34;
   only possibility is arrival 23:?? and cost is euro 344.
 
   Basel SBB ab 16:34 5  TGV 9226 Richtung: Paris-Gare de Lyon
-  Mulhouse Ville an 16:53 
+  Mulhouse Ville an 16:53
   Mulhouse Ville ab 17:08   TGV 9581 Richtung: Marseille-Saint-Charles
-  Avignon TGV an 21:08 
-  Dauer: 4:34; 
+  Avignon TGV an 21:08
+  Dauer: 4:34;
 
 2017-10-22 zrh-geneve
   Zürich HB ab 16:03 15  ICN 528 Richtung: Genève-Aéroport
   Genève an 18:45 2
-  Dauer: 2:42; 
+  Dauer: 2:42;
 
 2017-10-22 geneve-avignon
   19:29-21:22 Genève - Lyon-Part-Dieu 6 TER 96578 Train Express Regional, VL
@@ -4735,35 +4735,35 @@ http://auskunft.kvb-koeln.de
 
 2017-10-24 avignon-lyon
   Avignon TGV ab 16:45   TGV 9898 Richtung: Luxembourg
-  Lyon-Part-Dieu an 17:51 
-  Dauer: 1:06; 
+  Lyon-Part-Dieu an 17:51
+  Dauer: 1:06;
 
 2017-10-24 avignon-bsl
   Avignon TGV ab 16:45   TGV 9898 Richtung: Luxembourg
-  Mulhouse Ville an 20:58 
+  Mulhouse Ville an 20:58
   Mulhouse Ville ab 21:06   TGV 9223 Richtung: Zürich HB
   Basel SBB an 21:26 7AB
   Dauer: 4:41;
 
 2017-10-25 avignon-lyon
   Avignon TGV ab 12:51   TGV 9866 Richtung: Bruxelles-Midi
-  Lyon-Part-Dieu an 13:54 
-  Dauer: 1:03; 
+  Lyon-Part-Dieu an 13:54
+  Dauer: 1:03;
 
 2017-10-25 lyon-bsl
   Avignon TGV ab 16:45   TGV 9898 Richtung: Luxembourg
-  Mulhouse Ville an 20:58 
+  Mulhouse Ville an 20:58
   Mulhouse Ville ab 21:06   TGV 9223 Richtung: Zürich HB
   Basel SBB an 21:26 7AB
   Dauer: 4:41;
 
 2017-10-26 lyon-trogen
   Lyon-Part-Dieu ab 08:34   TER96502 Train Express Regional 96502
-  Genève an 10:28 
+  Genève an 10:28
   Genève ab 10:42 4  IC 717 Richtung: St. Gallen
   St. Gallen an 14:35 1
   St. Gallen AB ab 14:55 12  S 21 S-Bahn 21 4148
-  Trogen an 15:20 
+  Trogen an 15:20
   Dauer: 6:48;
 
 2017-10-26 lyon-bsl
@@ -4772,22 +4772,22 @@ http://auskunft.kvb-koeln.de
   14:46-15:09 Mulhouse - Basel SBB
   File reference : RZTKOZ Associated name: TAMMIK
   Collection from an Automatic Ticket Machine (For train stations in France and Luxembourg only)
- 
+
 2017-10-27 bsl-trogen
   Basel SBB ab 12:33 8  IC 571 Richtung: Chur
   Zürich HB an 13:26 13
   Zürich HB ab 13:33 33  IC 717 Richtung: St. Gallen
   St. Gallen an 14:35 1
   St. Gallen AB ab 14:55 12  S 21 Richtung: Trogen
-  Trogen an 15:20 
+  Trogen an 15:20
   Dauer: 2:49;
 
 2017-11-10 bsl-bern:
   Basel SBB ab 08:31 7  IC 1063 Richtung: Brig
   Bern an 09:24 6
   Bern, Hauptbahnhof ab 09:33 5  BUS 105 Richtung: Seedorf BE, Post
-  Bern, Unitobler an 09:36 
-  3012 Bern, Hochfeldstrasse 49   
+  Bern, Unitobler an 09:36
+  3012 Bern, Hochfeldstrasse 49
   Dauer: 1:11;
 
 2017-12-06 bsl-bonn:
@@ -4795,7 +4795,7 @@ http://auskunft.kvb-koeln.de
   Mannheim Hbf Bonn Hbf     ab 08:08 2 IC 2010 an 10:21 2
 
 2017-12-09 bonn-bsl:
-  Bonn Hbf ab 09:14 3 EC 7 
+  Bonn Hbf ab 09:14 3 EC 7
   Basel Bad Bf an 13:22 3
 
   http://auskunft.kvb-koeln.de
@@ -4819,11 +4819,11 @@ http://auskunft.kvb-koeln.de
   Erstfeld ab 07:37 4  RE 4315 Richtung: Bellinzona
   Göschenen an 08:02 1
   Göschenen ab 08:04 11  R 621 Richtung: Andermatt
-  Andermatt an 08:14 
+  Andermatt an 08:14
   Andermatt ab 08:28 1  R 820 Richtung: Disentis/Mustér
-  Sedrun an 09:15 
-  Dauer: 4:11; 
-  
+  Sedrun an 09:15
+  Dauer: 4:11;
+
   Basel SBB ab 05:33 9  IC 3 Richtung: Zürich HB
   Zürich HB an 06:26 13
   Zürich HB ab 06:37 9  IC 3 Richtung: Chur
@@ -4831,8 +4831,8 @@ http://auskunft.kvb-koeln.de
   Chur ab 07:56 11  RE 1721 Richtung: Disentis/Mustér
   Disentis/Mustér an 09:11 3
   Disentis/Mustér ab 09:14   R 823 Richtung: Andermatt
-  Sedrun an 09:30 
-  Dauer: 3:57; 
+  Sedrun an 09:30
+  Dauer: 3:57;
 
 2018-03-09 bsl-andermatt:
   Umgebungskarte: Basel SBB
@@ -4841,7 +4841,7 @@ http://auskunft.kvb-koeln.de
   Erstfeld ab 09:37 4  RE 4319 Richtung: Bellinzona
   Göschenen an 10:02 1
   Göschenen ab 10:04 11  R 629 Richtung: Andermatt
-  Andermatt an 10:14 
+  Andermatt an 10:14
   Dauer: 3:10;
 
 2018-03-13 bsl-bonn:
@@ -4864,30 +4864,30 @@ http://auskunft.kvb-koeln.de
   La Gomera (Valle Gran Rey) - Tenerife (Los Cristianos)
   03-04-2018 06:00 08:00 E
   eur 44 p.p.
-  
+
   https://www.fredolsen.es/en-US/CompraOnline/C-DatosTarifa.aspx
-  07:30 LA GOMERA (Valle Gran Rey) 
+  07:30 LA GOMERA (Valle Gran Rey)
   08:40 LA GOMERA (S.S. de La Gomera)
   Con escala en Playa de Santiago
-  12:00 LA GOMERA (S.S. de La Gomera) 
+  12:00 LA GOMERA (S.S. de La Gomera)
   12:50 TENERIFE (Los Cristianos)
-  70 min + 50 min 
+  70 min + 50 min
   eur 79.20
 
 2018-04-07 dietikon-jupiter:
   Zürich Altstetten ab 09:16 4  S 5 Richtung: Pfäffikon SZ
   Zürich Stadelhofen an 09:27 3
   Zürich Stadelhofen FB ab 09:33   S 18 Richtung: Forch
-  Zürich Hegibachplatz an 09:36 
-  Dauer: 0:20; 
-  
+  Zürich Hegibachplatz an 09:36
+  Dauer: 0:20;
+
   Dietikon ab 09:15 1  S 3 Richtung: Wetzikon
   Zürich Stadelhofen an 09:35 3
   Zürich Stadelhofen FB ab 09:40   T 11 Richtung: Zürich, Rehalp
-  Zürich Hegibachplatz an 09:43 
-  Dauer: 0:29; 
+  Zürich Hegibachplatz an 09:43
+  Dauer: 0:29;
 
-2018-06-27 loe-bad krozingen: 
+2018-06-27 loe-bad krozingen:
   Abfahrt um 15:31 Uhr, Dauer 01:07
   27.06.2018 15:31 ab Lörrach Hauptbahnhof Gleis 1
   27.06.2018 15:41 an Basel, Badischer Bahnhof Gleis 10 S-Bahn S6
@@ -4895,7 +4895,7 @@ http://auskunft.kvb-koeln.de
   27.06.2018 16:31 Bad Krozingen Bahnhof Gleis 1 Zug RE 17026 Regional-Express Offenburg Bahnhof
 
 2018-05-09 loe-murg:
-  Lörrach Hbf 11:31  0:50 1 SBB, RB 11,50 EUR 
+  Lörrach Hbf 11:31  0:50 1 SBB, RB 11,50 EUR
   Murg(Baden) 12:21
   Lörrach Hbf ab  11:31 1 SBB S6 (87825) SBB GmbH Richtung: Basel SBB
   Basel Bad Bf an 11:41 10
@@ -4903,7 +4903,7 @@ http://auskunft.kvb-koeln.de
   Murg(Baden) an  12:21 1
 
 2018-05-18 loe-murg:
-  Lörrach Hbf  12:31  0:50 1 SBB, RB 11,50 EUR 
+  Lörrach Hbf  12:31  0:50 1 SBB, RB 11,50 EUR
   Murg(Baden)  13:21
   Lörrach Hbf ab  12:31 1 SBB S6 (87829) SBB GmbH Richtung: Basel SBB
   Basel Bad Bf an 12:41 10
@@ -4911,15 +4911,15 @@ http://auskunft.kvb-koeln.de
   Murg(Baden) an  13:21 1
 
 2018-06-15 sbb-bsl:
-  Basel, Bahnhof SBB ab 05:25    0:21 0 NFB 50  
+  Basel, Bahnhof SBB ab 05:25    0:21 0 NFB 50
   Basel EuroAirport an 05:40
-  Basel, Bahnhof SBB ab 05:40    0:21 0 NFB 50  
+  Basel, Bahnhof SBB ab 05:40    0:21 0 NFB 50
   Basel EuroAirport an 05:55
-  Basel, Bahnhof SBB ab 05:55    0:21 0 NFB 50  
+  Basel, Bahnhof SBB ab 05:55    0:21 0 NFB 50
   Basel EuroAirport an 06:10
 
 2018-06-22 manchester piccadilly-airport:
-  13:13 Manchester Piccadilly 
+  13:13 Manchester Piccadilly
   13:30 Manchester Airport
   Getting your tickets: Self-service ticket machine
   Ref KGGCJ76W
@@ -4930,24 +4930,24 @@ http://auskunft.kvb-koeln.de
   Busbahnhof, Schopfheim ab 12:00   Bus 7335 Bus Richtung: Busbahnhof, Bad Säckingen
   Bahnhof (Bus), Wehr (Baden) an 12:14
   Bahnhof (Bus), Wehr (Baden) ab 12:19   Bus 7329 Bus Richtung: Strittmatt Abzw. Segeten, Görwihl
-  Bergalingen, Rickenbach an 12:34 ab 12:34   
-  Willaringen Schule, Rickenbach an 12:42 ab 12:42   
-  Willaringen, Rickenbach an 12:43 ab 12:43   
-  Abzw. Bergalingen, Rickenbach an 12:44 ab 12:44   
-  GMS, Rickenbach an 12:46 ab 12:46  
-  Busbahnhof, Rickenbach an 12:49 ab 12:49   
-  Abzw. Glashütten, Rickenbach an 12:52 ab 12:52   
-  Glashütten, Rickenbach an 12:53 ab 12:53   
-  Hütten, Rickenbach an 12:56 ab 12:56   
+  Bergalingen, Rickenbach an 12:34 ab 12:34
+  Willaringen Schule, Rickenbach an 12:42 ab 12:42
+  Willaringen, Rickenbach an 12:43 ab 12:43
+  Abzw. Bergalingen, Rickenbach an 12:44 ab 12:44
+  GMS, Rickenbach an 12:46 ab 12:46
+  Busbahnhof, Rickenbach an 12:49 ab 12:49
+  Abzw. Glashütten, Rickenbach an 12:52 ab 12:52
+  Glashütten, Rickenbach an 12:53 ab 12:53
+  Hütten, Rickenbach an 12:56 ab 12:56
   /a/doc/travel/trip/haenner/map_rickenbach_haenner.png
   /j/tmp/liniennetz_suedbadenbus.pdf
 
 2018-06-28 loe-murg:
-  Lörrach Hbf   10:31  0:50 1 SBB, RB 5,75 EUR 
+  Lörrach Hbf   10:31  0:50 1 SBB, RB 5,75 EUR
   Murg(Baden)  11:21
-  Lörrach Hbf   11:31  0:50 1 SBB, RB 5,75 EUR 
+  Lörrach Hbf   11:31  0:50 1 SBB, RB 5,75 EUR
   Murg(Baden)  12:21
-  Lörrach Hbf   12:31  0:50 1 SBB, RB 5,75 EUR 
+  Lörrach Hbf   12:31  0:50 1 SBB, RB 5,75 EUR
   Murg(Baden)  13:21
 
   Murg(Baden) 14:03  0:54 1 RB, SBB 32,00 EUR  in der 1.Klasse
@@ -4964,40 +4964,40 @@ http://auskunft.kvb-koeln.de
   Lörrach Hbf 17:27
 
 2018-08-20 bsl heuwaage-flueh
-  Basel, Heuwaage ab 15:27    0:27 0 NFT 10  
+  Basel, Heuwaage ab 15:27    0:27 0 NFT 10
   Flüh, Bahnhof an 15:54
-  Basel, Heuwaage ab 15:42    0:27 0 NFT 10  
+  Basel, Heuwaage ab 15:42    0:27 0 NFT 10
   Flüh, Bahnhof an 16:09
 
 2018-08-27 bsl-zrh:
   Basel ab 16:33 Gleis 10
   Zurich an 17:26
-  
+
 2018-08-29 bsl-murg:
-  Basel Bad Bf 11:47  0:34 0 RB 9,50 EUR 
+  Basel Bad Bf 11:47  0:34 0 RB 9,50 EUR
   Murg(Baden) 12:21
   Bahnhof, Murg 16:33 IRE 3048
   Basel Bad Bf 17:16
-  Murg(Baden) 17:03  0:35 0 RB 9,50 EUR 
+  Murg(Baden) 17:03  0:35 0 RB 9,50 EUR
   Basel Bad Bf 17:38
 
 2018-09-12 bsl-matthorn:
   Basel SBB 06:17 15 dauer 1:13 IR 2459 Luzern 07:30 8
   Luzern 07:42 14 dauer 0:17 S5 21526 Alpnachstad 07:59 2
   Alpnachstad PB 08:10 dauer 0:12 R 5 Aemsigen 08:22
- 
+
   Basel SBB ab 07:04 8  IR 26 Richtung: Erstfeld
   Luzern an 08:05 7
   Luzern ab 08:12 14  S 5 Richtung: Giswil
   Alpnachstad an 08:29 2
   Alpnachstad PB ab 08:50   R 7 Richtung: Pilatus Kulm
-  Aemsigen X an 09:02 
-  Dauer: 1:58; 
+  Aemsigen X an 09:02
+  Dauer: 1:58;
 
 2018-09-14 loe-heitersheim:
-  Lörrach Hbf Fr, 14.09.2018 13:16 SBB87905 
+  Lörrach Hbf Fr, 14.09.2018 13:16 SBB87905
   Weil am Rhein 13:27
-  Weil am Rhein Fr, 14.09.2018 13:31 RB 17042 
+  Weil am Rhein Fr, 14.09.2018 13:31 RB 17042
   Heitersheim 14:03
 
 2018-09-18 bsl-schwefelbergbad:
@@ -5006,21 +5006,21 @@ http://auskunft.kvb-koeln.de
   Bern ab 08:12 6  S 44 Richtung: Thun
   Thurnen an 08:33 1
   Thurnen, Bahnhof ab 08:35   BUS 323 Richtung: Schwarzenburg, Bahnhof
-  Schwefelberg Bad an 09:22 
-  Dauer: 2:23; 
+  Schwefelberg Bad an 09:22
+  Dauer: 2:23;
 
 2018-09-18 bsl-isenthal:
 
   Basel SBB ab 05:04 8  IR 26 Richtung: Erstfeld
   Flüelen an 07:15 3
   Flüelen, Hauptplatz ab 07:19   NFB 1 Niederflur-Bus 1 18 Richtung: Amsteg, Post
-  Altdorf UR, Telldenkmal an 07:26 
+  Altdorf UR, Telldenkmal an 07:26
   Altdorf UR, Post ab 07:30   BUS 405 Richtung: Isenthal, Seilbahn St. Jakob
-  Isenthal, Post an 07:56 
-  Dauer: 2:52; 
-  
+  Isenthal, Post an 07:56
+  Dauer: 2:52;
+
   Isenthal, Seilbahn St. Jakob 08:03
-    
+
   Basel SBB ab 06:33 8  IC 3 Richtung: Chur
   Zürich HB an 07:26 11
   Zürich HB ab 07:35 10  IR 70 Richtung: Luzern
@@ -5028,10 +5028,10 @@ http://auskunft.kvb-koeln.de
   Zug ab 08:05 2  S 2 Richtung: Erstfeld
   Flüelen an 08:46 3
   Flüelen, Bahnhof ab 09:18   BUS 405 Richtung: Isenthal, Seilbahn St. Jakob
-  Isenthal, Post an 09:44 
+  Isenthal, Post an 09:44
   Dauer: 3:11;
-  
-  Isenthal, Seilbahn St. Jakob 09:51  
+
+  Isenthal, Seilbahn St. Jakob 09:51
 
 2018-10-15 bsl-fr-da:
   Basel Bad Bf ab 15:15 4 ICE 70
@@ -5039,22 +5039,22 @@ http://auskunft.kvb-koeln.de
   Freiburg(Breisgau) ab 15:49 Gleis 1 ICE 70
   Frankfurt(Main) an 17:53 Gleis 8
   Frankfurt(Main) ab 18:06 Gleis 12 RB 15329
-  Darmstadt Hbf   an 18:25 Gleis 10 
+  Darmstadt Hbf   an 18:25 Gleis 10
 
 2018-11-14 weil-krozingen:
-  Weil am Rhein 12:52  0:40 0 RE 5,50 EUR 
+  Weil am Rhein 12:52  0:40 0 RE 5,50 EUR
   Bad Krozingen 13:32
 
 2018-12-01 bsl-bonn:
-  Basel Bad Bf 08:23 ICE 372 
+  Basel Bad Bf 08:23 ICE 372
   Mannheim Hbf 10:23
-  Mannheim Hbf 10:39 IC 2218 
+  Mannheim Hbf 10:39 IC 2218
   Bonn Hbf 12:44
 
 2018-12-03 bonn-bsl:
   http://auskunft.kvb-koeln.de
   Michaelshoven, Köln-Rodenkirchen - Bonn Hbf
-  ab 08:15 - an 08:44  
+  ab 08:15 - an 08:44
   ab 08:35 - an 09:04
   took the earlier train to bonn, which was good, because they were all late, and the later one might have missed the connection
   always take one in advance, for safety's sake!
@@ -5067,22 +5067,22 @@ http://auskunft.kvb-koeln.de
   Bern an 07:56 4
   Bern ab 08:09 2  RE 3812 Richtung: Bulle
   Düdingen an 08:25 1
-  Dauer: 1:26; 
+  Dauer: 1:26;
 
 2019-02-09 loe-zell:
   Lörrach Hbf ab 08:58 2  S 6 Richtung: Zell (Wiesental)
-  Zell (Wiesental) an 09:26 
-  Dauer: 0:28; 
+  Zell (Wiesental) an 09:26
+  Dauer: 0:28;
 
 2019-02-20 loe-murg:
   Lörrach Hbf ab 08:31 1  S 6 Richtung: Basel SBB
-  Basel Bad Bf an 08:41 
+  Basel Bad Bf an 08:41
   Basel Bad Bf ab 08:47 6  RB 17343 Richtung: Lauchringen
   Murg (Baden) an 09:21 1
-  Dauer: 0:50; 
-  
+  Dauer: 0:50;
+
   Lörrach Hbf ab 09:31 1  S 6 Richtung: Basel SBB
-  Basel Bad Bf an 09:41 
+  Basel Bad Bf an 09:41
   Basel Bad Bf ab 09:47 6  RB 17345 Richtung: Lauchringen
   Murg (Baden) an 10:21 1
   Dauer: 0:50;
@@ -5094,9 +5094,9 @@ http://auskunft.kvb-koeln.de
   Zug ab 07:05 2  S 2 Richtung: Erstfeld
   Schwyz an 07:33 2
   Schwyz, Bahnhof ab 07:37 B  Niederflur-Bus 1 1026 Richtung: Muotathal, Hölloch
-  Muotathal, Post an 08:01 
+  Muotathal, Post an 08:01
   Dauer: 2:28;
-  
+
   Muotathal, Post ab 12:19   NFB 1 Niederflur-Bus 1 1077 Richtung: Lauerz, Dorf
   Schwyz, Bahnhof an 12:49 B
   Schwyz ab 12:58 3  IR 46 Richtung: Zürich HB
@@ -5107,8 +5107,8 @@ http://auskunft.kvb-koeln.de
 
   Basel SBB ab 06:04 11  IR 26 Richtung: Erstfeld
   Schwyz an 08:00 2
-  Dauer: 1:56; 
-  
+  Dauer: 1:56;
+
   Basel SBB ab 06:07 9  IC 3 Richtung: Zürich HB
   Zürich HB an 07:00 11
   Zürich HB ab 07:10 9  EC 13 Richtung: Milano Centrale
@@ -5154,26 +5154,36 @@ http://auskunft.kvb-koeln.de
   20:34 Barcelona-Sants
 
   Basel SBB ab 09:21 31  TE296218 Richtung: Strasbourg Ville
-  Mulhouse Ville an 09:44 
+  Mulhouse Ville an 09:44
   Mulhouse Ville ab 09:59   TGV 9880 Richtung: Montpellier Saint-Roch
-  Nîmes an 14:33 
+  Nîmes an 14:33
   Nîmes ab 15:50   AVE 9743 Alta Velocidad ES 9743 Richtung: Barcelona Sants
-  Barcelona Sants an 19:30 
-  Dauer: 10:09; 
-  
+  Barcelona Sants an 19:30
+  Dauer: 10:09;
+
   Basel SBB ab 10:34 5  TGV 9210 Richtung: Paris-Gare de Lyon
-  Paris-Gare de Lyon an 13:41 
+  Paris-Gare de Lyon an 13:41
   Paris-Gare de Lyon ab 14:07   TGV 9715 Richtung: Barcelona Sants
-  Barcelona Sants an 20:34 
+  Barcelona Sants an 20:34
   Dauer: 10:00;
   CHF 336,-
-  
+
   18:30-20:10 Basel to Barcelona Easyjet Flight number EZS1077 CHF 88.00
 
 2019-05-18 bsl-muelital:
   Basel SBB ab 10:59 8  IC 61 Richtung: Interlaken Ost
   Bern an 11:56 5
   Bern, Hauptbahnhof ab 12:03 3  Bus 100 21 Richtung Aarberg
-  Detligen, Post an 12:31 
+  Detligen, Post an 12:31
   Dauer: 1:32;
 
+2019-05-31 steinen-loe:
+  Lörrach Hbf 11:58  0:08 0 SBB RVL-Tarif
+  Steinen 12:06
+  Lörrach Hbf 12:28  0:08 0 SBB RVL-Tarif
+  Steinen 12:36
+  Lörrach Hbf 12:58  0:08 0 SBB RVL-Tarif
+  Steinen 13:06
+
+  Steinen 17:53  0:07 0 SBB RVL-Tarif
+  Lörrach Hbf 18:00
