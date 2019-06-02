@@ -5187,3 +5187,15 @@ http://auskunft.kvb-koeln.de
 
   Steinen 17:53  0:07 0 SBB RVL-Tarif
   Lörrach Hbf 18:00
+
+2019-06-10 17:23-21:57 bsl-bonn:
+  Basel Bad Bf ab 17:23 4 ICE 102 Richtung: Hannover Hbf
+  Frankfurt(M) Flughafen Fernbf an 20:06 Fern 6
+  Frankfurt(M) Flughafen Fernbf ab 20:15 Fern 7 ICE 1222 Richtung: Dortmund Hbf
+  Bonn Hbf an 21:57 2
+
+  Basel Bad Bf ab 17:23 4 ICE 102 Richtung: Hannover Hbf
+  Siegburg/Bonn an 20:46 3
+  Siegburg Bahnhof ab 20:56   STR 66  Straßenbahn Richtung: Bad Honnef Stadtbahn
+  Bonn Hbf (tief) an 21:20
+
