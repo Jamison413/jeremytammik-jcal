@@ -7894,6 +7894,8 @@ year 2015
 2019-06-04 rudi
 2019-06-05 rudi
 
+2019-06-06 18:00 tichu
+
 2019-06-07 muelital
 2019-06-08 muelital
 2019-06-09 muelital
@@ -7903,6 +7905,8 @@ year 2015
 2019-06-10 17:23-21:57 bsl-bonn
 2019-06-10 lina begin
 2019-06-13 lina end
+
+2019-06-14 frauenstreik
 
 2019-06-15 theater@wildhaus
 2019-06-16 wildhaus end
