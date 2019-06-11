@@ -5199,3 +5199,9 @@ http://auskunft.kvb-koeln.de
   Siegburg Bahnhof ab 20:56   STR 66  Straﬂenbahn Richtung: Bad Honnef Stadtbahn
   Bonn Hbf (tief) an 21:20
 
+2019-06-11 bsl-bonn:
+  Basel Bad Bf Di, 11.06.2019 08:23 ICE 372
+  Mannheim Hbf 10:23
+  Mannheim Hbf Di, 11.06.2019 10:39 IC 2218
+  Bonn Hbf 12:44
+
