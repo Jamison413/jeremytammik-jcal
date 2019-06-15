@@ -5217,3 +5217,7 @@ http://auskunft.kvb-koeln.de
   ab 11:09 6
   an 14:34 3
 
+2019-06-14 loe-schopfheim:
+  Lörrach Hbf 09:28  0:16 0 SBB RVL-Tarif
+  Schopfheim 09:44
+
