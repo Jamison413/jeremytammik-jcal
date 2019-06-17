@@ -7958,6 +7958,10 @@ year 2015
 2019-08-03 jusoca end
 2019-08-03 ticino begin?
 
+2019-08-05 juerg@onsernone
+2019-08-06 juerg@onsernone
+2019-08-07 juerg@onsernone
+
 2019-08-08 dauphine begin # dav angela rosin, ecrins nationalpark, südwestliche französische alpen, briançon, http://www.sonnige-hoehen.com/index.php/hochtour/eine-woche-franzoesiche-alpen-dauphine-ecrins-nationalpark
 2019-08-18 dauphine end
 
