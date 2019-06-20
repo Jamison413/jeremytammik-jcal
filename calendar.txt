@@ -7926,6 +7926,8 @@ year 2015
 2019-06-17 19:00-21:00 zuhal # bodypoetry
 2019-06-18 08:10-11:00 daniel@eiche
 
+2019-06-21 08:33-08:48 sbb-bsl
+2019-06-21 09:25 gate closes
 2019-06-21 09:55-11:35 bsl-bcn # ez u2 1075 flight confirmation ex4l61n itinerary thmn87 duration 1h 40m
 2019-06-21 21:05 nick@bcn
 2019-06-23 21:40 nick departure
