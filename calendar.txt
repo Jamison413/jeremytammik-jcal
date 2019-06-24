@@ -7957,6 +7957,7 @@ year 2015
 2019-07-07 oberaarhorn # 3630 m
 
 2019-07-06 piazzogna end
+2019-07-06 h3@aesch # https://www.meetup.com/Basel-Hash/events/262561573
 2019-07-08 11:00 brunch@rose
 2019-07-08 17:30 huenerberger@jeremy
 
