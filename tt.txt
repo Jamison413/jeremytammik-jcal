@@ -5221,3 +5221,23 @@ http://auskunft.kvb-koeln.de
   Lörrach Hbf 09:28  0:16 0 SBB RVL-Tarif
   Schopfheim 09:44
 
+2019-06-28 poblenou-bcn:
+  5:27 PM
+  Carrer de Josep Pla, 2
+  5:34 PM
+  El Maresme
+  Tram T4 Ciutadella | Vila Olímpica
+  5:42 PM
+  Glòries
+  5:48 PM
+  Glòries
+  Subway L1 Fondo
+  5:49 PM
+  Clot
+  5:55 PM
+  El Clot-Aragó railway station
+  Train R2N Aeroport
+  6:26 PM
+  6:33 PM
+  Terminal T2
+  08820 El Prat de Llobregat, Barcelona
