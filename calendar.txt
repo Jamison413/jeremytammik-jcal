@@ -7936,6 +7936,9 @@ year 2015
 2019-06-26 16:00 airbnb # Calle Laberinto 1, Barcelona 08005
 2019-06-27 14:00 men@stefan
 2019-06-28 accelerator barca end
+2019-06-28 18:40 airport bus # plaza catalunya
+2019-06-28 19:20 check in bag
+2019-06-28 20:15 gate closes
 2019-06-28 20:45-22:40 bcn-bsl T2 # ez u2 1078 terminal 2 flight confirmation ex4l61n itinerary thmn87 duration 1h 55m
 
 2019-06-28 bergseehuette # dav jogi kuehnoel, angemeldet, zugesagt
