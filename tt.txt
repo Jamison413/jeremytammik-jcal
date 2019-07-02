@@ -5227,3 +5227,13 @@ http://auskunft.kvb-koeln.de
   5:48 PM -- Glòries -- Subway L1 Fondo -- 5:49 PM -- Clot
   5:55 PM -- El Clot-Aragó railway station -- Train R2N Aeroport -- 6:26 PM
   6:33 PM -- Terminal T2 -- 08820 El Prat de Llobregat, Barcelona
+
+2019-07-06: piazzogna-luzern:
+  Cadenazzo ab 06:45 3  S 20 S 20 Richtung: Biasca
+  Bellinzona an 06:58 2
+  Bellinzona ab 07:02 1  IC 2 Richtung: Zürich HB
+  Arth-Goldau an 07:56 6
+  Arth-Goldau ab 08:03 8  IR 26 Richtung: Luzern
+  Luzern an 08:32 8
+  Dauer: 1:50;
+
