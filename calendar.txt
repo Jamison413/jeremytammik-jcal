@@ -7947,13 +7947,14 @@ year 2015
 2019-06-29 moni vac beg
 2019-06-29 10:00-17:00 flohmarkt # huenerberg
 
-2019-06-29 bergseehuette
-2019-06-30 bergseehuette
+#2019-06-29 jogi@bergseehuette
+#2019-06-30 jogi@bergseehuette
 
-2019-06-30 nik
-2019-07-01 nik
+2019-06-30 nik@jakobiger
+2019-07-01 nik@leutschenbachhuette
 
-2019-07-01 pia + rene
+2019-07-01 pia + rene begin
+2019-07-05 pia + rene end
 
 2019-07-06 markus@luzern
 2019-07-06 oberaarjochhuette
