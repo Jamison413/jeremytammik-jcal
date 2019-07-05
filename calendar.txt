@@ -7971,10 +7971,12 @@ year 2015
 
 2019-07-25 jusoca begin
 2019-07-27 16:00 summerfaescht # lange erlen leandra, david, franziska z'graggen
+2019-07-29 pia + rene begin
+2019-07-31 pia + rene end
 2019-08-03 jusoca end
 2019-08-03 ticino begin?
 
-2019-08-05 juerg@onsernone
+2019-08-05 13:08 juerg@corbella # onsernone
 2019-08-06 juerg@onsernone
 2019-08-07 juerg@onsernone
 
