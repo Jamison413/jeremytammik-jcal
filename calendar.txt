@@ -7955,6 +7955,7 @@ year 2015
 
 2019-07-01 pia + rene begin
 2019-07-05 pia + rene end
+2019-07-06 moni@gridone
 
 2019-07-06 markus@luzern
 2019-07-06 oberaarjochhuette
@@ -8002,6 +8003,7 @@ year 2015
 2019-08-24 10:15 lina agp-bonn
 2019-08-24 nerja end
 2019-08-24 maris@garnatilla
+2019-08-24 18:00 fest@andrea # oristalstr. 16
 2019-08-25 travel to barca
 2019-08-26 12:00 marcus@barca depart
 
