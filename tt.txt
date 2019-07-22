@@ -5243,3 +5243,8 @@ http://auskunft.kvb-koeln.de
 
   Restaurant Eichhof, Obergrundstrasse 106, 6005 Luzern, +41 79 647 95 57
 
+2019-08-14 08:02-12:44 loe-bonn:
+  Lörrach Hbf - Basel Bad Bf 08:02 - 08:13 SBB87811
+  Basel Bad Bf - Mannheim Hbf 08:23 - 10:24 ICE 372
+  Mannheim Hbf - Bonn Hbf 10:39 - 12:44
+
