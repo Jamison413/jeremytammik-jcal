@@ -8002,11 +8002,10 @@ year 2015
 2019-08-17 15:25-18:30 dus-agp # OE 350, ryanair + laudamotion, Düsseldorf Int - Malaga, 3:05, reservation GVH23P
 2019-08-17 19:15 cornelius arrival
 2019-08-17 20:00 nick + lissy arrival
-2019-08-18 maris + thaddeaus arrival
+2019-08-18 maris arrival
 2019-08-24 06:40 cornelius depart
 2019-08-24 10:15 lina agp-bonn
 2019-08-24 nerja end
-2019-08-24 maris@garnatilla
 2019-08-24 18:00 fest@andrea # oristalstr. 16
 2019-08-25 travel to barca
 2019-08-26 12:00 marcus@barca depart
