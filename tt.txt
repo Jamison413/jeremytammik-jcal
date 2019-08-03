@@ -4642,13 +4642,13 @@ http://auskunft.kvb-koeln.de
   Basel SBB ab 08:33    2:29 3 IC, S 25, S 13, BUS 554
   Brunni SZ, Talstation LBH an 10:57
 
-20170-07-13 11:10-11:45 luino-intra:
+2017-07-13 11:10-11:45 luino-intra:
   201 Luino 11:10 Intra 11:55 duration 45 minutes http://www.navigazionelaghi.it/eng/m_orari_1.asp
 
-20170-07-14 11:55-12:45 intra-luino:
+2017-07-14 11:55-12:45 intra-luino:
   200 Intra 11:55 Luino 12:45 duration 50 minutes
 
-20170-07-17 bsl-brienzer rothorn:
+2017-07-17 bsl-brienzer rothorn:
   Basel SBB ab 05:24 5  IC 1057 Richtung: Interlaken Ost
   Bern an 06:24 6
   Bern ab 06:36 2  RE 4359 Richtung: Luzern
@@ -4659,7 +4659,7 @@ http://auskunft.kvb-koeln.de
   Brienzer Rothorn LSBR an 08:25
   Dauer: 3:06;
 
-20170-07-17 bsl-gurtnellen:
+2017-07-17 bsl-gurtnellen:
   Basel SBB ab 07:04 IR 2313
   Erstfeld an 09:24
   Erstfeld, Bahnhof ab 09:28 Niederflur-Bus 1 32 Richtung: Göschenen, Bahnhof
@@ -5240,8 +5240,10 @@ http://auskunft.kvb-koeln.de
   Bus 1 Obernau, Dorf 5 min (5 stops) · Platform A
   8:44 AM Eichhof
   Obergrundstrasse 106, 6005 Luzern
-
   Restaurant Eichhof, Obergrundstrasse 106, 6005 Luzern, +41 79 647 95 57
+
+2019-08-08 11:10-11:45 luino-intra:
+  201 Luino 11:10 Intra 11:55 duration 45 minutes http://www.navigazionelaghi.it/eng/m_orari_1.asp
 
 2019-08-14 08:02-12:44 loe-bonn:
   Lörrach Hbf - Basel Bad Bf 08:02 - 08:13 SBB87811
