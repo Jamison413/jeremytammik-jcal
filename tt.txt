@@ -5242,8 +5242,10 @@ http://auskunft.kvb-koeln.de
   Obergrundstrasse 106, 6005 Luzern
   Restaurant Eichhof, Obergrundstrasse 106, 6005 Luzern, +41 79 647 95 57
 
-2019-08-08 11:10-11:45 luino-intra:
-  201 Luino 11:10 Intra 11:55 duration 45 minutes http://www.navigazionelaghi.it/eng/m_orari_1.asp
+2019-08-08+09 luino-intra:
+  Luino a Intra 10:55 11:55 1h
+  Intra a Luino 12:00 12:50 50'
+  https://www.navigazionelaghi.it
 
 2019-08-14 08:02-12:44 loe-bonn:
   Lörrach Hbf - Basel Bad Bf 08:02 - 08:13 SBB87811
