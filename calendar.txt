@@ -8006,6 +8006,8 @@ year 2015
 2019-08-14 lina
 2019-08-15 lina
 2019-08-16 lina
+2019-08-16 16:50-12:00 +1 yvr-zrh maris lx 8011 # Booking reference PW773T
+2019-08-17 16:40-19:20 zrh-agp maris lx 2116
 2019-08-17 nerja begin
 2019-08-17 18:10 marie + christian arrival
 2019-08-17 15:25-18:30 dus-agp # OE 350, ryanair + laudamotion, Düsseldorf Int - Malaga, 3:05, reservation GVH23P
@@ -8015,7 +8017,10 @@ year 2015
 2019-08-20 17:00-18:00 <a href="https://autodesk.zoom.us/j/805605784">jimq_fpd@zoom</a> # End Q2 FPD Quarterly All Hands - Western Edition
 2019-08-24 06:40 cornelius depart
 2019-08-24 10:15 lina agp-bonn
+2019-08-24 12:55-15:35 agp-zrh maris lx 2111
+2019-08-24 17:05-18:50 zrh-yvr maris lx 8010
 2019-08-24 nerja end
+
 2019-08-24 18:00 fest@andrea # oristalstr. 16
 2019-08-25 travel to barca
 2019-08-26 12:00 marcus@barca depart
