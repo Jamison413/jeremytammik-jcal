@@ -5252,3 +5252,9 @@ http://auskunft.kvb-koeln.de
   Basel Bad Bf - Mannheim Hbf 08:23 - 10:24 ICE 372
   Mannheim Hbf - Bonn Hbf 10:39 - 12:44
 
+2019-08-17 michaelshoven-duesseldorf airport:
+  Rodenkirchen Michaelshoven, Köln ab 11:02   STR 16 Straßenbahn Richtung: Niehl Sebastianstr., Köln
+  Breslauer Platz/Hauptbahnhof, Köln an 11:28  
+  Köln Hbf ab 11:49 4 RE 1 (10121) Regional-Express Richtung: Hamm(Westf)
+  Düsseldorf Flughafen an 12:28 5
+
