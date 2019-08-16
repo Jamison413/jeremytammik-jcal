@@ -8008,6 +8008,8 @@ year 2015
 2019-08-15 14:00-15:00 mikako midyear
 2019-08-16 lina
 2019-08-16 16:50-12:00 +1 yvr-zrh maris lx 8011 # Booking reference PW773T
+2019-08-17 11:02-11:28 michaelshoven-koeln hb
+2019-08-17 11:49-12:28 koeln-duesseldorf airport
 2019-08-17 16:40-19:20 zrh-agp maris lx 2116
 2019-08-17 nerja begin
 2019-08-17 18:10 marie + christian arrival
