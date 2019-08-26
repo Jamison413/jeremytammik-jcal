@@ -8046,12 +8046,15 @@ year 2015
 2019-09-23 iran end
 2019-09-23 08:00 kontrolle@betz # dentist routinekontrolle
 
+2019-09-28 moni ferien begin
 2019-10-02 fabian_scheidler@murg
 
 2019-10-12 lina@rodenkirchen
 2019-10-13 lina@rodenkirchen
+2019-10-13 moni ferien end
 
 2019-10-14 19:00-21:00 zuhal # bodypoetry
+2019-10-19 party@moni
 
 2019-11-20 submit fr tax to frey
 
