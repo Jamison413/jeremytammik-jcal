@@ -5258,3 +5258,11 @@ http://auskunft.kvb-koeln.de
   Köln Hbf ab 11:49 4 RE 1 (10121) Regional-Express Richtung: Hamm(Westf)
   Düsseldorf Flughafen an 12:28 5
 
+2019-08-27 barca-montmelo
+  8:28 AM Barcelona Sants Train R2N Sant Celóni 33 min (7 stops)
+  9:01 AM Montmeló
+
+2019-08-27 barca-montelo
+
+Barcelona-Sants R2 or R2 Nord line, direction: Granollers Centre (R2) or Macanet-Massanes (R2 Nord).
+Get off at station Montcada i Reixac.
