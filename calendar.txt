@@ -8031,8 +8031,12 @@ year 2015
 2019-08-29 18:00-22:00 <a href="https://www.meetup.com/Hackergarten-Basel/events/263744856">hackergarten@karakun</a>
 2019-08-30 18:30 sunahla + govinda # housewarming
 
+2019-09-04 15:00 geburi@rose
+2019-09-05 19:00 huenerberger prepare
+
 2019-09-07 intensiv@michelle
 2019-09-08 nachbarn@huenerberg
+2019-09-09 18:00 huenerberger
 
 2019-09-12 <a href="https://www.meetup.com/Swiss-explorers-in-Iran/events/260877997">iran begin</a>
 
