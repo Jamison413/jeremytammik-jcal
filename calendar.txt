@@ -8033,6 +8033,7 @@ year 2015
 
 2019-09-02 09:00 medi@moni
 2019-09-03 08:00 bauen@nik
+2019-09-03 13:08 birgit@steinen
 2019-09-04 08:00 bauen@nik
 2019-09-04 15:00 geburi@rose
 2019-09-05 08:00 bauen@nik

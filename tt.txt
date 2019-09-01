@@ -5263,6 +5263,10 @@ http://auskunft.kvb-koeln.de
   9:01 AM Montmeló
 
 2019-08-27 barca-montelo
+  Barcelona-Sants R2 or R2 Nord line, direction: Granollers Centre (R2) or Macanet-Massanes (R2 Nord).
+  Get off at station Montcada i Reixac.
 
-Barcelona-Sants R2 or R2 Nord line, direction: Granollers Centre (R2) or Macanet-Massanes (R2 Nord).
-Get off at station Montcada i Reixac.
+2019-09-01 loe-steinen
+  Lörrach Hbf 12:58  0:10 0 SBB RVL-Tarif
+  Steinen 13:08
+
