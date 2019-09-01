@@ -8031,6 +8031,7 @@ year 2015
 2019-08-29 18:00-22:00 <a href="https://www.meetup.com/Hackergarten-Basel/events/263744856">hackergarten@karakun</a>
 2019-08-30 18:30 sunahla + govinda # housewarming
 
+2019-09-02 09:00 medi@moni
 2019-09-03 08:00 bauen@nik
 2019-09-04 08:00 bauen@nik
 2019-09-04 15:00 geburi@rose
