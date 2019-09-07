@@ -8054,6 +8054,7 @@ year 2015
 
 2019-09-21 17:25 <a href="http://deepr.ch/Programme/Deepr%%20Walk/">deeprwalk@sbb</a> # treffpunkt basel sbb, oder 18:34 passwang postauto haltestelle
 2019-09-21 18:34 deeprwalk@passwang # postauto haltestelle
+2019-09-21 burningman
 2019-09-22 06:30 deeprwalk end
 
 2019-09-22 14:30-17:30 paare@jeremy
