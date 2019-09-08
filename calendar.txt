@@ -8044,13 +8044,13 @@ year 2015
 2019-09-08 nachbarn@huenerberg
 2019-09-09 18:00 huenerberger
 
-2019-09-12 <a href="https://www.meetup.com/Swiss-explorers-in-Iran/events/260877997">iran begin</a>
+#2019-09-12 <a href="https://www.meetup.com/Swiss-explorers-in-Iran/events/260877997">iran begin</a>
 
-2019-09-13 18:00 thielle
+2019-09-13 12:00 thielle
 2019-09-14 10:00 tel@thielle # luetzelfluehplanung
 2019-09-15 11:00 cousins@lutry # barbara bei lausanne
 
-2019-09-16 19:00-21:00 zuhal # bodypoetry
+#2019-09-16 19:00-21:00 zuhal # bodypoetry
 
 2019-09-21 17:25 <a href="http://deepr.ch/Programme/Deepr%%20Walk/">deeprwalk@sbb</a> # treffpunkt basel sbb, oder 18:34 passwang postauto haltestelle
 2019-09-21 18:34 deeprwalk@passwang # postauto haltestelle
