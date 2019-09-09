@@ -8048,6 +8048,7 @@ year 2015
 
 2019-09-13 12:00 thielle
 2019-09-14 10:00 tel@thielle # luetzelfluehplanung
+2019-09-14 rose@ateliernacht
 2019-09-15 11:00 cousins@lutry # barbara bei lausanne
 
 #2019-09-16 19:00-21:00 zuhal # bodypoetry
@@ -8070,7 +8071,7 @@ year 2015
 2019-10-13 moni ferien end
 
 2019-10-14 19:00-21:00 zuhal # bodypoetry
-2019-10-19 party@moni
+2019-10-19 17:00 party@moni
 2019-10-26 intensiv@beat
 
 2019-11-18 19:00-21:00 zuhal # bodypoetry
