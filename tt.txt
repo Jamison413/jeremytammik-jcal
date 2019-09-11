@@ -5273,3 +5273,12 @@ http://auskunft.kvb-koeln.de
 2019-09-12 loe-steinen
   Lörrach Hbf ab 12:58 2 SBB S6 (87830) SBB GmbH Richtung: Zell(Wiesental)
   Steinen an 13:06 1
+
+2019-10-11 bsl-bonn
+  Basel Bad Bf ab 12:29 5 EC 8 
+  Bonn Hbf an 16:44 2
+
+2019-10-14 bonn-bsl
+  Bonn Hbf ab 09:14 3 EC 7
+  Basel Bad Bf an 13:22
+
