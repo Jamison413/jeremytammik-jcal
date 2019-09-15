@@ -252,7 +252,7 @@ year 2019 # https://www.myworkday.com/autodesk/d/inst/1422$739/rel-task/3001$14.
 2019-05-31 ne_holiday # ascension day & bridge day
 2019-06-10 ne_holiday # whit monday
 2019-08-01 ne_holiday # national day
-2019-09-20 ne_holiday # bettagsmontag (neuchatel)
+2019-09-16 ne_holiday # bettagsmontag (neuchatel)
 2019-12-24 ne_holiday # annual week of rest
 2019-12-31 ne_holiday # annual week of rest
 
