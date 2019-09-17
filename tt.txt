@@ -5274,6 +5274,15 @@ http://auskunft.kvb-koeln.de
   Lörrach Hbf ab 12:58 2 SBB S6 (87830) SBB GmbH Richtung: Zell(Wiesental)
   Steinen an 13:06 1
 
+2019-09-17 bsl-flueh
+  Verbindungen vom Di, 17.09.19
+  Basel, Heuwaage ab 15:27    0:27 0 NFT 10  
+  Flüh, Bahnhof an 15:54
+  Basel, Heuwaage ab 15:42    0:27 0 NFT 10  
+  Flüh, Bahnhof an 16:09
+  Basel, Heuwaage ab 15:57    0:27 0 NFT 10  
+  Flüh, Bahnhof an 16:24
+
 2019-10-11 bsl-bonn
   Basel Bad Bf ab 12:29 5 EC 8 
   Bonn Hbf an 16:44 2
