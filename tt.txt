@@ -5283,6 +5283,19 @@ http://auskunft.kvb-koeln.de
   Basel, Heuwaage ab 15:57    0:27 0 NFT 10  
   Flüh, Bahnhof an 16:24
 
+2019-09-19 loe-murg
+  Lörrach Hbf 13:02 SBB S6 (87831)
+  Basel Bad Bf 13:13
+  Basel Bad Bf 13:17 RB 17359
+  Murg(Baden) 13:51
+  /a/doc/expense/receipt/2019/2019-09-19_db_loe_murg.pdf
+  
+2019-09-19 murg-loe
+  Murg(Baden) 18:03 RB 17374
+  Basel Bad Bf 18:38
+  Basel Bad Bf 18:47 SBB S6 (87854)
+  Lörrach Hbf 18:57
+
 2019-10-11 bsl-bonn
   Basel Bad Bf ab 12:29 5 EC 8 
   Bonn Hbf an 16:44 2
