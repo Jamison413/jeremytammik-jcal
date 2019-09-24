@@ -8069,6 +8069,9 @@ year 2015
 2019-09-23 iran end
 2019-09-23 08:00 kontrolle@betz # dentist routinekontrolle
 
+2019-09-24 17:00-18:00 katerra
+2019-09-24 19:30 impronauten@tabourettli # Spalenberg 12
+
 2019-09-28 moni ferien begin
 2019-09-28 holz@karen
 2019-10-02 19:00 fabian_scheidler@murg
