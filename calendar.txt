@@ -8102,6 +8102,8 @@ year 2015
 2019-10-17 anette
 2019-10-19 17:00 party@moni
 2019-10-20 11:00 michael + sandra
+2019-10-20 13:30 sangha
+2019-10-20 16:00 rose
 2019-10-23 09:30 fenster@gerlinde
 2019-10-24 13:00 men@stefan
 2019-10-26 intensiv@beat
