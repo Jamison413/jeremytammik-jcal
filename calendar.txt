@@ -8135,6 +8135,7 @@ year 2015
 2020-01-19 tel@lueflu
 
 2020-02-09 intensiv@thomas
+2020-02-09 18.00 bernd@nellie # Romeo & Julia frei nach Shakespeare spielen und lade ich nun Dich mit Deiner Partnerin ein
 
 2020-07-23 jusoca begin
 2020-08-01 jusoca end
