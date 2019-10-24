@@ -5303,10 +5303,15 @@ http://auskunft.kvb-koeln.de
 2019-10-14 bonn-bsl
   http://auskunft.kvb-koeln.de
   ab 08:06 an 08:52 46 Min. 16, BE16, 632
-	Michaelshoven, Köln-Rodenkirchen	08:06 	Hersel, Bornheim	08:27 16 Hersel
-	Hersel (BE), Bornheim	08:33 	Tannenbusch Mitte (BE, in Agnetendorfer Str.), Bonn	08:41 BE16 Tannenbusch Mitte
-	Tannenbusch Mitte, Bonn	08:45 	Bonn Hauptbahnhof (U) (Gleis 2)	08:52 63 Bad Godesberg Stadthalle
+  Michaelshoven, Köln-Rodenkirchen 08:06  Hersel, Bornheim 08:27 16 Hersel
+  Hersel (BE), Bornheim 08:33  Tannenbusch Mitte (BE, in Agnetendorfer Str.), Bonn 08:41 BE16 Tannenbusch Mitte
+  Tannenbusch Mitte, Bonn 08:45  Bonn Hauptbahnhof (U) (Gleis 2) 08:52 63 Bad Godesberg Stadthalle
   Preisstufe 4 RegioTicket 8.20 Euro
   Bonn Hbf ab 09:14 3 EC 7
   Basel Bad Bf an 13:22
+
+2019-10-24 bsl-binz:
+  Basel SBB ab 11:43      1:34 1 IR 37, S 10
+  SZU gleis 22 unten hinten
+  Zürich Binz an 13:09
 
