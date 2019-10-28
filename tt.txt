@@ -5315,3 +5315,10 @@ http://auskunft.kvb-koeln.de
   SZU gleis 22 unten hinten
   Zürich Binz an 13:09
 
+2019-10-27 loe-steinen:
+  Lörrach Hbf 08:58  0:08 0 SBB RVL-Tarif
+  Steinen 09:06
+  Lörrach Hbf 09:28  0:08 0 SBB RVL-Tarif
+  Steinen 09:36
+  Lörrach Hbf 09:58  0:08 0 SBB RVL-Tarif
+  Steinen 10:06
