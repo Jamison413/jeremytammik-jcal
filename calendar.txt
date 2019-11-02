@@ -8115,7 +8115,7 @@ year 2015
 2019-11-01 10:30 koerbli@anne-marie
 2019-11-01 12:00 lunch@anne-marie
 
-2019-11-03 sunahla + govinda
+2019-11-03 15:00 sunahla + govinda
 
 2019-11-10 14:00 h3
 
@@ -8132,6 +8132,7 @@ year 2015
 2019-11-30 10:00 oelwanne@daniel begin
 2019-11-30 party@madlee
 2019-12-01 11:00 oelwanne@daniel end
+2019-12-01 15:00 xmas bafudi prep
 
 2019-12-08 intensiv@pascal
 
