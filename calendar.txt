@@ -8119,7 +8119,8 @@ year 2015
 
 2019-11-06 18:45-20:15 winterfit@thr # THR-Halle, Theodor Heuss Realschule, Schützenstrasse
 
-2019-11-10 14:00 h3
+2019-11-10 14:00 <a href="https://www.meetup.com/Basel-Hash/events/266025112">h3@allschwil</a> # Herrenweg 35
+2019-11-10 13:00 moni@women
 
 2019-11-13 19:00 huenerberger@jeremy
 2019-11-17 12:00-16:00 paare@daniel
@@ -8127,6 +8128,7 @@ year 2015
 
 2019-11-20 submit fr tax to frey
 2019-11-21 pia + rene
+2019-11-21 20:30 rose@gruett
 2019-11-22 11:45 rene + tobias
 2019-11-23 novemberparty
 2019-11-24 sweatlodge
