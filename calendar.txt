@@ -8137,7 +8137,7 @@ year 2015
 2019-11-30 14:00-18:00 <a href="https://www.fairnetzt-loerrach.de/veranstaltung/vortraege-in-basel-neues-wohnen-fuer-neue-gesellschaftsformen-2-2">wohnwandel@nellie</a>
 2019-11-30 party@madlee
 #2019-12-01 11:00 oelwanne@daniel end
-2019-12-01 15:00 xmas bafudi prep
+2019-12-01 14:00 xmas bafudi prep # stefan schlossm, karen, daniel moni, jeremy
 
 2019-12-08 intensiv@pascal
 
@@ -8161,7 +8161,7 @@ year 2015
 2020-05-21 sweden begin
 2020-06-07 sweden end
  
-2020-07-18 moni vacation begin
+2020-07-17 moni vacation begin
 2020-07-23 jusoca begin
 2020-08-01 jusoca end
 2020-08-02 moni vacation end
