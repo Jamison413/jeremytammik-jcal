@@ -8125,7 +8125,7 @@ year 2015
 2019-11-12 10:00-11:00 yakir@zoom
 2019-11-13 10:00 mac@dq # dq solutions basel, gueterstrasse 133, ch-4053 basel
 2019-11-13 11:15 mobile@migros # dreispitz buchungscode ig0f3zx status bestätigt
-2019-11-13 15:30-17:00 <a href="http://bz-ticket.de/eckart-von-hirschhausen-werkraum-schoepflin-loerrach">Hirschhausen@Schoepflin</a>
+2019-11-13 15:30-17:00 <a href="http://bz-ticket.de/eckart-von-hirschhausen-werkraum-schoepflin-loerrach">hirschhausen@schoepflin</a>
 2019-11-13 19:00 huenerberger@jeremy
 2019-11-17 12:00-16:00 <a href="/j/tmp/2019-11-17_daniel_boerlin_einladung_paartreffen.pdf">paare@daniel</a>
 2019-11-18 19:00-21:00 zuhal # bodypoetry
