@@ -8151,6 +8151,7 @@ year 2015
 
 2019-12-07 15:00 xmasdiscoprep
 2019-12-08 intensiv@pascal
+2019-12-08 14:15 h3@fuellinsdorf # https://www.meetup.com/Basel-Hash/events/266644408
 
 2019-12-09 accelerator@paris begin
 2019-12-13 accelerator@paris end
