@@ -8138,8 +8138,10 @@ year 2015
 2019-11-23 novemberparty
 2019-11-24 sweatlodge
 
-2019-11-25 15:00 wendel
 2019-11-26 08:30-10:00 chimneysweep
+2019-11-26 09:30 wendel
+
+2019-11-28 09:30-10:30 maxboegl
 
 #2019-11-30 10:00 oelwanne@daniel begin
 2019-11-30 14:00-18:00 <a href="https://www.fairnetzt-loerrach.de/veranstaltung/vortraege-in-basel-neues-wohnen-fuer-neue-gesellschaftsformen-2-2">wohnwandel@nellie</a>
@@ -8155,6 +8157,7 @@ year 2015
 2019-12-08 14:15 h3@fuellinsdorf # https://www.meetup.com/Basel-Hash/events/266644408
 
 2019-12-09 accelerator@paris begin
+2019-12-12 07:30 <a href="https://autodesk.zoom.us/j/726895218">FPD All Hands Q3</a>
 2019-12-13 accelerator@paris end
 
 2019-12-16 19:00-21:00 zuhal # bodypoetry
