@@ -8144,6 +8144,7 @@ year 2015
 2019-11-28 09:30-10:30 maxboegl
 
 #2019-11-30 10:00 oelwanne@daniel begin
+2019-11-30 10:00 stacheln@nik
 2019-11-30 14:00-18:00 <a href="https://www.fairnetzt-loerrach.de/veranstaltung/vortraege-in-basel-neues-wohnen-fuer-neue-gesellschaftsformen-2-2">wohnwandel@nellie</a>
 2019-11-30 party@madlee
 #2019-12-01 11:00 oelwanne@daniel end
