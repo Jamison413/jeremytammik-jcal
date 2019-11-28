@@ -8158,7 +8158,11 @@ year 2015
 2019-12-08 14:15 h3@fuellinsdorf # https://www.meetup.com/Basel-Hash/events/266644408
 
 2019-12-09 accelerator@paris begin
-2019-12-09 travel paris 
+2019-12-09 travel paris
+
+Basel SBB - Paris Gare de Lyon 09.12.2019, 10:34 - 13:41
+Paris Gare de Lyon - Basel SBB 11.12.2019, 14:23 - 17:26
+
 2019-12-11 return paris 
 2019-12-12 07:30 <a href="https://autodesk.zoom.us/j/726895218">FPD All Hands Q3</a>
 2019-12-12 18:30 mondschein@bernauerhof # martin krall dav
