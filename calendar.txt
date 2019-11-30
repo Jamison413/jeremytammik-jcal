@@ -8146,7 +8146,7 @@ year 2015
 #2019-11-30 10:00 oelwanne@daniel begin
 2019-11-30 10:00 stacheln@nik
 2019-11-30 14:00-18:00 <a href="https://www.fairnetzt-loerrach.de/veranstaltung/vortraege-in-basel-neues-wohnen-fuer-neue-gesellschaftsformen-2-2">wohnwandel@nellie</a>
-2019-11-30 party@madlee
+2019-11-30 madlee@dreikoenig
 #2019-12-01 11:00 oelwanne@daniel end
 #2019-12-01 14:00 xmas bafudi prep # stefan schlossm, karen, daniel moni, jeremy
 #2019-12-01 17:00 sauna
