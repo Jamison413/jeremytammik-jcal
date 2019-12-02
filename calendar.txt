@@ -8178,13 +8178,15 @@ year 2015
 2020-01-03 lina begin
 2020-01-05 13:00 lina end
 
-2020-01-26 14:00-18:00 paare@daniel
+2020-01-11 zuegelte@anja
 
 2020-01-17 16:00 tel@lueflu
 2020-01-18 tel@lueflu
 2020-01-19 tel@lueflu
 
 2020-01-22 10:30-10:45 <a href="/j/doc/jet/passport_idcard/sverige/2020-01-22_pass_bokning.pdf">sverige@bern</a> # JETA-9662
+
+2020-01-26 14:00-18:00 paare@daniel
 
 2020-02-09 intensiv@thomas
 2020-02-09 18.00 bernd@nellie # Romeo & Julia frei nach Shakespeare spielen und lade ich nun Dich mit Deiner Partnerin ein
