@@ -8164,6 +8164,7 @@ year 2015
 2019-12-12 07:30 <a href="https://autodesk.zoom.us/j/726895218">fpd all hands q3</a>
 2019-12-12 16:00 <a href="https://autodesk.zoom.us/j/726895218">fpd all hands q3</a>
 2019-12-12 18:30 mondschein@bernauerhof # martin krall dav
+2019-12-13 14:00 blum@vb3
 2019-12-13 accelerator@paris end
 
 2019-12-16 19:00-21:00 zuhal # bodypoetry
