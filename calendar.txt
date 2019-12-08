@@ -8209,12 +8209,14 @@ year 2015
 
 2020-02-28 lina@wildhaus begin
 2020-03-06 lina@wildhaus end
-2020-03-07 intensiv@moni || michi
+2020-03-07 intensiv@moni|michi
 
 2020-04-04 intensiv@beat
 
+2020-05-02 intensiv@michi|moni
 2020-05-21 sweden begin
 2020-06-07 sweden end
+2020-06-14 intensiv@eva
  
 2020-07-17 moni vacation begin
 2020-07-23 jusoca begin
