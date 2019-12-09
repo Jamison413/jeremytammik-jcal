@@ -5322,3 +5322,13 @@ http://auskunft.kvb-koeln.de
   Steinen 09:36
   Lörrach Hbf 09:58  0:08 0 SBB RVL-Tarif
   Steinen 10:06
+
+2019-12-09 bsl-paris:
+  Basel SBB	ab	12:34	TGV 9216 Richtung: Paris Gare de Lyon
+  Paris Gare de Lyon	an	15:38		
+  Dauer: 3:04;
+  fährt 9. bis 14. Dez 2019 täglich
+  Bitte beachten Sie den Ausfall (siehe Details zur Verbindung).
+  Ausfall! Bitte beachten Sie die Information an der Haltestelle/im Fahrzeug.
+  StörungTGV 9216   Reisehinweis: (SNCF) Der Bahnverkehr in Frankreich ist nur eingeschränkt möglich. Mehr
+

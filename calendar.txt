@@ -8166,16 +8166,21 @@ year 2015
 2019-12-08 intensiv@pascal
 2019-12-08 14:15 h3@fuellinsdorf # https://www.meetup.com/Basel-Hash/events/266644408
 
+2019-12-09 07:30 sangha
 2019-12-09 accelerator@paris begin
 2019-12-09 10:34-13:41 bsl-paris # Basel SBB - Paris Gare de Lyon 09.12.2019, 10:34 - 13:41
+2019-12-09 12:34-15:38 bsl-paris gdl
 2019-12-11 14:23-17:26 paris-bsl # Paris Gare de Lyon - Basel SBB 11.12.2019, 14:23 - 17:26
 2019-12-12 07:30 <a href="https://autodesk.zoom.us/j/726895218">fpd all hands q3</a>
+2019-12-12 10:00 baurecht@bingemer
 2019-12-12 16:00 <a href="https://autodesk.zoom.us/j/726895218">fpd all hands q3</a>
 2019-12-12 18:30 mondschein@bernauerhof # martin krall dav
 2019-12-13 14:00 blum@vb3
 2019-12-13 accelerator@paris end
 
 2019-12-16 19:00-21:00 zuhal # bodypoetry
+
+2019-12-19 19:00 huenerberger
 
 2019-12-22 rene + pia
 2019-12-22 4advent@karen
