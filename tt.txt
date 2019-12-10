@@ -5332,3 +5332,11 @@ http://auskunft.kvb-koeln.de
   Ausfall! Bitte beachten Sie die Information an der Haltestelle/im Fahrzeug.
   StörungTGV 9216   Reisehinweis: (SNCF) Der Bahnverkehr in Frankreich ist nur eingeschränkt möglich. Mehr
 
+2019-12-11 paris-bsl:
+  Lyria No 9213
+  12:23 Paris Gare de Lyon
+  14:01 Dijon
+  14:28 Besançon Franche-Comté TGV
+  15:07 Mulhouse
+  15:33 Bâle
+
