@@ -8192,6 +8192,8 @@ year 2015
 #2019-12-22 4advent@karen
 
 2019-12-23 14:00 oberelben@moni
+2019-12-24 17:00 xmax@wadley
+2019-12-24 20:30 fire@karen
 2019-12-25 19:00 bafudi
 2019-12-26 13:30 <a href="https://www.meetup.com/basel-hash/events/266025112">h3@bsl</a> # boxing day hash@altepost # centralbahnstrasse 21 basel
 2019-12-26 wildhaus begin
