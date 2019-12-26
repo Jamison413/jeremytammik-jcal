@@ -5340,3 +5340,5 @@ http://auskunft.kvb-koeln.de
   15:07 Mulhouse
   15:33 Bâle
 
+2019-12-30 wildhaus-bsl:
+  07:41-10:53 wildhaus-bsl /a/doc/expense/receipt/2019/2019-12-30_sbb_wildhaus_bsl.pdf
