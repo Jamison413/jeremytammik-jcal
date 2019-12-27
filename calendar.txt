@@ -8207,6 +8207,7 @@ year 2015
 2020-01-03 abholen@blum
 2020-01-03 lina begin
 2020-01-05 13:00 lina end
+2020-01-05 13:24-20:22 <a href="/a/doc/expense/receipt/2020/2020-01-05_db_bsl_berlin.pdf">bsl-berlin</a>
 2020-01-06 hochbett@marie
 2020-01-07 hochbett@marie
 2020-01-07 16:30 manthey@berlin
