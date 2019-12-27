@@ -5344,3 +5344,21 @@ http://auskunft.kvb-koeln.de
   07:41-10:53 wildhaus-bsl /a/doc/expense/receipt/2019/2019-12-30_sbb_wildhaus_bsl.pdf
   15:33-18:41 bsl-wildhaus /a/doc/expense/receipt/2019/2019-12-30_sbb_bsl_wildhaus.pdf
 
+2020-01-05 marie loe-berlin:
+  Loerrach Hbf
+  Basel Bad Bf
+  Basel Bad Bf
+  Mannheim Hbf
+  Mannheim Hbf
+  Berlin Suedkreuz
+  Berlin Suedkreuz (S)
+  Berlin Hermannstraﬂe
+  05.01. ab 12:02 1
+  05.01. an 12:13 7
+  05.01. ab 13:15 4
+  05.01. an 15:14 3
+  05.01. ab 15:32 2
+  05.01. an 20:22 6
+  05.01. ab 20:30
+  05.01. an 20:36 2
+
