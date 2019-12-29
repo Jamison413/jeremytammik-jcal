@@ -8201,6 +8201,7 @@ year 2015
 2019-12-26 13:30 <a href="https://www.meetup.com/basel-hash/events/266025112">h3@bsl</a> # boxing day hash@altepost # centralbahnstrasse 21 basel
 2019-12-26 wildhaus begin
 2019-12-30 07:41-10:53 <a href="/a/doc/expense/receipt/2019/2019-12-30_sbb_wildhaus_bsl.pdf">wildhaus-bsl</a>
+2019-12-30 11:30 waldrain@loe
 2019-12-30 grundschuldbestellung@blum
 2019-12-30 15:33-18:41 <a href="/a/doc/expense/receipt/2019/2019-12-30_sbb_bsl_wildhaus.pdf">bsl-wildhaus</a>
 2020-01-03 wildhaus end
