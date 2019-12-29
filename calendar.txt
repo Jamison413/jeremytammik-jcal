@@ -8202,7 +8202,7 @@ year 2015
 2019-12-26 wildhaus begin
 2019-12-30 07:41-10:53 <a href="/a/doc/expense/receipt/2019/2019-12-30_sbb_wildhaus_bsl.pdf">wildhaus-bsl</a>
 2019-12-30 11:30 waldrain@loe
-2019-12-30 grundschuldbestellung@blum
+2019-12-30 12:00-14:30 grundschuldbestellung@blum
 2019-12-30 15:33-18:41 <a href="/a/doc/expense/receipt/2019/2019-12-30_sbb_bsl_wildhaus.pdf">bsl-wildhaus</a>
 2020-01-03 wildhaus end
 2020-01-03 abholen@blum
