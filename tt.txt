@@ -5345,25 +5345,18 @@ http://auskunft.kvb-koeln.de
   15:33-18:41 bsl-wildhaus /a/doc/expense/receipt/2019/2019-12-30_sbb_bsl_wildhaus.pdf
 
 2020-01-05 marie loe-berlin:
-  Loerrach Hbf
-  Basel Bad Bf
-  Basel Bad Bf
-  Mannheim Hbf
-  Mannheim Hbf
-  Berlin Suedkreuz
-  Berlin Suedkreuz (S)
-  Berlin Hermannstraße
-  05.01. ab 12:02 1
-  05.01. an 12:13 7
-  05.01. ab 13:15 4
-  05.01. an 15:14 3
-  05.01. ab 15:32 2
-  05.01. an 20:22 6
-  05.01. ab 20:30
-  05.01. an 20:36 2
+  Loerrach ab 12:02 1
+  Basel Bad an 12:13 7
+  Basel Bad ab 13:15 4
+  Mannheim an 15:14 3
+  Mannheim ab 15:32 2
+  Berlin Suedkreuz an 20:22 6
+  Berlin Suedkreuz ab 20:30
+  Hermannstraße an 20:36 2
   
-  Basel Bad Bf 05.01. ab 13:24 4 ICE 106
-  Mannheim Hbf 05.01. an 15:23 3
-  Mannheim Hbf 05.01. ab 15:32 2 ICE 596
-  Berlin Südkreuz 05.01. an 20:22 6
+2020-01-05 bsl-berlin:
+  Basel Bad Bf ab 13:24 4 ICE 106
+  Mannheim Hbf an 15:23 3
+  Mannheim Hbf ab 15:32 2 ICE 596
+  Berlin Südkreuz an 20:22 6
 
