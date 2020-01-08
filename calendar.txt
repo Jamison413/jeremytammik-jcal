@@ -476,7 +476,7 @@ last day in dec               new year's eve
 2016-11-14 14:52 vollmond # Montag
 2016-12-14 01:05 vollmond # Mittwoch
 
-# ^([^,]+)\,\s+([0-9]+)\.\s+([^ ]+)\s+(201[0-9])\,\s+([0-9][0-9]\:[0-9][0-9]).*\n
+# ^([^,]+)\,\s+([0-9]+)\.\s+([^ ]+)\s+(20[12][0-9])\,\s+([0-9][0-9]\:[0-9][0-9]).*\n
 # \4-\3-\2 \5 vollmond # \1\n
 
 2017-01-12 12:33 vollmond # Donnerstag
@@ -505,6 +505,20 @@ last day in dec               new year's eve
 2018-10-24 18:45 vollmond # Mittwoch
 2018-11-23 06:39 vollmond # Freitag
 2018-12-22 18:48 vollmond # Samstag
+
+2020-01-10 20:21 vollmond # Freitag
+2020-02-09 08:33 vollmond # Sonntag
+2020-03-09 18:47 vollmond # Montag
+2020-04-08 04:35 vollmond # Mittwoch
+2020-05-07 12:45 vollmond # Donnerstag
+2020-06-05 21:12 vollmond # Freitag
+2020-07-05 06:44 vollmond # Sonntag
+2020-08-03 17:58 vollmond # Montag
+2020-09-02 07:22 vollmond # Mittwoch
+2020-10-01 23:05 vollmond # Donnerstag
+2020-10-31 15:49 vollmond # Samstag
+2020-11-30 10:29 vollmond # Montag
+2020-12-30 04:28 vollmond # Mittwoch
 
 #
 # regular adn meetings:
