@@ -8239,8 +8239,8 @@ year 2015
 2020-01-11 11:00 geburi@sigi # adlergaesschen 3
 2020-01-12 14:00 <a href=https://www.meetup.com/Basel-Hash/events/267623196">h3@eiken</a>
 
+2020-01-13 14:30 yakir
 2020-01-14 13:30 aec wg call
-2020-01-14 14:30 yakir
 2020-01-17 16:00 tel@lueflu
 2020-01-18 tel@lueflu
 2020-01-19 tel@lueflu
