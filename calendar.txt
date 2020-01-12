@@ -8259,7 +8259,7 @@ year 2015
 2020-02-15 piarene@zytroeseli begin
 2020-02-22 piarene@zytroeseli end
 
-2020-02-23 bedretto begin # dav Angela Rosin Skidurchquerung im Tessin (T886) vom 23.02.2020 bis 26.02.2020 
+2020-02-23 bedretto begin # dav Angela Rosin Skidurchquerung Tessin (T886) angemeldet, 1. platz auf der warteliste
 2020-02-24 bedretto 
 2020-02-25 bedretto 
 2020-02-26 bedretto end
@@ -8270,10 +8270,10 @@ year 2015
 
 2020-03-22 annemarie80geburi@pratteln
 
-2020-03-26 urner_runde # dav jogi Die Urner Runde - Skidurchquerung (T918) vom 26.03.2020 bis 29.03.2020
+2020-03-26 urner_runde begin # dav jogi Urner Runde - Skidurchquerung (T918) angemeldet, bestaetigt
 2020-03-27 urner_runde
 2020-03-28 urner_runde
-2020-03-29 urner_runde
+2020-03-29 urner_runde end
 
 2020-04-04 intensiv@beat
 
