@@ -8250,6 +8250,7 @@ year 2015
 2020-01-23 20:30 rose@gruett
 
 2020-01-26 14:00-18:00 paare@daniel
+2020-01-27 14:00 tim@basel
 
 2020-02-02 winterhorn # dav winterhorn (t929) christian tritschler, angemeldet
 
