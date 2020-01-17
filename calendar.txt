@@ -8255,7 +8255,8 @@ year 2015
 2020-02-02 winterhorn # dav winterhorn (t929) christian tritschler, angemeldet
 
 2020-02-07 16:00 <a href="https://www.facebook.com/events/561065081108209/">sustainability@dhbw</a> begin # social entrepreneurship camp – klima und nachhaltigkeit https://www.hilfswerft.de/veranstaltung/social-entrepreneurship-camp-klima-und-nachhaltigkeit/
-2020-02-07 13:00 sustainability@dhbw end
+2020-02-08 sustainability
+2020-02-09 13:00 sustainability end
 
 2020-02-09 intensiv@thomas
 2020-02-09 18.00 bernd@nellie # Romeo & Julia frei nach Shakespeare spielen und lade ich nun Dich mit Deiner Partnerin ein
