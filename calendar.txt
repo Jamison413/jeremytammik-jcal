@@ -8246,6 +8246,8 @@ year 2015
 2020-01-19 tel@lueflu
 2020-01-20 19:00 waldrain@sunahla
 
+2020-01-21 13:00 waldrain
+
 2020-01-22 10:30-10:45 <a href="/j/doc/jet/passport_idcard/sverige/2020-01-22_pass_bokning.pdf">sverige@bern</a> # JETA-9662
 2020-01-23 20:30 rose@gruett
 
@@ -8274,6 +8276,8 @@ year 2015
 2020-02-28 lina@wildhaus begin
 2020-03-06 lina@wildhaus end
 2020-03-07 intensiv@moni|michi
+
+2020-03-14 waldrainbesichtigungen st. pantaleon passivhaus + erlenmatt cluster-wg
 
 2020-03-22 annemarie80geburi@pratteln
 
