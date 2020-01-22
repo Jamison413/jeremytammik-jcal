@@ -8253,6 +8253,7 @@ year 2015
 2020-01-22 11:30-13:20 monika@bern
 2020-01-22 13:36-14:32 <a href="/a/doc/expense/receipt/2020/2020-01-22_sbb_bern_bsl.pdf">bern-bsl</a>
 2020-01-22 19:00 tichu # marianne + karen
+2020-01-23 15:00 blum@vb3
 2020-01-23 20:30 rose@gruett
 
 2020-01-26 14:00-18:00 paare@daniel
