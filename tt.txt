@@ -5325,7 +5325,7 @@ http://auskunft.kvb-koeln.de
 
 2019-12-09 bsl-paris:
   Basel SBB ab 12:34 TGV 9216 Richtung: Paris Gare de Lyon
-  Paris Gare de Lyon an 15:38		
+  Paris Gare de Lyon an 15:38  
   Dauer: 3:04;
   fährt 9. bis 14. Dez 2019 täglich
   Bitte beachten Sie den Ausfall (siehe Details zur Verbindung).
@@ -5360,3 +5360,11 @@ http://auskunft.kvb-koeln.de
   Mannheim Hbf ab 15:32 2 ICE 596
   Berlin Südkreuz an 20:22 6
 
+2020-01-22 bsl-bern:
+  Basel SBB ab 08:58 7 IC 61 Richtung: Interlaken Ost
+  Bern an 09:56 4
+  Dauer: 1:04;
+  
+2020-01-22 bern-bsl:
+  Bern ab 13:36 4 IC 1070
+  Basel SBB an 14:32 7
