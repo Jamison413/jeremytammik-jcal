@@ -8264,8 +8264,10 @@ year 2015
 2020-01-30 alex@sak? (+ jakob)
 
 2020-02-01 18:00 talkingstick@tatjana
-2020-02-02 winterhorn # dav winterhorn (t929) christian tritschler, angemeldet
+2020-02-02 winterhorn # dav winterhorn (t929) christian tritschler, angemeldet, tour abgesagt
 
+2020-02-06 winterhorn # dav winterhorn (t929) christian tritschler, angemeldet
+2020-02-06 16:00 geburi@andrea
 2020-02-07 16:00 <a href="https://www.facebook.com/events/561065081108209/">sustainability@dhbw</a> begin # social entrepreneurship camp – klima und nachhaltigkeit https://www.hilfswerft.de/veranstaltung/social-entrepreneurship-camp-klima-und-nachhaltigkeit/
 2020-02-08 sustainability
 2020-02-09 13:00 sustainability end
@@ -8275,6 +8277,7 @@ year 2015
 
 2020-02-15 20:00 nackt@nellie
 2020-02-15 piarene@zytroeseli begin
+2020-02-16 16:00 film@jeremy # the biggest little farm (2019)
 2020-02-17 19:00 huenerberger@karen
 2020-02-22 piarene@zytroeseli end
 2020-02-22 15:00 paare@nik
