@@ -8278,7 +8278,7 @@ year 2015
 
 2020-02-12 18:00-22:00 <a href="https://www.fairnetzt-loerrach.de/veranstaltung/kochen-in-der-woche-gegen-den-rassismus-2020">kochen</a> # baechlinweg 1
 
-2020-02-15 20:00 nackt@nellie
+#2020-02-15 20:00 nackt@nellie
 2020-02-15 piarene@zytroeseli begin
 2020-02-16 16:00 film@jeremy # the biggest little farm (2019)
 2020-02-17 19:00 huenerberger@karen
