@@ -8293,7 +8293,9 @@ year 2015
 2020-02-25 bedretto 
 2020-02-26 bedretto end
 
+2020-02-27 lina@loe
 2020-02-28 lina@wildhaus begin
+2020-03-05 lina@loe
 2020-03-06 lina@wildhaus end
 2020-03-07 intensiv@moni|michi
 
