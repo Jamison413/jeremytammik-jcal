@@ -8277,11 +8277,11 @@ year 2015
 2020-02-09 14:00 <a href="https://www.meetup.com/Basel-Hash/events/268382452">h3@bsl</a> # centralbahnstrasse 21 basel
 2020-02-09 18.00 bernd@nellie # Romeo & Julia frei nach Shakespeare spielen und lade ich nun Dich mit Deiner Partnerin ein
 
-2020-02-10 09:24-13:23 <a href="/a/doc/expense/receipt/2020/2020-02-10_db_bsl_bonn.pdf">bsl-bonn</a>
-2020-02-12 11:14-15:27 <a href="/a/doc/expense/receipt/2020/2020-02-12_db_bonn_bsl.pdf">bonn-bsl</a>
+#2020-02-10 09:24-13:23 <a href="/a/doc/expense/receipt/2020/2020-02-10_db_bsl_bonn.pdf">bsl-bonn</a>
+#2020-02-12 11:14-15:27 <a href="/a/doc/expense/receipt/2020/2020-02-12_db_bonn_bsl.pdf">bonn-bsl</a>
 
+2020-02-12 11:00 wolfgang
 2020-02-12 18:00-22:00 <a href="https://www.fairnetzt-loerrach.de/veranstaltung/kochen-in-der-woche-gegen-den-rassismus-2020">kochen</a> # baechlinweg 1
-2020-02-13 10:00 wolfgang?
 
 #2020-02-15 20:00 nackt@nellie
 2020-02-14 18:00 gotopiarene
