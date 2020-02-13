@@ -8294,10 +8294,10 @@ year 2015
 2020-02-22 piarene@zytroeseli end
 2020-02-22 15:00 paare@nik
 
-2020-02-23 bedretto begin # dav Angela Rosin Skidurchquerung Tessin (T886) angemeldet, 1. platz auf der warteliste
-2020-02-24 bedretto 
-2020-02-25 bedretto 
-2020-02-26 bedretto end
+2020-02-23 (bedretto) begin # dav Angela Rosin Skidurchquerung Tessin (T886) angemeldet, 1. platz auf der warteliste
+2020-02-24 (bedretto) 
+2020-02-25 (bedretto) 
+2020-02-26 (bedretto) end
 
 2020-02-27 lina@loe
 2020-02-28 lina@wildhaus begin
@@ -8306,6 +8306,8 @@ year 2015
 2020-03-07 intensiv@moni|michi
 
 2020-03-14 waldrainbesichtigungen st. pantaleon passivhaus + erlenmatt cluster-wg
+
+2020-03-18 sr?
 
 2020-03-22 annemarie80geburi@pratteln
 
