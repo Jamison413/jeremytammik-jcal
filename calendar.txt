@@ -8312,6 +8312,7 @@ year 2015
 2020-03-22 annemarie80geburi@pratteln
 
 2020-03-25 pay bundessteuer 2019
+2020-03-25 18:00-21:00 <a href="https://www.meetup.com/Hackergarten-Basel/events/268707937">hackergarten@optravis</a> # Stapfelberg 9
 
 2020-03-26 urner_runde begin # dav jogi Urner Runde - Skidurchquerung (T918) angemeldet, bestaetigt
 2020-03-27 urner_runde
