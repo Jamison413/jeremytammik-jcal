@@ -8324,6 +8324,8 @@ year 2015
 2020-04-18 15:00 paare@leandra
 
 2020-05-02 intensiv@michi|moni
+2020-05-15 klettern@brolla begin # dav claudia + patrick Leichte Mehrseillängen Ponte Brolla Lago Maggiore
+2020-05-17 klettern@brolla end
 2020-05-17 14:00 paare@karen
 
 2020-05-21 sweden begin
@@ -8331,6 +8333,11 @@ year 2015
 2020-06-14 intensiv@eva
 2020-06-20 16:00 mona@felsenau
  
+2020-07-05 grassen # dav anmeldung 2020-05-17
+
+2020-07-10 seewenhuette begin # dav angemeldet 
+2020-07-10 seewenhuette end
+
 2020-07-17 moni vacation begin
 2020-07-23 jusoca begin
 2020-08-01 jusoca end
