@@ -8336,7 +8336,7 @@ year 2015
 2020-07-05 grassen # dav anmeldung 2020-05-17
 
 2020-07-10 seewenhuette begin # dav angemeldet 
-2020-07-10 seewenhuette end
+2020-07-12 seewenhuette end
 
 2020-07-17 moni vacation begin
 2020-07-23 jusoca begin
