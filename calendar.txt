@@ -8281,7 +8281,7 @@ year 2015
 #2020-02-12 11:14-15:27 <a href="/a/doc/expense/receipt/2020/2020-02-12_db_bonn_bsl.pdf">bonn-bsl</a>
 
 2020-02-12 11:00 wolfgang
-2020-02-12 18:00-22:00 <a href="https://www.fairnetzt-loerrach.de/veranstaltung/kochen-in-der-woche-gegen-den-rassismus-2020">kochen</a> # baechlinweg 1
+#2020-02-12 18:00-22:00 <a href="https://www.fairnetzt-loerrach.de/veranstaltung/kochen-in-der-woche-gegen-den-rassismus-2020">kochen</a> # baechlinweg 1
 
 #2020-02-15 20:00 nackt@nellie
 2020-02-14 18:00 gotopiarene
