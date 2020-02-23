@@ -8311,7 +8311,8 @@ year 2015
 2020-03-07 intensiv@moni|michi
 2020-03-07 renovieren@karen end
 
-2020-03-14 waldrainbesichtigungen st. pantaleon passivhaus + erlenmatt cluster-wg
+2020-03-14 14:00 erlenmatt cluster-wg # waldrainbesichtigungen 
+2020-03-14 16:00 st. pantaleon passivhaus # waldrainbesichtigungen
 2020-03-15 13:00 putzete@
 
 2020-03-18 skitour@kriens
@@ -8327,7 +8328,7 @@ year 2015
 2020-03-28 urner_runde
 2020-03-29 urner_runde end
 
-2020-04-03 skitour@gaulihuette begin # dav T913 jogi kuehnoel martin krall angemeldet
+2020-04-03 skitour@gaulihuette begin # dav T913 jogi kuehnoel martin krall angemeldet, zugesagt
 2020-04-04 intensiv@beat
 2020-04-05 skitour@gaulihuette end
 
@@ -8347,7 +8348,7 @@ year 2015
  
 2020-07-05 grassen # dav anmeldung 2020-05-17
 
-2020-07-10 seewenhuette begin # dav T919 angemeldet 
+2020-07-10 seewenhuette begin # dav T919 angemeldet, zugesagt
 2020-07-12 seewenhuette end
 
 2020-07-17 moni vacation begin
