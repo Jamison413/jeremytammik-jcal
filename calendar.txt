@@ -8306,7 +8306,7 @@ year 2015
 2020-02-28 lina@wildhaus begin
 2020-02-28 renovieren@karen begin
 2020-03-04 moni@wildhaus
-2020-03-04 15:00 nik + markus
+#2020-03-04 15:00 nik + markus
 2020-03-05 lina@wildhaus end
 2020-03-05 lina@loe
 2020-03-07 intensiv@moni|michi
