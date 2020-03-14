@@ -8315,7 +8315,7 @@ year 2015
 
 2020-03-13 15:00 waldraingenossen
 2020-03-13 19:30 unthinking@vhs
-2020-03-14 12:58 <a href="file:///a/doc/expense/receipt/2020/2020-03-14_sbb_bsl_st_pantaleon.pdf">sbb-st.pantaleon</a>
+2020-03-14 12:58 <a href="file:////a/doc/expense/receipt/2020/2020-03-14_sbb_bsl_st_pantaleon.pdf">sbb-st.pantaleon</a>
 2020-03-14 14:00 erlenmatt cluster-wg # waldrainbesichtigungen 
 2020-03-14 16:00 st. pantaleon passivhaus # waldrainbesichtigungen
 2020-03-15 13:00 putzete@
