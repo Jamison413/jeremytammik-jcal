@@ -8338,9 +8338,9 @@ year 2015
 
 2020-03-31 koehlern?
 
-2020-04-03 skitour@gaulihuette begin # dav T913 jogi kuehnoel martin krall angemeldet, zugesagt
+#2020-04-03 skitour@gaulihuette begin # dav T913 jogi kuehnoel martin krall angemeldet, zugesagt, canceled due to corona virus covid-19
 2020-04-04 intensiv@beat
-2020-04-05 skitour@gaulihuette end
+#2020-04-05 skitour@gaulihuette end
 
 2020-04-17 koehlern?
 2020-04-18 15:00 paare@leandra
