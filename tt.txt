@@ -5368,3 +5368,11 @@ http://auskunft.kvb-koeln.de
 2020-01-22 bern-bsl:
   Bern ab 13:36 4 IC 1070
   Basel SBB an 14:32 7
+
+2020-03-17 bern-kriens:
+  12:00 Bern, Gleis 8 IR 2517 Richtung Luzern
+  Luzern an 13:01 Luzern, Gleis 3 
+  Luzern, Bahnhof ab 13:07 Luzern, Bahnhof, Kante A Bus B 1 1733 Richtung Obernau, Dorf
+  Kriens, Hofmatt-Bellpark an 13:17
+  Fussweg 1040 m 6010 Kriens, Oberhusrain 44
+
