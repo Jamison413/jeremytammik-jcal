@@ -8327,14 +8327,17 @@ year 2015
 2020-03-21 19:30 <a href="https://www.greenpeace.de/an-den-raendern-des-horizonts">markus mauthe@burghof</a>
 2020-03-22 annemarie80geburi@pratteln
 
+2020-03-24 16:00 otto
 2020-03-25 pay bundessteuer 2019
 2020-03-25 17:30 bafudi@brauerei
 2020-03-25 18:00-21:00 <a href="https://www.meetup.com/Hackergarten-Basel/events/268707937">hackergarten@optravis</a> # Stapfelberg 9
 
-2020-03-26 urner_runde begin # dav jogi Urner Runde - Skidurchquerung (T918) angemeldet, bestaetigt
-2020-03-27 urner_runde
-2020-03-28 urner_runde
-2020-03-29 urner_runde end
+2020-03-27 09:30 umzug@stefanie
+
+#2020-03-26 urner_runde begin # dav jogi Urner Runde - Skidurchquerung (T918) angemeldet, bestaetigt
+#2020-03-27 urner_runde
+#2020-03-28 urner_runde
+#2020-03-29 urner_runde end
 
 2020-03-31 koehlern?
 
