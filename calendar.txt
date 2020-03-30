@@ -8340,6 +8340,7 @@ year 2015
 #2020-03-29 urner_runde end
 
 2020-03-31 koehlern?
+2020-03-31 15:00 otto
 
 #2020-04-03 skitour@gaulihuette begin # dav T913 jogi kuehnoel martin krall angemeldet, zugesagt, canceled due to corona virus covid-19
 2020-04-04 intensiv@beat
