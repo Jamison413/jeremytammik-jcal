@@ -8342,11 +8342,17 @@ year 2015
 2020-03-31 koehlern?
 2020-03-31 15:00 otto
 
+2020-04-01 waldrain@zoom
+
 #2020-04-03 skitour@gaulihuette begin # dav T913 jogi kuehnoel martin krall angemeldet, zugesagt, canceled due to corona virus covid-19
-2020-04-04 intensiv@beat
 #2020-04-05 skitour@gaulihuette end
 
-2020-04-08 11:00 gies@waldrain
+2020-04-04 intensiv@zoom (beat)
+
+2020-04-07 07:30 janz@waldrain # offizielle vermessung der stadt loerrach
+2020-04-07 10:00 schmitz@waldrain # Thomas Schmitz, Architek, AHA Atelier für Holzbau + Architektur
+2020-04-07 15:00 otto
+2020-04-08 13:00 gies@waldrain # gies und konietzny, https://www.giesarchitekten.de
 
 2020-04-17 koehlern?
 2020-04-18 15:00 paare@leandra
@@ -8354,6 +8360,7 @@ year 2015
 
 2020-04-25 party@nick
 
+2020-05-01 zoom invite
 2020-05-02 intensiv@michi|moni
 2020-05-15 klettern@brolla begin # dav claudia + patrick Leichte Mehrseillängen Ponte Brolla Lago Maggiore
 2020-05-17 klettern@brolla end
