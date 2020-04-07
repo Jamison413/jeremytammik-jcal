@@ -8390,3 +8390,8 @@ year 2015
 2020-09-13 kids@lina
 
 2020-10-28 josefhader@burghof
+
+2020-12-05 <a href="https://www.meetup.com/TouringMonkeys/events/269910174">toubkal@atlas</a> begin
+2020-12-05 15:25-18:50 bsl-marrakech
+2020-12-12 19:30-23:00 marrakech-bsl
+2020-12-12 toubkal@atlas begin
