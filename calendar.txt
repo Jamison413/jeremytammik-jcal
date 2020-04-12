@@ -8339,7 +8339,7 @@ year 2015
 #2020-03-28 urner_runde
 #2020-03-29 urner_runde end
 
-2020-03-31 koehlern?
+#2020-03-31 koehlern?
 2020-03-31 15:00 otto
 
 2020-04-01 waldrain@zoom
@@ -8354,7 +8354,8 @@ year 2015
 2020-04-08 13:00 gies@waldrain # gies und konietzny, https://www.giesarchitekten.de
 
 2020-04-13 14:00 otto
-2020-04-17 koehlern?
+2020-04-13 16:00 michael
+#2020-04-17 koehlern?
 2020-04-18 15:00 paare@leandra
 2020-04-19 13:00 moni@women
 
