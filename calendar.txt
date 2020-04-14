@@ -8349,6 +8349,15 @@ year 2015
 
 2020-04-04 intensiv@zoom (beat)
 
+2020-04-06 121 adsk rsu granted
+
+# RSU Performance 3 Year
+# Stock Granted (Units) 121 
+# Value Granted (USD) 18,000.00 
+# Unit value 148.51 USD
+# Effective Date of Stock Request Transaction 4/6/2020 
+# 3 Year Vest, 33% Each Year
+
 2020-04-07 07:30 janz@waldrain # offizielle vermessung der stadt loerrach
 2020-04-07 10:00 schmitz@waldrain # Thomas Schmitz, Architek, AHA Atelier für Holzbau + Architektur
 2020-04-08 13:00 gies@waldrain # gies und konietzny, https://www.giesarchitekten.de
@@ -8397,3 +8406,5 @@ year 2015
 2020-12-05 15:25-18:50 bsl-marrakech
 2020-12-12 19:30-23:00 marrakech-bsl
 2020-12-12 toubkal@atlas begin
+
+2023-04-06 121 adsk rsu mature # granted 2020-04-06
