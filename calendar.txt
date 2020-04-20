@@ -8382,8 +8382,9 @@ wann treeffen mit joerg finanz
 2020-05-10 11:00 waldrainlive
 2020-05-10 14:00-17:00 kernzeit
 
-2020-05-15 klettern@brolla begin # dav claudia + patrick Leichte Mehrseillängen Ponte Brolla Lago Maggiore
-2020-05-17 klettern@brolla end
+#2020-05-15 klettern@brolla begin # dav claudia + patrick Leichte Mehrseillängen Ponte Brolla Lago Maggiore, zugesagt, abgesagt wegen corona
+#2020-05-17 klettern@brolla end
+
 2020-05-17 14:00 paare@karen
 
 2020-05-21 sweden begin
