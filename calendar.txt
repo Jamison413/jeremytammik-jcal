@@ -256,6 +256,23 @@ year 2019 # https://www.myworkday.com/autodesk/d/inst/1422$739/rel-task/3001$14.
 2019-12-24 ne_holiday # annual week of rest
 2019-12-31 ne_holiday # annual week of rest
 
+year 2020 # https://www.myworkday.com/autodesk/d/inst/1422$739/rel-task/3001$14.htmld
+2020-01-01 ne_holiday # new year's day
+2020-01-02 ne_holiday # saint berchtold's day (guemligen)
+2020-04-10 ne_holiday # good friday
+2020-04-13 ne_holiday # easter monday
+#2020-05-01 ne_holiday # labour day (neuchatel)
+2020-05-21 ne_holiday # ascension day & bridge day
+2020-05-22 ne_holiday # ascension day & bridge day
+2020-06-01 ne_holiday # whit monday
+2020-08-01 ne_holiday # national day
+#2020-09-16 ne_holiday # bettagsmontag (neuchatel)
+2020-12-24 ne_holiday # annual week of rest
+2020-12-28 ne_holiday # annual week of rest
+2020-12-29 ne_holiday # annual week of rest
+2020-12-30 ne_holiday # annual week of rest
+2020-12-31 ne_holiday # annual week of rest
+
 # ne_holiday end.
 
 #
@@ -8397,6 +8414,7 @@ wann treeffen mit joerg finanz
 2020-05-17 14:00 paare@karen
 
 2020-05-21 sweden begin
+2020-05-22 ne_holiday
 2020-06-07 sweden end
 2020-06-14 intensiv@eva
 2020-06-20 16:00 mona@felsenau
