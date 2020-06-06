@@ -8447,15 +8447,21 @@ wann treeffen mit joerg finanz
 2020-06-29 koehlern
 2020-06-30 koehlern
  
+2020-07-01 spain? begin
 2020-07-05 grassen # dav anmeldung 2020-05-17, angemeldet
+2020-07-15 spain? end
 
 2020-07-10 seewenhuette begin # dav T919 angemeldet, zugesagt
 2020-07-12 seewenhuette end
 
 2020-07-17 moni vacation begin
+2020-07-17 wildhaus begin
+2020-07-24 wildhaus end
 2020-07-23 jusoca begin
 2020-08-01 jusoca end
 2020-08-02 moni vacation end
+2020-08-01 piazzogna? begin
+2020-08-07 piazzogna? end
 
 2020-09-05 intensiv@thomas
 2020-09-12 kids@lina
