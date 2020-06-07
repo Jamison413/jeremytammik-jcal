@@ -8454,6 +8454,7 @@ year 2015
 2020-07-10 seewenhuette begin # dav T919 angemeldet, zugesagt
 2020-07-12 seewenhuette end
 
+2020-07-15 joerg umbau end
 2020-07-16 joerg vacation begin
 2020-07-17 moni vacation begin
 2020-07-17 wildhaus begin
