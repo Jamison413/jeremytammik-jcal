@@ -8428,9 +8428,9 @@ year 2015
 
 2020-06-07 sweden end
 2020-06-07 13:00-16:00 waldrain live
+2020-06-07 16:00-19:00 david
 2020-06-08 11:00 architekten
 2020-06-09 09:30 otto
-
 2020-06-10 19:30 joerg
 2020-06-11 joerg umbau
 2020-06-12 17:00-18:30 coworking@loe # startblock, coworking in lörrach, schwarzwaldstraße 61
