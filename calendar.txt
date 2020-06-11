@@ -8441,6 +8441,7 @@ year 2015
 2020-06-14 intensiv@eva
 2020-06-14 14:00 <a href="https://www.meetup.com/Basel-Hash/events/271108271">h3@bsl</a> # Unterer Batterieweg 125, Basel
 2020-06-14 20:00 waldrain
+2020-06-15 12:00 tal
 2020-06-16 14:00 otto
 2020-06-16 16:00 marianne
 2020-06-17 14:00 kuri
