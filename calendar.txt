@@ -8449,6 +8449,7 @@ year 2015
 2020-06-19 17:00 huenerberger
 2020-06-20 16:00 mona@felsenau
 
+2020-06-22 13:00 wolfi@schlossbuergeln
 2020-06-22 devdays@london
 2020-06-23 au@london
 2020-06-24 au@london
