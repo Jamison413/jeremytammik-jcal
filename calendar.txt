@@ -8459,6 +8459,7 @@ year 2015
 2020-06-30 koehlern
  
 2020-07-01 spain? begin
+2020-07-04 andrea + magnus
 2020-07-05 grassen # dav anmeldung 2020-05-17, angemeldet
 2020-07-15 spain? end
 
