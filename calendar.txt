@@ -8448,7 +8448,8 @@ year 2015
 2020-06-17 15:00 plan-eco
 2020-06-18 joerg umbau
 2020-06-19 09:00 madlee
-2020-06-19 12:00 rose
+2020-06-19 11:00 rose
+2020-06-19 12:00 michael
 2020-06-19 14:00 moc + michael
 2020-06-19 17:00 huenerberger
 2020-06-20 16:00 mona@felsenau
