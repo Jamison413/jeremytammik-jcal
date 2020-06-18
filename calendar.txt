@@ -8447,8 +8447,10 @@ year 2015
 2020-06-17 14:00 kuri
 2020-06-17 15:00 plan-eco
 2020-06-18 joerg umbau
+2020-06-19 rose
 2020-06-19 17:00 huenerberger
 2020-06-20 16:00 mona@felsenau
+2020-06-21 gisela
 
 2020-06-22 13:00 wolfi@schlossbuergeln
 2020-06-22 devdays@london
