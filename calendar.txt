@@ -8469,14 +8469,17 @@ year 2015
 2020-07-01 spain? begin
 2020-07-04 andrea + magnus
 2020-07-05 grassen # dav anmeldung 2020-05-17, angemeldet
-2020-07-15 spain? end
 
 2020-07-10 seewenhuette begin # dav T919 angemeldet, zugesagt
 2020-07-12 seewenhuette end
+2020-07-12 16:35-19:15 bsl-agp easyjet 1067 # 6621053220 K1NG5XM
 
 2020-07-15 joerg umbau end
 2020-07-16 joerg vacation begin
 2020-07-17 moni vacation begin
+2020-07-17 09:30-12:10 agp-bsl easyjet 1066 # 6621053220 K1NG5XH
+2020-07-17 17:00 huenerberger
+
 2020-07-17 wildhaus begin
 2020-07-24 wildhaus end
 2020-07-23 jusoca begin
@@ -8491,6 +8494,8 @@ year 2015
 2020-09-05 intensiv@thomas
 2020-09-12 kids@lina
 2020-09-13 kids@lina
+
+2020-09-18 paare@karen
 
 2020-10-28 josefhader@burghof
 
