@@ -8473,11 +8473,13 @@ year 2015
 2020-07-10 seewenhuette begin # dav T919 angemeldet, zugesagt
 2020-07-12 seewenhuette end
 2020-07-12 16:35-19:15 bsl-agp easyjet 1067 # 6621053220 K1NG5XM
+2020-07-12 15:55-19:50 lhr-agp ba2716
 
 2020-07-15 joerg umbau end
 2020-07-16 joerg vacation begin
 2020-07-17 moni vacation begin
 2020-07-17 09:30-12:10 agp-bsl easyjet 1066 # 6621053220 K1NG5XH
+2020-07-17 12:10-14:00 agp-lhr ba0413
 2020-07-17 17:00 huenerberger
 
 2020-07-17 wildhaus begin
