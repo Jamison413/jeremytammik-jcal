@@ -8471,10 +8471,12 @@ year 2015
 2020-07-04 andrea + magnus
 2020-07-05 grassen # dav anmeldung 2020-05-17, angemeldet
 
-2020-07-10 seewenhuette begin # dav T919 angemeldet, zugesagt
-2020-07-12 seewenhuette end
+2020-07-10 holly begin
+2020-07-10 sewenhuette begin # dav T919 angemeldet, zugesagt
+2020-07-12 sewenhuette end
 2020-07-12 16:35-19:15 bsl-agp easyjet 1067 # 6621053220 K1NG5XM
 2020-07-12 15:55-19:50 lhr-agp ba2716
+2020-07-13 holly end
 
 2020-07-15 joerg umbau end
 2020-07-16 joerg vacation begin
@@ -8483,7 +8485,9 @@ year 2015
 2020-07-17 12:10-14:00 agp-lhr ba0413
 2020-07-17 17:00 huenerberger
 
+2020-07-17 nik begin
 2020-07-17 wildhaus begin
+2020-07-22 nik end
 2020-07-24 wildhaus end
 2020-07-23 jusoca begin
 2020-08-01 jusoca end
