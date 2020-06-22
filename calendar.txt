@@ -8463,6 +8463,7 @@ year 2015
 2020-06-22 17:30 nathalie
 2020-06-23 14:00 otto
 2020-06-24 15:00 delzer
+2020-06-26 16:00 midsommar # lars thor smith, edelmatt 12, 79400 kandern, tel +49-160/6983834
 
 2020-06-29 koehlern
 2020-06-30 koehlern
@@ -8487,13 +8488,13 @@ year 2015
 2020-07-17 12:10-14:00 agp-lhr ba0413
 2020-07-19 10:15-13:45 agp-txl marie
 
-2020-07-12 06:10-09:40 txl-agp marie
-2020-07-12 16:35-19:15 bsl-agp jeremy
-2020-07-12 15:55-19:50 lhr-agp nick
-
-2020-07-17 09:30-12:10 agp-bsl jeremy
-2020-07-17 12:10-14:00 agp-lhr nick
-2020-07-19 10:15-13:45 agp-txl marie
+#2020-07-12 06:10-09:40 txl-agp marie
+#2020-07-12 16:35-19:15 bsl-agp jeremy
+#2020-07-12 15:55-19:50 lhr-agp nick
+#
+#2020-07-17 09:30-12:10 agp-bsl jeremy
+#2020-07-17 12:10-14:00 agp-lhr nick
+#2020-07-19 10:15-13:45 agp-txl marie
 
 2020-07-17 17:00 huenerberger
 
