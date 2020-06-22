@@ -8474,8 +8474,10 @@ year 2015
 2020-07-10 holly begin
 2020-07-10 sewenhuette begin # dav T919 angemeldet, zugesagt
 2020-07-12 sewenhuette end
+
+2020-07-12 06:10-09:40 txl-agp marie
 2020-07-12 16:35-19:15 bsl-agp easyjet 1067 # 6621053220 K1NG5XM
-2020-07-12 15:55-19:50 lhr-agp ba2716
+2020-07-12 15:55-19:50 lhr-agp ba2716 nick
 2020-07-13 holly end
 
 2020-07-15 joerg umbau end
@@ -8483,6 +8485,16 @@ year 2015
 2020-07-17 moni vacation begin
 2020-07-17 09:30-12:10 agp-bsl easyjet 1066 # 6621053220 K1NG5XH
 2020-07-17 12:10-14:00 agp-lhr ba0413
+2020-07-19 10:15-13:45 agp-txl marie
+
+2020-07-12 06:10-09:40 txl-agp marie
+2020-07-12 16:35-19:15 bsl-agp jeremy
+2020-07-12 15:55-19:50 lhr-agp nick
+
+2020-07-17 09:30-12:10 agp-bsl jeremy
+2020-07-17 12:10-14:00 agp-lhr nick
+2020-07-19 10:15-13:45 agp-txl marie
+
 2020-07-17 17:00 huenerberger
 
 2020-07-17 nik begin
