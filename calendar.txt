@@ -8472,7 +8472,7 @@ year 2015
 2020-07-04 andrea + magnus
 2020-07-05 grassen # dav anmeldung 2020-05-17, angemeldet
 
-2020-07-10 holly begin
+2020-07-09 19:30 holly
 2020-07-10 sewenhuette begin # dav T919 angemeldet, zugesagt
 2020-07-12 sewenhuette end
 
