@@ -8477,7 +8477,7 @@ year 2015
 2020-07-12 sewenhuette end
 
 2020-07-12 06:10-09:40 txl-agp marie
-2020-07-12 16:35-19:15 bsl-agp easyjet 1067 # 6621053220 K1NG5XM
+2020-07-12 16:35-19:15 bsl-agp easyjet U21067 # 6621053220 K1NG5XM
 2020-07-12 15:55-19:50 lhr-agp ba2716 nick
 2020-07-13 holly end
 
