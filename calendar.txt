@@ -8472,6 +8472,7 @@ year 2015
 2020-07-04 andrea + magnus
 #2020-07-05 grassen # dav anmeldung 2020-05-17, angemeldet, abgesagt
 
+2020-07-06 14:00 otto
 2020-07-06 18:00 nik + leandra
 2020-07-09 17:30 waldrain
 2020-07-09 19:30 holly
