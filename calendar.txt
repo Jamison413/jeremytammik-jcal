@@ -8475,14 +8475,14 @@ year 2015
 2020-07-06 14:00 otto
 2020-07-06 18:00 nik + leandra
 2020-07-09 17:30 waldrain
-2020-07-09 19:30 holly
+2020-07-09 19:30 holly@loe arrive
 2020-07-10 sewenhuette begin # dav T919 angemeldet, zugesagt
 2020-07-12 sewenhuette end
 
 2020-07-12 06:10-09:40 txl-agp marie
 2020-07-12 16:35-19:15 bsl-agp easyjet U21067 # 6621053220 K1NG5XM
 2020-07-12 15:55-19:50 lhr-agp ba2716 nick
-2020-07-13 holly end
+2020-07-13 13:00 holly@sbb depart
 
 2020-07-15 joerg umbau end
 2020-07-16 joerg vacation begin
@@ -8515,6 +8515,8 @@ year 2015
 2020-08-13 nora@school
 
 2020-08-10 sverige? begin
+
+2020-08-22 18:00 gartenfest@andrea # live-musik, tanz, whirlpool, feuer und tolle leute
 
 2020-09-05 intensiv@thomas
 2020-09-12 kids@lina
