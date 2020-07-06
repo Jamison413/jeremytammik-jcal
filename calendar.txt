@@ -8502,8 +8502,8 @@ year 2015
 
 2020-07-17 17:00 huenerberger
 
-2020-07-17 nik begin
 2020-07-17 wildhaus begin
+2020-07-18 nik begin
 2020-07-22 nik end
 2020-07-24 wildhaus end
 2020-07-23 jusoca begin
