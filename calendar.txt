@@ -8484,6 +8484,7 @@ year 2015
 2020-07-12 16:35-19:15 bsl-agp easyjet U21067 # 6621053220 K1NG5XM
 2020-07-12 15:55-19:50 lhr-agp ba2716 nick
 2020-07-13 13:00 holly@sbb depart
+2020-07-13 19:00 helene arrive@nerja
 
 2020-07-15 joerg umbau end
 2020-07-16 joerg vacation begin
