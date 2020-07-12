@@ -8506,9 +8506,11 @@ year 2015
 2020-07-17 wildhaus begin
 2020-07-18 nik begin
 2020-07-22 nik end
-2020-07-24 wildhaus end
 2020-07-23 jusoca begin
+2020-07-24 wildhaus end
+2020-07-25 martina@piazzohgna begin
 2020-08-01 jusoca end
+2020-08-01 martina@piazzohgna end
 2020-08-01 piazzogna? begin
 2020-08-02 moni vacation end
 2020-08-03 10:00 pronation@preis
