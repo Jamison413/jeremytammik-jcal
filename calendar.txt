@@ -8509,6 +8509,7 @@ year 2015
 2020-07-23 jusoca begin
 2020-07-24 wildhaus end
 2020-07-25 martina@piazzohgna begin
+2020-07-26 joerg umzug
 2020-08-01 jusoca end
 2020-08-01 martina@piazzohgna end
 2020-08-01 piazzogna? begin
