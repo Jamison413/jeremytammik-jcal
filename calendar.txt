@@ -8483,8 +8483,10 @@ year 2015
 2020-07-12 06:10-09:40 txl-agp marie
 2020-07-12 16:35-19:15 bsl-agp easyjet EZS1067 # 6621053220 K1NG5XM https://www.easyjet.com/en/flight-tracker/EZS1067
 2020-07-12 15:55-19:50 lhr-agp ba2716 nick
+2020-07-13 11:00 victoria
 2020-07-13 13:00 holly@sbb depart
 2020-07-13 19:00 helene arrive@nerja
+2020-07-14 13:00 victoria
 
 2020-07-15 joerg umbau end
 2020-07-16 joerg vacation begin
@@ -8507,6 +8509,7 @@ year 2015
 2020-07-18 nik begin
 2020-07-22 nik end
 2020-07-23 jusoca begin
+2020-07-23 18:00 susann galster # waldrain
 2020-07-24 wildhaus end
 2020-07-25 martina@piazzohgna begin
 2020-07-26 joerg umzug
