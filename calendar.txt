@@ -8489,8 +8489,7 @@ year 2015
 2020-07-14 11:00 jose photos
 2020-07-15 11:30 marion@ayuntamiento
 2020-07-15 13:00 victoria
-
-2020-07-15 joerg umbau end
+2020-07-16 11:00 nan cowie
 2020-07-16 joerg vacation begin
 2020-07-17 moni vacation begin
 2020-07-17 09:30-12:10 agp-bsl easyjet 1066 # 6621053220 K1NG5XH
