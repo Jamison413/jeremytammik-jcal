@@ -8486,7 +8486,9 @@ year 2015
 2020-07-13 11:00 victoria
 2020-07-13 13:00 holly@sbb depart
 2020-07-13 19:00 helene arrive@nerja
-2020-07-14 13:00 victoria
+2020-07-14 11:00 jose photos
+2020-07-15 11:30 marion@ayuntamiento
+2020-07-15 13:00 victoria
 
 2020-07-15 joerg umbau end
 2020-07-16 joerg vacation begin
@@ -8504,8 +8506,8 @@ year 2015
 #2020-07-19 10:15-13:45 agp-txl marie
 
 2020-07-17 17:00 huenerberger
-
 2020-07-17 wildhaus begin
+2020-07-18 09:00 meichael@zoom
 2020-07-18 nik begin
 2020-07-22 nik end
 2020-07-23 jusoca begin
