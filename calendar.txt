@@ -8513,7 +8513,7 @@ year 2015
 2020-07-22 10:00 otto
 2020-07-22 18:00 coworking@loe # Lörrach Coworkign Meetup #2 https://www.meetup.com/Lorrach-Coworking-Meetup/events/271920306
 2020-07-23 jusoca begin
-2020-07-23 18:00 susann galster # waldrain
+2020-07-23 18:00 waldrain + susann galster
 2020-07-24 wildhaus end
 2020-07-25 martina@piazzogna begin
 2020-07-26 joerg umzug
