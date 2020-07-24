@@ -8470,7 +8470,7 @@ year 2015
  
 2020-07-01 spain? begin
 2020-07-04 andrea + magnus
-#2020-07-05 grassen # dav anmeldung 2020-05-17, angemeldet, abgesagt
+2020-07-05 05:15 grassen suedwand # dav anmeldung 2020-05-17, angemeldet, abgesagt, privat durchgefuehrt mit Gerd Lenk und Helmut Gempp
 
 2020-07-06 14:00 otto
 2020-07-06 18:00 nik + leandra
@@ -8496,19 +8496,11 @@ year 2015
 2020-07-17 12:10-14:00 agp-lhr ba0413
 2020-07-19 10:15-13:45 agp-txl marie
 
-#2020-07-12 06:10-09:40 txl-agp marie
-#2020-07-12 16:35-19:15 bsl-agp jeremy
-#2020-07-12 15:55-19:50 lhr-agp nick
-#
-#2020-07-17 09:30-12:10 agp-bsl jeremy
-#2020-07-17 12:10-14:00 agp-lhr nick
-#2020-07-19 10:15-13:45 agp-txl marie
-
 2020-07-17 17:00 huenerberger
 2020-07-17 19:00 araceli + joerg
 2020-07-18 09:00 michael@zoom
-2020-07-18 nik begin
-2020-07-22 nik end
+2020-07-18 nik grand combin begin
+2020-07-22 nik grand combin end
 #2020-07-22 18:00 coworking@loe # Lörrach Coworkign Meetup #2 https://www.meetup.com/Lorrach-Coworking-Meetup/events/271920306
 2020-07-23 jusoca begin
 2020-07-23 15:00 otto
