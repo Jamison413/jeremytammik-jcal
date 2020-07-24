@@ -8506,7 +8506,6 @@ year 2015
 
 2020-07-17 17:00 huenerberger
 2020-07-17 19:00 araceli + joerg
-2020-07-17 wildhaus begin
 2020-07-18 09:00 michael@zoom
 2020-07-18 nik begin
 2020-07-22 nik end
@@ -8515,7 +8514,6 @@ year 2015
 2020-07-23 jusoca begin
 2020-07-23 15:00 otto
 2020-07-23 18:00 waldrain
-2020-07-24 wildhaus end
 2020-07-25 martina@piazzogna begin
 2020-07-26 joerg umzug
 2020-08-01 jusoca end
