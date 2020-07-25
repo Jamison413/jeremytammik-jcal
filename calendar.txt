@@ -8509,7 +8509,7 @@ year 2015
 2020-07-25 16:00 cipriano
 2020-07-26 10:00 araceli clean flat
 2020-07-26 joerg umzug
-2020-07-26 15:00 mikaela@vogelbachfels
+2020-07-26 15:30 mikaela@vogelbachfels
 2020-07-29 11:00 rudi
 2020-08-01 jusoca end
 2020-08-01 martina@piazzogna end
