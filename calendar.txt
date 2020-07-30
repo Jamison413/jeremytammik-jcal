@@ -8514,9 +8514,9 @@ year 2015
 2020-07-31 10:00 rudi@pontebrolla
 2020-08-01 jusoca end
 2020-08-01 martina@piazzogna end
-2020-08-01 piazzogna? begin
+2020-08-01 rudi@pontebrolla
 2020-08-01 waedel@mosogno-chiosso
-2020-08-02 moni vacation end
+#2020-08-02 moni vacation end
 2020-08-03 10:00 pronation@preis
 2020-08-07 piazzogna? end
 2020-08-08 16:30 geburi@michelle
