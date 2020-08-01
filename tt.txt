@@ -5376,3 +5376,16 @@ http://auskunft.kvb-koeln.de
   Kriens, Hofmatt-Bellpark an 13:17
   Fussweg 1040 m 6010 Kriens, Oberhusrain 44
 
+2020-07-31 bsl-piazzogna:
+  Basel SBB ab 14:06  9 Geänderte Formation IC 3 Richtung: Zürich HB
+  Zürich HB an 15:00  11
+  Zürich HB ab 15:10  8 EC 321 Richtung: Chiasso
+  Bellinzona an 16:57  3
+  Bellinzona ab 17:02  6 S 20 Richtung: Locarno
+  Cadenazzo an 17:13  2
+  Cadenazzo, Stazione ab 17:18   Bus 329 127 Richtung: Dirinella, Confine
+  Magadino-Vira, Stazione an 17:36  
+  Magadino-Vira, Stazione ab 17:39 Bus 330 63 Richtung: Gerra (Gambarogno), Stazione
+  Piazzogna, Paese an 17:51  
+  Dauer: 3:45;
+
