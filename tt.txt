@@ -5389,3 +5389,12 @@ http://auskunft.kvb-koeln.de
   Piazzogna, Paese an 17:51  
   Dauer: 3:45;
 
+2020-08-01 vira-mosogno:
+  Vira (Gambarogno), Paese ab 13:19  B 329 Bus 329 122 Richtung: S. Antonino, Paese
+  Cadenazzo, Stazione an 13:34 
+  Cadenazzo ab 13:43 2 S 20 Richtung: Locarno
+  Locarno an 13:59 3
+  Locarno, Stazione ab 14:05 A B 324 Bus 324 7 Richtung: Spruga
+  Mosogno, Paese an 14:46 
+  Dauer: 1:27;
+
