@@ -8525,6 +8525,7 @@ year 2015
 
 2020-08-10 sverige? begin
 
+2020-08-10 18:00 vollmer@vb3
 2020-08-10 18:00-20:00 waldrain
 
 2020-08-13 nora@school
