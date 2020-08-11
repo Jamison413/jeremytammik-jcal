@@ -72,12 +72,8 @@ year *
 # print week number each monday:
 #
 #all mondays in year w%u # first sunday defines week 1
-all mondays in year w%w # first monday defines week 1
-
-year 2020
-all mondays in year w%+1W%w # first monday defines week 1
-
-year *
+#all mondays in year w%w # first monday defines week 1
+all mondays in year w%+1W%w # in 2020, week 1 begins on a wednesday
 
 #
 # add personal list of birthdays from file "birthdays" if it exists,
