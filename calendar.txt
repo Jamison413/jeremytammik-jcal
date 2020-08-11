@@ -74,6 +74,11 @@ year *
 #all mondays in year w%u # first sunday defines week 1
 all mondays in year w%w # first monday defines week 1
 
+year 2020
+all mondays in year w%+1W%w # first monday defines week 1
+
+year *
+
 #
 # add personal list of birthdays from file "birthdays" if it exists,
 # continue silently if it does not:
