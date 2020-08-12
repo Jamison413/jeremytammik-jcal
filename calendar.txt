@@ -8532,12 +8532,12 @@ year 2015
 2020-08-11 13:00-13:30 fom w mikako
 2020-08-11 16:30 mikaela
 2020-08-12 17:00 murali
-
+2020-08-13 11:30 michael
 2020-08-13 nora@school
 
-2020-08-15 waldrainworkshop?
-2020-08-15 11:00-14:00 anja
-2020-08-15 martin b?
+2020-08-15 10:20 waldrainworkshop
+2020-08-15 10_20-14:00 anja
+2020-08-15 martin + c b?
 
 2020-08-17 rudi begin
 2020-08-18 18:30 niki@wld
