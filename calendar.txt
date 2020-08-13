@@ -8537,7 +8537,7 @@ year 2015
 
 2020-08-14 17:00 foersterin@wld
 2020-08-15 10:20 waldrainworkshop
-2020-08-15 10_20-14:00 anja
+2020-08-15 10:20-14:00 anja
 2020-08-15 martin + c b?
 
 2020-08-17 rudi begin
