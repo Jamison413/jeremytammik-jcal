@@ -8535,7 +8535,9 @@ year 2015
 2020-08-13 11:30 michael
 2020-08-13 nora@school
 
+2020-08-14 11:00 michael
 2020-08-14 17:00 foersterin@wld
+2020-08-14 18:30 cipriano
 2020-08-15 10:20 waldrainworkshop
 2020-08-15 10:20-14:00 anja
 2020-08-15 martin + c b?
