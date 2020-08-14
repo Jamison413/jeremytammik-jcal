@@ -8543,6 +8543,7 @@ year 2015
 2020-08-15 martin + c b?
 2020-08-15 20:00 fire@wiechs
 
+2020-08-17 12:00 dach@pratteln
 2020-08-17 14:00 rudi begin
 2020-08-18 18:30 niki@wld
 2020-08-19 rudi end
