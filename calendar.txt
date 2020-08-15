@@ -8548,7 +8548,7 @@ year 2015
 2020-08-18 18:30 niki@wld
 2020-08-19 rudi end
 2020-08-19 20:00 moni@bafudi
-2020-08-20 ??:00 waldrain
+2020-08-20 18:00 waldrain
 
 2020-08-21 17:00 geburi@laux
 
@@ -8560,6 +8560,7 @@ year 2015
 
 2020-09-12 kids@lina
 2020-09-13 kids@lina
+2020-09-13 waldrain@micha
 
 2020-09-17 17:00 huenerberger
 2020-09-18 paare@karen
