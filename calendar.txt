@@ -8548,6 +8548,7 @@ year 2015
 2020-08-18 18:30 niki@wld
 2020-08-19 rudi end
 2020-08-19 20:00 moni@bafudi
+2020-08-20 ??:00 waldrain
 
 2020-08-21 17:00 geburi@laux
 
