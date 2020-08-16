@@ -8542,6 +8542,7 @@ year 2015
 2020-08-15 10:20-14:00 anja
 2020-08-15 martin + c b?
 2020-08-15 20:00 fire@wiechs
+2020-08-16 12:00-14:00 quidditch@margarethenpark
 
 2020-08-17 14:00 rudi begin
 2020-08-18 18:30 niki@wld
