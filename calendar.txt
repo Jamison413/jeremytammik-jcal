@@ -8550,6 +8550,7 @@ year 2015
 2020-08-19 20:00 moni@bafudi
 2020-08-20 14:00 dach@pratteln
 2020-08-20 18:00 waldrain
+2020-08-20 19:00 ciprian
 2020-08-21 16:00 apero@joerg
 2020-08-21 17:00 geburi@laux
 2020-08-21 17:30 paare@leandra
