@@ -8561,6 +8561,7 @@ year 2015
 2020-08-24 claywall@cornelius
 
 2020-08-25 14:00 aha + delzer@wld
+2020-08-26 15:30 daniel
 
 2020-08-28 08:00 <a href="https://www.meetup.com/TouringMonkeys/events/272504534">alphubel</a>
 2020-08-28 08:30 <a href="https://www.meetup.com/edelweiss/events/272582540">lars@rigi</a>
