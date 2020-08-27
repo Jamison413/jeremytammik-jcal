@@ -5398,3 +5398,13 @@ http://auskunft.kvb-koeln.de
   Mosogno, Paese an 14:46 
   Dauer: 1:27;
 
+2020-09-11 bsl-bonn:
+  Basel Bad Bf 11.09. ab 12:29 5
+  Bonn Hbf 11.09. an 16:44 2
+  EC 8
+
+2020-09-14 bonn-bsl:
+  Bonn Hbf 14.09. ab 09:22 3
+  Basel Bad Bf 14.09. an 13:22 3
+  EC7
+
