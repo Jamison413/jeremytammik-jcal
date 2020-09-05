@@ -8573,8 +8573,9 @@ year 2015
 2020-09-03 20:00 ecki@h30
 2020-09-04 17:30 rose
 2020-09-05 intensiv@thomas
-2020-09-06 rita
+2020-09-06 08:00 rita@sbb
 2020-09-06 sauna?
+2020-09-07 12:00 micha
 
 2020-09-11 12:29-16:44 <a href="/a/doc/expense/receipt/2020/2020-09-11_db_ticket_bsl_bonn.pdf">bsl-bonn</a>
 2020-09-12 kids@lina
