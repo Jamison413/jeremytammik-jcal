@@ -8594,6 +8594,8 @@ year 2015
 2020-09-20 15:00-18:00 huenerberger # gemeinschaft
 
 2020-09-25 moni ferien begin
+2020-09-26 moni
+2020-09-27 moni
 2020-09-28 moni ferien end
 
 2020-10-02 dav@chasseral
