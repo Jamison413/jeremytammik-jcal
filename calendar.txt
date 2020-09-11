@@ -8605,7 +8605,8 @@ year 2015
 2020-09-27 moni
 2020-09-28 moni ferien end
 
-2020-10-01 09:30 niko@maulburg
+2020-10-01 09:30 niko@maulburg # kapagiannidis, maulburger str. 31, 79585 steinen, +49-7627/971661
+
 2020-10-02 dav@chasseral
 2020-10-03 dav@chasseral
 2020-10-04 dav@chasseral
