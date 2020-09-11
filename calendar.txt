@@ -8587,6 +8587,7 @@ year 2015
 2020-09-13 11:00-15:00 waldrain@micha
 2020-09-14 09:22-13:22 bonn-bsl
 2020-09-14 14:00 heiner
+2020-09-14 17:00 ciprian
 
 2020-09-15 12:00-14:00 decisionmaking
 2020-09-17 12:00-14:00 decisionmaking
