@@ -5404,6 +5404,7 @@ http://auskunft.kvb-koeln.de
   EC 8
 
 2020-09-14 bonn-bsl:
+  http://auskunft.kvb-koeln.de
   Bonn Hbf 14.09. ab 09:22 3
   Basel Bad Bf 14.09. an 13:22 3
   EC7
