@@ -8628,4 +8628,7 @@ year 2015
 2020-12-12 19:30-23:00 marrakech-bsl
 2020-12-12 toubkal@atlas begin
 
+2020-12-27 zegg begin
+2021-01-01 zegg end
+
 2023-04-06 121 adsk rsu mature # granted 2020-04-06
