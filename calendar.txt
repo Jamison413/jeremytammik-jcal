@@ -8593,6 +8593,7 @@ year 2015
 2020-09-17 12:00-14:00 decisionmaking
 
 2020-09-17 17:00 huenerberger
+2020-09-18 16:00 cook@karen
 2020-09-18 17:30 paare@moni
 2020-09-19 09:30 architekturworkshop
 2020-09-19 21:00 hannah + stefan
@@ -8622,6 +8623,8 @@ year 2015
 #2020-10-25 playback
 
 2020-10-28 josefhader@burghof
+
+2020-11-01 13:00 men@tuellinger
 
 2020-11-28 novemberparty
 
