@@ -8600,12 +8600,13 @@ year 2015
 2020-09-20 15:00-18:00 huenerberger # gemeinschaft
 
 2020-09-22 17:00-18:00 otto@elli
+2020-09-23 07:30 co@schweigler
 2020-09-23 18:00 otto@<a href="https://emma-kitchen.de">emma</a>
 2020-09-24 20:00 michgerber@liestal
 2020-09-25 moni ferien begin
-2020-09-25 heiner@wandelhof
-2020-09-26 moni
-2020-09-27 moni
+2020-09-25 14:00 heiner@wandelhof
+2020-09-26 moni@creuxduvents
+2020-09-27 16:00 johanna
 2020-09-28 moni ferien end
 
 2020-10-01 09:30 niko@maulburg # kapagiannidis, maulburger str. 31, 79585 steinen, +49-7627/971661
