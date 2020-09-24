@@ -8603,6 +8603,7 @@ year 2015
 2020-09-22 17:00-18:00 otto@elli
 2020-09-23 07:30 co@schweigler
 2020-09-25 moni ferien begin
+2020-09-25 12:00 klima@marktplatz
 2020-09-25 14:00 heiner@wandelhof
 2020-09-26 moni@creuxduvents
 2020-09-27 16:00 johanna
