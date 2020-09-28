@@ -8608,6 +8608,7 @@ year 2015
 2020-09-26 moni@creuxduvents
 2020-09-27 16:00 johanna
 2020-09-28 moni ferien end
+2020-09-29 11:00 barbara@wld
 
 2020-09-30 16:00-18:00 geburi@araceli
 2020-09-30 18:30 otto@<a href="https://emma-kitchen.de">emma</a>
