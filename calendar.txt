@@ -8619,10 +8619,10 @@ year 2015
 2020-10-04 dav@chasseral
 
 2020-10-18 16:00 moni@istein
-2020-10-19 17:00 architekturtreffen?
+2020-10-19 17:00 architekturtreffen
 2020-10-20 lina begin
-2020-10-22 17:00 architekturtreffen?
 2020-10-22 lina end
+2020-10-23 party@silke # thunstetten
 2020-10-24 20:00 michgerber@liestal
 
 #2020-10-23 playback # /j/tmp/2020-09-24_playback_theater.pdf
