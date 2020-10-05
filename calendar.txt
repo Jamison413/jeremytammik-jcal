@@ -8617,6 +8617,8 @@ year 2015
 2020-10-03 dav@chasseral
 2020-10-04 dav@chasseral
 
+2020-10-11 14:30-18:00 <a href="https://www.meetup.com/Basel-Hash/events/273701833">h3@elisabethen</a>
+
 2020-10-18 16:00 moni@istein
 2020-10-19 11:15-12:45 dentist@betz
 2020-10-19 17:00 architekturtreffen
@@ -8634,6 +8636,7 @@ year 2015
 2020-10-28 josefhader@burghof
 
 2020-10-30 17:00 waldraintreffen
+2020-10-31 10:00-18:00 beziehungskunst
 2020-11-01 13:00 men@tuellinger
 
 2020-11-28 novemberparty
