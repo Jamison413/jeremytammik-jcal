@@ -8617,6 +8617,8 @@ year 2015
 2020-10-03 dav@chasseral
 2020-10-04 dav@chasseral
 
+2020-10-08 20:30 wave@gruett
+
 2020-10-11 14:30-18:00 <a href="https://www.meetup.com/Basel-Hash/events/273701833">h3@elisabethen</a>
 
 2020-10-18 16:00 moni@istein
