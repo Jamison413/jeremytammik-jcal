@@ -8625,6 +8625,7 @@ year 2015
 2020-10-16 17:00 huenerberger
 2020-10-18 16:00 moni@istein
 2020-10-19 11:15-12:45 dentist@betz
+2020-10-19 13:57 marie begin
 2020-10-19 17:00 architekturtreffen
 2020-10-20 lina begin
 2020-10-22 lina end
@@ -8637,6 +8638,7 @@ year 2015
 #2020-10-24 playback
 #2020-10-25 playback
 
+2020-10-27 05:25 marie end
 2020-10-28 josefhader@burghof
 
 2020-10-30 13:00 holz@karen
