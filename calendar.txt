@@ -8651,7 +8651,7 @@ year 2015
 
 2020-11-28 novemberparty
 2020-11-28 wildhaus begin
-2020-11-28 wildhaus end
+2020-12-08 wildhaus end
 
 #2020-12-05 <a href="https://www.meetup.com/TouringMonkeys/events/269910174">toubkal@atlas</a> begin
 #2020-12-05 15:25-18:50 bsl-marrakech
