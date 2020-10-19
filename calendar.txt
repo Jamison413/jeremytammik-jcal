@@ -8624,7 +8624,7 @@ year 2015
 
 2020-10-16 17:00 huenerberger
 2020-10-18 16:00 moni@istein
-2020-10-19 11:15-12:45 dentist@betz
+2020-11-18 11:00-12:30 dentist@betz
 2020-10-19 13:57 marie begin
 2020-10-19 17:00-20:00 architekturtreffen
 2020-10-21 lina begin
@@ -8648,6 +8648,8 @@ year 2015
 2020-10-31 10:00-18:00 beziehungskunst
 2020-10-31 19:00 tango@albert
 2020-11-01 13:00 men@tuellinger
+
+2020-11-18 11:00-12:30 dentist@betz
 
 2020-11-28 novemberparty
 2020-11-28 wildhaus begin
