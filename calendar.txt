@@ -8611,7 +8611,7 @@ year 2015
 2020-09-28 moni ferien end
 
 2020-09-30 16:00-18:00 geburi@araceli
-2020-09-30 18:30 otto@<a href="https://emma-kitchen.de">emma</a>
+#2020-09-30 18:30 otto@<a href="https://emma-kitchen.de">emma</a>
 
 2020-10-02 dav@chasseral
 2020-10-03 dav@chasseral
@@ -8641,6 +8641,7 @@ year 2015
 
 2020-10-26 19:00-22:00 wld@doris
 2020-10-27 05:25 marie end
+2020-10-28 18:30 otto@<a href="https://emma-kitchen.de">emma</a>
 2020-10-28 josefhader@burghof
 
 2020-10-30 13:00 holz@karen
