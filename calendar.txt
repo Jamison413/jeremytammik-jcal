@@ -8642,11 +8642,11 @@ year 2015
 2020-10-26 19:00-22:00 wld@doris
 2020-10-27 05:25 marie end
 2020-10-28 18:30 otto@<a href="https://emma-kitchen.de">emma</a>
-2020-10-28 josefhader@burghof
+#2020-10-28 josefhader@burghof
 
 2020-10-30 13:00 holz@karen
 #2020-10-30 17:00 waldraintreffen
-2020-10-30 19:00 sing@michi
+#2020-10-30 19:00 sing@michi
 2020-10-31 10:00-18:00 beziehungskunst
 2020-10-31 19:00 tango@albert
 2020-11-01 13:00 men@tuellinger
