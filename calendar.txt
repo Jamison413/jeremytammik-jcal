@@ -8643,7 +8643,7 @@ year 2015
 2020-10-26 17:00 doris begin
 2020-10-26 19:00-22:00 wld@doris
 2020-10-27 05:25 marie end
-2020-10-28 18:30 otto@<a href="https://emma-kitchen.de">emma</a>
+2020-10-28 18:30 otto@<a href="https://emma-kitchen.de">emma</a> # Am Dreispitz 6 79589 Binzen
 #2020-10-28 josefhader@burghof
 
 2020-10-30 13:00 holz@karen
@@ -8658,6 +8658,8 @@ year 2015
 2020-11-08 17:30 wld@barbara
 
 2020-11-12 18:00 paare@karen
+
+2020-11-16 17:00 <a href="https://doodle.com/poll/3abmfsb9t3stembi">huenerberger</a>
 
 2020-11-18 11:00-12:30 dentist@betz
 
