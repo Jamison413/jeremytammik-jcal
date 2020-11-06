@@ -8665,6 +8665,7 @@ year 2015
 2020-11-07 wildhaus
 2020-11-08 17:30 wld@barbara
 
+2020-11-10 16:00 jim@zoom
 2020-11-12 18:00 paare@karen
 
 2020-11-16 17:00 <a href="https://doodle.com/poll/3abmfsb9t3stembi">huenerberger</a>
@@ -8676,6 +8677,7 @@ year 2015
 
 2020-11-28 novemberparty
 2020-11-28 wildhaus begin
+2020-12-02 16:00-17:00 jim@webinar
 2020-12-08 wildhaus end
 
 #2020-12-05 <a href="https://www.meetup.com/TouringMonkeys/events/269910174">toubkal@atlas</a> begin
