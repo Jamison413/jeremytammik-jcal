@@ -5409,3 +5409,8 @@ http://auskunft.kvb-koeln.de
   Basel Bad Bf 14.09. an 13:22 3
   EC7
 
+2020-11-07 baden-bsl:
+  Baden	ab	14:52	3	IR 36
+  Basel SBB	an	15:47	9
+  Dauer: 0:55;
+

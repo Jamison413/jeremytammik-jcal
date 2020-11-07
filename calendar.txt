@@ -8663,6 +8663,7 @@ year 2015
 2020-11-05 18:00 wildhaus
 2020-11-06 wildhaus
 2020-11-07 wildhaus
+2020-11-08 14:52-15:47 <a href="/a/doc/expense/receipt/2020/2020-11-08_sbb_baden_bsl.pdf">baden-bsl</a>
 2020-11-08 17:30 wld@barbara
 
 2020-11-10 16:00 jim@zoom
