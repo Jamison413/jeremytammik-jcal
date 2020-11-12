@@ -8675,8 +8675,8 @@ year 2015
 
 2020-11-18 11:00-12:30 dentist@betz
 
-2020-11-21 15:00 hanna + stefan
-2020-11-22 men@stefan
+2020-11-22 13:00 men@stefan
+2020-11-22 17:00 hanna + stefan
 
 2020-11-28 novemberparty
 2020-11-28 wildhaus begin
