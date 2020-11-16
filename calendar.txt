@@ -8671,7 +8671,7 @@ year 2015
 2020-11-13 09:00 wolfgang
 2020-11-13 17:30 wld@anja
 
-2020-11-16 18:00 <a href="https://doodle.com/poll/3abmfsb9t3stembi">huenerberger</a>
+2020-11-16 18:00 <a href="https://doodle.com/poll/3abmfsb9t3stembi">huenerberger@h30</a>
 
 2020-11-18 11:00-12:30 dentist@betz
 
@@ -8684,7 +8684,7 @@ year 2015
 2020-11-28 wildhaus begin
 2020-11-28 16:00 h30 + wld
 2020-11-28 17:00 wld@jeremy
-2020-11-28 19:00 sauna
+2020-11-28 19:00 sauna@h30
 
 2020-12-02 16:00-17:00 jim@webinar
 2020-12-08 wildhaus end
@@ -8704,5 +8704,7 @@ year 2015
 
 #2020-12-27 zegg begin
 #2021-01-01 zegg end
+
+2021-01-01 geburi@joerg
 
 2023-04-06 121 adsk rsu mature # granted 2020-04-06
