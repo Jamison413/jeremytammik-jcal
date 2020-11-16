@@ -8675,13 +8675,17 @@ year 2015
 
 2020-11-18 11:00-12:30 dentist@betz
 
-2020-11-21 15:00 garten@h30
+2020-11-21 11:00-13:30 garten@h30
+2020-11-21 18:00 film@h30
 2020-11-22 13:00 men@stefan
 2020-11-22 17:00 hanna + stefan
 
 #2020-11-28 novemberparty
 2020-11-28 wildhaus begin
+2020-11-28 16:00 h30 + wld
 2020-11-28 17:00 wld@jeremy
+2020-11-28 19:00 sauna
+
 2020-12-02 16:00-17:00 jim@webinar
 2020-12-08 wildhaus end
 
