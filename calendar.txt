@@ -8680,6 +8680,8 @@ year 2015
 2020-11-22 13:00 men@stefan
 2020-11-22 17:00 hanna + stefan
 
+2020-11-25 18:00 dullisch@laterne
+
 #2020-11-28 novemberparty
 2020-11-28 wildhaus begin
 2020-11-28 16:00 h30 + wld
