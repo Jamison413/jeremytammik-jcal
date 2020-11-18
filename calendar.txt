@@ -8711,4 +8711,7 @@ year 2015
 
 2021-01-01 geburi@joerg
 
+2021-07-24 moni ferien begin
+2021-08-07 moni ferien end
+
 2023-04-06 121 adsk rsu mature # granted 2020-04-06
