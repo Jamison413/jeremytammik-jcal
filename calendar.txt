@@ -8673,7 +8673,7 @@ year 2015
 
 2020-11-16 18:00 <a href="https://doodle.com/poll/3abmfsb9t3stembi">huenerberger@h30</a>
 
-2020-11-18 11:00-12:30 dentist@betz
+2020-11-18 11:00-12:30 dentist@betz # zahnreinigung
 
 2020-11-21 11:00-13:30 garten@h30
 2020-11-21 18:00 film@h30
@@ -8699,6 +8699,8 @@ year 2015
 2020-12-11 10:00-13:00 gemeinschaft@h30
 2020-12-11 18:00 wld@barbara
 2020-12-13 13:00 men
+
+2020-12-16 11:30 dentist@betz # ur 17 und ll 36 caries
 
 2020-12-21 holiday # one-time global company holidays on December 21-23 Carmel Galvin <carmel.galvin@autodesk.com>
 2020-12-22 holiday # one-time global company holidays on December 21-23
