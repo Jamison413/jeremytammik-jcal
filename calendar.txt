@@ -8702,6 +8702,8 @@ year 2015
 
 2020-12-16 11:30 dentist@betz # ur 17 und ll 36 caries
 
+2020-12-18 marie@loe begin
+
 2020-12-21 holiday # one-time global company holidays on December 21-23 Carmel Galvin <carmel.galvin@autodesk.com>
 2020-12-22 holiday # one-time global company holidays on December 21-23
 2020-12-23 holiday # one-time global company holidays on December 21-23
