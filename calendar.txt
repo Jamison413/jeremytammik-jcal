@@ -8680,6 +8680,8 @@ year 2015
 2020-11-22 13:00 men@stefan
 2020-11-22 17:00 hanna + stefan
 
+2020-11-23 18:00-19:30 solar365 # photovoltaik-kampagne
+
 2020-11-25 18:00 dullisch@laterne
 
 #2020-11-28 novemberparty
