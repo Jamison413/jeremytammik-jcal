@@ -8689,6 +8689,7 @@ year 2015
 2020-11-28 16:00 h30 + wld
 2020-11-28 17:00 wld@jeremy
 2020-11-28 19:00 sauna@h30
+2020-11-29 13:00 sweat lodge
 
 2020-12-02 16:00-17:00 jim@webinar
 2020-12-08 wildhaus end
