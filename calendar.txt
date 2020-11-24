@@ -8691,7 +8691,11 @@ year 2015
 2020-11-28 19:00 sauna@h30
 2020-11-29 13:00 sweat lodge
 
+2020-11-30 tortora begin
+2020-12-01 09:30-12:00 kaminfeger
 2020-12-02 16:00-17:00 jim@webinar
+2020-12-03 tortora end
+
 2020-12-08 wildhaus end
 
 #2020-12-05 <a href="https://www.meetup.com/TouringMonkeys/events/269910174">toubkal@atlas</a> begin
