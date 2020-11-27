@@ -8694,7 +8694,7 @@ year 2015
 
 #2020-11-30 tortora begin
 2020-12-01 09:30-12:00 kaminfeger
-2020-12-01 11:00 orro + burcu
+2020-12-01 11:00 otto + burcu
 2020-12-02 16:00-17:00 jim@webinar
 #2020-12-03 tortora end
 2020-12-03 18:00 geburi@magnus
