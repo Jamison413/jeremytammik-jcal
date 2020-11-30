@@ -8721,6 +8721,9 @@ year 2015
 #2020-12-27 zegg begin
 #2021-01-01 zegg end
 
+2020-12-27 lina begin
+2020-12-30 lina end
+
 2021-01-01 geburi@joerg
 
 2021-07-24 moni ferien begin
