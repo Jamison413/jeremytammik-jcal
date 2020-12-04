@@ -8702,6 +8702,7 @@ year 2015
 2020-12-03 18:00 geburi@magnus
 
 2020-12-06 10:00 gnucash@burcu
+2020-12-06 17:00-19:00 wld@zoom
 2020-12-08 wildhaus end
 
 #2020-12-05 <a href="https://www.meetup.com/TouringMonkeys/events/269910174">toubkal@atlas</a> begin
@@ -8710,7 +8711,9 @@ year 2015
 #2020-12-12 toubkal@atlas begin
 
 2020-12-11 10:00-13:00 gemeinschaft@h30
+2020-12-11 pia + rene begin
 2020-12-11 18:00 wld@barbara
+2020-12-12 pia + rene end
 2020-12-13 13:00 men
 
 2020-12-16 11:30 dentist@betz # ur 17 und ll 36 caries
