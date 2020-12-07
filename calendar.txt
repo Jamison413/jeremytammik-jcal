@@ -8727,9 +8727,11 @@ year 2015
 
 2020-12-18 marie@loe begin
 
+2020-12-20 12:58-15:00 bsl-guggisberg
 2020-12-21 holiday # one-time global company holidays on December 21-23 Carmel Galvin <carmel.galvin@autodesk.com>
 2020-12-22 holiday # one-time global company holidays on December 21-23
 2020-12-23 holiday # one-time global company holidays on December 21-23
+2020-12-23 16:00-19:00 guggisberg-bsl
 
 #2020-12-27 zegg begin
 #2021-01-01 zegg end
