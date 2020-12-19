@@ -8733,6 +8733,7 @@ year 2015
 
 2020-12-20 12:58-15:00 bsl-guggisberg
 2020-12-21 holiday # one-time global company holidays on December 21-23 Carmel Galvin <carmel.galvin@autodesk.com>
+2020-12-21 19:22 conjunction # Jupiter and Saturn 0° 20′ Wassermann in perfect Line
 2020-12-22 holiday # one-time global company holidays on December 21-23
 2020-12-23 holiday # one-time global company holidays on December 21-23
 2020-12-23 16:00-19:00 guggisberg-bsl
