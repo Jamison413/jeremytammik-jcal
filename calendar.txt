@@ -8741,6 +8741,8 @@ year 2015
 #2020-12-27 zegg begin
 #2021-01-01 zegg end
 
+2020-12-26 14:00-17:00 <a href="https://www.meetup.com/Basel-Hash/events/275305383">h3@muenchenstein</a>
+
 2020-12-27 lina begin
 2020-12-30 lina end
 
