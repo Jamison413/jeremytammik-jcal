@@ -8750,8 +8750,9 @@ year 2015
 2020-12-30 16:00 watsu@aesch
 #2020-12-30 lina end
 2020-12-31 20:30 t + g
-2021-01-01 geburi@joerg
-2021-01-01 sauna
+2021-01-01 00:00 geburi@joerg
+2021-01-01 12:00 geburi@joerg
+2021-01-01 18:00 sauna
 
 2021-01-10 13:00-16:00 men@magnus
 
