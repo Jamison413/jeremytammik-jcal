@@ -8744,12 +8744,13 @@ year 2015
 2020-12-26 14:00-17:00 <a href="https://www.meetup.com/Basel-Hash/events/275305383">h3@muenchenstein</a>
 
 #2020-12-27 lina begin
-2020-12-28 16:00 nuts + stories
+#2020-12-30 lina end
+
+2020-12-28 16:00 nuts + stories @ co
 2020-12-29 15:00 kreativmatsch
 2020-12-30 15:15 abfahrt
 2020-12-30 16:00 watsu@aesch
-#2020-12-30 lina end
-2020-12-31 20:30 t + g
+2020-12-31 20:30 t + g + silvester
 2021-01-01 00:00 geburi@joerg
 2021-01-01 12:00 geburi@joerg
 2021-01-01 18:00 sauna
