@@ -8755,6 +8755,7 @@ year 2015
 2021-01-01 00:00 geburi@joerg
 2021-01-01 12:00 geburi@joerg
 2021-01-01 18:00 sauna
+2021-01-02 17:00 wld@zoom
 
 2021-01-10 13:00-16:00 men@magnus
 
