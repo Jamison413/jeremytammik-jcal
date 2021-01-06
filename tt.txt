@@ -5410,7 +5410,13 @@ http://auskunft.kvb-koeln.de
   EC7
 
 2020-11-07 baden-bsl:
-  Baden	ab	14:52	3	IR 36
-  Basel SBB	an	15:47	9
+  Baden ab 14:52 3 IR 36
+  Basel SBB an 15:47 9
   Dauer: 0:55;
+
+2021-01-11 bsl-bonn:
+  Basel Bad Bf 18:23 ICE 272 Geringe Auslastung erwartet
+  Mannheim Hbf 20:24  
+  Mannheim Hbf 20:39 IC 2210 Geringe Auslastung erwartet
+  Bonn Hbf 22:43
 
