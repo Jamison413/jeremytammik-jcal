@@ -8759,6 +8759,7 @@ year 2015
 2021-01-03 15:30 madlee
 2021-01-04 14:00 kidz@zoom
 
+2021-01-09 18:00 joerg + a 
 2021-01-10 13:00-16:00 men@magnus
 2021-01-10 14:00-18:00 <a href="https://www.meetup.com/Basel-Hash/events/275520182">h3@pratteln</a>
 2021-01-10 17:30 wld@zoom
