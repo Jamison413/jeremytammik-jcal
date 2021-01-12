@@ -8765,7 +8765,8 @@ year 2015
 2021-01-10 17:30 wld@zoom
 
 2021-01-11 18:23-22:43 <a href="/a/doc/expense/receipt/2021/2021-01-11_db_bsl_bonn.pdf">bsl-bonn</a>
-
+2021-01-14 18:26 tram michaelshoven
+2021-01-14 19:14-23:46 <a href="/a/doc/expense/receipt/2021/2021-01-14_db_bonn_bsl.pdf">bonn-bsl</a>
 2021-01-15 16:00 rose@h30
 
 2021-02-01 proreal9@apano # email produkt proreal europa 9

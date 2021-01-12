@@ -5419,4 +5419,16 @@ http://auskunft.kvb-koeln.de
   Mannheim Hbf 20:24  
   Mannheim Hbf 20:39 IC 2210 Geringe Auslastung erwartet
   Bonn Hbf 22:43
+  http://auskunft.kvb-koeln.de
+  Bonn Hauptbahnhof (U) (Gleis 1) ab 22:48
+  Michaelshoven, Köln-Rodenkirchen an 23:17
+  16 Niehl Sebastianstr.
 
+2021-01-14 bonn-bsl:
+  Michaelshoven, Köln-Rodenkirchen --> Bonn Hbf
+  ab 18:26 an 18:57
+  ab 18:36 an 19:07
+  Bonn Hbf ab 19:14 3 IC 2213
+  Mannheim Hbf an 21:21 8
+  Mannheim Hbf ab 21:35 4 ICE 377
+  Basel Bad Bf an 23:46 3
