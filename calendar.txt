@@ -8779,10 +8779,16 @@ year 2015
 2021-02-12 lina begin
 2021-02-15 lina end
 
-2021-04-18 11:00-14:00 gemeinschaft@h30
 2021-02-21 13:00-16:00 men
 
+2021-03-14 frauen
+
+2021-04-18 11:00-14:00 gemeinschaft@h30
+
 2021-05-01 gemeinschaft@h30
+
+2021-05-13 moni ferien begin
+2021-05-24 moni ferien end
 
 2021-06-05 12:00-15:00 gemeinschaft@h30
 
