@@ -8774,6 +8774,8 @@ year 2015
 
 2021-01-26 18:00 wld@pratteln
 
+2021-01-31 13:00-17:00 paare@daniel
+
 2021-02-01 proreal9@apano # email produkt proreal europa 9
 2021-02-07 11:00-14:00 gemeinschaft@h30
 2021-02-07 15:00-18:00 gemeinschaft@h30 araceli
@@ -8784,8 +8786,10 @@ year 2015
 2021-02-21 13:00-16:00 men
 
 2021-03-14 frauen
+2021-03-20 13:00-17:00 paare
 
 2021-04-18 11:00-14:00 gemeinschaft@h30
+2021-04-25 13:00-17:00 paare
 
 2021-05-01 gemeinschaft@h30
 
@@ -8793,6 +8797,7 @@ year 2015
 2021-05-24 moni ferien end
 
 2021-06-05 12:00-15:00 gemeinschaft@h30
+2021-06-06 13:00-17:00 paare
 
 2021-07-24 moni ferien begin
 2021-08-07 moni ferien end
