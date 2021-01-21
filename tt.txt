@@ -5432,3 +5432,18 @@ http://auskunft.kvb-koeln.de
   Mannheim Hbf an 21:21 8
   Mannheim Hbf ab 21:35 4 ICE 377
   Basel Bad Bf an 23:46 3
+
+2021-01-28 bsl-zug:
+  Basel SBB ab 18:33 6 IC 3 Richtung: Chur
+  Zürich HB an 19:26 6
+  Zürich HB ab 19:33 8 EC 325 Richtung: Chiasso
+  Zug an 19:59 3
+  Dauer: 1:26;
+  
+  Zug ab 23:36 4 S 1 Richtung: Luzern
+  Rotkreuz an 23:49 2
+  Rotkreuz ab 23:53 5 S 26 Richtung: Lenzburg
+  Lenzburg an 00:24 6
+  Lenzburg ab 00:28 3 IR 37 Richtung: Basel SBB
+  Basel SBB an 01:13 11
+  Dauer: 1:37; Ankunft am Fr, 29.01.21
