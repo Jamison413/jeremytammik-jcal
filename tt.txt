@@ -5434,6 +5434,12 @@ http://auskunft.kvb-koeln.de
   Basel Bad Bf an 23:46 3
 
 2021-01-28 bsl-zug:
+  Basel SBB ab 17:33 5 IC 3 Richtung: Chur
+  Zürich HB an 18:26 9
+  Zürich HB ab 18:33 10 IR 2683 Richtung: Arth-Goldau
+  Zug an 18:59 3
+  Dauer: 1:26;
+
   Basel SBB ab 18:33 6 IC 3 Richtung: Chur
   Zürich HB an 19:26 6
   Zürich HB ab 19:33 8 EC 325 Richtung: Chiasso
