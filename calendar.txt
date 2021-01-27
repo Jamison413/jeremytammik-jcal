@@ -8787,10 +8787,11 @@ year 2015
 
 2021-01-26 18:00 wld@pratteln
 
-2021-01-28 17:33-18:59 bsl-zug
-2021-01-28 19:00-23:00 <a href="https://www.meetup.com/edelweiss/events/275874111">full moon hike zugerberg</a>
-2021-01-28 23:36-01:13 zug-bsl
+#2021-01-28 17:33-18:59 bsl-zug
+#2021-01-28 19:00-23:00 <a href="https://www.meetup.com/edelweiss/events/275874111">full moon hike zugerberg</a>
+@2021-01-28 23:36-01:13 zug-bsl
 
+2021-01-30 holz@waldrain
 2021-01-31 12:00-16:00 paare@daniel
 
 2021-02-01 proreal9@apano # email produkt proreal europa 9
