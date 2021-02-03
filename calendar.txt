@@ -8803,6 +8803,7 @@ year 2015
 2021-02-07 14:00 <a href="https://www.meetup.com/Basel-Hash/events/276066634">h3@flueh</a>
 2021-02-07 15:00-18:00 gemeinschaft@h30 araceli
 
+2021-02-12 11:00 barbara@baumschnitt
 2021-02-12 lina begin
 2021-02-15 lina end
 2021-02-17 zitroeseli begin
