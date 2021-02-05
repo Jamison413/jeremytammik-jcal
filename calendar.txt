@@ -8796,16 +8796,17 @@ year 2015
 2021-01-30 13:00-15:00 kalkputz@bauhaus
 2021-01-31 12:00-16:00 paare@daniel
 
-2021-02-01 proreal9@apano # email produkt proreal europa 9
-2021-02-02 19:00-20:00 wld@loe
+2021-02-06 11:00-12:00 wld@loe
 2021-02-06 16:00 moni@joelle
-2021-02-07 11:00-14:00 gemeinschaft@h30
+2021-02-07 11:00-14:00 doris@wld
 2021-02-07 14:00 <a href="https://www.meetup.com/Basel-Hash/events/276066634">h3@flueh</a>
 2021-02-07 15:00-18:00 gemeinschaft@h30 araceli
 
+2021-02-11 19:00 bettina + sandra
 2021-02-12 11:00 barbara@baumschnitt
 2021-02-12 lina begin
 2021-02-15 lina end
+2021-02-15 proreal9@apano # email produkt proreal europa 9
 2021-02-17 zitroeseli begin
 2021-02-18 moni@zitroeseli
 2021-02-21 13:00-16:00 men
