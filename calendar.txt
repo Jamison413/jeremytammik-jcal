@@ -8804,8 +8804,8 @@ year 2015
 
 2021-02-11 19:00 bettina + sandra
 2021-02-12 11:00 barbara@baumschnitt
-2021-02-12 lina begin
-2021-02-15 lina end
+2021-02-12 15:00 lina begin
+2021-02-15 09:00 lina end
 2021-02-15 proreal9@apano # email produkt proreal europa 9
 2021-02-17 zitroeseli begin
 2021-02-18 moni@zitroeseli
