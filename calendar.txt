@@ -8808,16 +8808,18 @@ year 2015
 2021-02-14 16:00 lina end
 2021-02-14 17:00 michael
 2021-02-14 19:00 wld@zoom
-2021-02-16 11:00 nik@loe
 2021-02-15 proreal9@apano # email produkt proreal europa 9
+2021-02-16 11:00 nik@loe
 
 #2021-02-17 zitroeseli begin pia + rene
 #2021-02-18 moni@zitroeseli
 #2021-02-24 zitroeseli end
 
 2021-02-17 19:00 wld@zoom
+2021-02-18 11:20 nik@loe
 2021-02-21 13:00-16:00 men
 2021-02-22 moni@wildhus begin
+2021-02-25 16:30-18:00 jim@zoom # das all hands - end q4 and fy22 kickoff 
 2021-02-26 moni@wildhus end
 
 2021-02-27 19:00 reedlispraengae # in magden bei martin gschwind, Ittentalhof 245
