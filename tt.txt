@@ -5453,3 +5453,11 @@ http://auskunft.kvb-koeln.de
   Lenzburg ab 00:28 3 IR 37 Richtung: Basel SBB
   Basel SBB an 01:13 11
   Dauer: 1:37; Ankunft am Fr, 29.01.21
+
+2021-03-12 bsl-brunnen
+  Basel SBB ab 09:03 8 IC 21 Richtung: Lugano
+  Arth-Goldau an 10:45 5
+  Arth-Goldau ab 10:54 4 IR 46 Treno Gottardo Richtung: Bellinzona
+  Brunnen an 11:05 5
+  Dauer: 2:02;
+
