@@ -99,6 +99,7 @@ even Sundays in year J
 #
 # cornelius workdays:
 #
+year all
 2020-10-02 cowork
 2020-10-03 cowork
 2020-10-05 cowork
@@ -173,7 +174,7 @@ even Sundays in year J
 2020-11-26 cowork
 2020-11-27 cowork
 2020-11-28 cowork
-2021-03: 1 cowork
+2021-03-01 cowork
 2020-11-04 cowork
 2020-11-05 cowork
 2020-11-08 cowork
@@ -189,7 +190,6 @@ even Sundays in year J
 2020-11-26 cowork
 2020-11-27 cowork
 2020-11-28 cowork
-
 
 ifdef all
   year *
