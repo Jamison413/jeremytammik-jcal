@@ -20,37 +20,6 @@ opt -F monday              # starting day of week
 opt -m                     # draw a "moon" icon at full/new/quarter moons
 opt -n Helvetica-Narrow/18 # notes font
 
-#
-# weekends with kids:
-#
-year 2003 # reset year explicitly
-odd Sundays in year J
-even Sundays in year K
-
-year 2004 # reset year explicitly
-odd Sundays in year J
-even Sundays in year K
-
-year 2005 # reset year explicitly
-odd Sundays in year J
-even Sundays in year K
-
-year 2006 # reset year explicitly
-odd Sundays in year J
-even Sundays in year K
-
-year 2007 # reset year explicitly
-odd Sundays in year K
-even Sundays in year J
-
-year 2008 # reset year explicitly
-odd Sundays in year K
-even Sundays in year J
-
-year 2009 # reset year explicitly
-odd Sundays in year K
-even Sundays in year J
-
 # select alternate fonts (try the Helvetica fonts
 # if your printer does not support AvantGarde)
 #opt -d AvantGarde-Book/30 -t AvantGarde-Book -n Helvetica/8
@@ -95,6 +64,132 @@ all mondays in year w%+1W%w # in 2020, week 1 begins on a wednesday
 #ifdef meetings
 #  -2nd Monday in all           Monthly staff meeting
 #endif
+
+#
+# weekends with kids:
+#
+year 2003 # reset year explicitly
+odd Sundays in year J
+even Sundays in year K
+
+year 2004 # reset year explicitly
+odd Sundays in year J
+even Sundays in year K
+
+year 2005 # reset year explicitly
+odd Sundays in year J
+even Sundays in year K
+
+year 2006 # reset year explicitly
+odd Sundays in year J
+even Sundays in year K
+
+year 2007 # reset year explicitly
+odd Sundays in year K
+even Sundays in year J
+
+year 2008 # reset year explicitly
+odd Sundays in year K
+even Sundays in year J
+
+year 2009 # reset year explicitly
+odd Sundays in year K
+even Sundays in year J
+
+#
+# cornelius workdays:
+#
+2020-10-02 cowork
+2020-10-03 cowork
+2020-10-05 cowork
+2020-10-06 cowork
+2020-10-08 cowork
+2020-10-12 cowork
+2020-10-13 cowork
+2020-10-15 cowork
+2020-10-16 cowork
+2020-10-20 cowork
+2020-10-22 cowork
+2020-10-23 cowork
+2020-10-26 cowork
+2020-10-27 cowork
+2020-10-29 cowork
+2020-10-31 cowork
+2020-11-02 cowork
+2020-11-03 cowork
+2020-11-05 cowork
+2020-11-06 cowork
+2020-11-09 cowork
+2020-11-10 cowork
+2020-11-13 cowork
+2020-11-14 cowork
+2020-11-15 cowork
+2020-11-16 cowork
+2020-11-19 cowork
+2020-11-22 cowork
+2020-11-27 cowork
+2020-11-28 cowork
+2020-11-29 cowork
+2020-12-01 cowork
+2020-11-03 cowork
+2020-11-04 cowork
+2020-11-07 cowork
+2020-11-08 cowork
+2020-11-10 cowork
+2020-11-11 cowork
+2020-11-14 cowork
+2020-11-15 cowork
+2020-11-17 cowork
+2020-11-19 cowork
+2020-11-20 cowork
+2020-11-21 cowork
+2020-11-22 cowork
+2020-11-31 cowork
+2021-01-01 cowork
+2020-11-02 cowork
+2020-11-03 cowork
+2020-11-07 cowork
+2020-11-08 cowork
+2020-11-11 cowork
+2020-11-12 cowork
+2020-11-16 cowork
+2020-11-17 cowork
+2020-11-18 cowork
+2020-11-25 cowork
+2020-11-26 cowork
+2020-11-30 cowork
+2020-11-31 cowork
+2021-02-01 cowork
+2020-11-05 cowork
+2020-11-08 cowork
+2020-11-09 cowork
+2020-11-12 cowork
+2020-11-13 cowork
+2020-11-14 cowork
+2020-11-18 cowork
+2020-11-19 cowork
+2020-11-22 cowork
+2020-11-23 cowork
+2020-11-26 cowork
+2020-11-27 cowork
+2020-11-28 cowork
+2021-03: 1 cowork
+2020-11-04 cowork
+2020-11-05 cowork
+2020-11-08 cowork
+2020-11-09 cowork
+2020-11-13 cowork
+2020-11-14 cowork
+2020-11-15 cowork
+2020-11-18 cowork
+2020-11-19 cowork
+2020-11-20 cowork
+2020-11-22 cowork
+2020-11-23 cowork
+2020-11-26 cowork
+2020-11-27 cowork
+2020-11-28 cowork
+
 
 ifdef all
   year *
