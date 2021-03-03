@@ -8921,7 +8921,7 @@ year 2015
 
 2021-02-27 19:00 <a href="https://www.google.com/maps/dir//Ittenthalhof+245+4312+Magden+Switzerland">reedlispraengae</a> # in magden bei martin gschwind, Ittentalhof 245
 
-2021-03-03 11:30 afmb@frenkendorf # amt fuer migration und buergerrecht, parkstrasse 3, 4402 frenkendorf, 2 stock
+2021-03-03 11:30 <a href="https://www.google.com/maps/dir//Parkstrasse+3+4402+Frenkendorf+Switzerland">afmb@frenkendorf</a> # amt fuer migration und buergerrecht, parkstrasse 3, 4402 frenkendorf, 2 stock
 2021-03-03 16:00 anja@wld
 2021-03-05 adsk_holiday # rebecca pearce, 2021-02-22: new one-time company holidays
 2021-03-05 pia+rene
