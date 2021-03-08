@@ -8931,8 +8931,11 @@ year 2015
 2021-03-08 pelzli@grellingen # Pelzli/Pelzmühletal
 
 2021-03-11 18:30 <a href="/j/tmp/2021-03-11_franziska_stefan_kulturram.pdf">kulturraum@hannah</a>
-2021-03-12 09:03-11:05 bsl-brunnen
-2021-03-12 11:05-16:00 <a href="https://www.meetup.com/edelweiss/events/276655223">lars@brunnen</a>
+
+2021-03-12 11:03-13:05 bsl-brunnen
+2021-03-12 13:05-16:30 <a href="https://www.meetup.com/edelweiss/events/276655223">lars@brunnen</a>
+2021-03-12 17:03-19:05 brunnen-bsl
+
 2021-03-13 12:00-17:00 nik@wld
 2021-03-14 frauen
 2021-03-14 14:00 <a href="https://www.meetup.com/Basel-Hash/events/276791113">h3@reinach</a> # meet at 14:15 tram station Reinacherhof, Reinach, Tram Nr 11 direction Aesch from Basel SBB

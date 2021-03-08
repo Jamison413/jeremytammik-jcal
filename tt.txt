@@ -5461,3 +5461,41 @@ http://auskunft.kvb-koeln.de
   Brunnen an 11:05 5
   Dauer: 2:02;
 
+  Basel SBB ab 11:03 3 EC 151 Richtung: Chiasso
+  Arth-Goldau an 12:45 5
+  Arth-Goldau ab 12:54 4 IR 46 Treno Gottardo Richtung: Bellinzona
+  Brunnen an 13:05 5
+  Dauer: 2:02;
+
+  Brunnen ab 16:55 4 IR 46 Treno Gottardo Richtung: Zürich HB
+  Arth-Goldau an 17:07 4
+  Arth-Goldau ab 17:15 5 IC 21 Richtung: Basel SBB
+  Basel SBB an 18:56 6
+  Dauer: 2:01;
+  
+  Brunnen ab 17:20 4 S 2
+  Richtung: Baar Lindenpark
+  Arth-Goldau an 17:31 4
+  Arth-Goldau ab 17:45 3 EC 320
+  Richtung: Zürich HB
+  Zürich HB an 18:27 8
+  Umgebungskarte: Zürich HB
+  Richtung: Basel SBB
+  Basel SBB an 19:28 6
+  Dauer: 2:08;
+  
+  Brunnen ab 17:20 4 S 2
+  Richtung: Baar Lindenpark
+  Zug an 17:53 2
+  Zug ab 17:58 5 IR 75
+  Richtung: Konstanz
+  Zürich HB an 18:25 5
+  Zürich HB ab 18:34 12 IC 3
+  Richtung: Basel SBB
+  Basel SBB an 19:28 6
+  Dauer: 2:08;
+  
+  Brunnen ab 17:55 4 IR 26 Treno Gottardo Richtung: Basel SBB
+  Basel SBB an 19:56 6
+  Dauer: 2:01;
+
