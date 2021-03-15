@@ -8945,6 +8945,7 @@ year 2015
 
 2021-03-16 14:00-14:30 mikako
 
+2021-03-18 08:30 betz # repair huge filling in tooth 27 that broke out
 2021-03-18 18:00 falk
 2021-03-20 13:00-17:00 paare
 2021-03-21 14:00-18:00 <a href="https://www.google.com/maps/dir//Werderstrasse+16+79650+Schopfheim">men@michael</a>
