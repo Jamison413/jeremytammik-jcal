@@ -8954,6 +8954,7 @@ year 2015
 2021-03-14 14:00 <a href="https://www.meetup.com/Basel-Hash/events/276791113">h3@reinach</a> # meet at 14:15 tram station Reinacherhof, Reinach, Tram Nr 11 direction Aesch from Basel SBB
 
 2021-03-16 14:00-14:30 mikako
+2021-03-17 11:30 barbara
 
 2021-03-18 08:30 betz # repair huge filling in tooth 27 that broke out
 2021-03-18 18:30 falk
