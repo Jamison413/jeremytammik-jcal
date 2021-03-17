@@ -8979,7 +8979,11 @@ year 2015
 2021-06-11 22:00-24:00 bignasco
 2021-06-12 00:00-22:00 <a href="https://www.meetup.com/edelweiss/events/276245860">sentiero cristallina</a>
 
+2021-07-23 barrhorn
+2021-07-24 barrhorn
 2021-07-24 moni ferien begin
+2021-07-25 barrhorn
+
 2021-08-07 moni ferien end
 
 2023-04-06 121 adsk rsu mature # granted 2020-04-06
