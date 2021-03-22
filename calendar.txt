@@ -8967,6 +8967,7 @@ year 2015
 
 2021-04-09 adsk_holiday # rebecca pearce, 2021-02-22: new one-time company holidays
 
+2021-04-16 19:00 men@schaedelberg
 2021-04-18 11:00-14:00 gemeinschaft@h30
 2021-04-25 13:00-17:00 paare
 
