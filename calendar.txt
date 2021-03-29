@@ -8971,6 +8971,7 @@ year 2015
 2021-03-29 17:00 barbara
 
 2021-04-09 adsk_holiday # rebecca pearce, 2021-02-22: new one-time company holidays
+2021-04-09 11:00 delzer@w30
 
 2021-04-10 18:00 miesmuscheln@araceli
 2021-04-16 19:00 men@schaedelberg
