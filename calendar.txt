@@ -8974,9 +8974,9 @@ year 2015
 2021-04-05 19:00 wld@zoom
 
 2021-04-09 adsk_holiday # rebecca pearce, 2021-02-22: new one-time company holidays
-2021-04-09 11:00 delzer@w30
-
 2021-04-10 18:00 miesmuscheln@araceli
+
+2021-04-14 09:30 aha+delzer@wld
 2021-04-15 12:00 kronbiegel@tel
 2021-04-16 19:00 men@schaedelberg
 2021-04-18 11:00-14:00 gemeinschaft@h30
