@@ -8994,7 +8994,8 @@ year 2015
 2021-06-11 22:00-24:00 bignasco
 2021-06-12 00:00-22:00 <a href="https://www.meetup.com/edelweiss/events/276245860">sentiero cristallina</a>
 
-2021-07-03 07:00 lars@ridge
+2021-07-03 3:45-07:03 bsl-bruenig-hasliberg
+2021-07-03 07:00 <a href="https://www.meetup.com/edelweiss/events/277277417">lars@ridge</a> # Brünig Hasliberg, Bahnhof, 3860 Meiringen
 2021-07-04 lars@ridge
 
 2021-07-23 barrhorn

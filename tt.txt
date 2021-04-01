@@ -5499,3 +5499,12 @@ http://auskunft.kvb-koeln.de
   Basel SBB an 19:56 6
   Dauer: 2:01;
 
+2021-07-03 bsl-bruenig-haslihof:
+  Basel SBB ab 03:45 5 S 17015 Richtung: Olten
+  Olten an 04:20 11
+  Olten ab 04:51 9 S 29 Richtung: Baar
+  Luzern an 05:45 2
+  Luzern ab 06:06 12 IR 2912 Richtung: Interlaken Ost
+  Brünig-Hasliberg an 07:03 2
+  Dauer: 3:19;
+
