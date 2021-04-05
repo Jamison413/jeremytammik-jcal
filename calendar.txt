@@ -8975,7 +8975,7 @@ year 2015
 
 2021-04-09 adsk_holiday # rebecca pearce, 2021-02-22: new one-time company holidays
 2021-04-10 18:00 miesmuscheln@araceli
-2021-04-11 14:45 <a href="https://www.meetup.com/Basel-Hash/events/277356251">h3@moehlin>/a> # 14:45 tram station Reinacherhof, Reinach, Tram Nr 11 direction Aesch from Basel SBB
+2021-04-11 14:45 <a href="https://www.meetup.com/Basel-Hash/events/277356251">h3@moehlin</a> # 14:45 tram station Reinacherhof, Reinach, Tram Nr 11 direction Aesch from Basel SBB
 
 2021-04-14 09:30 aha+delzer@wld
 2021-04-15 12:00 kronbiegel@tel
