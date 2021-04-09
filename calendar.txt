@@ -200,6 +200,23 @@ year all
 2021-04-20 cowork
 2021-04-24 cowork
 2021-04-25 cowork
+2021-05-01 cowork
+2021-05-02 cowork
+2021-05-06 cowork
+2021-05-07 cowork
+2021-05-10 cowork
+2021-05-11 cowork
+2021-05-14 cowork
+2021-05-15 cowork
+2021-05-16 cowork
+2021-05-17 cowork
+2021-05-20 cowork
+2021-05-21 cowork
+2021-05-25 cowork
+2021-05-27 cowork
+2021-05-28 cowork
+2021-05-29 cowork
+
 
 ifdef all
   year *
