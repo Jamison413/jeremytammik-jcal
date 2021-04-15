@@ -9005,6 +9005,8 @@ year 2015
 
 2021-05-01 gemeinschaft@h30
 
+2021-05-03 05:15-09:43 <a href="/a/doc/expense/receipt/2021/2021-05-03_db_bsl_bonn.pdf">bsl-bonn</a>
+
 2021-05-13 07:00-21:00 rigi
 2021-05-13 moni ferien begin
 2021-05-24 moni ferien end
