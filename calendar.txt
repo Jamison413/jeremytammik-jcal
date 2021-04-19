@@ -9042,6 +9042,8 @@ year 2015
 2021-07-31 02:00 <a href="https://www.meetup.com/edelweiss/events/277277417">lars@kaiserroute</a> # traverse of all seven Churfirsten summits (Selun, Frümsel, Brisi, Zuestoll, Schibenstoll, Hinterrug, Chäserugg) in one day
 2021-07-31 wildhaus end
 
+2021-08-07 ticino begin
+2021-08-14 ticino end
 2021-08-14 moni ferien end
 
 2023-04-06 121 adsk rsu mature # granted 2020-04-06
