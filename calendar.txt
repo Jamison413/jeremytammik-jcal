@@ -9018,11 +9018,16 @@ year 2015
 2021-05-23 ticino end
 2021-05-24 moni ferien end
 
+2021-05-29 moni@heilkreis
+
 2021-06-05 12:00-15:00 gemeinschaft@h30
 2021-06-06 13:00-17:00 paare
 
 2021-06-11 22:00-24:00 bignasco
 2021-06-12 00:00-22:00 <a href="https://www.meetup.com/edelweiss/events/276245860">sentiero cristallina</a>
+
+2021-06-18 moni@wildhaus begin
+2021-06-21 moni@wildhaus end
 
 2021-07-03 3:45-07:03 bsl-bruenig-hasliberg
 2021-07-03 09:05 <a href="https://www.meetup.com/edelweiss/events/277277417">lars@ridge</a> # Brünig Hasliberg, Bahnhof, 3860 Meiringen
