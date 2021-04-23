@@ -9012,6 +9012,8 @@ year 2015
 2021-05-04 05:15-09:43 <a href="/a/doc/expense/receipt/2021/2021-05-04_db_bsl_bonn.pdf">bsl-bonn</a>
 2021-05-07 09:14-13:24 <a href="/a/doc/expense/receipt/2021/2021-05-07_db_bonn_bsl.pdf">bonn-bsl</a>
 
+2021-05-11 18:30 kulturraum
+
 2021-05-13 07:00-21:00 rigi
 2021-05-13 moni ferien begin
 2021-05-15 ticino begin
