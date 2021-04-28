@@ -1,4 +1,4 @@
-2021-04- cowork
+#
 # jeremy's calender
 #
 # 2007-10-10: convert german date format to iso and vice versa
@@ -216,7 +216,20 @@ year all
 2021-05-27 cowork
 2021-05-28 cowork
 2021-05-29 cowork
-
+2021-06-03 cowork
+2021-06-04 cowork
+2021-06-07 cowork
+2021-06-10 cowork
+2021-06-11 cowork
+2021-06-12 cowork
+2021-06-13 cowork
+2021-06-18 cowork
+2021-06-21 cowork
+2021-06-22 cowork
+2021-06-26 cowork
+2021-06-27 cowork
+2021-06-28 cowork
+2021-06-29 cowork
 
 ifdef all
   year *
