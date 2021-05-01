@@ -9026,6 +9026,7 @@ year 2015
 2021-05-07 09:14-13:24 <a href="/a/doc/expense/receipt/2021/2021-05-07_db_bonn_bsl.pdf">bonn-bsl</a>
 
 2021-05-09 14:00-18:00 <a href="https://www.meetup.com/Basel-Hash/events/277906016">h3@flueh</a>
+2021-05-10 14:00 nik@sbb # ravellen bei oensingen
 
 2021-05-11 18:30 kulturraum
 
