@@ -9033,12 +9033,14 @@ year 2015
 2021-05-13 07:00-21:00 rigi
 2021-05-13 moni ferien begin
 2021-05-15 ticino begin
+2021-05-15 15:30-22:00 <a href="/j/tmp/2021-05-15_daniel_oelwanne.pdf">oelwanne@daniel</a>
+2021-05-16 08:00-12:00 oelwanne@daniel
 2021-05-23 ticino end
 2021-05-24 moni ferien end
 
 2021-05-29 moni@heilkreis
 
-2021-06-01 05:15-09:43 <a href="/a/doc/expense/receipt/2021/2021-06-01_db_bsl_bonn.pdf">bsl-bonn</a>
+2021-06-01 10:23-14:43 <a href="/a/doc/expense/receipt/2021/2021-06-01_db_bsl_bonn.pdf">bsl-bonn</a>
 2021-06-04 09:14-13:24 <a href="/a/doc/expense/receipt/2021/2021-06-04_db_bonn_bsl.pdf">bonn-bsl</a>
 
 2021-06-05 12:00-15:00 gemeinschaft@h30
