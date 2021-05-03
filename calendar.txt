@@ -9022,8 +9022,8 @@ year 2015
 2021-05-01 h30@hirschenhof # sueren
 2021-05-02 h30@hirschenhof
 
-2021-05-04 05:15-09:43 <a href="/a/doc/expense/receipt/2021/2021-05-04_db_bsl_bonn.pdf">bsl-bonn</a>
-2021-05-07 09:14-13:24 <a href="/a/doc/expense/receipt/2021/2021-05-07_db_bonn_bsl.pdf">bonn-bsl</a>
+#2021-05-04 05:15-09:43 <a href="/a/doc/expense/receipt/2021/2021-05-04_db_bsl_bonn.pdf">bsl-bonn</a>
+#2021-05-07 09:14-13:24 <a href="/a/doc/expense/receipt/2021/2021-05-07_db_bonn_bsl.pdf">bonn-bsl</a>
 
 2021-05-09 14:00-18:00 <a href="https://www.meetup.com/Basel-Hash/events/277906016">h3@flueh</a>
 2021-05-10 14:00 nik@sbb # ravellen bei oensingen
@@ -9037,6 +9037,9 @@ year 2015
 2021-05-24 moni ferien end
 
 2021-05-29 moni@heilkreis
+
+2021-06-01 05:15-09:43 <a href="/a/doc/expense/receipt/2021/2021-06-01_db_bsl_bonn.pdf">bsl-bonn</a>
+2021-06-04 09:14-13:24 <a href="/a/doc/expense/receipt/2021/2021-06-04_db_bonn_bsl.pdf">bonn-bsl</a>
 
 2021-06-05 12:00-15:00 gemeinschaft@h30
 2021-06-06 13:00-17:00 paare
