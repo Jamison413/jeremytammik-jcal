@@ -9035,6 +9035,7 @@ year 2015
 2021-05-15 ticino begin
 2021-05-15 15:30-22:00 <a href="/j/tmp/2021-05-15_daniel_oelwanne.pdf">oelwanne@daniel</a>
 2021-05-16 08:00-12:00 oelwanne@daniel
+2021-05-22 wave@glarisegg
 2021-05-23 ticino end
 2021-05-24 moni ferien end
 
