@@ -9030,6 +9030,7 @@ year 2015
 
 2021-05-11 18:30 kulturraum
 
+2021-05-12 10:00 nik@sbb
 2021-05-13 07:00-21:00 rigi
 2021-05-13 moni ferien begin
 2021-05-15 ticino begin
