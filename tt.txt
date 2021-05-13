@@ -5499,6 +5499,13 @@ http://auskunft.kvb-koeln.de
   Basel SBB an 19:56 6
   Dauer: 2:01;
 
+2021-05-12 bsl-oensingen:
+  Basel SBB ab 09:28 8 IC 61 Richtung: Interlaken Ost
+  Olten an 09:55 12
+  Olten ab 10:02 3 IC 5 Richtung: Lausanne
+  Oensingen an 10:13 4
+  Dauer: 0:45;
+
 2021-07-03 bsl-bruenig-haslihof:
   Basel SBB ab 03:45 5 S 17015 Richtung: Olten
   Olten an 04:20 11
