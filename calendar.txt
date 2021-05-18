@@ -9050,6 +9050,8 @@ year 2015
 2021-06-05 12:00-15:00 gemeinschaft@h30
 2021-06-06 13:00-17:00 paare
 
+2021-06-08 16:30-18:00 <a href="https://autodesk.zoom.us/j/99327615014?pwd=RHpweWxxaG9sMmJTZmwrc1luV0MxQT09#success">jimq@zoom</a> # DAS Quarterly All Hands Meeting
+
 #2021-06-11 22:00-24:00 bignasco
 #2021-06-12 00:00-22:00 <a href="https://www.meetup.com/edelweiss/events/276245860">sentiero cristallina</a>
 
