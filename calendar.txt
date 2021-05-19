@@ -9037,8 +9037,11 @@ year 2015
 2021-05-15 15:30-22:00 <a href="/j/tmp/2021-05-15_daniel_oelwanne.pdf">oelwanne@daniel</a>
 2021-05-16 08:00-12:00 oelwanne@daniel
 2021-05-20 13:30-14:30 <a href="https://autodesk.zoom.us/j/92686801469">knauf@zoom</a>
+2021-05-22 nik_wandern
 2021-05-22 wave@glarisegg
+2021-05-23 nik_wandern
 2021-05-23 ticino end
+2021-05-24 nik_wandern
 2021-05-24 moni ferien end
 
 2021-05-29 moni@heilkreis
