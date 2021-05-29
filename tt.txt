@@ -5506,6 +5506,13 @@ http://auskunft.kvb-koeln.de
   Oensingen an 10:13 4
   Dauer: 0:45;
 
+2021-05-29 bsl-thielle:
+  Basel SBB ab 14:58 7 Geänderte Formation IC 61 Richtung: Interlaken Ost
+  Bern an 15:56 3
+  Bern ab 16:08 13 S 5 Richtung: Neuchâtel
+  Zihlbrücke an 16:44 1
+  Dauer: 1:46;
+
 2021-07-03 bsl-bruenig-haslihof:
   Basel SBB ab 03:45 5 S 17015 Richtung: Olten
   Olten an 04:20 11

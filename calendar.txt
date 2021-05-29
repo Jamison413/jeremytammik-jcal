@@ -9063,10 +9063,11 @@ year 2015
 2021-05-27 19:00-21:00 aha@zoom # https://doodle.com/poll/9q4vdfui5dry29zp
 2021-05-28 09:00 swica
 
-2021-05-28 thielle
-2021-05-29 thielle
 2021-05-29 moni@heilkreis
+2021-05-29 14:58-16:44 <a href="/a/doc/expense/receipt/2021/2021-05-29_sbb_bsl_thielle.pdf">bsl-thielle</a>
+2021-05-29 thielle
 2021-05-30 thielle
+2021-05-31 thielle
 
 2021-06-01 10:23-14:43 <a href="/a/doc/expense/receipt/2021/2021-06-01_db_bsl_bonn.pdf">bsl-bonn</a>
 2021-06-04 09:14-13:24 <a href="/a/doc/expense/receipt/2021/2021-06-04_db_bonn_bsl.pdf">bonn-bsl</a>
