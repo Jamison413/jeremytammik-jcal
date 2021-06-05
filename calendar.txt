@@ -9091,10 +9091,10 @@ year 2015
 2021-06-21 moni@wildhaus end
 
 2021-07-02 heiner geburi
-2021-07-03 03:45-07:03 bsl-bruenig-hasliberg
+#2021-07-03 03:45-07:03 bsl-bruenig-hasliberg
 2021-07-03 heiner@wandelhof
-2021-07-03 09:05 <a href="https://www.meetup.com/edelweiss/events/277277417">lars@ridge</a> # Brünig Hasliberg, Bahnhof, 3860 Meiringen
-2021-07-04 lars@ridge
+#2021-07-03 09:05 <a href="https://www.meetup.com/edelweiss/events/277277417">lars@ridge</a> # Brünig Hasliberg, Bahnhof, 3860 Meiringen
+#2021-07-04 lars@ridge
 
 2021-07-11 lina begin
 2021-07-12 nora@reiten begin
