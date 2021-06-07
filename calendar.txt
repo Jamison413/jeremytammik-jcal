@@ -9076,6 +9076,7 @@ year 2015
 2021-06-06 10:30 nik
 2021-06-06 14:00-17:00 paare
 
+2021-06-08 10:00 barbara@metall
 2021-06-08 16:30-18:00 <a href="https://autodesk.zoom.us/j/99327615014?pwd=RHpweWxxaG9sMmJTZmwrc1luV0MxQT09">jimq@zoom</a> # DAS Quarterly All Hands Meeting
 2021-06-09 10:00 <a href="/a/doc/travel/trip/basel/map_nonnenweg_11.png">franz renggli</a> # nonnenweg 11, oben klingeln
 
@@ -9100,6 +9101,7 @@ year 2015
 2021-07-11_db_bsl_bonn.pdf
 2021-07-12 nora@reiten begin
 2021-07-14 lina end
+2021-07-14 16:37-20:35 <a href="/a/doc/expense/receipt/2021/2021-07-14_db_bonn_bsl.pdf">bonn-bsl</a>
 2021-07-16 nora@reiten end
 
 2021-07-24 wildhaus begin
