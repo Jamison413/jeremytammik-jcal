@@ -9086,8 +9086,7 @@ year 2015
 2021-06-13 18:00 sommerurlaub@nik
 
 2021-06-18 moni@wildhaus begin
-2021-06-19 bafudi?
-2021-06-20 bafudi?
+2021-06-20 15:00 juergen@geburi # bafudi Wenkenstrasse 92 in 4125 Riehen
 2021-06-21 moni@wildhaus end
 
 2021-07-02 heiner geburi
