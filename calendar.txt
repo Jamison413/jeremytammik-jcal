@@ -9096,6 +9096,8 @@ year 2015
 #2021-07-04 lars@ridge
 
 2021-07-11 lina begin
+2021-07-11 20:22-00:28 + 1 <a href="/a/doc/expense/receipt/2021/2021-07-11_db_bsl_bonn.pdf">bsl-bonn</a>
+2021-07-11_db_bsl_bonn.pdf
 2021-07-12 nora@reiten begin
 2021-07-14 lina end
 2021-07-16 nora@reiten end
