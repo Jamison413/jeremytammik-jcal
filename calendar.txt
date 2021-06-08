@@ -9080,6 +9080,8 @@ year 2015
 2021-06-08 16:30-18:00 <a href="https://autodesk.zoom.us/j/99327615014?pwd=RHpweWxxaG9sMmJTZmwrc1luV0MxQT09">jimq@zoom</a> # DAS Quarterly All Hands Meeting
 2021-06-09 10:00 <a href="/a/doc/travel/trip/basel/map_nonnenweg_11.png">franz renggli</a> # nonnenweg 11, oben klingeln
 
+2021-06-11 18:00 kulturraum
+
 #2021-06-11 22:00-24:00 bignasco
 #2021-06-12 00:00-22:00 <a href="https://www.meetup.com/edelweiss/events/276245860">sentiero cristallina</a>
 
@@ -9099,8 +9101,9 @@ year 2015
 #2021-07-04 lars@ridge
 
 2021-07-11 lina begin
+2021-07-11 17:14-22:21 <a href="/a/doc/expense/receipt/2021/2021-07-11_db_bsl_bonn_2.pdf">bsl-bonn</a>
 2021-07-11 20:22 depart <a href="/a/doc/expense/receipt/2021/2021-07-11_db_bsl_bonn.pdf">bsl-bonn</a>
-2021-07-12 00:28 arrive <a href="/a/doc/expense/receipt/2021/2021-07-11_db_bsl_bonn.pdf">bsl-bonn</a>
+2021-07-12 00:28 arrive bsl-bonn
 2021-07-11_db_bsl_bonn.pdf
 2021-07-12 nora@reiten begin
 2021-07-14 lina end

@@ -5528,3 +5528,8 @@ http://auskunft.kvb-koeln.de
   Brünig-Hasliberg an 07:03 2
   Dauer: 3:19;
 
+2021-07-11 bsl-bonn:
+  Basel Bad Bf 17:14 ICE 376 
+  Mannheim Hbf 19:14
+  Mannheim Hbf 20:08 IC 1910 
+  Bonn Hbf 22:21
