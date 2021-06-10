@@ -9091,7 +9091,7 @@ year 2015
 2021-06-13 14:30-18:00 <a href="https://www.meetup.com/Basel-Hash/events/278638857">h3@laufenburg</a>
 2021-06-13 18:00 sommerurlaub@nik
 
-2021-06-15 09:00-11:00 gerda
+2021-06-15 09:00-11:00 gerda@franz # nonnenweg 11
 
 2021-06-18 moni@wildhaus begin
 2021-06-20 15:00 juergen@geburi # bafudi Wenkenstrasse 92 in 4125 Riehen
