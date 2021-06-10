@@ -9091,6 +9091,7 @@ year 2015
 2021-06-13 14:30-18:00 <a href="https://www.meetup.com/Basel-Hash/events/278638857">h3@laufenburg</a>
 2021-06-13 18:00 sommerurlaub@nik
 
+2021-06-14 18:00-20:00 co2@schoepflin # im Werkraum und Park der Villa Schöpflin, Runder Tisch Klima, Auftaktveranstaltung “Lörrach verkleinert seinen C02 Fußabdruck“
 2021-06-15 09:00-11:00 gerda@franz # nonnenweg 11
 
 2021-06-18 moni@wildhaus begin
@@ -9099,6 +9100,8 @@ year 2015
 2021-06-21 moni@wildhaus end
 
 2021-06-24 19:00 alpin@dav # bei Peter Löwe Werbeagentur Küpferstraße 18; bei regen im Möbelhaus Koesler, Blasiring 8
+
+2021-06-26 12:00-15:00 huenerberger
 
 2021-07-02 heiner geburi
 #2021-07-03 03:45-07:03 bsl-bruenig-hasliberg
@@ -9133,8 +9136,13 @@ year 2015
 2021-08-14 ticino end
 2021-08-14 moni ferien end
 
+2021-09-12 12:00-15:00 huenerberger
+
 2021-09-24 rodenkirchen
 2021-09-25 lina + ben away
 2021-09-26 rodenkirchen
+
+2021-10-23 12:00-15:00 huenerberger?
+2021-10-24 12:00-15:00 huenerberger?
 
 2023-04-06 121 adsk rsu mature # granted 2020-04-06
