@@ -9135,6 +9135,7 @@ year 2015
 2021-08-08 sommerferien@nik end
 2021-08-14 ticino end
 2021-08-14 moni ferien end
+2021-08-14 18:00 andrea@garten # oristal 16 
 
 2021-09-12 12:00-15:00 huenerberger
 
