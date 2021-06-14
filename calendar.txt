@@ -9093,6 +9093,7 @@ year 2015
 2021-06-13 18:00 sommerurlaub@nik
 
 2021-06-14 18:00-20:00 co2@schoepflin # im Werkraum und Park der Villa Schöpflin, Runder Tisch Klima, Auftaktveranstaltung “Lörrach verkleinert seinen C02 Fußabdruck“
+2021-06-14 18:30 moni@pelicano # birskoepfi
 2021-06-15 09:00-11:00 gerda@franz # nonnenweg 11
 
 2021-06-18 moni@wildhaus begin
@@ -9130,7 +9131,7 @@ year 2015
 2021-07-31 02:00 <a href="https://www.meetup.com/edelweiss/events/277277417">lars@kaiserroute</a> # traverse of all seven Churfirsten summits (Selun, Frümsel, Brisi, Zuestoll, Schibenstoll, Hinterrug, Chäserugg) in one day
 2021-07-31 wildhaus end
 
-2021-08-02 sommerferien@nik begin
+2021-08-01 sommerferien@nik begin
 2021-08-04 jusoca end
 2021-08-07 ticino begin
 2021-08-08 sommerferien@nik end
