@@ -5519,6 +5519,10 @@ http://auskunft.kvb-koeln.de
   ab 08:16 an 08:47 31 Min. 16
   ab 08:26 an 08:57 
 
+2021-06-19 loe-zell:
+  Lörrach Hbf ab 13:28    0:28 0 S 6  
+  Zell (Wiesental) an 13:56
+
 2021-07-03 bsl-bruenig-haslihof:
   Basel SBB ab 03:45 5 S 17015 Richtung: Olten
   Olten an 04:20 11
