@@ -9127,6 +9127,8 @@ year 2015
 2021-07-14 16:37-20:35 <a href="/a/doc/expense/receipt/2021/2021-07-14_db_bonn_bsl.pdf">bonn-bsl</a>
 2021-07-16 nora@reiten end
 
+2021-07-20 12:00-14:00 belonging@zoom # Foundations of Belonging Virtual Workshop
+
 2021-07-24 wildhaus begin
 2021-07-23 barrhorn
 2021-07-23 09:15 st. niklaus 
