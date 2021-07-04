@@ -9127,8 +9127,9 @@ year 2015
 #2021-07-03 09:05 <a href="https://www.meetup.com/edelweiss/events/277277417">lars@ridge</a> # Brünig Hasliberg, Bahnhof, 3860 Meiringen
 #2021-07-04 lars@ridge
 
+2021-07-05 10:00 magnus@earth
 2021-07-06 18:30 jam@solitude
-2021-07-08 pia + rene
+2021-07-10 pia + rene
 
 2021-07-11 11:00 <a href="/j/tmp/2021-07-11_kulturraum.pdf">kulturram</a>
 2021-07-11 lina begin
