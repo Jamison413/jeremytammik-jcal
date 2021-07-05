@@ -9153,6 +9153,7 @@ year 2015
 2021-07-17 17:00 ania end
 
 2021-07-20 12:00-14:00 belonging@zoom # Foundations of Belonging Virtual Workshop
+2021-07-21 16:00 michael@zuri
 
 2021-07-24 wildhaus begin
 2021-07-23 barrhorn
