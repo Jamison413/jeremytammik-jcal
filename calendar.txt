@@ -9150,6 +9150,7 @@ year 2015
 2021-07-16 adsk_holiday # rebecca pearce, 2021-07-02: new one-time global holidays announced
 2021-07-16 nora@reiten end
 2021-07-16 ania
+2021-07-16 18:00 cedric + tina
 2021-07-17 17:00 ania end
 
 2021-07-20 12:00-14:00 belonging@zoom # Foundations of Belonging Virtual Workshop
