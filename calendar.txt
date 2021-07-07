@@ -9148,8 +9148,8 @@ year 2015
 2021-07-14 16:37-20:35 <a href="/a/doc/expense/receipt/2021/2021-07-14_db_bonn_bsl.pdf">bonn-bsl</a>
 2021-07-15 14:00 ania begin
 2021-07-16 adsk_holiday # rebecca pearce, 2021-07-02: new one-time global holidays announced
+2021-07-16 09:00 ania
 2021-07-16 nora@reiten end
-2021-07-16 ania
 2021-07-16 18:00 cedric + tina
 2021-07-17 17:00 ania end
 
