@@ -230,6 +230,17 @@ year all
 2021-06-27 cowork
 2021-06-28 cowork
 2021-06-29 cowork
+2021-07-09 cowork
+2021-07-12 cowork
+2021-07-13 cowork
+2021-07-17 cowork
+2021-07-18 cowork
+2021-07-19 cowork
+2021-07-22 cowork
+2021-07-23 cowork
+2021-07-24 cowork
+2021-07-25 cowork
+2021-07-28 cowork
 2021-08-07 cowork
 2021-08-08 cowork
 2021-08-09 cowork
@@ -9138,6 +9149,7 @@ year 2015
 2021-07-06 18:30 jam@solitude
 2021-07-10 pia + rene
 
+2021-07-11 09:00 moc@gempen
 2021-07-11 11:00 <a href="/j/tmp/2021-07-11_kulturraum.pdf">kulturram</a>
 2021-07-11 lina begin
 2021-07-11 17:14-22:21 <a href="/a/doc/expense/receipt/2021/2021-07-11_db_bsl_bonn_2.pdf">bsl-bonn</a>
