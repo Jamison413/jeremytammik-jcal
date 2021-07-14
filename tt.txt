@@ -5537,3 +5537,22 @@ http://auskunft.kvb-koeln.de
   Mannheim Hbf 19:14
   Mannheim Hbf 20:08 IC 1910 
   Bonn Hbf 22:21
+
+2021-07-14 bonn-bsl:
+  http://auskunft.kvb-koeln.de
+  
+	Michaelshoven, Köln-Rodenkirchen	15:46	
+	Bonn Hauptbahnhof (U) (Gleis 2)	 16:17	16
+	Bonn Hauptbahnhof (U) (Gleis 3a)	16:27
+	Siegburg Bf (U)  16:52 66
+
+  Michaelshoven, Köln-Rodenkirchen --> Bonn Hbf
+  ab 15:46
+  an 16:17 31 Min. 16 0
+  ab 15:56
+  an 16:27
+  Bonn Hbf (tief) 14.07. ab 16:37 STR 66
+  Siegburg Bahnhof 14.07. an 17:02
+  Siegburg/Bonn 14.07. ab 17:09 6
+  Basel Bad Bf 14.07. an 20:35 3
+  
