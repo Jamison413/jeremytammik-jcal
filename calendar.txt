@@ -9164,6 +9164,7 @@ year 2015
 2021-07-16 nora@reiten end
 2021-07-16 18:00 cedric + tina
 2021-07-17 17:00 ania end
+2021-07-17 18:30 men@birskoepfli # https://www.google.com/maps/place/Birskoepfli
 
 2021-07-20 10:00-11:00 bravely
 2021-07-20 12:00-14:00 belonging@zoom # Foundations of Belonging Virtual Workshop
