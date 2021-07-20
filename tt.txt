@@ -5555,3 +5555,8 @@ http://auskunft.kvb-koeln.de
   Lörrach Hbf an 20:57 3  
   Dauer: 0:10;
 
+2021-07-21 bsl-zuri:
+  Basel SBB ab 15:33 5 TGV 9213 Richtung: Zürich HB
+  Zürich HB an 16:26 14
+  Dauer: 0:53;
+

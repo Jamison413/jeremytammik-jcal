@@ -9168,7 +9168,8 @@ year 2015
 
 2021-07-20 10:00-11:00 bravely
 2021-07-20 12:00-14:00 belonging@zoom # Foundations of Belonging Virtual Workshop
-2021-07-21 16:00 michael@zuri
+2021-07-21 15:33 <a href="/a/doc/expense/receipt/2021/2021-0721_sbb_bsl_zuri.pdf">sbb</a>
+2021-07-21 16:30 michael@zuri
 2021-07-22 18:00 aha@wld
 
 #2021-07-23 barrhorn
