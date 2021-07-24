@@ -9194,9 +9194,12 @@ year 2015
 2021-08-08 sommerferien@nik end
 2021-08-08 15:30 geburi@michelle
 2021-08-11 20:30 co2@kostbar
+2021-08-14 michael + dagmar # Kunstpfad Thema Wasser, Maggiatal
 2021-08-14 ticino end
 2021-08-14 moni ferien end
 2021-08-14 18:00 andrea@garten # oristal 16 
+2021-08-16 lehmputz@tegna begin
+2021-08-18 lehmputz@tegna end
 2021-08-21 15:00 geburi@anja
 
 2021-09-04 15:00 tanzfraumann@h30
