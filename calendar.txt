@@ -9187,11 +9187,11 @@ year 2015
 
 #2021-07-31 wildhaus end
 
-2021-08-01 sommerferien@nik begin
+2021-08-01 nik@avegno begin # sommerferien
 2021-08-04 jusoca end
 2021-08-06 adsk_holiday # rebecca pearce, 2021-07-02: new one-time global holidays announced
 2021-08-07 ticino begin
-2021-08-08 sommerferien@nik end
+2021-08-08 nik@sommerferien end
 2021-08-08 15:30 geburi@michelle
 2021-08-11 20:30 co2@kostbar
 2021-08-14 michael@verscio # + dagmar, Kunstpfad Thema Wasser, Maggiatal
