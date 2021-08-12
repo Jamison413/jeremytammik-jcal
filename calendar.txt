@@ -9202,6 +9202,7 @@ year 2015
 2021-08-18 lehmputz@tegna end
 2021-08-18 20:00 co2@kostbar
 2021-08-19 18:00 sunahla + govinda
+2021-08-19 19:30 wetterchaos@barbara
 2021-08-21 15:00 geburi@anja
 2021-08-22 13:00 <a href="/a/doc/travel/trip/basel/map_birsmattshof.png">men@guido</a> <a href="https://www.google.com/maps/dir/Huenerbergweg+30+Loerrach/Birsmatthof+4106+Therwil+Switzerland">dir</a> # Birsmatthof 4106 Therwil 
 
