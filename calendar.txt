@@ -9202,6 +9202,7 @@ year 2015
 #2021-08-16 lehmputz@tegna begin
 #2021-08-18 lehmputz@tegna end
 
+2021-08-17 11:00 madlee@brombeeren
 2021-08-18 20:00 co2@kostbar
 2021-08-19 18:00 sunahla + govinda
 2021-08-19 19:30 wetterchaos@barbara
