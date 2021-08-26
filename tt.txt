@@ -5560,3 +5560,11 @@ http://auskunft.kvb-koeln.de
   Zürich HB an 16:26 14
   Dauer: 0:53;
 
+2021-08-27: bsl-raidenbach # von Basel SBB nach Boltigen, Reidenbach
+  15:58 ab Basel SBB, Gleis 7
+  17:33 an Spiez, Gleis 1
+  17:38 ab Spiez, Gleis 4 Regio Express 4081 Richtung Zweisimmen
+  Boltigen an 18:10
+  Boltigen, Bahnhof ab 18:13 Bus B 260 26048 Richtung Jaun, Kappelboden
+  Boltigen, Reidenbach an 18:15
+
