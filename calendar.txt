@@ -9221,6 +9221,7 @@ year 2015
 
 2021-09-07 marie nerja begin
 2021-09-07 20:30 film gemeinschaft
+2021-09-10 12:00 sabine
 2021-09-11 marie nerja end
 
 2021-09-11 17:00 <a href="/j/tmp/2021-09-11_kulturraum.pdf">kulturraum</a>
