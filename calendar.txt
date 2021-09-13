@@ -9229,7 +9229,9 @@ year 2015
 2021-09-11 19:00 a + j
 2021-09-12 11:00-14:00 huenerberger
 2021-09-13 17:30 falk
+2021-09-13 19:30 johanna
 
+2021-09-17 14:30 preparation
 2021-09-17 17:00-21:00 nachbarn@h30
 
 2021-09-18 <a href="/j/tmp/2021-09-18_ateliernacht.jpg">ateliernacht</a>
