@@ -9250,6 +9250,7 @@ year 2015
 2021-09-26 18:25-22:52 <a href="/a/doc/expense/receipt/2021/2021-09-26_db_bonn_bsl.pdf">bonn-bsl</a>
 
 2021-10-03 moni ferien end
+2021-10-03 15:00-18:00 <a href="https://www.meetup.com/Basel-Hash/events/280758062">h3@sbb</a>
 
 2021-10-05 or 04 sabine begin
 
