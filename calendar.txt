@@ -9233,7 +9233,7 @@ year 2015
 
 2021-09-14 15:00 dav@bauhaus
 
-2021-09-16 10:00 kajara von lorenz
+#2021-09-16 10:00 kajara von lorenz
 2021-09-17 14:30 preparation
 2021-09-17 17:00-21:00 nachbarn@h30
 
