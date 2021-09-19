@@ -9243,7 +9243,8 @@ year 2015
 2021-09-19 11:30 araceli@schaffhausen # matinee
 2021-09-19 13:30 kusinen@martina
 
-2021-09-23 17:00 men@gempen
+2021-09-23 17:00 men@gempen # haglenweg 13, 4145 gempen
+
 2021-09-24 13:14-17:23 <a href="/a/doc/expense/receipt/2021/2021-09-24_db_bsl_bonn.pdf">bsl-bonn</a>
 2021-09-24 rodenkirchen
 2021-09-25 moni ferien begin
