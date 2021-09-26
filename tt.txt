@@ -5568,3 +5568,9 @@ http://auskunft.kvb-koeln.de
   Boltigen, Bahnhof ab 18:13 Bus B 260 26048 Richtung Jaun, Kappelboden
   Boltigen, Reidenbach an 18:15
 
+2021-09-26 bonn-bsl:
+  http://auskunft.kvb-koeln.de
+  17:15-17:43 28 Min. 16 Michaelshoven, Köln-Rodenkirchen - Bonn Hauptbahnhof (U) (Gleis 2) - Bad Godesberg Stadthalle
+  17:45-18:13 28 Min. 16 Michaelshoven, Köln-Rodenkirchen - Bonn Hauptbahnhof (U) (Gleis 2) - Bad Godesberg Stadthalle
+  18:25-22:52 <a href="/a/doc/expense/receipt/2021/2021-09-26_db_bonn_bsl.pdf">bonn-bsl</a>
+
