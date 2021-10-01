@@ -9270,6 +9270,8 @@ year 2015
 
 2021-10-13 20:00 co2
 
+2021-10-15 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
+
 2021-10-16 men@wehr # wehr - wehraschlucht - todtmoos-au - uebernachten bei buddhisten - todtmoos - gersbach
 2021-10-17 men@gersbach
 
@@ -9277,10 +9279,18 @@ year 2015
 
 #2021-10-23 12:00-15:00 huenerberger?
 #2021-10-24 12:00-15:00 huenerberger
+2021-10-23 08:00 holz@karen
 2021-10-23 14:00-17:00 huenerberger
 
 2021-10-31 11:00 trauma@heilkreis
 
+2021-11-19 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
+
 2021-12-04 11:00-18:00 theaterimpro
+
+2021-12-20 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
+2021-12-21 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
+2021-12-22 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
+2021-12-23 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
 
 2023-04-06 121 adsk rsu mature # granted 2020-04-06
