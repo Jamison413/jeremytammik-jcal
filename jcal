@@ -2,7 +2,7 @@
 # to define preprocessor symbols, call with 'jcal -Dall'
 # Jeremy Tammik, Autodesk Inc. 2003-2016
 
-DIR="/j/doc/db/jcal"
+DIR="$HOME/j/doc/db/jcal"
 
 #MONTH=1214
 #MONTH=0916
