@@ -9292,6 +9292,8 @@ year 2015
 
 2021-11-19 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
 
+2021-11-21 04:00-16:00 sweatlodge
+
 2021-12-04 11:00-18:00 theaterimpro
 
 2021-12-20 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
