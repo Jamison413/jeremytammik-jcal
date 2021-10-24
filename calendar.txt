@@ -9325,5 +9325,5 @@ year 2015
 
 2023-04-06 121 adsk rsu mature # granted 2020-04-06
 
-2022-07-31 18:00 mannfrau begin # 1680 + 7 * 150 = 2730
+2022-07-31 18:00 mannfrau begin # 1680 + 7 * 65 = 2135 -- https://www.idyll-gais.ch/de/ferien/zimmerpreise.html
 2022-08-07 14:30 mannfrau end
