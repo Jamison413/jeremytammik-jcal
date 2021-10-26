@@ -9301,6 +9301,8 @@ year 2015
 2021-10-30 13:00 sweatlodge
 2021-10-31 11:00 trauma@heilkreis
 
+2021-11-05 20:00 party@hadid
+
 2021-11-06 sabine end
 
 2021-11-06 sommercamp@h30
@@ -9310,7 +9312,7 @@ year 2015
 
 2021-11-21 04:00-16:00 sweatlodge
 
-2021-12-04 11:00-18:00 theaterimpro
+2021-12-04 10:00-18:00 theaterimpro
 
 2021-12-20 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
 2021-12-21 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
