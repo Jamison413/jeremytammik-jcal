@@ -9319,7 +9319,7 @@ year 2015
 2021-12-22 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
 2021-12-23 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
 
-2022-01-09 11:00 trama@beat
+2022-01-09 11:00 trauma@beat
 
 2022-07-31 18:00 mannfrau begin # 1680 + 7 * 65 = 2135 -- https://www.idyll-gais.ch/de/ferien/zimmerpreise.html
 2022-08-07 14:30 mannfrau end
