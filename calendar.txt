@@ -9313,6 +9313,8 @@ year 2015
 
 2021-11-10 10:00 <a href="https://www.piaggio-center-thoma.de">stihl@hauingen</a> # Piaggio Center Thoma, Brückenstr 8, 79541 Hauingen, +49-7621/52275
 
+2021-11-14 14:00-18:00 <a href="https://www.meetup.com/Basel-Hash/events/281826151">h3@herten</a>
+
 2021-11-19 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
 
 2021-11-20 10:00-12:30 repaircafe@halle9 # gewerbestr 9 lörrach
