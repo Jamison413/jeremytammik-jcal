@@ -9311,10 +9311,13 @@ year 2015
 2021-11-06 sommercamp@h30
 2021-11-07 sommercamp@h30
 
+2021-11-10 10:00 <a href="https://www.piaggio-center-thoma.de">stihl@hauingen</a> # Piaggio Center Thoma, Brückenstr 8, 79541 Hauingen, +49-7621/52275
+
 2021-11-19 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
 
 2021-11-20 10:00-12:30 repaircafe@halle9 # gewerbestr 9 lörrach
 2021-11-21 04:00-16:00 sweatlodge
+2021-11-24 19:30 klima@christoph # geisel holdenrein 7
 
 2021-12-04 10:00-18:00 theaterimpro
 
