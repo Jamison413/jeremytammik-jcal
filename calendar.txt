@@ -9342,13 +9342,21 @@ year 2015
 
 2022-01-09 11:00 trauma@beat
 
+2022-05-25 moni ferien begin
+2022-06-056moni ferien end
+
+2022-07-23 moni ferien begin
 2022-07-31 18:00 mannfrau begin # 1680 + 7 * 65 = 2135 -- https://www.idyll-gais.ch/de/ferien/zimmerpreise.html
 2022-08-07 14:30 mannfrau end
+2022-08-07 moni ferien end
 
 #2022-09-16 13:14-17:23 <a href="/a/doc/expense/receipt/2021/2021-09-24_db_bsl_bonn.pdf">bsl-bonn</a>
 2022-09-17 rodenkirchen
 2022-09-17 lina + ben away
 2022-09-18 rodenkirchen
 #2022-09-18 18:25-22:52 <a href="/a/doc/expense/receipt/2021/2021-09-26_db_bonn_bsl.pdf">bonn-bsl</a>
+
+2022-12-24 moni ferien begin
+2023-01-03 moni ferien end
 
 2023-04-06 121 adsk rsu mature # granted 2020-04-06
