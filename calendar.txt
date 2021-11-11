@@ -9321,6 +9321,7 @@ year 2015
 
 2021-11-14 14:00-18:00 <a href="https://www.meetup.com/Basel-Hash/events/281826151">h3@herten</a>
 2021-11-17 09:00 franz@bsl
+2021-11-18 11:45 tobias + rene
 
 2021-11-19 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
 
