@@ -9351,8 +9351,11 @@ year 2015
 
 2022-01-09 11:00 trauma@beat
 
+2022-05-12 13:00 renggli begin
+2022-05-15 14:00 renggli end
+
 2022-05-25 moni ferien begin
-2022-06-056moni ferien end
+2022-06-06 moni ferien end
 
 2022-07-23 moni ferien begin
 2022-07-31 18:00 mannfrau begin # 1680 + 7 * 65 = 2135 -- https://www.idyll-gais.ch/de/ferien/zimmerpreise.html
