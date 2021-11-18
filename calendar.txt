@@ -9327,6 +9327,7 @@ year 2015
 2021-11-19 14:30 nik@wiese
 
 2021-11-19 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
+2021-11-20 moni@heilkreis
 2021-11-20 16:30 rudi begin
 2021-11-20 10:00-12:30 repaircafe@halle9 # gewerbestr 9 lörrach
 #2021-11-21 04:00-16:00 sweatlodge
