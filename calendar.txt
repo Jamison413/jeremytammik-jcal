@@ -9329,13 +9329,14 @@ year 2015
 2021-11-19 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
 2021-11-20 moni@heilkreis
 2021-11-20 10:00-12:30 repaircafe@halle9 # gewerbestr 9 lörrach
-2021-11-20 16:30 rudi begin
+#2021-11-20 16:30 rudi begin
 #2021-11-21 04:00-16:00 sweatlodge
-2021-11-21 12:00-16:00 tichu
-2021-11-22 rudi end
+2021-11-21 10:00 geburi@madlee
+2021-11-21 12:30-16:00 tichu
+#2021-11-22 rudi end
 2021-11-24 20:15 klima@christoph # geisel holdenrein 7
 
-2021-11-27 11:00-14:00 haustreffen@h30
+2021-11-27 14:00-17:00 haustreffen@h30
 
 2021-12-04 10:00-18:00 theaterimpro
 
