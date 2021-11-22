@@ -9351,6 +9351,9 @@ year 2015
 
 2021-12-26 13:30-18:00 <a href="https://www.meetup.com/Basel-Hash/events/282213220">h3@sbb</a>
 
+2021-12-29 wildhaus begin
+2022-01-03 wildhaus end
+
 2022-01-09 11:00 trauma@beat
 
 2022-05-12 13:00 renggli begin
