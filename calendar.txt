@@ -9349,6 +9349,8 @@ year 2015
 2021-12-22 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
 2021-12-23 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
 
+2021-12-24 xmas@martina
+
 2021-12-26 13:30-18:00 <a href="https://www.meetup.com/Basel-Hash/events/282213220">h3@sbb</a>
 
 2021-12-29 wildhaus begin
