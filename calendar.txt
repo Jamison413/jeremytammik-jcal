@@ -9347,6 +9347,9 @@ year 2015
 
 2021-12-19 13:03-16:43 <a href="/Users/jta/a/doc/expense/receipt/2021/2121-12-19_sbb_bsl_piazzogna.pdf">bsl-piazzogna</a> 
 
+2021-12-22 10:00 marie@loe begin
+2021-12-22 12:20 badi@bsl
+
 2021-12-20 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
 2021-12-21 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
 2021-12-22 adsk_holiday # rebecca pearce, 2021-09-28: new one-time global company holidays
@@ -9355,8 +9358,11 @@ year 2015
 2021-12-24 xmas@martina
 
 2021-12-26 13:30-18:00 <a href="https://www.meetup.com/Basel-Hash/events/282213220">h3@sbb</a>
+2021-12-26 lina@loe begin
 
 2021-12-29 wildhaus begin
+2021-12-30 marie@loe end
+
 2022-01-03 wildhaus end
 
 2022-01-04 moni@work
