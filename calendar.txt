@@ -9343,6 +9343,7 @@ year 2015
 2021-11-28 michael w
 
 2021-12-01 11:00 joerg@heizung
+2021-12-02 18:00 bettina
 2021-12-03 09:00 otto@balcony
 2021-12-04 10:00-17:00 theaterimpro # Studio 1, alte Rum Fabrik, UG, Güterstrasse 145, 4053 Basel
 
