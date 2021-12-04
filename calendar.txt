@@ -9347,6 +9347,7 @@ year 2015
 2021-12-03 12:00 otto@balcony
 2021-12-04 10:00-17:00 theaterimpro # Studio 1, alte Rum Fabrik, UG, Güterstrasse 145, 4053 Basel
 
+2021-12-06 10:00 steinplatten co
 2021-12-07 17:00 jochen
 
 2021-12-14 16:15 connert@uzb
