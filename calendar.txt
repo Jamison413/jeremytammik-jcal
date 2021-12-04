@@ -9377,6 +9377,8 @@ year 2015
 
 2022-01-09 11:00 trauma@beat
 
+2022-01-16 maenner
+
 2022-05-12 13:00 renggli begin
 2022-05-15 14:00 renggli end
 
