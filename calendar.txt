@@ -9353,9 +9353,10 @@ year 2015
 2021-12-08 09:00 otto@balkon
 2021-12-08 12:00 lou
 2021-12-08 19:15 book@karen
-2021-12-09 09:00 otto@balkon
-2021-12-10 09:00 otto@balkon
+#2021-12-09 09:00 otto@balkon
+#2021-12-10 09:00 otto@balkon
 
+2021-12-11 08:00 recyclinghof
 2021-12-11 20:00 deepplay@bsl
 2021-12-12 10:00 bettina einzug
 
