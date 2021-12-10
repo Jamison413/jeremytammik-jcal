@@ -9397,8 +9397,10 @@ year 2015
 2022-06-05 moni ferien end
 
 2022-07-23 moni ferien begin
+2022-07-24 jusoca begin
 2022-07-31 18:00 mannfrau begin # 1680 + 7 * 65 = 2135 -- https://www.idyll-gais.ch/de/ferien/zimmerpreise.html
 2022-08-07 14:30 mannfrau end
+2022-08-03 jusoca end
 2022-08-07 moni ferien end
 
 #2022-09-16 13:14-17:23 <a href="/a/doc/expense/receipt/2021/2021-09-24_db_bsl_bonn.pdf">bsl-bonn</a>
