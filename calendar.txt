@@ -9313,11 +9313,11 @@ year 2015
 2021-11-07 sommercamp@h30
 2021-11-07 10:30-12:30 markus@nik
 2021-11-08 15:50 apple@freiestrasse
-2021-11-08 16:15 connert@uzb
+2021-11-08 16:15 dentist connert@uzb
 
 2021-11-10 10:00 <a href="https://www.piaggio-center-thoma.de">stihl@hauingen</a> # Piaggio Center Thoma, Brückenstr 8, 79541 Hauingen, +49-7621/52275
 2021-11-10 18:00 bettina
-2021-11-11 14:00 connert@uzb
+2021-11-11 14:00 dentist connert@uzb
 
 2021-11-14 14:00-18:00 <a href="https://www.meetup.com/Basel-Hash/events/281826151">h3@herten</a>
 2021-11-16 18:30 bettina
@@ -9365,7 +9365,7 @@ year 2015
 2021-12-13 09:00 otto@balkon
 2021-12-14 08:05 <a href="https://www.google.ch/maps/place/Clarastrasse+29+4058+Basel+Switzerland">covid test</a> # Clarastrasse 29, 4058 Basel
 2021-12-14 10:45 moc@wasserschloss
-2021-12-14 16:15 connert@uzb
+2021-12-14 16:15 dentist connert@uzb
 
 2021-12-18 11:00 barbara + michael
 2021-12-18 18:00 michael@zrh
@@ -9404,6 +9404,8 @@ year 2015
 
 2022-05-25 moni ferien begin
 2022-06-05 moni ferien end
+
+2022-06-14 16:30 connert@uzb
 
 2022-07-23 moni ferien begin
 2022-07-24 jusoca begin
