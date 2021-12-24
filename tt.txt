@@ -5576,3 +5576,6 @@ http://auskunft.kvb-koeln.de
 
 2021-12-19 bsl-piazzogna:
   13:03-16:43 bsl-piazzogna 
+  /Users/jta/a/doc/expense/receipt/2021/2021-12-19_sbb_zrh_bsl.pdf
+  /Users/jta/a/doc/expense/receipt/2021/2121-12-19_sbb_bsl_piazzogna.pdf
+
