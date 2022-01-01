@@ -9396,7 +9396,9 @@ year 2015
 
 2022-01-04 moni@work
 
+2022-01-07 19:00 film@h30 # ich bin dein mensch
 2022-01-08 11:00 schalbrett@schallbach
+2022-01-08 19:00 sauna@h30
 2022-01-09 11:00 trauma@beat
 
 2022-01-13 19:30 klima@andrea
