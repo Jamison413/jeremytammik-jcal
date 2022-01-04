@@ -9392,9 +9392,10 @@ year 2015
 2021-12-28 wildhaus begin # jeremy, lina, ben, nora, marlon, frederik
 2021-12-30 marie@loe end
 
-2022-01-03 wildhaus end
+2022-01-04 wildhaus end
 
-2022-01-04 moni@work
+2022-01-05 18:00 maerchen@tatjana
+2022-01-06 moni@work
 
 2022-01-07 19:00 film@h30 # ich bin dein mensch
 2022-01-08 11:00 schalbrett@schallbach
