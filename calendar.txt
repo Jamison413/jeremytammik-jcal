@@ -9411,7 +9411,7 @@ year 2015
 
 2022-01-29 11:00 huenerberger
 
-2022-04-01 18:00 isabell + hartmut
+2022-04-08 18:00 isabell + hartmut
 
 2022-05-12 13:00 renggli begin
 2022-05-15 14:00 renggli end
