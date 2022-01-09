@@ -9405,7 +9405,9 @@ year 2015
 2022-01-11 18:00 <a href="/Users/jta/j/tmp/2022-01-11_kulturraum.pdf">kulturraum</a>
 2022-01-13 19:30 klima@andrea
 
-2022-01-16 maenner
+2022-01-16 13:00 maenner
+
+2022-01-21 20:00 tanz@waedel
 
 2022-01-28 18:00 geburi@michael
 
@@ -9413,8 +9415,8 @@ year 2015
 
 2022-04-08 18:00 isabell + hartmut
 
-2022-05-12 13:00 renggli begin
-2022-05-15 14:00 renggli end
+#2022-05-12 13:00 renggli begin
+#2022-05-15 14:00 renggli end
 
 2022-05-25 moni ferien begin
 2022-06-05 moni ferien end
