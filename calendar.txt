@@ -9396,6 +9396,7 @@ year 2015
 
 2022-01-05 18:00 maerchen@tatjana
 2022-01-06 moni@work
+2022-01-06 18:00 maris
 
 2022-01-07 19:00 film@h30 # ich bin dein mensch
 2022-01-08 11:00 schalbrett@schallbach
@@ -9404,10 +9405,12 @@ year 2015
 
 2022-01-11 18:00 <a href="/Users/jta/j/tmp/2022-01-11_kulturraum.pdf">kulturraum</a>
 2022-01-12 15:00 tische@annemarie
+2022-01-13 18:00 maris
 2022-01-13 19:30 klima@andrea
 2022-01-14 12:00 nik@langeerlen
 
 2022-01-16 13:00 maenner
+2022-01-17 14:00 flora + leon
 
 2022-01-21 20:00 tanz@waedel
 
