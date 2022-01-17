@@ -9413,9 +9413,9 @@ year 2015
 2022-01-16 13:00 maenner@tuellinger
 2022-01-17 14:00 flora + leon
 
-2022-01-21 17:00 <a href="https://us04web.zoom.us/j/79357486967?pwd=lyp0jc4CmDOtD69U5cmbM4pLDqGwOk.1#success">wohnwandel</a>
+2022-01-21 17:00 <a href="https://us04web.zoom.us/j/79357486967?pwd=lyp0jc4CmDOtD69U5cmbM4pLDqGwOk.1">wohnwandel</a>
 
-
+# https://us04web.zoom.us/j/79357486967?pwd=lyp0jc4CmDOtD69U5cmbM4pLDqGwOk.1#:~:text=and%20Privacy%20Statement-,Launch,-Meeting
 
 2022-01-21 18:00 geburi@gersbach
 2022-01-21 20:00 tanz@waedel
