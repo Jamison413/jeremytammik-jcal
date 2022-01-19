@@ -9425,6 +9425,9 @@ year 2015
 
 2022-01-29 11:00 huenerberger
 
+2022-02-05 wildhaus begin
+2022-02-09 wildhaus end
+
 2022-02-11 15:30-18:30 falk + jochen # + bekannte + jeremy + moni + karin
 
 2022-04-08 18:00 isabell + hartmut
