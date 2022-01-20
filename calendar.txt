@@ -9411,7 +9411,7 @@ year 2015
 
 2022-01-16 10:30-11:00 burcu
 2022-01-16 13:00 maenner@tuellinger
-2022-01-17 14:00 flora + leon
+2022-01-17 14:00 flora + leon # otto
 
 2022-01-20 17:00 <a href="https://us04web.zoom.us/j/79357486967?pwd=lyp0jc4CmDOtD69U5cmbM4pLDqGwOk.1">wohnwandel</a>
 2022-01-20 19:00 <a href="https://join.skype.com/HAVdGFYKWRvh">otto</a>
@@ -9420,6 +9420,7 @@ year 2015
 2022-01-21 20:00 tanz@waedel
 2022-01-22 gersbach
 2022-01-23 gersbach
+2022-01-24 19:00 flora + leon # otto
 
 2022-01-28 18:00 geburi@michael
 
