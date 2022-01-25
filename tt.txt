@@ -5579,3 +5579,5 @@ http://auskunft.kvb-koeln.de
   /Users/jta/a/doc/expense/receipt/2021/2021-12-19_sbb_zrh_bsl.pdf
   /Users/jta/a/doc/expense/receipt/2021/2121-12-19_sbb_bsl_piazzogna.pdf
 
+2022-01-29 zrh-bsl:
+  08:59-09:53 Zürich HB - Basel SBB

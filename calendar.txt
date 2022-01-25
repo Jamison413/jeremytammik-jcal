@@ -9425,6 +9425,7 @@ year 2015
 
 2022-01-28 18:00 geburi@michael
 
+2022-01-29 08:59-09:53 <a href="/Users/jta/a/doc/expense/receipt/2022/2022-01-29_sbb_zrh_bsl.pdf">zrh-bsl</a>
 2022-01-29 11:00 huenerberger
 2022-01-30 moni@heilkreis
 2022-01-30 10:00 brunch@tatjana
