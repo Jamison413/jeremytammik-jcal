@@ -9431,6 +9431,10 @@ year 2015
 2022-01-30 10:00 brunch@tatjana
 
 2022-02-04 09:00 daniel@wege
+2022-02-04 18:00 isabell + hartmut
+
+2022-02-09 10:00 pia + rene begin
+2022-02-10 11:00 pia + rene end
 
 2022-02-11 15:30-18:30 falk + jochen # + bekannte + jeremy + moni + karin
 2022-02-12 10:00-13:00 wege@h30
