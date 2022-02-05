@@ -9449,6 +9449,8 @@ year 2015
 2022-02-11 15:30-18:30 falk + jochen # + bekannte + jeremy + moni + karin
 2022-02-12 10:00-13:00 wege@h30
 
+2022-02-20 men@hoheflum
+
 2022-03-05 wildhaus begin
 2022-03-09 wildhaus end
 
