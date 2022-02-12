@@ -9448,6 +9448,7 @@ year 2015
 
 2022-02-11 15:30-18:30 falk + jochen # + bekannte + jeremy + moni + karin
 2022-02-12 10:00-13:00 wege@h30
+2022-02-13 nik@berge
 2022-02-14 09:00-11:00 ara + heiner
 
 2022-02-20 13:00 men@hoheflum
