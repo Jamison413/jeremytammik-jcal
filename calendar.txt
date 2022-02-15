@@ -9452,6 +9452,7 @@ year 2015
 2022-02-13 09:28-11:23 <a href="/Users/jta/a/doc/expense/receipt/2022/2022-02-13_sbb_bsl_luthern_bad.pdf">bsl-luthern</a>
 #
 2022-02-14 09:00-11:00 ara + heiner
+2022-02-17 18:00-19:00 technik.cafe # schwarzwaldstrasse 3
 
 2022-02-20 13:00 men@hoheflum
 2022-02-20 15:00 <a href="/Users/jta/j/tmp/2022-02-20_nathalie.pdf">nathalie@klybeck</a>
