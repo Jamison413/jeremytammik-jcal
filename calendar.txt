@@ -9529,6 +9529,10 @@ year 2015
 2022-07-02 community@biel
 2022-07-03 community@biel
 
+2022-07-08 <a href="https://www.dav-loerrach.de/unsere-sektion/sektionsveranstaltungen">dav@schwyz</a> begin
+2022-07-09 dav@schwyz
+2022-07-10 dav@schwyz end
+
 2022-07-23 moni ferien begin
 2022-07-24 jusoca begin
 2022-07-31 18:00 mannfrau begin # 1680 + 7 * 65 = 2135 -- https://www.idyll-gais.ch/de/ferien/zimmerpreise.html
