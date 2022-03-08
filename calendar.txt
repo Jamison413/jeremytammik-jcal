@@ -9511,6 +9511,8 @@ year 2015
 #2022-05-15 14:00 renggli end
 
 2022-05-25 moni ferien begin
+2022-05-26 beats@pisa begin
+2022-05-29 beats@pisa end
 2022-06-05 moni ferien end
 
 2022-06-10 paartreffen@chlotisberg begin
