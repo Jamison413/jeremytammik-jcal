@@ -9495,14 +9495,16 @@ year 2015
 2022-03-19 10:00 jurte@wiechs
 2022-03-21 09:00 heiner@ara
 
+2022-03-26 13:00-17:00 moni@frauen
 2022-03-26 15:00-18:00 men
+2022-03-26 18:00 isabell + hartmut
 2022-03-27 11:00-14:00 <a href="https://doodle.com/poll/2aqzcbp23ytuhsap">huenerberger</a>
 
 2022-03-30 19:00 klima
 
 2022-04-02 16:00-17:30 fairnetztreff@cafekirche
 
-2022-04-08 18:00 isabell + hartmut
+#2022-04-08 18:00 isabell + hartmut
 
 2022-04-10 10:00 franziska + stefan
 
