@@ -9505,7 +9505,7 @@ year 2015
 2022-03-28 10:00 maike@h30
 2022-03-29 10:00 daniel@h30
 
-2022-03-30 19:00 klima
+#2022-03-30 19:00 klima
 
 2022-04-02 16:00-17:30 fairnetztreff@cafekirche
 
