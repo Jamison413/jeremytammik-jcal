@@ -9552,9 +9552,13 @@ year 2015
 2022-06-18 men@oeschinen
 2022-06-19 men@oeschinen end
 
-2022-07-01 community@biel
+2022-07-01 18:00 community@biel
+# Rudolf Steiner Schule Biel, Schützengasse 54, 2502 Biel/Bienne, Schweiz
+# parken bei OTTO'S AG, Georg-Friedrich-Heilmann-Strasse 39, 2502 Biel, Switzerland
+# Übernachtung im Yogaraum bei Rajan, Solothurnstrasse 16
+# Edward Groody, Senior-Facilitator Gemeinschaftsbildung (USA), Präsident Community-Building International, http://edgroody.com/
 2022-07-02 community@biel
-2022-07-03 community@biel
+2022-07-03 17:00 community end
 
 2022-07-08 <a href="https://www.dav-loerrach.de/unsere-sektion/sektionsveranstaltungen">dav@schwyz</a> begin
 2022-07-09 dav@schwyz
