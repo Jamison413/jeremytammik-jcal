@@ -9592,3 +9592,6 @@ year 2015
 2023-01-03 moni ferien end
 
 2023-04-06 121 adsk rsu mature # granted 2020-04-06
+
+2023-06-20 tammiku begin
+2023-06-30 tammiku end
