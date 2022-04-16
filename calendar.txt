@@ -9564,11 +9564,13 @@ year 2015
 2022-06-18 men@oeschinen
 2022-06-19 men@oeschinen end
 
-2022-07-01 18:00 community@biel
+2022-07-01 18:00 <a href="https://mailchi.mp/fb13ca4cd6c2/silvester-retreat-heilkraft-bewusstsein-15427184">community@biel</a>
+
 # Rudolf Steiner Schule Biel, Schützengasse 54, 2502 Biel/Bienne, Schweiz
 # parken bei OTTO'S AG, Georg-Friedrich-Heilmann-Strasse 39, 2502 Biel, Switzerland
 # Übernachtung im Yogaraum bei Rajan, Solothurnstrasse 16
 # Edward Groody, Senior-Facilitator Gemeinschaftsbildung (USA), Präsident Community-Building International, http://edgroody.com/
+
 2022-07-02 community@biel
 2022-07-03 17:00 community end
 
