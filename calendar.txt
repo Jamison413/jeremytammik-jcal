@@ -9527,6 +9527,7 @@ year 2015
 2022-04-15 lina + kids
 2022-04-16 lina + kids
 
+2022-04-20 08:00 filling@uzb
 2022-04-20 12:00 brunch@ara
 2022-04-20 19:00 bafudi
 
@@ -9551,6 +9552,8 @@ year 2015
 
 2022-05-14 <a href="/Users/jta/j/tmp/2022-05-14_maifest.jpg">hirschenhof</a>
 2022-05-15 hirschenhof
+
+2022-05-21 <a href="/Users/jta/j/tmp/2022-05-21_klimatag_anschreiben.pdf">klimatag</a>
 
 2022-05-25 moni ferien begin
 2022-05-26 beats@pisa begin
