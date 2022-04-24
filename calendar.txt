@@ -9534,6 +9534,9 @@ year 2015
 2022-04-22 17:30 holz@lesmonnins
 2022-04-23 holz@lesmonnins
 2022-04-24 holz@lesmonnins
+2022-04-25 15:50 depart
+2022-04-25 17:00 <a href="https://www.google.com/maps/dir/Huenerbergweg+30+79539+Loerrach/Raitbach+9+79650+Schopfheim">holzofen@falk</a> raitbach 9
+2022-04-25 18:30 pizza
 
 2022-04-27 11:00 frick@loe
 
