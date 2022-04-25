@@ -9552,8 +9552,6 @@ year 2015
 2022-05-06 09:10 giraldo@centramed
 2022-05-07 11:00-14:00 <a href="https://doodle.com/poll/2aqzcbp23ytuhsap">huenerberger</a>
 
-2022-05-08 10:00-14:00 wld2brunch@jochen
-
 #2022-05-12 13:00 renggli begin
 #2022-05-15 14:00 renggli end
 
@@ -9561,6 +9559,7 @@ year 2015
 2022-05-15 hirschenhof
 
 2022-05-21 <a href="/Users/jta/j/tmp/2022-05-21_klimatag_anschreiben.pdf">klimatag</a>
+2022-05-22 10:00-14:00 wld2brunch@jochen
 
 2022-05-25 moni ferien begin
 2022-05-26 beats@pisa begin
