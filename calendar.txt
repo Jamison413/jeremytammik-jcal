@@ -9568,12 +9568,17 @@ year 2015
 2022-05-25 moni ferien begin
 2022-05-26 beats@pisa begin
 2022-05-29 beats@pisa end
+2022-05-31 dataday@munich
+2022-06-02 dataday@goeteborg
 2022-06-05 moni ferien end
+2022-06-07 dataday@birmingham
+2022-06-09 dataday@milano
 
 2022-06-10 paartreffen@chlotisberg begin
 2022-06-11 paartreffen
 2022-06-12 paartreffen end
 
+2022-06-14 dataday@barca
 2022-06-14 16:30 connert@uzb
 
 2022-06-17 18:00 men@oeschinen begin
