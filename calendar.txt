@@ -9543,6 +9543,7 @@ year 2015
 
 2022-04-28 10:00 maike einzug
 2022-04-29 10:00 umzug@anja
+2022-04-29 15:00-16:20 jza
 
 2022-04-30 moni@heilkreis
 2022-04-30 14:00 <a href="https://edel-rind.de">edel-rind.de</a> # Glattackerweg 1 D-79664 Wehr-Enkendorf
