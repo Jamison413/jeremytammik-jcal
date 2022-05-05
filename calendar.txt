@@ -9573,9 +9573,9 @@ year 2015
 2022-05-21 19:00 huenerberger
 2022-05-22 10:00-14:00 wld2brunch@jochen
 
-2022-05-25 12:00 moni ferien begin
-2022-05-26 17:00 beats@pisa begin
-2022-05-29 beats@pisa end
+2022-05-25 11:00 moni ferien begin
+2022-05-26 16:00 <a href="/Users/jta/j/tmp/2022-05-26_beats.pdf">beats@pisa</a> begin
+2022-05-29 16:30 beats@pisa end
 2022-05-31 dataday@munich
 2022-06-02 dataday@goeteborg
 2022-06-04 10:30 electricita
