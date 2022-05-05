@@ -9578,7 +9578,7 @@ year 2015
 2022-05-29 16:30 beats@pisa end
 2022-05-31 dataday@munich
 2022-06-02 dataday@goeteborg
-2022-06-04 10:30 electricita
+2022-06-03 10:30 electricita
 2022-06-05 moni ferien end
 2022-06-07 dataday@birmingham
 2022-06-08 milano travel
