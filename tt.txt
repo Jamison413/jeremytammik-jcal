@@ -5581,3 +5581,10 @@ http://auskunft.kvb-koeln.de
 
 2022-01-29 zrh-bsl:
   08:59-09:53 Zürich HB - Basel SBB
+
+2022-05-20 bsl-lommiswil:
+  16:03-17:15 1 h 12 min
+  Basel SBB ab 16:03 Gleis 14 IC 1628 Richtung Biel/Bienne
+  Moutier an 16:51
+  Moutier ab 16:54 Gleis 5 S 21 7864 Richtung Solothurn
+  Lommiswil an 17:15
