@@ -9573,7 +9573,7 @@ year 2015
 2022-05-21 11:00 clothes@adlergaesschen
 2022-05-21 19:00 huenerberger
 #2022-05-22 10:00-14:00 wld2brunch@jochen
-2022-05-22 16:03-17:15 bsl-lommiswil
+2022-05-22 16:03-17:15 <a href="/Users/jta/a/doc/expense/receipt/2022/2022-05-22_sbb_bsl_lommiswil.pdf">bsl-lommiswil</a>
 2022-05-22 rene
 2022-05-23 rene
 2022-05-23 13:00-15:00 flora@adler
