@@ -9590,12 +9590,13 @@ year 2015
 2022-06-04 moni ferien end
 2022-06-05 kim + thomas
 2022-06-07 dataday@birmingham
-2022-06-08 milano travel
+#2022-06-08 milano travel
 2022-06-09 dataday@milano
-2022-06-10 milano travel
-2022-06-10 paartreffen@chlotisberg begin
+#2022-06-10 milano travel
+#2022-06-10 paartreffen@chlotisberg begin
+2022-06-10 paartreffen@moni
 2022-06-11 paartreffen
-2022-06-12 paartreffen end
+#2022-06-12 paartreffen end
 2022-06-12 barca travel
 2022-06-12 15:00 covidtest@bsl
 2022-06-12 16:45-18:30 bsl-bcn # Flight confirmation JDIY5M Itinerary R2DVL7X8F Vueling Airlines (VY) 6241 
