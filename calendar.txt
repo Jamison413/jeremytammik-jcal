@@ -9595,8 +9595,8 @@ year 2015
 2022-06-09 dataday@milano
 #2022-06-10 milano travel
 #2022-06-10 paartreffen@chlotisberg begin
-2022-06-10 paartreffen@moni
-2022-06-11 paartreffen
+2022-06-10 18:00 paartreffen@moni
+2022-06-11 16:00 paartreffen end
 #2022-06-12 paartreffen end
 2022-06-12 14:00 geli@bach
 2022-06-12 barca travel
