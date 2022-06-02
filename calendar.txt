@@ -9587,9 +9587,9 @@ year 2015
 2022-06-02 dataday@goeteborg
 2022-06-03 10:30 electricita
 2022-06-04 moni ferien end
-2022-06-05 12:00 kim + thomas
-2022-06-06 jza
-2022-06-07 jza
+2022-06-05 12:00 kim sin thomas
+2022-06-06 10:30 rose
+2022-06-07 15:00 jza
 2022-06-07 dataday@birmingham
 #2022-06-08 milano travel
 2022-06-09 dataday@milano
@@ -9638,6 +9638,7 @@ year 2015
 2022-08-07 14:30 mannfrau end
 2022-08-03 jusoca end
 2022-08-07 moni ferien end
+2022-08-11 marlon@einschulung
 2022-08-12 geburi@karen
 
 2022-08-20 klasstraeff@stockholm
