@@ -9587,7 +9587,7 @@ year 2015
 2022-06-02 dataday@goeteborg
 2022-06-03 10:30 electricita
 2022-06-04 moni ferien end
-2022-06-05 kim + thomas
+2022-06-05 12:00 kim + thomas
 2022-06-06 jza
 2022-06-07 jza
 2022-06-07 dataday@birmingham
@@ -9596,6 +9596,7 @@ year 2015
 #2022-06-10 milano travel
 #2022-06-10 paartreffen@chlotisberg begin
 2022-06-10 18:00 paartreffen@moni
+2022-06-10 19:00 stephanie@matthea # Geburtshaus, Klybeckstrasse 64/70, CH – 4057 Basel, https://www.geburtshaus-matthea.ch/apero-und-tanz-in-der-matthea/
 2022-06-11 16:00 paartreffen end
 #2022-06-12 paartreffen end
 2022-06-12 14:00 geli@bach
@@ -9622,6 +9623,7 @@ year 2015
 # Edward Groody, Senior-Facilitator Gemeinschaftsbildung (USA), Präsident Community-Building International, http://edgroody.com/
 
 2022-07-02 krd@h30
+2022-07-02 17:00 geburi@heiner
 2022-07-02 community@biel
 2022-07-03 17:00 community end
 
