@@ -9592,7 +9592,7 @@ year 2015
 2022-06-07 15:00 jza
 2022-06-07 dataday@birmingham
 #2022-06-08 milano travel
-2022-06-09 dataday@milano
+2022-06-09 dataday@milano # 7PNVN87V9YH
 #2022-06-10 milano travel
 #2022-06-10 paartreffen@chlotisberg begin
 2022-06-10 18:00 paartreffen@moni
@@ -9604,7 +9604,7 @@ year 2015
 2022-06-12 15:00 covidtest@bsl
 2022-06-12 16:45-18:30 bsl-bcn # Flight confirmation JDIY5M Itinerary R2DVL7X8F Vueling Airlines (VY) 6241 
 2022-06-13 barca 
-2022-06-14 dataday@barca
+2022-06-14 dataday@barca # J6N4FM4D45T, Autodesk Inc. C/ Josep Pla 2, Torre Bmar 2, 6ºpl, Barcelona, 08019, Spain
 2022-06-15 barca 
 2022-06-16 barca travel
 2022-06-16 18:35-20:30 bcn-bsl # Flight confirmation K3H3MXC Itinerary RXUN5X easyJet (U2) Duration 1h 55m
