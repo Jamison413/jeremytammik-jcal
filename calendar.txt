@@ -9627,7 +9627,7 @@ year 2015
 
 2022-07-02 krd@h30
 2022-07-02 17:00 geburi@heiner
-2022-07-02 community@biel
+2022-07-02 <a href="/Users/jta/j/tmp/cb_workshop.pdf">community@biel</a>
 2022-07-03 17:00 community end
 
 2022-07-08 <a href="https://www.dav-loerrach.de/unsere-sektion/sektionsveranstaltungen">dav@schwyz</a> begin
