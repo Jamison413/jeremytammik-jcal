@@ -9651,7 +9651,7 @@ year 2015
 #2022-09-16 13:14-17:23 <a href="/a/doc/expense/receipt/2021/2021-09-24_db_bsl_bonn.pdf">bsl-bonn</a>
 2022-09-16 nachbarschaftstreffen
 2022-09-17 rodenkirchen
-2022-09-17 lina + ben away
+2022-09-17 11:00 lina + ben away
 2022-09-18 rodenkirchen
 #2022-09-18 18:25-22:52 <a href="/a/doc/expense/receipt/2021/2021-09-26_db_bonn_bsl.pdf">bonn-bsl</a>
 
