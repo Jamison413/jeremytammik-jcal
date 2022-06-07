@@ -9589,9 +9589,10 @@ year 2015
 2022-06-04 moni ferien end
 2022-06-05 12:00 kim sin thomas
 2022-06-06 10:30 rose
-2022-06-07 15:00 jza
+2022-06-07 15:00 ricardo # vero heinzmann
 2022-06-07 dataday@birmingham
 #2022-06-08 milano travel
+2022-06-08 15:00 jza
 2022-06-09 dataday@milano # 7PNVN87V9YH
 #2022-06-10 milano travel
 #2022-06-10 paartreffen@chlotisberg begin
