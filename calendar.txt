@@ -101,7 +101,7 @@ even Sundays in year J
 #
 year 2022
 even tuesdays in year 13:30 aec wg
-odd tuesdays in year 14:30 aec status # with carol 
+#odd tuesdays in year 14:30 aec status # with carol 
 
 #
 # cornelius workdays:
