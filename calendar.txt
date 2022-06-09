@@ -9613,6 +9613,7 @@ year 2015
 2022-06-17 18:00 men@oeschinen begin
 2022-06-18 men@oeschinen
 2022-06-19 men@oeschinen end
+2022-06-20 17:30 architektur@wld
 
 2022-06-24 21:00-24:00 <a href="/Users/jta/j/tmp/2022-06-24_hinterhofkino.pdf">hinterhofkino@bsl</a> # Oetlingerstrasse 183, Basel 4057
 2022-06-25 hinterhofkino
