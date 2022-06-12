@@ -9602,8 +9602,8 @@ year 2015
 #2022-06-12 paartreffen end
 2022-06-12 12:00 geli@bach
 2022-06-12 barca travel
-2022-06-12 12:00 covidtest@dok # wallbrunnstraße 42, Buchung 12607131
-2022-06-12 15:00 covidtest@bsl
+#2022-06-12 12:00 covidtest@dok # wallbrunnstraße 42, Buchung 12607131
+#2022-06-12 15:00 covidtest@bsl # euroairport
 2022-06-12 16:45-18:30 bsl-bcn # Flight confirmation JDIY5M Itinerary R2DVL7X8F Vueling Airlines (VY) 6241 VY6241
 2022-06-13 barca 
 2022-06-14 dataday@barca # J6N4FM4D45T, Autodesk Inc. C/ Josep Pla 2, Torre Bmar 2, 6ºpl, Barcelona, 08019, Spain
