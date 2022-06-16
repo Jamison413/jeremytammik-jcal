@@ -9608,9 +9608,10 @@ year 2015
 2022-06-13 barca 
 2022-06-14 dataday@barca # J6N4FM4D45T, Autodesk Inc. C/ Josep Pla 2, Torre Bmar 2, 6ºpl, Barcelona, 08019, Spain
 2022-06-15 barca 
+2022-06-15 19:00 très tombs # c/ urgell opposite sant antoni market
 2022-06-16 barca travel
-2022-06-16 18:35-20:30 bcn-bsl # Flight confirmation K3H3MXC Itinerary RXUN5X easyJet (U2) Duration 1h 55m
-
+2022-06-16 14:55-16:40 bcn-zrh # Barcelona (BCN), Terminal 1 Duration: 01 h 45 min LX1955 Booking Code: PX8GE6 electronic ticket number 724-2326178555
+2022-06-16 18:35-20:30 bcn-bsl # Flight confirmation K3H3MXC Itinerary RXUN5X easyJet (U2) Duration 1h 55m flight # EJU1080
 2022-06-17 18:00 men@oeschinen begin
 2022-06-18 men@oeschinen
 2022-06-19 men@oeschinen end
