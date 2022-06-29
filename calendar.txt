@@ -9646,9 +9646,9 @@ year 2015
 2022-07-02 <a href="/Users/jta/j/tmp/cb_workshop.pdf">community@biel</a>
 2022-07-03 17:00 community end
 
-2022-07-04 a/c installation begin
-2022-07-05 a/c installation 
-2022-07-06 a/c installation 
+2022-07-04 thielle
+2022-07-05 thielle
+2022-07-06 a/c installation begin
 2022-07-07 a/c installation end
 
 2022-07-08 <a href="https://www.dav-loerrach.de/unsere-sektion/sektionsveranstaltungen">dav@schwyz</a> begin
