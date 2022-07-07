@@ -5929,9 +5929,9 @@ year 2015
 2015-12-11 19:30 basti@altstazione
 
 2015-12-12 10:00 karin@zrh
-2015-12-12 14:00 h3@glattbrugg # zrh The Great Northern Swiss Hashmas Casa Alegria Schaffhauserstrasse 116, 8152 Glattbrugg, Zuerich http://www.meetup.com/The-Zurich-Hash-House-Harriers/events/225155265/
+2015-12-12 14:00 hhh@glattbrugg # zrh The Great Northern Swiss Hashmas Casa Alegria Schaffhauserstrasse 116, 8152 Glattbrugg, Zuerich http://www.meetup.com/The-Zurich-Hash-House-Harriers/events/225155265/
 2015-12-12 18:00 christine + daniel
-2015-12-13 14:00 h3@liestal # Hashmas Hangover run Basel Hash House Harriers Bahnhof Liestal Bahnhofplatz Liestal http://www.meetup.com/Basel-Hash/events/226867168
+2015-12-13 14:00 hhh@liestal # Hashmas Hangover run Basel Hash House Harriers Bahnhof Liestal Bahnhofplatz Liestal http://www.meetup.com/Basel-Hash/events/226867168
 
 2015-12-14 15:30-16:30 hsbTimber # https://global.gotomeeting.com/join/905646813
 
@@ -6195,7 +6195,7 @@ year 2015
 2016-05-05 ne_holiday
 2016-05-06 ne_holiday
 
-2016-05-08 h3@muttenz # Tramstation Rothausstrasse, Rothausstrasse 4132, Muttenz, http://www.meetup.com/Basel-Hash/events/230511313
+2016-05-08 hhh@muttenz # Tramstation Rothausstrasse, Rothausstrasse 4132, Muttenz, http://www.meetup.com/Basel-Hash/events/230511313
 
 2016-05-04 gelber sack # http://www.loerrach-landkreis.info/Muellkalender/pages/ShowKalender.asp?s_Monat=5&s_Jahr=10&s_Region=2
 
@@ -6355,7 +6355,7 @@ year 2015
 #2016-07-09 klettern@bergsee
 #2016-07-10 klettern@bergsee
 
-#2016-07-10 15:00 cancelled h3@delemont # summer run/walk/hike in the Jura, Basel Hash House Harriers, Delemont Station Near Main entrance, http://www.meetup.com/Basel-Hash/events/232115487/?rv=ea1&_af=event&_af_eid=232115487&https=off
+#2016-07-10 15:00 cancelled hhh@delemont # summer run/walk/hike in the Jura, Basel Hash House Harriers, Delemont Station Near Main entrance, http://www.meetup.com/Basel-Hash/events/232115487/?rv=ea1&_af=event&_af_eid=232115487&https=off
 
 2016-07-09 intensiv@pascal
 
@@ -6393,7 +6393,7 @@ year 2015
 2016-08-13 ticino end
 2016-08-14 moni holiday end
 
-2016-08-14 15:00 h3@delemont # train station near main entrance
+2016-08-14 15:00 hhh@delemont # train station near main entrance
 
 2016-08-15 19:00 axel
 
@@ -6442,7 +6442,7 @@ year 2015
 
 2016-09-08 20:20 lerchenwave@gruett
 
-2016-09-10 15:00 h3@frick # sbb bahnhostrasse http://www.meetup.com/Basel-Hash/events/233789137
+2016-09-10 15:00 hhh@frick # sbb bahnhostrasse http://www.meetup.com/Basel-Hash/events/233789137
 2016-09-10 18:30 schwumm@rhii
 
 2016-09-12 aag16@eth # http://www.architecturalgeometry.org/aag16
@@ -6495,7 +6495,7 @@ year 2015
 2016-10-20 15:15-16:30 connecting desktop + cloud
 2016-10-21 rtc@porto
 2016-10-21 09:00-10:15 revit api panel
-2016-10-22 15:00 h3@kaiseraugst # Kaiseraugst October Hash Run, Kaiseraugst Train Station, Bahnhof, 4303 Kaiseraugst, http://www.meetup.com/Basel-Hash/events/234601942
+2016-10-22 15:00 hhh@kaiseraugst # Kaiseraugst October Hash Run, Kaiseraugst Train Station, Bahnhof, 4303 Kaiseraugst, http://www.meetup.com/Basel-Hash/events/234601942
 2016-10-22 10:00-14:00 Repair Cafe # Lörrach, Halle 9
 2016-10-22 18:00 speaker feedback
 
@@ -6612,7 +6612,7 @@ year 2015
 2016-12-08 16:28-22:17 muc-pratteln # /a/doc/expense/receipt/2016/2016-12-08_train_ticket_muc_pratteln.pdf
 2016-12-08 20:00 demain (film) # Werkraum Schöpflin, Filmvorführung 'Tomorrow' und Diskussion
 2016-12-09 accelerator@munich
-2016-12-10 13:00 h3@murten # https://www.meetup.com/basel-hash/events/236020120
+2016-12-10 13:00 hhh@murten # https://www.meetup.com/basel-hash/events/236020120
 2016-12-10 16:00 tichu@madlee
 2016-12-11 18:15 regina + moc # kernzone, paradiesstrasse 1, kronenplatz binningen endstation 2-er tram
 
@@ -6645,7 +6645,7 @@ year 2015
 2016-12-25 14:00 janine + didi?
 2016-12-25 kids@k
 2016-12-26 kids@j
-2016-12-26 13:30 h3@ # boxing day hash, Restaurant Alte Post, Centralbahnstrasse 21, Basel, https://www.meetup.com/basel-hash/events/236172095
+2016-12-26 13:30 hhh@ # boxing day hash, Restaurant Alte Post, Centralbahnstrasse 21, Basel, https://www.meetup.com/basel-hash/events/236172095
 
 2016-12-27 kids@k
 2016-12-28 kids@j
@@ -6668,7 +6668,7 @@ year 2015
 
 2017-01-07 18:00 apero@karen
 2017-01-08 13:00 nik
-2017-01-08 15:00 h3@biel-benken # Hares Hutch Bachgasse 4 https://www.meetup.com/Basel-Hash/events/236691762
+2017-01-08 15:00 hhh@biel-benken # Hares Hutch Bachgasse 4 https://www.meetup.com/Basel-Hash/events/236691762
 
 2017-01-11 vollmondfeuer
 
@@ -6713,7 +6713,7 @@ year 2015
 2017-02-10 16:00 ciprian
 
 2017-02-11 12:00-21:00 oelen@ursula # emmendingen /j/tmp/2017-02-11_oelbad.pdf /j/tmp/2017-02-11_oelbad_flyer.pdf
-2017-02-12 15:00-18:00 h3@schuetzenmattpark # tram stop schuetzenhaus (trams 1 + 8) https://www.meetup.com/basel-hash/events/237133790
+2017-02-12 15:00-18:00 hhh@schuetzenmattpark # tram stop schuetzenhaus (trams 1 + 8) https://www.meetup.com/basel-hash/events/237133790
 2017-02-13 11:15 plombe@betz # dentist scherble, A6 is dead
 2017-02-13 18:30 karen + falk
 
@@ -6755,7 +6755,7 @@ year 2015
 2017-03-10 19:00 men@enno
 2017-03-11 wildhaus end
 2017-03-12 intensiv@moni
-2017-03-12 14:00 h3@jura # delemont https://www.meetup.com/Basel-Hash/events/238136353
+2017-03-12 14:00 hhh@jura # delemont https://www.meetup.com/Basel-Hash/events/238136353
 
 2017-03-13 pratteln abmeldung
 
@@ -6809,7 +6809,7 @@ year 2015
 
 2017-04-07 18:30 sunahla # gemuesecurry; wenn ihr mögt könnt ihr gerne was leichtes zum dessert bringen.
 
-2017-04-09 14:00 h3@olten bhf # https://www.meetup.com/Basel-Hash/events/238538329
+2017-04-09 14:00 hhh@olten bhf # https://www.meetup.com/Basel-Hash/events/238538329
 
 2017-04-10 compensation halfdays begin
 2017-04-10 moni ferien begin
@@ -6854,7 +6854,7 @@ year 2015
 2017-05-06 intensiv@eva
 2017-05-06 19:00 rose@kesselhaus # ateliernacht
 
-2017-05-07 15:00 h3@muenchenstein # tramstation hoffmatt tram nr 10 from sbb direction dornach, https://www.meetup.com/Basel-Hash/events/239669675
+2017-05-07 15:00 hhh@muenchenstein # tramstation hoffmatt tram nr 10 from sbb direction dornach, https://www.meetup.com/Basel-Hash/events/239669675
 
 2017-05-09 12:00-18:30 telekom
 2017-05-10 09:30-11:00 neil@warteck
@@ -6957,7 +6957,7 @@ year 2015
 2017-07-08 loe singt
 2017-07-08 piazzogna begin
 
-2017-07-09 15:00 h3@moehlin # SBB Möhlin Bahnhofpl. 2 https://www.meetup.com/Basel-Hash/events/241254746
+2017-07-09 15:00 hhh@moehlin # SBB Möhlin Bahnhofpl. 2 https://www.meetup.com/Basel-Hash/events/241254746
 
 2017-07-09 harald@pfalz end # dav
 
@@ -6996,7 +6996,7 @@ year 2015
 
 2017-08-29 18:00 hackergarten@canoo # Kirschgartenstrasse 5, https://www.meetup.com/Hackergarten-Basel/events/242561179
 
-2017-08-12 15:00 h3@bsl # Moonies Garden Hut Opposite Unterer Batteriweg 119, Basel, https://www.meetup.com/Basel-Hash/events/242374257
+2017-08-12 15:00 hhh@bsl # Moonies Garden Hut Opposite Unterer Batteriweg 119, Basel, https://www.meetup.com/Basel-Hash/events/242374257
 
 2017-08-12 moni ferien end
 
@@ -7032,18 +7032,18 @@ year 2015
 2017-09-06 19:00 vollmondfeuer
 2017-09-07 08:30 heike@bad bhf # blau berlingo FR
 
-2017-09-09 14:00 h3@zrh # red dress run, Hull's School, Falkenstrasse 28a, 8008 Zuerich, https://www.meetup.com/The-Zurich-Hash-House-Harriers/events/240783440/
+2017-09-09 14:00 hhh@zrh # red dress run, Hull's School, Falkenstrasse 28a, 8008 Zuerich, https://www.meetup.com/The-Zurich-Hash-House-Harriers/events/240783440/
 
 2017-09-13 07:22-12:44 bsl-bonn
 2017-09-14 19:30 trekking@kesselhaus # /j/tmp/lugano_trekking.png
 2017-09-14 20:30 wave@gruett
-2017-09-15 h3@bernau begin # https://www.meetup.com/Basel-Hash/events/235706821 http://www.harrier.eu.org/snh2017/
+2017-09-15 hhh@bernau begin # https://www.meetup.com/Basel-Hash/events/235706821 http://www.harrier.eu.org/snh2017/
 2017-09-16 09:14-14:34 bonn-bsl
 2017-09-16 19:00-24:00 ateliernacht@qomico
 2017-09-18 09:00-10:30 yoga
 2017-09-18 08:00 ciprian@grondaia
 
-2017-09-19 h3@bernau end # https://www.meetup.com/Basel-Hash/events/235706821
+2017-09-19 hhh@bernau end # https://www.meetup.com/Basel-Hash/events/235706821
 
 2017-09-21 09:30-10:30 ruecken@vhs
 2017-09-21 20:30 improtanz@gruett
@@ -7248,7 +7248,7 @@ year 2015
 2017-12-23 moni ferien begin
 2017-12-25 11:00-14:00 anne-marie
 2017-12-25 nik
-2017-12-26 13:30-16:30 h3@bsl # Restaurant Alte Post, Centralbahnstrasse 21, Basel https://www.meetup.com/Basel-Hash/events/245446605
+2017-12-26 13:30-16:30 hhh@bsl # Restaurant Alte Post, Centralbahnstrasse 21, Basel https://www.meetup.com/Basel-Hash/events/245446605
 2017-12-26 lina@loe
 2017-12-27 lina@loe
 2017-12-27 19:30 bafudi
@@ -7262,7 +7262,7 @@ year 2015
 2018-01-11 09:30-10:30 ruecken@vhs
 2018-01-11 20:30 tanzimpro@gruett
 
-2017-01-14 14:00-18:00 h3@bsl # S3 Ankunft 13:59, Gelterkinden SBB, Bahnhofstrasse 1, https://www.meetup.com/Basel-Hash/events/246582720
+2017-01-14 14:00-18:00 hhh@bsl # S3 Ankunft 13:59, Gelterkinden SBB, Bahnhofstrasse 1, https://www.meetup.com/Basel-Hash/events/246582720
 
 2018-01-18 chris end
 2018-01-18 09:30-10:30 ruecken@vhs
@@ -7296,7 +7296,7 @@ year 2015
 2018-02-03 17:00 transition@free
 2018-02-03 21:00 tanztee@nellie
 2018-02-04 09:30 breakfast@johanna
-2018-02-04 14:00-18:00 h3@kaiseraugst # Centurion Run. Join George Moonie, a Basel Hasher since the year 2000, and help him celebrate his 100th Basel run. Wear something Roman for a Down Down Location in Augusta Raurica; https://www.meetup.com/Basel-Hash/events/247201560
+2018-02-04 14:00-18:00 hhh@kaiseraugst # Centurion Run. Join George Moonie, a Basel Hasher since the year 2000, and help him celebrate his 100th Basel run. Wear something Roman for a Down Down Location in Augusta Raurica; https://www.meetup.com/Basel-Hash/events/247201560
 
 2018-02-06 16:00 geburi@andrea # re: mein tag
 2018-02-06 19:00 party@andrea
@@ -7323,7 +7323,7 @@ year 2015
 #2018-02-24 fffffff
 #2018-02-25 fffffff end
 
-2018-02-23 18:00 h3@versobar # farewell party in Basel Versobar (formerly known as Skubar) in Petersgraben 50 https://www.versobar.ch/kontakt-1/
+2018-02-23 18:00 hhh@versobar # farewell party in Basel Versobar (formerly known as Skubar) in Petersgraben 50 https://www.versobar.ch/kontakt-1/
 
 #2018-02-25 skitour@lidernen # dav t710 angela rosin im lidernen gebiet
 
@@ -7367,7 +7367,7 @@ year 2015
 
 2018-03-22 05:00 skitour@oetztal # dav T721 Venter Runde - Ötztaler Alpen - Viertagestour, Jürgen Kühnöl Sandra Tremmel; angemeldet, zugesagt
 2018-03-23 17:00 singen@kt
-2018-03-23 18:00 h3@versobar # skubar, petersgraben 50, basel, https://www.meetup.com/basel-hash/events/248885358
+2018-03-23 18:00 hhh@versobar # skubar, petersgraben 50, basel, https://www.meetup.com/basel-hash/events/248885358
 2018-03-24 13:00 sweat@wiechs
 2018-03-25 skitour end
 
@@ -7385,7 +7385,7 @@ year 2015
 2018-04-08 17:00 tribe end
 
 2018-04-07 intensiv@thomas
-2018-04-08 h3@muenchenstein # https://www.meetup.com/Basel-Hash/events/249329453
+2018-04-08 hhh@muenchenstein # https://www.meetup.com/Basel-Hash/events/249329453
 
 2018-04-09 14:00 katja
 2018-04-09 15:00 rose
@@ -7456,7 +7456,7 @@ year 2015
 2018-05-17 20:30 tanzimpro@gruett
 2018-05-18 12:30-16:30 conny@albbruck
 2018-05-19 10:00 intensiv@muelital
-2018-05-20 14:00-17:00 h3@fribourg # https://www.meetup.com/Basel-Hash/events/250143584, https://www.meetup.com/Fribourg-Hash-House-Harriers/events/245073623/
+2018-05-20 14:00-17:00 hhh@fribourg # https://www.meetup.com/Basel-Hash/events/250143584, https://www.meetup.com/Fribourg-Hash-House-Harriers/events/245073623/
 2018-05-21 muelital end
 
 2018-05-25 15:00 harry@bauhaus
@@ -7478,7 +7478,7 @@ year 2015
 
 2018-06-06 mark@london begin
 
-2018-06-10 15:00-16:00 h3@bruderholz # George Moonie garden hut opposite 119 Unterer Batterieweg Basel
+2018-06-10 15:00-16:00 hhh@bruderholz # George Moonie garden hut opposite 119 Unterer Batterieweg Basel
 2018-06-11 08:00 benner roden begin
 2018-06-11 09:30-11:30 franziska@sak
 2018-06-11 15:00 singen@altesrathaus # wallbrunn 2, erika hogl
@@ -7693,7 +7693,7 @@ year 2015
 2018-10-14 lina end
 
 2018-10-14 moni vacation end
-2018-10-14 14:00-17:00 h3@bsl # Strassburger Denkmal Basel by the SBB, https://www.meetup.com/Basel-Hash/events/255245784, https://www.google.com/maps/place/Strassburger+Denkmal/@47.5491214,7.5903742,247m/data=!3m1!1e3!4m5!3m4!1s0x4791b84d97d62021:0x32f7cff8912386a!8m2!3d47.5489848!4d7.5909036
+2018-10-14 14:00-17:00 hhh@bsl # Strassburger Denkmal Basel by the SBB, https://www.meetup.com/Basel-Hash/events/255245784, https://www.google.com/maps/place/Strassburger+Denkmal/@47.5491214,7.5903742,247m/data=!3m1!1e3!4m5!3m4!1s0x4791b84d97d62021:0x32f7cff8912386a!8m2!3d47.5489848!4d7.5909036
 
 2018-10-15 19:00 georg
 
@@ -7763,7 +7763,7 @@ year 2015
 2018-11-10 15:00 europa@nellie # Ab 15:00 bietet das Nellie Nashorn Kaffee, Kuchen und Raum für Gedankenaustausch. Pünktlich um 16:00 wird das Manifest der Europäischen Republik von der Haupttreppe des Nellie Nashorn ausgerufen werden.
 2018-11-10 16:00 europa@nellie # um 16:00 wird das Manifest der Europäischen Republik von der Haupttreppe des Nellie Nashorn ausgerufen werden
 
-2018-11-11 14:40 h3@stein_ag # Meeting point is a parking lot, 5 minutes walk from the station. One of us will be at the station (Stein-Säckingen) when the train from Basel arrives at 14:33 (fast train direction Zurich leaving Basel SBB at 14:13) to guide you to the meeting point, https://www.meetup.com/Basel-Hash/events/256120191
+2018-11-11 14:40 hhh@stein_ag # Meeting point is a parking lot, 5 minutes walk from the station. One of us will be at the station (Stein-Säckingen) when the train from Basel arrives at 14:33 (fast train direction Zurich leaving Basel SBB at 14:13) to guide you to the meeting point, https://www.meetup.com/Basel-Hash/events/256120191
 2018-11-11 13:00-17:00 moni@frauen
 
 2018-11-12 09:00 eva
@@ -7848,7 +7848,7 @@ year 2015
 2018-12-22 18:00 wintersonnenwende@tatjana
 
 2018-12-26 nik + markus
-2018-12-26 13:30 h3@bsl # Restaurant Alte Post, Centralbahnstrasse 21, Basel, https://www.meetup.com/Basel-Hash/events/256349808
+2018-12-26 13:30 hhh@bsl # Restaurant Alte Post, Centralbahnstrasse 21, Basel, https://www.meetup.com/Basel-Hash/events/256349808
 2018-12-26 20:00 bafudi
 2018-12-27 nik + markus
 2018-12-28 12:00 n + m end
@@ -7873,7 +7873,7 @@ year 2015
 2019-01-12 12:00-22:00 sweat lodge
 
 2019-01-13 15:00-17:00 huenerberger
-2019-01-13 15:00-20:00 h3@arlesheim # https://www.meetup.com/Basel-Hash/events/257900973
+2019-01-13 15:00-20:00 hhh@arlesheim # https://www.meetup.com/Basel-Hash/events/257900973
 2019-01-14 19:30-21:30 zuhal@kaltenbach
 
 2019-01-16 05:10 departure
@@ -7932,7 +7932,7 @@ year 2015
 2019-02-16 13:03-13:20 sbb-laufen # platform 14
 2019-02-16 14:30-17:30 hike@baerschwil # Wilerstrasse 222, Aussicht ins Jura Loop from Hof Grosse Rütti, 10.5 km, https://www.meetup.com/Hiking-Jogging-Basel/events/258880291
 
-2019-02-17 15:00-18:00 h3@sbb # basel city https://www.meetup.com/Basel-Hash/events/258666085
+2019-02-17 15:00-18:00 hhh@sbb # basel city https://www.meetup.com/Basel-Hash/events/258666085
 
 2019-02-18 08:45 schiene@betz # dentist neue knirschschiene anpassen, abgesprungene stelle am weisheitszahn 18 flicken
 2019-02-19 10:00 glas fritz
@@ -8025,7 +8025,7 @@ year 2015
 
 2019-04-13 moni vac beg
 2019-04-13 moni@tessin begin
-2019-04-13 14:00-20:00 h3@muttenz # https://www.meetup.com/Basel-Hash/events/260200174
+2019-04-13 14:00-20:00 hhh@muttenz # https://www.meetup.com/Basel-Hash/events/260200174
 2019-04-15 10:55-11:55 <a href="http://www.navigazionelaghi.it">luino-intra</a> # http://www.navigazionelaghi.it
 2019-04-15 18:00 gartenfestli@heiner # am Schorenweg 113 und in der Langen Erle
 2019-04-16 16:40-17:40 intra-luino
@@ -8060,7 +8060,7 @@ year 2015
 
 2019-05-11 12:00 nik
 
-2019-05-12 15:00-20:00 h3@delemont # Meet at fountain in front of Delémont train station -- https://www.meetup.com/Basel-Hash/events/261227300
+2019-05-12 15:00-20:00 hhh@delemont # Meet at fountain in front of Delémont train station -- https://www.meetup.com/Basel-Hash/events/261227300
 
 2019-05-13 19:00-21:00 zuhal # bodypoetry
 
@@ -8107,7 +8107,7 @@ year 2015
 2019-06-07 muelital
 2019-06-08 muelital
 2019-06-09 muelital
-2019-06-09 15:00-18:00 <a href="https://www.meetup.com/Basel-Hash/events/261950796">h3@frick</a>
+2019-06-09 15:00-18:00 <a href="https://www.meetup.com/Basel-Hash/events/261950796">hhh@frick</a>
 2019-06-10 muelital
 
 2019-06-10 17:23-21:57 bsl-bonn
@@ -8166,7 +8166,7 @@ year 2015
 2019-07-07 oberaarhorn # 3630 m
 
 2019-07-06 piazzogna end
-2019-07-06 h3@aesch # https://www.meetup.com/Basel-Hash/events/262561573
+2019-07-06 hhh@aesch # https://www.meetup.com/Basel-Hash/events/262561573
 2019-07-08 11:00 brunch@rose
 2019-07-08 17:30 huenerberger@jeremy
 
@@ -8200,7 +8200,7 @@ year 2015
 2019-08-10 ticino end
 2019-08-10 18:00 trauungsritual juergen + tatjana
 
-2019-08-11 15:00-19:00 <a href="https://www.meetup.com/Basel-Hash/events/263720993">h3@muenchenstein tram hochmatt</a>
+2019-08-11 15:00-19:00 <a href="https://www.meetup.com/Basel-Hash/events/263720993">hhh@muenchenstein tram hochmatt</a>
 2019-08-11 moni vac end
 2019-08-12 18:00 karen@geburi
 2019-08-12 19:00-21:00 zuhal # bodypoetry
@@ -8324,7 +8324,7 @@ year 2015
 2019-11-06 18:45-20:15 winterfit@thr # THR-Halle, Theodor Heuss Realschule, Schützenstrasse
 
 2019-11-10 13:00 moni@women
-2019-11-10 14:00 <a href="https://www.meetup.com/Basel-Hash/events/266025112">h3@allschwil</a>, <a href="/a/doc/travel/trip/basel/map_herrenweg.png">Herrenweg 35</a>
+2019-11-10 14:00 <a href="https://www.meetup.com/Basel-Hash/events/266025112">hhh@allschwil</a>, <a href="/a/doc/travel/trip/basel/map_herrenweg.png">Herrenweg 35</a>
 
 2019-11-12 10:00-11:00 yakir@zoom
 2019-11-13 10:00 mac@dq # dq solutions basel, gueterstrasse 133, ch-4053 basel
@@ -8368,7 +8368,7 @@ year 2015
 
 2019-12-08 7:50-8:49 rheinfelden-zrh
 2019-12-08 intensiv@pascal
-2019-12-08 14:15 h3@fuellinsdorf # https://www.meetup.com/Basel-Hash/events/266644408
+2019-12-08 14:15 hhh@fuellinsdorf # https://www.meetup.com/Basel-Hash/events/266644408
 
 2019-12-09 07:30 sangha
 2019-12-09 accelerator@paris begin
@@ -8402,7 +8402,7 @@ year 2015
 2019-12-24 20:30 fire@karen
 2019-12-25 15:00 xmaspudding
 2019-12-25 19:00 bafudi
-2019-12-26 13:30 <a href="https://www.meetup.com/basel-hash/events/266025112">h3@bsl</a> # boxing day hash@altepost # centralbahnstrasse 21 basel
+2019-12-26 13:30 <a href="https://www.meetup.com/basel-hash/events/266025112">hhh@bsl</a> # boxing day hash@altepost # centralbahnstrasse 21 basel
 2019-12-26 wildhaus begin
 2019-12-30 07:41-10:53 <a href="/a/doc/expense/receipt/2019/2019-12-30_sbb_wildhaus_bsl.pdf">wildhaus-bsl</a>
 2019-12-30 11:30 waldrain@loe
@@ -8427,7 +8427,7 @@ year 2015
 2020-01-10 moni@michelle
 2020-01-11 09:30 zueglete@anja
 2020-01-11 11:00 geburi@sigi # adlergaesschen 3
-2020-01-12 14:00 <a href=https://www.meetup.com/Basel-Hash/events/267623196">h3@eiken</a>
+2020-01-12 14:00 <a href=https://www.meetup.com/Basel-Hash/events/267623196">hhh@eiken</a>
 
 2020-01-14 12:30 yakir
 2020-01-14 13:30 aec wg call
@@ -8464,7 +8464,7 @@ year 2015
 2020-02-08 sustainability
 2020-02-09 intensiv@thomas
 2020-02-09 13:00 sustainability end
-2020-02-09 14:00 <a href="https://www.meetup.com/Basel-Hash/events/268382452">h3@bsl</a> # centralbahnstrasse 21 basel
+2020-02-09 14:00 <a href="https://www.meetup.com/Basel-Hash/events/268382452">hhh@bsl</a> # centralbahnstrasse 21 basel
 2020-02-09 18.00 bernd@nellie # Romeo & Julia frei nach Shakespeare spielen und lade ich nun Dich mit Deiner Partnerin ein
 
 #2020-02-10 09:24-13:23 <a href="/a/doc/expense/receipt/2020/2020-02-10_db_bsl_bonn.pdf">bsl-bonn</a>
@@ -8612,7 +8612,7 @@ year 2015
 2020-06-13 19:00 paare@daniel
 
 2020-06-14 intensiv@eva
-2020-06-14 14:00 <a href="https://www.meetup.com/Basel-Hash/events/271108271">h3@bsl</a> # Unterer Batterieweg 125, Basel
+2020-06-14 14:00 <a href="https://www.meetup.com/Basel-Hash/events/271108271">hhh@bsl</a> # Unterer Batterieweg 125, Basel
 2020-06-14 20:00 waldrain
 2020-06-15 12:00 tal
 2020-06-16 14:00 otto
@@ -8792,7 +8792,7 @@ year 2015
 2020-10-08 20:30 wave@gruett
 
 2020-10-11 14:00-17:00 gemeinschaft@h30
-2020-10-11 14:30-18:00 <a href="https://www.meetup.com/Basel-Hash/events/273701833">h3@elisabethen</a>
+2020-10-11 14:30-18:00 <a href="https://www.meetup.com/Basel-Hash/events/273701833">hhh@elisabethen</a>
 
 2020-10-16 17:00 huenerberger
 2020-10-18 16:00 moni@istein
@@ -8913,7 +8913,7 @@ year 2015
 #2020-12-27 zegg begin
 #2021-01-01 zegg end
 
-2020-12-26 14:00-17:00 <a href="https://www.meetup.com/Basel-Hash/events/275305383">h3@muenchenstein</a>
+2020-12-26 14:00-17:00 <a href="https://www.meetup.com/Basel-Hash/events/275305383">hhh@muenchenstein</a>
 
 #2020-12-27 lina begin
 #2020-12-30 lina end
@@ -8933,7 +8933,7 @@ year 2015
 
 2021-01-09 18:00 joerg + a 
 2021-01-10 13:00-16:00 men@magnus
-2021-01-10 14:00-18:00 <a href="https://www.meetup.com/Basel-Hash/events/275520182">h3@pratteln</a>
+2021-01-10 14:00-18:00 <a href="https://www.meetup.com/Basel-Hash/events/275520182">hhh@pratteln</a>
 2021-01-10 17:30 wld@zoom
 
 2021-01-11 18:23-22:43 <a href="/a/doc/expense/receipt/2021/2021-01-11_db_bsl_bonn.pdf">bsl-bonn</a>
@@ -8958,7 +8958,7 @@ year 2015
 2021-02-06 11:00-12:00 wld@loe
 2021-02-06 16:00 moni@joelle
 2021-02-07 11:00-14:00 doris@wld
-2021-02-07 14:00 <a href="https://www.meetup.com/Basel-Hash/events/276066634">h3@flueh</a>
+2021-02-07 14:00 <a href="https://www.meetup.com/Basel-Hash/events/276066634">hhh@flueh</a>
 2021-02-07 15:00-18:00 gemeinschaft@h30 araceli
 
 2021-02-11 19:00 bettina + sandra
@@ -9005,7 +9005,7 @@ year 2015
 
 2021-03-13 12:00-17:00 nik@wld
 2021-03-14 frauen
-2021-03-14 14:00 <a href="https://www.meetup.com/Basel-Hash/events/276791113">h3@reinach</a> # meet at 14:15 tram station Reinacherhof, Reinach, Tram Nr 11 direction Aesch from Basel SBB
+2021-03-14 14:00 <a href="https://www.meetup.com/Basel-Hash/events/276791113">hhh@reinach</a> # meet at 14:15 tram station Reinacherhof, Reinach, Tram Nr 11 direction Aesch from Basel SBB
 
 2021-03-16 14:00-14:30 mikako
 2021-03-17 11:30 barbara
@@ -9031,7 +9031,7 @@ year 2015
 2021-04-09 adsk_holiday # rebecca pearce, 2021-02-22: new one-time company holidays
 2021-04-09 17:00 falk
 2021-04-10 18:00 miesmuscheln@araceli
-2021-04-11 14:45 <a href="https://www.meetup.com/Basel-Hash/events/277356251">h3@moehlin</a> # 14:45 tram station Reinacherhof, Reinach, Tram Nr 11 direction Aesch from Basel SBB
+2021-04-11 14:45 <a href="https://www.meetup.com/Basel-Hash/events/277356251">hhh@moehlin</a> # 14:45 tram station Reinacherhof, Reinach, Tram Nr 11 direction Aesch from Basel SBB
 2021-04-13 10:00 wolfgang@stetten
 
 2021-04-14 09:30 aha+delzer@wld
@@ -9049,7 +9049,7 @@ year 2015
 #2021-05-04 05:15-09:43 <a href="/a/doc/expense/receipt/2021/2021-05-04_db_bsl_bonn.pdf">bsl-bonn</a>
 #2021-05-07 09:14-13:24 <a href="/a/doc/expense/receipt/2021/2021-05-07_db_bonn_bsl.pdf">bonn-bsl</a>
 
-2021-05-09 14:00-18:00 <a href="https://www.meetup.com/Basel-Hash/events/277906016">h3@flueh</a>
+2021-05-09 14:00-18:00 <a href="https://www.meetup.com/Basel-Hash/events/277906016">hhh@flueh</a>
 2021-05-10 14:00 nik@sbb # ravellen bei oensingen
 
 2021-05-11 18:30 kulturraum
@@ -9113,7 +9113,7 @@ year 2015
 #2021-06-12 00:00-22:00 <a href="https://www.meetup.com/edelweiss/events/276245860">sentiero cristallina</a>
 
 2021-06-13 11:00 tatjana@rosengarten
-2021-06-13 14:30-18:00 <a href="https://www.meetup.com/Basel-Hash/events/278638857">h3@laufenburg</a>
+2021-06-13 14:30-18:00 <a href="https://www.meetup.com/Basel-Hash/events/278638857">hhh@laufenburg</a>
 2021-06-13 18:00 sommerurlaub@nik
 
 2021-06-14 18:00-20:00 co2@schoepflin # im Werkraum und Park der Villa Schöpflin, Runder Tisch Klima, Auftaktveranstaltung “Lörrach verkleinert seinen C02 Fußabdruck“
@@ -9266,7 +9266,7 @@ year 2015
 2021-09-26 18:25-22:52 <a href="/a/doc/expense/receipt/2021/2021-09-26_db_bonn_bsl.pdf">bonn-bsl</a>
 
 2021-10-03 moni ferien end
-2021-10-03 15:00-18:00 <a href="https://www.meetup.com/Basel-Hash/events/280758062">h3@sbb</a>
+2021-10-03 15:00-18:00 <a href="https://www.meetup.com/Basel-Hash/events/280758062">hhh@sbb</a>
 
 2021-10-04 10:00 ups@martina
 
@@ -9326,7 +9326,7 @@ year 2015
 2021-11-10 18:00 bettina
 2021-11-11 14:00 dentist connert@uzb
 
-2021-11-14 14:00-18:00 <a href="https://www.meetup.com/Basel-Hash/events/281826151">h3@herten</a>
+2021-11-14 14:00-18:00 <a href="https://www.meetup.com/Basel-Hash/events/281826151">hhh@herten</a>
 2021-11-16 18:30 bettina
 2021-11-17 09:00 franz@bsl
 2021-11-17 10:00 apple@freiestrasse
@@ -9389,7 +9389,7 @@ year 2015
 
 2021-12-24 xmas@martina
 
-2021-12-26 13:30-18:00 <a href="https://www.meetup.com/Basel-Hash/events/282213220">h3@sbb</a>
+2021-12-26 13:30-18:00 <a href="https://www.meetup.com/Basel-Hash/events/282213220">hhh@sbb</a>
 2021-12-26 lina@loe begin
 
 2021-12-27 10:00-12:00 burcu
@@ -9484,7 +9484,7 @@ year 2015
 
 2022-03-12 20:30 <a href="https://www.humbug.club/events/huun-huur-tu-tuva">huun-huur-tu@humbug</a>
 2022-03-13 10:00 wld2brunch@moni
-2022-03-13 14:30 h3@arlesheim
+2022-03-13 14:30 hhh@arlesheim
 2022-03-13 14:30 simon@h30
 2022-03-13 16:30 juergen@mariann
 2022-03-16 16:00 platten@weil # Schubkarren + Sackkarren mitbringen, Schafackerstrasse 26, Weil am Rhein, 0162/8580761, Ursula
@@ -9519,7 +9519,7 @@ year 2015
 
 2022-04-09 10:00 franziska + stefan
 2022-04-10 10:00 gehweg@h30
-2022-04-10 14:30-18:00 <a href="https://www.meetup.com/Basel-Hash/events/284986515">h3@kaiseraugst</a>
+2022-04-10 14:30-18:00 <a href="https://www.meetup.com/Basel-Hash/events/284986515">hhh@kaiseraugst</a>
 2022-04-10 19:00 sauna@h30
 
 2022-04-14 09:30 cipriano
@@ -9559,7 +9559,7 @@ year 2015
 2022-05-06 09:10 giraldo@centramed
 2022-05-07 11:00-14:00 <a href="https://doodle.com/poll/2aqzcbp23ytuhsap">huenerberger</a>
 2022-05-07 16:00 ulileibfried wo? # https://co2compass.org
-2022-05-08 14:15-18:15 <a href="https://www.meetup.com/Basel-Hash/events/285616067">h3@moehlin</a>
+2022-05-08 14:15-18:15 <a href="https://www.meetup.com/Basel-Hash/events/285616067">hhh@moehlin</a>
 
 #2022-05-12 13:00 renggli begin
 #2022-05-15 14:00 renggli end
@@ -9654,6 +9654,7 @@ year 2015
 2022-07-08 <a href="https://www.dav-loerrach.de/unsere-sektion/sektionsveranstaltungen">dav@schwyz</a> begin
 2022-07-09 dav@schwyz
 2022-07-09 anton
+2022-07-10 14:30-18:00 <a href="https://www.meetup.com/Basel-Hash/events/286935038">hhh@arlesheim</a>
 2022-07-10 dav@schwyz end
 2022-07-10 anton
 
@@ -9668,10 +9669,12 @@ year 2015
 2022-08-11 marlon@einschulung
 2022-08-12 geburi@karen
 
-2022-08-15 travel to stockholm?
+2022-08-15 21:00-23:25 zrh-arn lx1254 # booking code ltmslg electronic ticket number 724-2326491362
 
 2022-08-20 klasstraeff@stockholm
 2022-08-20 18:00 andrea@garten # oristal 16 
+
+2022-08-23 06:45-09:15 arn-zrh LX1255
 
 2022-09-02 bettina@linach?
 2022-09-03 bettina@linach?
