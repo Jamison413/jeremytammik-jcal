@@ -9658,6 +9658,8 @@ year 2015
 2022-07-10 dav@schwyz end
 2022-07-10 anton
 
+2022-07-14 12:00 burcu
+
 2022-07-16 <a href="/Users/jta/j/tmp/2022-07-16_fairvelo_hoffest.jpg">hoffest@fairvelo</a>
 
 2022-07-23 moni ferien begin
