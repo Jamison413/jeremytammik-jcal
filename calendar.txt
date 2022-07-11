@@ -9653,14 +9653,15 @@ year 2015
 
 2022-07-08 <a href="https://www.dav-loerrach.de/unsere-sektion/sektionsveranstaltungen">dav@schwyz</a> begin
 2022-07-09 dav@schwyz
-2022-07-09 anton
 2022-07-10 14:30-18:00 <a href="https://www.meetup.com/Basel-Hash/events/286935038">hhh@arlesheim</a>
 2022-07-10 dav@schwyz end
-2022-07-10 anton
+2022-07-11 13:45 stahltraeger@zell
 
+2022-07-13 18:30 michaela
 2022-07-14 12:00 burcu
 
 2022-07-16 <a href="/Users/jta/j/tmp/2022-07-16_fairvelo_hoffest.jpg">hoffest@fairvelo</a>
+2022-07-16 18:00-20:00 tanz@johanna
 
 2022-07-23 moni ferien begin
 2022-07-24 jusoca begin
@@ -9671,7 +9672,7 @@ year 2015
 2022-08-11 marlon@einschulung
 2022-08-12 geburi@karen
 
-2022-08-15 21:00-23:25 zrh-arn lx1254 # booking code ltmslg electronic ticket number 724-2326491362
+2022-08-15 21:00-23:25 zrh-arn lx1254 # booking code LTMSLG electronic ticket number 724-2326491362
 
 2022-08-20 klasstraeff@stockholm
 2022-08-20 18:00 andrea@garten # oristal 16 
