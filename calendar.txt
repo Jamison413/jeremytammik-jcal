@@ -9675,6 +9675,8 @@ year 2015
 2022-08-07 14:30 mannfrau end
 2022-08-03 jusoca end
 2022-08-07 moni ferien end
+2022-08-08 14:00-15:30 hierholzer@jza
+2022-08-08 15:30-16:30 toepfer@jza
 2022-08-11 marlon@einschulung
 2022-08-12 geburi@karen
 
