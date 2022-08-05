@@ -9677,6 +9677,7 @@ year 2015
 2022-08-07 moni ferien end
 2022-08-08 14:00-15:30 <a href="https://pb-hierholzer.de">hierholzer@jza</a>
 2022-08-08 15:30-16:30 toepfer@jza
+2022-08-10 12:00 burcu
 2022-08-11 marlon@einschulung
 2022-08-12 geburi@karen
 
