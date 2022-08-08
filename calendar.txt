@@ -9704,7 +9704,9 @@ year 2015
 2022-09-18 rodenkirchen
 #2022-09-18 18:25-22:52 <a href="/a/doc/expense/receipt/2021/2021-09-26_db_bonn_bsl.pdf">bonn-bsl</a>
 
+2022-10-21 18:00 cb begin
 2022-10-23 10:00-14:00 bunterkunt
+2022-10-23 16:00 cb end
 
 2022-12-02 paare@kientalerhof
 2022-12-03 paare@kientalerhof
