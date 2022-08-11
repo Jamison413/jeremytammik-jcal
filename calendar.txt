@@ -9682,6 +9682,7 @@ year 2015
 2022-08-11 marlon@einschulung
 2022-08-11 09:30 ara + joerg brunch
 2022-08-12 geburi@karen
+2022-08-13 juergen@wiechs
 
 2022-08-14 14:30-18:30 <a href="https://www.meetup.com/Basel-Hash/events/287574786">hhh@gelterkinden</a>
 2022-08-15 21:00-23:25 zrh-arn lx1254 # booking code LTMSLG electronic ticket number 724-2326491362
