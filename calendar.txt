@@ -9682,7 +9682,7 @@ year 2015
 2022-08-11 marlon@einschulung
 2022-08-11 09:30 ara + joerg brunch
 2022-08-12 geburi@karen
-2022-08-13 juergen@wiechs
+2022-08-13 18:00 juergen@wiechs
 
 2022-08-14 14:30-18:30 <a href="https://www.meetup.com/Basel-Hash/events/287574786">hhh@gelterkinden</a>
 2022-08-15 21:00-23:25 zrh-arn lx1254 # booking code LTMSLG electronic ticket number 724-2326491362
@@ -9700,7 +9700,6 @@ year 2015
 2022-09-10 10:00-14:00 bunterkunt
 
 #2022-09-16 13:14-17:23 <a href="/a/doc/expense/receipt/2021/2021-09-24_db_bsl_bonn.pdf">bsl-bonn</a>
-#2022-09-16 nachbarschaftstreffen
 2022-09-16 rodenkirchen
 2022-09-17 rodenkirchen
 2022-09-17 11:00 lina + ben away
@@ -9708,6 +9707,8 @@ year 2015
 #2022-09-18 18:25-22:52 <a href="/a/doc/expense/receipt/2021/2021-09-26_db_bonn_bsl.pdf">bonn-bsl</a>
 
 2022-09-21 10:00-22:00 <a href="https://gasthof-schmuck.de">summerparty</a> # DACH Summer Party 2022, Landgasthof Schmuck, Munich/Sauerlach, September 21, 2022, 450 km
+
+2022-10-18 19:30-21:00 stammtisch # zum guten leben
 
 2022-10-21 18:00 cb begin
 2022-10-23 10:00-14:00 bunterkunt
