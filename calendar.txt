@@ -9696,6 +9696,7 @@ year 2015
 2022-09-02 18:00-21:00 nachbarn@h30
 #2022-09-03 bettina@linach?
 2022-09-03 15:00 art@otto
+2022-09-04 17:30 heiner@h30
 
 2022-09-10 10:00-14:00 bunterkunt
 
