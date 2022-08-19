@@ -5588,3 +5588,40 @@ http://auskunft.kvb-koeln.de
   Moutier an 16:51
   Moutier ab 16:54 Gleis 5 S 21 7864 Richtung Solothurn
   Lommiswil an 17:15
+
+2022-08-20 huddinge-var gard:
+
+  06:50 08:37 1:47 tim
+  Huddinge --> Saltsjöbaden
+  tag 40
+  bus 55
+  tag 25
+  
+  06:50	
+  Huddinge
+  Spår 2
+  13 min
+  Pendeltåg 40 mot Uppsala C
+  07:03		
+  Stockholms södra Utgång: Swedenborg
+  
+  14 min
+  
+  07:17	
+  Södra station (på Swedenborgsgatan)
+  11 min
+  Buss 55 mot Henriksdalsberget
+  07:28		
+  Henriksdal
+  
+  35 min
+  
+  08:03	
+  Henriksdal
+  Spår 2
+  25 min
+  Saltsjöbanan 25 mot Saltsjöbaden
+  Anslutning mot Solsidan i Igelboda. Resande till Lillängen eller Östervik, kontakta tågpersonalen.
+  08:28		
+  Saltsjöbaden
+
