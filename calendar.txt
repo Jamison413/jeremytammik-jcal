@@ -9720,6 +9720,7 @@ year 2015
 2022-10-23 10:00-14:00 bunterkunt
 2022-10-23 16:00 cb end
 
+2022-10-29 moni@heilkreis
 2022-10-31 18:30 <a href="/Users/jta/j/tmp/2022-10-31_hartmut_einladung.pdf">hartmut@buerchau</a>
 
 2022-11-16 conny begin
@@ -9729,6 +9730,8 @@ year 2015
 2022-12-02 paare@kientalerhof
 2022-12-03 paare@kientalerhof
 2022-12-04 paare@kientalerhof
+
+2022-12-10 moni@heilkreis
 
 2022-12-24 moni ferien begin
 2023-01-03 moni ferien end
