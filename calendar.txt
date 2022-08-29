@@ -9710,11 +9710,13 @@ year 2015
 #2022-09-16 13:14-17:23 <a href="/a/doc/expense/receipt/2021/2021-09-24_db_bsl_bonn.pdf">bsl-bonn</a>
 2022-09-16 rodenkirchen
 2022-09-17 rodenkirchen
+2022-09-17 07:00-17:00 jurte@wiechs
 2022-09-17 11:00 lina + ben away
 2022-09-18 rodenkirchen
 #2022-09-18 18:25-22:52 <a href="/a/doc/expense/receipt/2021/2021-09-26_db_bonn_bsl.pdf">bonn-bsl</a>
 
 2022-09-21 10:00-22:00 <a href="https://gasthof-schmuck.de">summerparty</a> # DACH Summer Party 2022, Landgasthof Schmuck, Munich/Sauerlach, September 21, 2022, 450 km
+2022-09-24 17:00 erntedank@wiechs
 2022-09-25 moni@heilkreis
 
 2022-10-18 19:30-21:00 stammtisch # zum guten leben
@@ -9730,6 +9732,8 @@ year 2015
 2022-11-16 19:00 bafudi
 2022-11-19 novemberparty
 2022-11-20 sweat lodge
+
+2022-11-25 15:00-20:30 isabell + hartmut # Maaßen-Stiftung Steinen, Kanderner Straße 37/1, Anmeldung an team@kraftimwandel.de
 
 2022-12-02 paare@kientalerhof
 2022-12-03 paare@kientalerhof
