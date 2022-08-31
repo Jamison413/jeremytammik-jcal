@@ -9709,13 +9709,13 @@ year 2015
 2022-09-11 15:30 <a href="/Users/jta/j/tmp/2022-09-11_kulturraum.pdf">lesung@kulturraum</a>
 
 2022-09-16 ticino end
-#2022-09-16 13:14-17:23 <a href="/a/doc/expense/receipt/2021/2021-09-24_db_bsl_bonn.pdf">bsl-bonn</a>
+2022-09-16 12:28-16:43 <a href="/Users/jta/a/doc/expense/receipt/2022/2022-09-16_db_bsl_bonn_bsl.pdf">bsl-bonn</a>
 2022-09-16 rodenkirchen
 2022-09-17 rodenkirchen
 2022-09-17 07:00-17:00 jurte@wiechs
 2022-09-17 11:00 lina + ben away
 2022-09-18 rodenkirchen
-#2022-09-18 18:25-22:52 <a href="/a/doc/expense/receipt/2021/2021-09-26_db_bonn_bsl.pdf">bonn-bsl</a>
+2022-09-19 09:14-13:22 <a href="/Users/jta/a/doc/expense/receipt/2022/2022-09-16_db_bsl_bonn_bsl.pdf">bonn-bsl</a>
 
 2022-09-21 10:00-22:00 <a href="https://gasthof-schmuck.de">summerparty</a> # DACH Summer Party 2022, Landgasthof Schmuck, Munich/Sauerlach, September 21, 2022, 450 km
 2022-09-24 17:00 erntedank@wiechs
