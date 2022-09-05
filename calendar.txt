@@ -9703,6 +9703,8 @@ year 2015
 #2022-09-03 bettina@linach?
 2022-09-03 15:00 art@otto
 2022-09-04 17:30 heiner@h30
+2022-09-05 09:00 medi@h30
+2022-09-06 08:00 magnus@jog
 2022-09-06 09:00 mannsbart@wld
 
 2022-09-10 10:00-14:00 bunterkunt
@@ -9723,6 +9725,7 @@ year 2015
 2022-09-24 17:00 erntedank@wiechs
 2022-09-25 moni@heilkreis
 
+2022-10-01 14:30 fest@michelle
 2022-10-02 15:00-21:00 mannfrau@loe
 
 2022-10-18 19:30-21:00 stammtisch # zum guten leben
