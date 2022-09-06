@@ -9731,6 +9731,7 @@ year 2015
 2022-10-18 19:30-21:00 stammtisch # zum guten leben
 
 2022-10-21 18:00 cb begin
+2022-10-21 18:00 ara + karen kochen
 2022-10-22 15:00-21:00 mannfrau@loe
 2022-10-23 10:00-14:00 bunterkunt
 2022-10-23 16:00 cb end
@@ -9741,6 +9742,7 @@ year 2015
 
 2022-11-16 conny begin
 2022-11-16 19:00 bafudi
+2022-11-18 18:00 ara + karen kochen
 2022-11-19 novemberparty
 2022-11-20 sweat lodge
 
@@ -9751,6 +9753,7 @@ year 2015
 2022-12-03 paare@kientalerhof
 2022-12-04 paare@kientalerhof
 
+2022-12-09 18:00 ara + karen kochen
 2022-12-10 moni@heilkreis
 
 2022-12-24 moni ferien begin
