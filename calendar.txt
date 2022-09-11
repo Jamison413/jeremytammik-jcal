@@ -9723,6 +9723,7 @@ year 2015
 2022-09-19 09:14-13:22 <a href="/Users/jta/a/doc/expense/receipt/2022/2022-09-16_db_bsl_bonn_bsl.pdf">bonn-bsl</a>
 
 2022-09-21 10:00-22:00 <a href="https://gasthof-schmuck.de">summerparty</a> # DACH Summer Party 2022, Landgasthof Schmuck, Munich/Sauerlach, September 21, 2022, 450 km
+2022-09-23 18:00 marion + alex
 2022-09-24 17:00 erntedank@wiechs
 2022-09-25 moni@heilkreis
 
