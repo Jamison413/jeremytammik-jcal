@@ -9730,6 +9730,9 @@ year 2015
 2022-10-01 14:30 fest@michelle
 2022-10-02 15:00-21:00 mannfrau@loe
 
+2022-10-08 15:00 oelwanne begin
+2022-10-09 10:00 oelwanne end
+
 2022-10-18 19:30-21:00 stammtisch # zum guten leben
 
 2022-10-21 18:00 cb begin
@@ -9741,6 +9744,9 @@ year 2015
 2022-10-29 moni@heilkreis
 2022-10-30 kusinen@luethri
 2022-10-31 18:30 <a href="/Users/jta/j/tmp/2022-10-31_hartmut_einladung.pdf">hartmut@buerchau</a>
+
+2022-11-12 15:00 oelwanne begin
+2022-11-13 10:00 oelwanne end
 
 2022-11-16 conny begin
 2022-11-16 19:00 bafudi
