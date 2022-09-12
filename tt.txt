@@ -5633,3 +5633,9 @@ http://auskunft.kvb-koeln.de
   09:14  Bonn Hbf EC 7
   13:22  Basel Bad Bf
 
+2022-09-14+15 luino-intra-luino:
+  Luino a Intra 10:40 11:30 50' -- /Users/jta/j/tmp/2022-09-14_Locarno_Arona_2022.pdf
+  Intra a Luino 12:00 12:50 50' -- /Users/jta/j/tmp/2022-09-15_Arona_Locarno_2022.pdf
+  https://www.navigazionelaghi.it
+
+luino verbania intra

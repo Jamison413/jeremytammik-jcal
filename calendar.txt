@@ -9712,6 +9712,9 @@ year 2015
 2022-09-10 ticino begin
 2022-09-11 15:30 <a href="/Users/jta/j/tmp/2022-09-11_kulturraum.pdf">lesung@kulturraum</a>
 
+2022-09-14 10:40-11:30 <a href="/Users/jta/j/tmp/2022-09-14_Locarno_Arona_2022.pdf">luino-intra</a>
+2022-09-15 12:00-12:50 <a href="/Users/jta/j/tmp/2022-09-15_Arona_Locarno_2022.pdf">intra-luino</a>
+
 2022-09-16 ticino end
 2022-09-16 12:28-16:43 <a href="/Users/jta/a/doc/expense/receipt/2022/2022-09-16_db_bsl_bonn_bsl.pdf">bsl-bonn</a>
 2022-09-16 rodenkirchen
