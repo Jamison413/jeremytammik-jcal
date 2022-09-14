@@ -9721,6 +9721,7 @@ year 2015
 2022-09-17 rodenkirchen
 2022-09-17 07:00-17:00 jurte@wiechs
 2022-09-17 11:00 lina + ben away
+2022-09-18 10:00 maenner@joachim
 2022-09-18 rodenkirchen
 2022-09-18 09:30-17:30 slowup
 2022-09-19 09:14-13:22 <a href="/Users/jta/a/doc/expense/receipt/2022/2022-09-16_db_bsl_bonn_bsl.pdf">bonn-bsl</a>
