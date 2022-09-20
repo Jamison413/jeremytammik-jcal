@@ -9731,8 +9731,10 @@ year 2015
 2022-09-24 17:00 erntedank@wiechs
 2022-09-25 moni@heilkreis
 
+2022-09-30 lina begin
 2022-10-01 14:30 fest@michelle
 2022-10-02 15:00-21:00 mannfrau@loe
+2022-10-03 lina end
 
 2022-10-08 15:00 oelwanne begin
 2022-10-09 10:00 oelwanne end
@@ -9777,3 +9779,8 @@ year 2015
 
 2023-06-23 tammiku begin
 2023-07-01 tammiku end
+
+2022-09-15 rodenkirchen
+2022-09-16 rodenkirchen
+2022-09-16 11:00 lina + ben away
+2022-09-17 rodenkirchen
