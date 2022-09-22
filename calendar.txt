@@ -9748,8 +9748,10 @@ year 2015
 2022-10-21 18:00 cb begin
 2022-10-21 18:00 ara + karen kochen
 2022-10-22 15:00-21:00 mannfrau@loe
-2022-10-23 10:00-14:00 bunterkunt
+#2022-10-23 10:00-14:00 bunterkunt
 2022-10-23 16:00 cb end
+
+2022-10-26 19:00-22:00 bunterkunt
 
 2022-10-29 moni@heilkreis
 2022-10-30 kusinen@luethri
