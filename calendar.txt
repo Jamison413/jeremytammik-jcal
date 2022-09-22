@@ -9740,6 +9740,7 @@ year 2015
 2022-10-08 15:00 oelwanne begin
 2022-10-09 10:00 oelwanne end
 
+2022-10-10 au_holiday
 2022-10-11 18:00 mr@kulturraum
 
 2022-10-18 19:30-21:00 stammtisch # zum guten leben
@@ -9772,6 +9773,12 @@ year 2015
 
 2022-12-09 18:00 ara + karen kochen
 2022-12-10 moni@heilkreis
+
+2022-12-19 au_holiday
+2022-12-20 au_holiday
+2022-12-21 au_holiday
+2022-12-22 au_holiday
+2022-12-23 au_holiday
 
 2022-12-24 moni ferien begin
 2023-01-03 moni ferien end
