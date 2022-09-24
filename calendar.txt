@@ -9729,7 +9729,7 @@ year 2015
 #2022-09-21 10:00-22:00 <a href="https://gasthof-schmuck.de">summerparty</a> # DACH Summer Party 2022, Landgasthof Schmuck, Munich/Sauerlach, September 21, 2022, 450 km
 2022-09-21 18:00 dinner@bunterkunt
 2022-09-22 12:00-17:30 juergen@jurtenbau
-2022-09-22 18:-0 stadtspaziergang # touristen-info untere wallbrunnstrasse
+#2022-09-22 18:00 stadtspaziergang # touristen-info untere wallbrunnstrasse
 2022-09-23 18:00 marion + alex
 2022-09-24 17:00 erntedank@wiechs
 2022-09-25 moni@heilkreis
