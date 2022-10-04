@@ -306,134 +306,134 @@ day before christmas          christmas eve
 # http://hr.autodesk.com/info/holidays/country_holidays.asp?Holiday_Country=Switzerland
 
 year 2012
-01 jan ne_holiday
-02 jan ne_holiday
-01 mar ne_holiday
-06 apr ne_holiday
-09 apr ne_holiday
-01 may ne_holiday
-17 may ne_holiday
-18 may ne_holiday
-28 may ne_holiday
-01 aug ne_holiday
-monday after 3rd sunday in september ne_holiday
-25 dec ne_holiday
-26 dec ne_holiday
-27 dec ne_holiday
-28 dec ne_holiday
-29 dec ne_holiday
-30 dec ne_holiday
-31 dec ne_holiday
+01 jan adsk_holiday
+02 jan adsk_holiday
+01 mar adsk_holiday
+06 apr adsk_holiday
+09 apr adsk_holiday
+01 may adsk_holiday
+17 may adsk_holiday
+18 may adsk_holiday
+28 may adsk_holiday
+01 aug adsk_holiday
+monday after 3rd sunday in september adsk_holiday
+25 dec adsk_holiday
+26 dec adsk_holiday
+27 dec adsk_holiday
+28 dec adsk_holiday
+29 dec adsk_holiday
+30 dec adsk_holiday
+31 dec adsk_holiday
 
 year 2013
-2013-01-01 ne_holiday New Year's Day
-2013-03-01 ne_holiday Republic Day
-2013-03-29 ne_holiday Good Friday
-2013-04-01 ne_holiday Easter Monday
-2013-05-01 ne_holiday Labour Day
-2013-05-09 ne_holiday Ascension
-2013-05-10 ne_holiday Bridging Day
-2013-05-20 ne_holiday Whit Monday
-2013-08-01 ne_holiday National Day
-2013-09-16 ne_holiday Day after Federal Fast
-2013-12-24 ne_holiday Annual Week of Rest begin
-2013-12-31 ne_holiday Annual Week of Rest end
+2013-01-01 adsk_holiday New Year's Day
+2013-03-01 adsk_holiday Republic Day
+2013-03-29 adsk_holiday Good Friday
+2013-04-01 adsk_holiday Easter Monday
+2013-05-01 adsk_holiday Labour Day
+2013-05-09 adsk_holiday Ascension
+2013-05-10 adsk_holiday Bridging Day
+2013-05-20 adsk_holiday Whit Monday
+2013-08-01 adsk_holiday National Day
+2013-09-16 adsk_holiday Day after Federal Fast
+2013-12-24 adsk_holiday Annual Week of Rest begin
+2013-12-31 adsk_holiday Annual Week of Rest end
 
 year 2014 # http://www.officeholidays.com/countries/switzerland/regional.php?list_year=2014&list_region=Neuch%C3%A2tel
-2014-01-01 ne_holiday New Years Day
+2014-01-01 adsk_holiday New Years Day
 #2014-01-02 Berchtolds Day
-2014-03-01 ne_holiday Republic Day # Neuchâtel only. In 1848, Neuchâtel declared itself a republic and part of Switzerland
-2014-04-18 ne_holiday Good Friday # Friday before Easter Sunday
-2014-04-21 ne_holiday Easter Monday # Monday after Easter Sunday
-2014-05-01 ne_holiday Labour Day
-2014-05-29 ne_holiday Ascension Day # 40 days after Easter
-2014-05-30 ne_holiday Bridge day
-2014-06-09 ne_holiday Whitmonday # 7th Monday after Easter. Also Known as Pentecost Monday
-2014-08-01 ne_holiday National Day
+2014-03-01 adsk_holiday Republic Day # Neuchâtel only. In 1848, Neuchâtel declared itself a republic and part of Switzerland
+2014-04-18 adsk_holiday Good Friday # Friday before Easter Sunday
+2014-04-21 adsk_holiday Easter Monday # Monday after Easter Sunday
+2014-05-01 adsk_holiday Labour Day
+2014-05-29 adsk_holiday Ascension Day # 40 days after Easter
+2014-05-30 adsk_holiday Bridge day
+2014-06-09 adsk_holiday Whitmonday # 7th Monday after Easter. Also Known as Pentecost Monday
+2014-08-01 adsk_holiday National Day
 2014-09-21 Swiss Federal Fast # Third Sunday in September
-2014-09-22 ne_holiday Bettagsmontag # Bern, Neuchâtel, Vaud. Monday after 3rd Sunday in September.
+2014-09-22 adsk_holiday Bettagsmontag # Bern, Neuchâtel, Vaud. Monday after 3rd Sunday in September.
 2014-12-24 Annual Week of Rest begin
-2014-12-25 ne_holiday Christmas Day
-2014-12-26 ne_holiday St Stephens Day # Celebrated on 26th December. Typically it will be moved and celebrated on the next weekday if 26 December is a Saturday or Sunday
-2014-12-31 ne_holiday Annual Week of Rest end
+2014-12-25 adsk_holiday Christmas Day
+2014-12-26 adsk_holiday St Stephens Day # Celebrated on 26th December. Typically it will be moved and celebrated on the next weekday if 26 December is a Saturday or Sunday
+2014-12-31 adsk_holiday Annual Week of Rest end
 
 year 2015 # http://www.officeholidays.com/countries/switzerland/regional.php?list_year=2015&list_region=neuchatel
-2015-01-01 ne_holiday New Years Day
-2015-01-02 ne_holiday Berchtolds Day
-2015-03-01 ne_holiday Republic Day # Neuchâtel only; in 1848, Neuchâtel declared itself a republic and part of Switzerland
-2015-04-03 ne_holiday Good Friday # Friday before Easter Sunday
-2015-04-06 ne_holiday Easter Monday # Monday after Easter Sunday
+2015-01-01 adsk_holiday New Years Day
+2015-01-02 adsk_holiday Berchtolds Day
+2015-03-01 adsk_holiday Republic Day # Neuchâtel only; in 1848, Neuchâtel declared itself a republic and part of Switzerland
+2015-04-03 adsk_holiday Good Friday # Friday before Easter Sunday
+2015-04-06 adsk_holiday Easter Monday # Monday after Easter Sunday
 #2015-05-01 Labour Day
-2015-05-14 ne_holiday Ascension Day # 40 days after Easter
-2015-05-15 ne_holiday Bridge day
-2015-05-25 ne_holiday Whitmonday # 7th Monday after Easter, also known as Pentecost Monday
-2015-08-01 ne_holiday National Day
+2015-05-14 adsk_holiday Ascension Day # 40 days after Easter
+2015-05-15 adsk_holiday Bridge day
+2015-05-25 adsk_holiday Whitmonday # 7th Monday after Easter, also known as Pentecost Monday
+2015-08-01 adsk_holiday National Day
 2015-09-20 Swiss Federal Fast # Third Sunday in September
-2015-09-21 ne_holiday Bettagsmontag # Day after Federal Fast, Bern, Neuchâtel, Vaud, Monday after 3rd Sunday in September
+2015-09-21 adsk_holiday Bettagsmontag # Day after Federal Fast, Bern, Neuchâtel, Vaud, Monday after 3rd Sunday in September
 2015-12-24 Annual Week of Rest begin
-2015-12-25 ne_holiday Christmas Day
-2015-12-26 ne_holiday St Stephens Day # Celebrated on 26th December, typically moved and celebrated on the next weekday if 26 December is a Saturday or Sunday
-2015-12-31 ne_holiday Annual Week of Rest end
+2015-12-25 adsk_holiday Christmas Day
+2015-12-26 adsk_holiday St Stephens Day # Celebrated on 26th December, typically moved and celebrated on the next weekday if 26 December is a Saturday or Sunday
+2015-12-31 adsk_holiday Annual Week of Rest end
 
 year 2017 # https://www.myworkday.com/autodesk/d/task/1422$739.htmld
-2017-01-02 ne_holiday # saint berchtold
-2017-04-14 ne_holiday # good friday
-2017-04-17 ne_holiday # easter monday
-2017-05-25 ne_holiday # ascencion day
-2017-05-26 ne_holiday # bridge day
-2017-06-05 ne_holiday # whit monday
-2017-08-01 ne_holiday # national day
-2017-12-25 ne_holiday # week of rest begin
-2017-12-29 ne_holiday # week of rest end
+2017-01-02 adsk_holiday # saint berchtold
+2017-04-14 adsk_holiday # good friday
+2017-04-17 adsk_holiday # easter monday
+2017-05-25 adsk_holiday # ascencion day
+2017-05-26 adsk_holiday # bridge day
+2017-06-05 adsk_holiday # whit monday
+2017-08-01 adsk_holiday # national day
+2017-12-25 adsk_holiday # week of rest begin
+2017-12-29 adsk_holiday # week of rest end
 
 year 2018 # https://www.myworkday.com/autodesk/d/inst/1422$739/rel-task/3001$14.htmld
-2018-01-01 ne_holiday # new year's day
-2018-01-02 ne_holiday # saint berchtold's day (guemligen)
-2018-03-01 ne_holiday # republic day (neuchatel)
-2018-03-30 ne_holiday # good friday
-2018-04-02 ne_holiday # easter monday
-2018-05-01 ne_holiday # labour day (neuchatel)
-2018-05-10 ne_holiday # ascension day
-2018-05-11 ne_holiday # ascension bridge day
-2018-05-21 ne_holiday # whit monday
-2018-08-01 ne_holiday # national day
-2018-09-17 ne_holiday # bettagsmontag (neuchatel)
-2018-12-24 ne_holiday # annual week of rest begin
-2018-12-30 ne_holiday # annual week of rest end
+2018-01-01 adsk_holiday # new year's day
+2018-01-02 adsk_holiday # saint berchtold's day (guemligen)
+2018-03-01 adsk_holiday # republic day (neuchatel)
+2018-03-30 adsk_holiday # good friday
+2018-04-02 adsk_holiday # easter monday
+2018-05-01 adsk_holiday # labour day (neuchatel)
+2018-05-10 adsk_holiday # ascension day
+2018-05-11 adsk_holiday # ascension bridge day
+2018-05-21 adsk_holiday # whit monday
+2018-08-01 adsk_holiday # national day
+2018-09-17 adsk_holiday # bettagsmontag (neuchatel)
+2018-12-24 adsk_holiday # annual week of rest begin
+2018-12-30 adsk_holiday # annual week of rest end
 
 year 2019 # https://www.myworkday.com/autodesk/d/inst/1422$739/rel-task/3001$14.htmld
-2019-01-01 ne_holiday # new year's day
-2019-01-02 ne_holiday # saint berchtold's day (guemligen)
-2019-03-01 ne_holiday # republic day (neuchatel)
-2019-04-19 ne_holiday # good friday
-2019-04-22 ne_holiday # easter monday
-2019-05-01 ne_holiday # labour day (neuchatel)
-2019-05-30 ne_holiday # ascension day & bridge day
-2019-05-31 ne_holiday # ascension day & bridge day
-2019-06-10 ne_holiday # whit monday
-2019-08-01 ne_holiday # national day
-2019-09-16 ne_holiday # bettagsmontag (neuchatel)
-2019-12-24 ne_holiday # annual week of rest
-2019-12-31 ne_holiday # annual week of rest
+2019-01-01 adsk_holiday # new year's day
+2019-01-02 adsk_holiday # saint berchtold's day (guemligen)
+2019-03-01 adsk_holiday # republic day (neuchatel)
+2019-04-19 adsk_holiday # good friday
+2019-04-22 adsk_holiday # easter monday
+2019-05-01 adsk_holiday # labour day (neuchatel)
+2019-05-30 adsk_holiday # ascension day & bridge day
+2019-05-31 adsk_holiday # ascension day & bridge day
+2019-06-10 adsk_holiday # whit monday
+2019-08-01 adsk_holiday # national day
+2019-09-16 adsk_holiday # bettagsmontag (neuchatel)
+2019-12-24 adsk_holiday # annual week of rest
+2019-12-31 adsk_holiday # annual week of rest
 
 year 2020 # https://www.myworkday.com/autodesk/d/inst/1422$739/rel-task/3001$14.htmld
-2020-01-01 ne_holiday # new year's day
-2020-01-02 ne_holiday # saint berchtold's day (guemligen)
-2020-04-10 ne_holiday # good friday
-2020-04-13 ne_holiday # easter monday
-#2020-05-01 ne_holiday # labour day (neuchatel)
-2020-05-21 ne_holiday # ascension day & bridge day
-2020-05-22 ne_holiday # ascension day & bridge day
-2020-06-01 ne_holiday # whit monday
-2020-08-01 ne_holiday # national day
-#2020-09-16 ne_holiday # bettagsmontag (neuchatel)
-2020-12-24 ne_holiday # annual week of rest
-2020-12-28 ne_holiday # annual week of rest
-2020-12-29 ne_holiday # annual week of rest
-2020-12-30 ne_holiday # annual week of rest
-2020-12-31 ne_holiday # annual week of rest
+2020-01-01 adsk_holiday # new year's day
+2020-01-02 adsk_holiday # saint berchtold's day (guemligen)
+2020-04-10 adsk_holiday # good friday
+2020-04-13 adsk_holiday # easter monday
+#2020-05-01 adsk_holiday # labour day (neuchatel)
+2020-05-21 adsk_holiday # ascension day & bridge day
+2020-05-22 adsk_holiday # ascension day & bridge day
+2020-06-01 adsk_holiday # whit monday
+2020-08-01 adsk_holiday # national day
+#2020-09-16 adsk_holiday # bettagsmontag (neuchatel)
+2020-12-24 adsk_holiday # annual week of rest
+2020-12-28 adsk_holiday # annual week of rest
+2020-12-29 adsk_holiday # annual week of rest
+2020-12-30 adsk_holiday # annual week of rest
+2020-12-31 adsk_holiday # annual week of rest
 
-# ne_holiday end.
+# adsk_holiday end.
 
 #
 # if the current language is german ("de" = deutsch),
@@ -3293,7 +3293,7 @@ odd fridays in year education day
 
 2010-12-28 10:00 otto
 
-2011-01-03 vacation day # ne_holiday Special CEO Award, Jan Becker
+2011-01-03 vacation day # adsk_holiday Special CEO Award, Jan Becker
 2011-01-04 8:00 rupi
 
 2011-01-07 wave # GDS http://www.livingrhythms.ch
@@ -3372,7 +3372,7 @@ odd fridays in year education day
 2011-02-27 beverin
 2011-02-28 beverin
 
-2011-03-01 independence day # ne_holiday
+2011-03-01 independence day # adsk_holiday
 2011-03-01 11:00 mwiss
 2011-03-01 19:30 beate
 
@@ -3446,9 +3446,9 @@ odd fridays in year education day
 
 2011-04-20 12:15 mwiss
 
-2011-04-22 good friday # ne_holiday
+2011-04-22 good friday # adsk_holiday
 2011-04-22 bhs 1 begin
-2011-04-25 easter monday # ne_holiday
+2011-04-25 easter monday # adsk_holiday
 2011-04-29 bhs 1 end
 
 2011-05-02 nicola apero # Zentweg 13, Bern
@@ -3490,8 +3490,8 @@ odd fridays in year education day
 2011-06-01 8:30 mwiss
 2011-06-01 mikako in basel
 
-2011-06-02 ascension day # ne_holiday
-2011-06-03 bridging day # ne_holiday
+2011-06-02 ascension day # adsk_holiday
+2011-06-03 bridging day # adsk_holiday
 
 2011-06-02 14:00 rupert # ramshalde, breitnau, fahrenberg
 2011-06-03 rupert
@@ -3505,7 +3505,7 @@ odd fridays in year education day
 2011-06-08 schueco
 2011-06-09 bocad
 
-2011-06-13 whit monday # ne_holiday
+2011-06-13 whit monday # adsk_holiday
 
 2011-06-15 ne?
 
@@ -3570,7 +3570,7 @@ odd fridays in year education day
 2011-07-28 athen
 2011-08-03 17:25-19:15 ath-zrh # SWISS 1839, Confirmation Number LZ4Z8Y
 
-2011-08-01 national day # ne_holiday
+2011-08-01 national day # adsk_holiday
 
 2011-08-05 andrea + falk sommerfest # C:\tmp\andrea_sommerfest.pdf
 
@@ -3647,7 +3647,7 @@ odd fridays in year education day
 2011-09-17 19:00 ruth, heinke hoffest
 2011-09-18 giika hike
 
-2011-09-19 federal fast # ne_holiday
+2011-09-19 federal fast # adsk_holiday
 2011-09-19 8:00 triage for katsu < 2011-10-25
 2011-09-20 9:45 mwiss
 2011-09-20 11:30 hholz # Dornacherstrasse 192, 4053 Basel, gundeldinger feld, fabrik, rechts metalltreppe hoch 1 stock, http://www.osteopathieholz.ch
@@ -3836,7 +3836,7 @@ odd fridays in year education day
 2011-12-24 kids
 2011-12-25 12:00 gitika brunch
 
-2011-12-26 week of rest begin # ne_holiday until 2011-12-30
+2011-12-26 week of rest begin # adsk_holiday until 2011-12-30
 2011-12-26 kids
 2011-12-26 18:00 moni kino # Breath made visible
 
@@ -3963,7 +3963,7 @@ even thursdays in year 20:30 tanz
 
 2012-04-30 tatjana
 
-2012-05-01 labour day # ne_holiday
+2012-05-01 labour day # adsk_holiday
 2012-05-01 tessin end
 2012-05-01 19:30 rose
 
@@ -6192,8 +6192,8 @@ year 2015
 2016-05-01 11:00 lomi@juergen # hardstrasse 24 4052 basel http://atlifestyle.ch
 
 2016-05-05 rene_pia@loe
-2016-05-05 ne_holiday
-2016-05-06 ne_holiday
+2016-05-05 adsk_holiday
+2016-05-06 adsk_holiday
 
 2016-05-08 hhh@muttenz # Tramstation Rothausstrasse, Rothausstrasse 4132, Muttenz, http://www.meetup.com/Basel-Hash/events/230511313
 
@@ -6211,7 +6211,7 @@ year 2015
 2016-05-14 intensiv@muelital
 2016-05-14 cykeltur stockholm?
 2016-05-15 intensiv@muelital
-2016-05-16 ne_holiday
+2016-05-16 adsk_holiday
 2016-05-16 intensiv@muelital end
 
 2016-05-16 accelerator@barca begin
@@ -6384,7 +6384,7 @@ year 2015
 2016-07-23 jusoca begin
 2016-07-27 yellow sack
 2016-07-30 kids@katja begin # todtnauberg
-2016-08-01 ne_holiday
+2016-08-01 adsk_holiday
 2016-08-06 kids@katja end
 2016-08-02 jusoca end
 2016-08-02 moni@dan
@@ -6451,7 +6451,7 @@ year 2015
 2016-09-17 08:00 wieslaw
 2016-09-17 19:00 toc@fr # http://www.5rhythmen-freiburg.de/termine.htm -- atmo -- http://tanz-freiburg.net -- toc
 
-2016-09-19 ne_holiday
+2016-09-19 adsk_holiday
 2016-09-19 20:00 pyr@nellie
 
 2016-09-21 yellow sack
@@ -6742,7 +6742,7 @@ year 2015
 2017-02-27 10:00-11:00 midyear review
 2017-02-27 16:30 qas
 
-2017-03-01 ne_holiday # republic day of neuchatel
+2017-03-01 adsk_holiday # republic day of neuchatel
 2017-03-01 10:30 holzlieferung
 2017-03-01 15:00 rose + wolfi
 2017-03-02 18:00 kk@sauna
@@ -7330,7 +7330,7 @@ year 2015
 2018-02-25 09:00 intensiv@beat
 2018-02-26 16:30 andrea + magnus
 
-2018-03-01 ne_holiday # republic day of neuchatel
+2018-03-01 adsk_holiday # republic day of neuchatel
 2018-03-02 18:00 karen + daniel
 
 2018-03-04 angela@skitour # rosin
@@ -9744,7 +9744,7 @@ year 2015
 2022-10-08 15:00 oelwanne begin
 2022-10-09 10:00 oelwanne end
 
-2022-10-10 au_holiday
+2022-10-10 adsk_holiday
 2022-10-11 18:00 mr@kulturraum
 2022-10-12 pia + rene
 
@@ -9784,11 +9784,11 @@ year 2015
 2022-12-09 18:00 ara + karen kochen
 2022-12-10 moni@heilkreis
 
-2022-12-19 au_holiday
-2022-12-20 au_holiday
-2022-12-21 au_holiday
-2022-12-22 au_holiday
-2022-12-23 au_holiday
+2022-12-19 adsk_holiday
+2022-12-20 adsk_holiday
+2022-12-21 adsk_holiday
+2022-12-22 adsk_holiday
+2022-12-23 adsk_holiday
 
 2022-12-24 moni ferien begin
 2023-01-03 moni ferien end
