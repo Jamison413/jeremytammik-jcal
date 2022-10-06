@@ -9743,6 +9743,7 @@ year 2015
 
 2022-10-08 15:00 oelwanne begin
 2022-10-09 10:00 oelwanne end
+2022-10-09 16:00 stephan
 
 2022-10-10 adsk_holiday
 2022-10-11 18:00 mr@kulturraum
