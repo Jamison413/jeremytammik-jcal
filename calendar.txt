@@ -9741,7 +9741,7 @@ year 2015
 @2022-10-02 15:00-21:00 mannfrau@loe
 2022-10-03 lina end
 
-2022-10-08 15:00 <a href="/Users/jta/j/tmp/2022-10-08_oelwannenritual.pdf">oelwanne</a> begin
+2022-10-08 14:30 <a href="/Users/jta/j/tmp/2022-10-08_oelwannenritual.pdf">oelwanne</a> begin
 2022-10-09 10:00 oelwanne end
 2022-10-09 16:00 stephan
 
