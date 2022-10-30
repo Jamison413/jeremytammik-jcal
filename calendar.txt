@@ -9772,10 +9772,13 @@ year 2015
 2022-10-29 moni@heilkreis
 2022-10-29 14:00 essen vorbereiten
 2022-10-29 15:00-18:00 praenatal # natacha barthenheimerstr. 51, kissen mitnehmen, sitzen und draufhauen
+2022-10-30 10:58 nik@s6
 2022-10-30 kusinen@luethri
 2022-10-31 18:30 <a href="/Users/jta/j/tmp/2022-10-31_hartmut_einladung.pdf">hartmut</a>@<a href="https://www.google.ch/maps/dir/Huenerbergweg+30+Loerrach/Untere+Sonnhalde+37+Buerchau+Kleines+Wiesental">buerchau</a>
 
 2022-11-06 13:00 mannimcafe # benito gutmacher, jeweils 13, 16, 19:00 uhr, kartäuserstr. 2 79102 freiburg
+
+2022-11-11 18:00 <a href="/Users/jta/j/tmp/2022-11-11_kulturraum.pdf">kulturraum</a>
 
 2022-11-12 15:00 oelwanne begin
 2022-11-13 10:00 oelwanne end
@@ -9790,6 +9793,7 @@ year 2015
 
 2022-11-25 15:00-20:30 isabell + hartmut # Maaßen-Stiftung Steinen, Kanderner Straße 37/1, Anmeldung an team@kraftimwandel.de
 2022-11-26 <a href="/Users/jta/j/tmp/2022-11-26_playback_theater.pdf">playbacktheater</a>
+2022-11-26 16:00 praenatel@natacha
 2022-11-26 19:00 <a href="/Users/jta/j/tmp/2022-11-26_contrapunkt_konzert.pdf">contrapunkt</a>
 
 2022-12-01 18:00-22:00 xmas@bern
@@ -9799,6 +9803,7 @@ year 2015
 
 2022-12-09 18:00 ara + karen kochen
 2022-12-10 moni@heilkreis
+2022-12-10 16:00 praenatel@natacha
 
 2022-12-19 adsk_holiday
 2022-12-20 adsk_holiday
