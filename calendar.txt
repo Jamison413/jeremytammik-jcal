@@ -9824,6 +9824,7 @@ year 2015
 2022-12-24 moni ferien begin
 2023-01-03 moni ferien end
 2023-01-04 lina begin
+2023-01-06 ben
 2023-01-08 lina end
 
 2023-01-10 14:30 dentist connert@uzb
