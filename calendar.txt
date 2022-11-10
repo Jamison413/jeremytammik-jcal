@@ -9781,6 +9781,7 @@ year 2015
 
 2022-11-10 exchange@nick
 
+2022-11-11 11:00 fensterbauer@wiechs # jurte
 2022-11-11 18:00 <a href="/Users/jta/j/tmp/2022-11-11_kulturraum.pdf">kulturraum</a>
 
 2022-11-12 15:00 oelwanne begin
