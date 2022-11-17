@@ -9810,12 +9810,17 @@ year 2015
 2022-12-04 paare@kientalerhof
 
 2022-12-05 kenya begin
+2022-12-05 09:00-10:45 zrh-amsterdam
+2022-12-05 11:50-20:00 amsterdam-nairobi
 
 2022-12-09 18:00 ara + karen kochen
 2022-12-10 moni@heilkreis
 2022-12-10 16:00 praenatel@natacha
 
 2022-12-16 kenya end
+2022-12-16 23:00 nbo depart
+2022-12-17 05:30 fra arrival
+2022-12-17 08:45-09:40 fra-zrh
 
 2022-12-17 18:00-21:00 <a href="https://www.vereindynamo.ch/2022/05/03/17-18-dezember-2022-edgar-spieker-aus-hamburg">tanz@luzern</a> # Bruchturnhalle, Zaehringerstrasse 16, 6003 Luzern
 2022-12-18 10:00-16:00 tanz@luzern
