@@ -9797,6 +9797,7 @@ year 2015
 2022-11-20 <a href="https://novemberparty.github.io/%23sweat">sweat lodge</a>
 
 2022-11-24 completion@nick
+2022-11-24 14:50 vaccination@centramed
 2022-11-24 16:28-17:26 <a href="/Users/jta/a/doc/expense/receipt/2022/2022-11-24_sbb_bsl_bern.pdf">bsl-bern</a>
 2022-11-24 17:30-19:00 <a href="/Users/jta/a/doc/travel/trip/bern/map_zeughausgasse.png">apero</a> # Zeughausgasse 17 3011 Bern
 2022-11-24 18:00-23:00 <a href="https://aeussererstand.ch">xmasdinner</a>
