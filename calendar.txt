@@ -9836,6 +9836,9 @@ year 2015
 2022-12-23 adsk_holiday
 
 2022-12-24 moni ferien begin
+2022-12-26 markus + nik
+2022-12-27 markus + nik
+2022-12-28 markus + nik
 2022-12-31 10k@stuttgarter # Wir ziehen ab dem 1.1.2023 automatisch 10.114,17 Euro ein.
 2023-01-03 moni ferien end
 2023-01-04 lina begin
