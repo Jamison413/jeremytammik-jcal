@@ -5639,3 +5639,14 @@ http://auskunft.kvb-koeln.de
   https://www.navigazionelaghi.it
 
 luino verbania intra
+
+Rheinfelden, Bahnhof
+Walk
+3 '
+Walk
+Walk (Show on the map)
+
+2022-12-05 Rheinfelden-ZRH:
+  06:25 Rheinfelden, Platform 3 1959 Direction Zürich HB Zürich HB arr 07:24 Zürich HB, Platform 16
+  07:35 Zürich HB, Platform 10 IR 2109 Direction Konstanz Zürich Flughafen arr 07:44
+

@@ -9817,6 +9817,7 @@ year 2015
 2022-12-04 paare@kientalerhof
 
 2022-12-05 kenya begin
+2022-12-05 06:45-07:44 <a href="/Users/jta/a/doc/expense/receipt/2022/2022-12-04_sbb_rheinfelden_zrh.pdf">rheinfelden-zrh</a>
 2022-12-05 09:00-10:45 zrh-amsterdam
 2022-12-05 11:50-20:00 amsterdam-nairobi
 
