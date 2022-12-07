@@ -5590,40 +5590,12 @@ http://auskunft.kvb-koeln.de
   Lommiswil an 17:15
 
 2022-08-20 huddinge-var gard:
-
-  06:50 08:37 1:47 tim
-  Huddinge --> Saltsjöbaden
-  tag 40
-  bus 55
-  tag 25
-  
-  06:50 
-  Huddinge
-  Spår 2
-  13 min
-  Pendeltåg 40 mot Uppsala C
-  07:03  
-  Stockholms södra Utgång: Swedenborg
-  
+  06:50 08:37 1:47 tim; Huddinge --> Saltsjöbaden; tag 40; bus 55; tag 25
+  06:50 ; Huddinge; Spår 2; 13 min; Pendeltåg 40 mot Uppsala C; 07:03  ; Stockholms södra Utgång: Swedenborg
   14 min
-  
-  07:17 
-  Södra station (på Swedenborgsgatan)
-  11 min
-  Buss 55 mot Henriksdalsberget
-  07:28  
-  Henriksdal
-  
+  07:17 ; Södra station (på Swedenborgsgatan); 11 min; Buss 55 mot Henriksdalsberget; 07:28  ; Henriksdal
   35 min
-  
-  08:03 
-  Henriksdal
-  Spår 2
-  25 min
-  Saltsjöbanan 25 mot Saltsjöbaden
-  Anslutning mot Solsidan i Igelboda. Resande till Lillängen eller Östervik, kontakta tågpersonalen.
-  08:28  
-  Saltsjöbaden
+  08:03 ; Henriksdal; Spår 2; 25 min; Saltsjöbanan 25 mot Saltsjöbaden; Anslutning mot Solsidan i Igelboda. Resande till Lillängen eller Östervik, kontakta tågpersonalen.; 08:28  ; Saltsjöbaden; 
 
 2022-09-16 bsl-bonn:
   12:28  Basel Bad Bf EC 8
@@ -5637,14 +5609,6 @@ http://auskunft.kvb-koeln.de
   Luino a Intra 10:40 11:30 50' -- /Users/jta/j/tmp/2022-09-14_Locarno_Arona_2022.pdf
   Intra a Luino 12:00 12:50 50' -- /Users/jta/j/tmp/2022-09-15_Arona_Locarno_2022.pdf
   https://www.navigazionelaghi.it
-
-luino verbania intra
-
-Rheinfelden, Bahnhof
-Walk
-3 '
-Walk
-Walk (Show on the map)
 
 2022-12-05 Rheinfelden-ZRH:
   06:25 Rheinfelden, Platform 3 1959 Direction Zürich HB Zürich HB arr 07:24 Zürich HB, Platform 16
