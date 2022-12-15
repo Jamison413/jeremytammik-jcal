@@ -9847,7 +9847,7 @@ year 2015
 2022-12-27 markus + nik
 2022-12-28 markus + nik
 2022-12-31 10k@stuttgarter # Wir ziehen ab dem 1.1.2023 automatisch 10.114,17 Euro ein.
-2023-01-01 <a href="/Users/jta/j/tmp/2023_abfallkalender.pdf">abfallkalender"</a>
+2023-01-01 <a href="/Users/jta/j/tmp/2023_abfallkalender.pdf">abfallkalender</a>
 2023-01-03 moni ferien end
 2023-01-04 lina begin
 2023-01-06 ben
