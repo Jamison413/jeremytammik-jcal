@@ -9830,8 +9830,8 @@ year 2015
 2022-12-17 05:30 fra arrival
 2022-12-17 08:45-09:40 fra-zrh
 
-2022-12-17 18:00-21:00 <a href="https://www.vereindynamo.ch/2022/05/03/17-18-dezember-2022-edgar-spieker-aus-hamburg">tanz@luzern</a> # Bruchturnhalle, Zaehringerstrasse 16, 6003 Luzern
-2022-12-18 10:00-16:00 tanz@luzern
+#2022-12-17 18:00-21:00 <a href="https://www.vereindynamo.ch/2022/05/03/17-18-dezember-2022-edgar-spieker-aus-hamburg">tanz@luzern</a> # Bruchturnhalle, Zaehringerstrasse 16, 6003 Luzern
+#2022-12-18 10:00-16:00 tanz@luzern
 
 2022-12-19 adsk_holiday
 2022-12-20 adsk_holiday
@@ -9852,18 +9852,29 @@ year 2015
 2023-01-04 lina begin
 2023-01-06 ben
 2023-01-06 11:00 pari@maike
+2023-01-07 moni@heilkreis
 2023-01-08 lina end
 
 2023-01-13 18:00 bunterkunt
 
+2023-01-15 15:00 praenatal
+
 2023-01-23 16:00 dentist connert@uzb
+
+2023-01-29 15:00 praenatal
+
+2023-02-11 moni@heilkreis
 
 2023-03-04 wildhaus begin
 2023-03-11 wildhaus end
 
+2023-04-01 moni@heilkreis
+
 2023-04-06 121 adsk rsu mature # granted 2020-04-06
 
-2023-05-26 
+2023-05-26 moni ferien begin
+2023-05-29 moni@heilkreis
+
 2023-06-23 tammiku begin
 2023-07-01 tammiku end
 
