@@ -5614,3 +5614,7 @@ http://auskunft.kvb-koeln.de
   06:25 Rheinfelden, Platform 3 1959 Direction Zürich HB Zürich HB arr 07:24 Zürich HB, Platform 16
   07:35 Zürich HB, Platform 10 IR 2109 Direction Konstanz Zürich Flughafen arr 07:44
 
+2022-12-17 zrh-Rheinfelden:
+  Zürich Flughafen ab 11:56 Gleis 4 Richtung Basel SBB
+  Rheinfelden an 13:10 Gleis 4
+
