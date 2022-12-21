@@ -9845,7 +9845,7 @@ year 2015
 2022-12-23 adsk_holiday
 
 2022-12-24 moni ferien begin
-2022-12-25 markus + nik
+2022-12-25 10:50 markus + nik@sbb
 2022-12-26 markus + nik
 2022-12-27 markus + nik
 2022-12-28 markus + nik

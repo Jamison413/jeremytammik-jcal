@@ -5618,3 +5618,13 @@ http://auskunft.kvb-koeln.de
   Zürich Flughafen ab 11:56 Gleis 4 Richtung Basel SBB
   Rheinfelden an 13:10 Gleis 4
 
+2022-12-25 bsl-guggisberg:
+  10:56 Basel SBB, Platform 6 IC 967 Direction Brig
+  Bern arr 11:56
+  Bern dep 12:06 S 6 15644 Direction Schwarzenburg
+  Schwarzenburg arr 12:41
+  Schwarzenburg, Bahnhof dep 12:43
+  Schwarzenburg, Bahnhof Bus B 612 61219
+  Direction Schwarzenburg, Bahnhof
+  Guggisberg, Post arr 12:55
+
