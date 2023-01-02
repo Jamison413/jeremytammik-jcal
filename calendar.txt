@@ -9855,11 +9855,13 @@ year 2015
 2022-12-31 10k@stuttgarter # wir ziehen ab dem 1.1.2023 automatisch 10.114,17 euro ein.
 2023-01-01 <a href="/Users/jta/j/tmp/2023_abfallkalender.pdf">abfallkalender</a>
 2023-01-03 moni ferien end
+2023-01-04 14:00 marie begin
 2023-01-04 lina begin
 2023-01-06 ben
 2023-01-06 11:00 pari@maike
 2023-01-07 moni@heilkreis
 2023-01-08 lina end
+2023-01-11 08:00 marie end
 
 2023-01-13 18:00 bunterkunt
 
