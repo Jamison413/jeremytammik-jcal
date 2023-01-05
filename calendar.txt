@@ -9880,9 +9880,12 @@ year 2015
 2023-03-04 wildhaus begin
 2023-03-11 wildhaus end
 
+2023-03-31 19:00 lina?
 2023-04-01 moni@heilkreis
 2023-04-01 14:00 sweatlodge@muelital
 2023-04-02 13:00 sweatlodge end
+
+2023-04-08 lina?
 
 2023-04-06 121 adsk rsu mature # granted 2020-04-06
 
