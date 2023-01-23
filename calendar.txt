@@ -9876,7 +9876,7 @@ year 2015
 2023-01-28 18:00 wave@ft
 2023-01-29 15:00 praenatal
 
-2023-02-01 09:00-09:30 geschwindigkeit@h30
+2023-02-01 09:30 radarfalle@h30
 
 2023-02-02 18:15 klima@nellie
 2023-02-02 19:30 gegendenstrom@free
