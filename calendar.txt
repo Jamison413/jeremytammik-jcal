@@ -9877,6 +9877,9 @@ year 2015
 
 2023-02-01 09:00-09:30 geschwindigkeit@h30
 
+2023-02-02 18:15 klima@nellie
+2023-02-02 19:30 gegendenstrom@free
+
 2023-02-03 18:00 <a href="/Users/jta/j/tmp/2023-02-04_tel_schweibenalp.pdf">tel@schweibenalp</a>
 2023-02-04 <a href="/Users/jta/j/tmp/2023-02-04_tel_schweibenalp.pdf">tel@schweibenalp</a>
 2023-02-05 <a href="/Users/jta/j/tmp/2023-02-04_tel_schweibenalp.pdf">tel@schweibenalp</a>
