@@ -9894,6 +9894,7 @@ year 2015
 2023-02-11 moni@heilkreis
 2023-02-11 <a href="https://mailchi.mp/b714ec1a2036/einladung-zum-73-filmabend-im-winterhof-am-11-februar-2023">hinterhofkino</a> # Oetlingerstrasse 183, Basel 4057
 
+2023-02-18 15:00 praenatal + food
 2023-02-18 21:00 holly begin
 2023-02-19 14:30 holly end
 
@@ -9901,6 +9902,7 @@ year 2015
 2023-03-11 wildhaus end
 
 2023-03-18 zaunpfosten@h30
+2023-03-19 15:00 praenatal
 2023-03-24 zaunpfosten@h30
 2023-03-25 zaunpfosten@h30
 
@@ -9912,6 +9914,7 @@ year 2015
 2023-04-08 lina?
 
 2023-04-06 121 adsk rsu mature # granted 2020-04-06
+2023-04-22 15:00 praenatal
 
 2023-05-26 moni ferien begin
 2023-05-29 moni@heilkreis
