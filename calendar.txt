@@ -9898,6 +9898,7 @@ year 2015
 
 2023-02-18 15:00 praenatal + food
 2023-02-18 21:00 holly begin
+2023-02-19 12:00 sharing@sunahla
 2023-02-19 14:30 holly end
 2023-02-20 18:00 <a href="https://hallenstadion.ch/events/the-australian-pink-floyd-show-2023">pinkfloyd@zrh</a>
 
