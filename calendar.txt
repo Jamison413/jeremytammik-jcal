@@ -4440,7 +4440,7 @@ even thursdays in year 20:30 tanz
 2013-04-14 skitour jogi
 2013-04-15 skitour jogi
 
-# Drei große Gipfel im Engadin. Anspruchsvolle Skihochtour fuer geuebte und konditionsstarke Skitourengänger. uebernachtet wird einmal auf der bewirteten Coaz Huette und auf der Selbstversorgerhuette Tschierva
+# Drei große Gipfel im Engadin. Anspruchsvolle Skihochtour fuer geuebte und konditionsstarke Skitourengaenger. uebernachtet wird einmal auf der bewirteten Coaz Huette und auf der Selbstversorgerhuette Tschierva
 
 2013-04-20 17:00 georg antonia 140 # alten Güterbahnhof von Traisa Darmstadt Mühltal Am Bahnhof 4, D-64367 Mühltal Odenwaldstr. 31
 
@@ -4942,7 +4942,7 @@ even thursdays in year 20:30 tanz
 2014-03-18 20:00 tangoanleitung
 2014-03-18 21:00 tango frei
 
-2014-03-21 16:30 TED live viewing party # Boaz Heller Avrahami, Pilgerstr. 21, Dättwil, Baden, Switzerland
+2014-03-21 16:30 TED live viewing party # Boaz Heller Avrahami, Pilgerstr. 21, Daettwil, Baden, Switzerland
 
 2014-03-22 bejekamimoth@thomas
 
@@ -5278,7 +5278,7 @@ even thursdays in year 20:30 tanz
 2014-11-04 10:00 andreas@skype
 2014-11-04 15:00 men@hugo
 2014-11-04 18:30 hugo geburi abendessen
-2014-11-05 18:45 dav hallentraining # Turnhalle Theodor-Heuss-Realschule (THR), Schuetzenstrasse 22, schräg gegenueber der alten HTG-Halle, fahre von der Kreuzstrasse in die Schuetzenstrasse und dann in den Schulhof
+2014-11-05 18:45 dav hallentraining # Turnhalle Theodor-Heuss-Realschule (THR), Schuetzenstrasse 22, schraeg gegenueber der alten HTG-Halle, fahre von der Kreuzstrasse in die Schuetzenstrasse und dann in den Schulhof
 2014-11-05 20:30 franziska@bafudi
 2014-11-06 vollmondfeuer?
 2014-11-07 18:30 andreas@stauffacher
@@ -5381,7 +5381,7 @@ year 2015
 
 2015-01-08 20:30 tanz # LerchenWave-2015-01.m3u
 
-2015-01-10 19:00-21:30 heisenberg # Eulerhof, roter Saal 2. Stock, Eulerstrasse 55, 4051 Basel, Nähe Brausebad, Kleidung zum Wechseln, Sektglas, Duschen vorhanden
+2015-01-10 19:00-21:30 heisenberg # Eulerhof, roter Saal 2. Stock, Eulerstrasse 55, 4051 Basel, Naehe Brausebad, Kleidung zum Wechseln, Sektglas, Duschen vorhanden
 2015-01-10 skitour@hunds-, ross- oder hagelstock # dav mit bastian feifel, anmeldung ab sofort
 
 2015-01-10 12:00-18:00 movingbody@fr # moeslepark waldsee /j/tmp/hans_weber_waldkurbad_tantra_massage.ppt
@@ -6096,7 +6096,7 @@ year 2015
 2016-03-14 dan geburi
 2016-03-14 moni abschlussarbeit
 2016-03-14 21:15 klaus
-2016-03-15 10:00-12:00 block@eth # ETH Block Research Group, Stefano-Franscini-Platz 5: Philippe Block und sein Research Team, das „who is who“ der Grasshopper Szene, beschäftigen sich mit Formoptimierung, ich habe Philippe angesprochen auch in Richtung BIM zu gehen und er ist interessiert tiefer in das Thema einzutauchen.
+2016-03-15 10:00-12:00 block@eth # ETH Block Research Group, Stefano-Franscini-Platz 5: Philippe Block und sein Research Team, das „who is who“ der Grasshopper Szene, beschaeftigen sich mit Formoptimierung, ich habe Philippe angesprochen auch in Richtung BIM zu gehen und er ist interessiert tiefer in das Thema einzutauchen.
 2016-03-15 klaus
 2016-03-16 klaus
 2016-03-16 moni abschlussarbeit
@@ -6139,7 +6139,7 @@ year 2015
 2016-04-10 14:00 rose
 
 2016-04-11 11:00 bim360 a360 api
-2016-04-11 17:15 nik@HouseOfSounds # Nauenstrasse 63, bei der Peter-Merian-Strasse, in der Filiale in der Ecke des roten Postgebäudes, nicht ggue
+2016-04-11 17:15 nik@HouseOfSounds # Nauenstrasse 63, bei der Peter-Merian-Strasse, in der Filiale in der Ecke des roten Postgebaeudes, nicht ggue
 
 2016-04-11 20:00 klaus
 2016-04-12 08:30 dentist scherble
@@ -7244,7 +7244,7 @@ year 2015
 2017-12-21 17:00 tatjana@raich
 2017-12-21 17:27 wintersonnwende
 2017-12-22 17:00 rose
-2017-12-22 19:30-22:00 britta@move # move, habsburgerstr. 9 (hinterhof, metalltreppe), 79104 freiburg, (keine) stille nacht britta kniep partner, freunde, plätzchen und raumspende are welcome
+2017-12-22 19:30-22:00 britta@move # move, habsburgerstr. 9 (hinterhof, metalltreppe), 79104 freiburg, (keine) stille nacht britta kniep partner, freunde, plaetzchen und raumspende are welcome
 2017-12-23 moni ferien begin
 2017-12-25 11:00-14:00 anne-marie
 2017-12-25 nik
@@ -7316,7 +7316,7 @@ year 2015
 2018-02-18 05:04-09:15 bsl-sedrun
 2018-02-18 09:30 sedrun piz calmut # skitour jörg heinz
 2018-02-19 basti@rossbodenstock # skitour
-#2018-02-20 09:30-10:30 gymnastik # AK30206 Wirbelsäulen- und Fitnessgymnastik für Männer Holger Friedrich
+#2018-02-20 09:30-10:30 gymnastik # AK30206 Wirbelsaeulen- und Fitnessgymnastik für Maenner Holger Friedrich
 
 #2018-02-22 fffffff@eriz
 #2018-02-23 fffffff
@@ -7390,7 +7390,7 @@ year 2015
 2018-04-09 14:00 katja
 2018-04-09 15:00 rose
 
-2018-04-10 18:00 zukunftsforum@dreilaendermuseum # symposium 'gemeinschaftliches wohnen in lö+', hebelsaal, dreiländermuseum
+2018-04-10 18:00 zukunftsforum@dreilaendermuseum # symposium 'gemeinschaftliches wohnen in lö+', hebelsaal, dreilaendermuseum
 
 2018-04-12 lina begin
 2018-04-12 17:00 tanztheater@sak # generalprobe rose nicol
@@ -7579,7 +7579,7 @@ year 2015
 
 2018-08-17 18:00 fest@andrea # maeder, oristalstr. 16, Andrea und Lean www.maeder-shiatsu.ch www.maeder-hypnose.ch
 
-2018-08-18 15:00 waedel + juergen # Erlehof z`Reinach, ganz hinte im Erlehofgländ, zwüsche Reinach und Therwi
+2018-08-18 15:00 waedel + juergen # Erlehof z`Reinach, ganz hinte im Erlehofglaend, zwüsche Reinach und Therwi
 2018-08-19 waedel + juergen zmorge
 2018-08-19 intensiv@pascal
 #2018-08-19 climb@dauphine end
@@ -7598,7 +7598,7 @@ year 2015
 2018-08-24 18:00-22:00 moni@tagifest
 
 2018-08-27 16:33-17:26 bsl-zrh # /a/doc/expense/receipt/2018/2018-08-27_sbb_bsl_zrh.pdf
-2018-08-27 18:00-21:30 haka@zrh # Matiu Te Huki, Pädagogische Hochschule, Lagerstrasse 2, Untergeschoss, Room LAC-C012, 8090 Zürich /a/doc/expense/receipt/2018/2018-08-27_sbb_bsl_zrh.pdf
+2018-08-27 18:00-21:30 haka@zrh # Matiu Te Huki, Paedagogische Hochschule, Lagerstrasse 2, Untergeschoss, Room LAC-C012, 8090 Zürich /a/doc/expense/receipt/2018/2018-08-27_sbb_bsl_zrh.pdf
 
 2018-08-28 18:00-22:00 hackergarten@trivadis # Trivadis AG, Elisabethenanlage 9, 9th floor
 2018-08-29 12:00 conny
@@ -7703,7 +7703,7 @@ year 2015
 2018-10-17 11:30-12:30 da4r@au 2.07 # BIM360 News und Online Live Revit-Programmierung von BIM via Forge Design Automation API für RVT
 2018-10-18 au@germany
 2018-10-18 georg end
-2018-10-18 15:00-22:00 bewusst@schopfheim # Bewußt-Treff in Schopfheim, Familienzentrum, E.-F. Gottschalk-Weg 3, 30 m links rein in den Häuserblock, Leiterin Frau Cornelia Hartmann
+2018-10-18 15:00-22:00 bewusst@schopfheim # Bewußt-Treff in Schopfheim, Familienzentrum, E.-F. Gottschalk-Weg 3, 30 m links rein in den Haeuserblock, Leiterin Frau Cornelia Hartmann
 2018-10-18 20:30-22:00 tanzimpro@gruett
 2018-10-19 18:30-20:30 agora@bsl # Unternehmen Mitte, Gerbergasse 30, https://www.meetup.com/Agora-of-Basel/events/255575842, Threat to democracy and the role technology will play!
 
@@ -7760,10 +7760,10 @@ year 2015
 2018-11-09 party@hadid # /j/tmp/andrea_balint_herbstfest_2018.jpeg
 
 2018-11-10 10:00 birgit@impulsiv
-2018-11-10 15:00 europa@nellie # Ab 15:00 bietet das Nellie Nashorn Kaffee, Kuchen und Raum für Gedankenaustausch. Pünktlich um 16:00 wird das Manifest der Europäischen Republik von der Haupttreppe des Nellie Nashorn ausgerufen werden.
-2018-11-10 16:00 europa@nellie # um 16:00 wird das Manifest der Europäischen Republik von der Haupttreppe des Nellie Nashorn ausgerufen werden
+2018-11-10 15:00 europa@nellie # Ab 15:00 bietet das Nellie Nashorn Kaffee, Kuchen und Raum für Gedankenaustausch. Pünktlich um 16:00 wird das Manifest der Europaeischen Republik von der Haupttreppe des Nellie Nashorn ausgerufen werden.
+2018-11-10 16:00 europa@nellie # um 16:00 wird das Manifest der Europaeischen Republik von der Haupttreppe des Nellie Nashorn ausgerufen werden
 
-2018-11-11 14:40 hhh@stein_ag # Meeting point is a parking lot, 5 minutes walk from the station. One of us will be at the station (Stein-Säckingen) when the train from Basel arrives at 14:33 (fast train direction Zurich leaving Basel SBB at 14:13) to guide you to the meeting point, https://www.meetup.com/Basel-Hash/events/256120191
+2018-11-11 14:40 hhh@stein_ag # Meeting point is a parking lot, 5 minutes walk from the station. One of us will be at the station (Stein-Saeckingen) when the train from Basel arrives at 14:33 (fast train direction Zurich leaving Basel SBB at 14:13) to guide you to the meeting point, https://www.meetup.com/Basel-Hash/events/256120191
 2018-11-11 13:00-17:00 moni@frauen
 
 2018-11-12 09:00 eva
@@ -8328,7 +8328,7 @@ year 2015
 
 2019-11-12 10:00-11:00 yakir@zoom
 2019-11-13 10:00 mac@dq # dq solutions basel, gueterstrasse 133, ch-4053 basel
-2019-11-13 11:15 mobile@migros # dreispitz buchungscode ig0f3zx status bestätigt
+2019-11-13 11:15 mobile@migros # dreispitz buchungscode ig0f3zx status bestaetigt
 2019-11-13 15:30-17:00 <a href="http://bz-ticket.de/eckart-von-hirschhausen-werkraum-schoepflin-loerrach">hirschhausen@schoepflin</a>
 2019-11-13 19:00 huenerberger@jeremy
 2019-11-17 12:00-16:00 <a href="/j/tmp/2019-11-17_daniel_boerlin_einladung_paartreffen.pdf">paare@daniel</a>
@@ -8579,7 +8579,7 @@ year 2015
 2020-05-10 14:00-17:00 kernzeit
 2020-05-12 14:00 otto
 
-#2020-05-15 klettern@brolla begin # dav claudia + patrick Leichte Mehrseillängen Ponte Brolla Lago Maggiore, zugesagt, abgesagt wegen corona
+#2020-05-15 klettern@brolla begin # dav claudia + patrick Leichte Mehrseillaengen Ponte Brolla Lago Maggiore, zugesagt, abgesagt wegen corona
 #2020-05-17 klettern@brolla end
 
 2020-05-17 14:00 paare@karen
@@ -9190,7 +9190,7 @@ year 2015
 2021-07-24 moni ferien begin
 2021-07-25 jusoca begin
 
-#2021-07-31 02:00 <a href="https://www.meetup.com/edelweiss/events/277277417">lars@kaiserroute</a> # traverse of all seven Churfirsten summits (Selun, Frümsel, Brisi, Zuestoll, Schibenstoll, Hinterrug, Chäserugg) in one day
+#2021-07-31 02:00 <a href="https://www.meetup.com/edelweiss/events/277277417">lars@kaiserroute</a> # traverse of all seven Churfirsten summits (Selun, Frümsel, Brisi, Zuestoll, Schibenstoll, Hinterrug, Chaeserugg) in one day
 
 #2021-07-31 wildhaus end
 
@@ -9639,7 +9639,7 @@ year 2015
 # Rudolf Steiner Schule Biel, Schützengasse 54, 2502 Biel/Bienne, Schweiz
 # parken bei OTTO'S AG, Georg-Friedrich-Heilmann-Strasse 39, 2502 Biel, Switzerland
 # Übernachtung im Yogaraum bei Rajan, Solothurnstrasse 16, iamrajanstabler@gmail.com, +41 79 133 49 71‬, auch whatsapp
-# Edward Groody, Senior-Facilitator Gemeinschaftsbildung (USA), Präsident Community-Building International, http://edgroody.com/
+# Edward Groody, Senior-Facilitator Gemeinschaftsbildung (USA), Praesident Community-Building International, http://edgroody.com/
 
 2022-07-02 krd@h30
 2022-07-02 17:00 geburi@heiner
@@ -9777,7 +9777,7 @@ year 2015
 2022-10-31 17:35 rainer@vilafeer
 2022-10-31 18:30 <a href="/Users/jta/j/tmp/2022-10-31_hartmut_einladung.pdf">hartmut</a>@<a href="https://www.google.ch/maps/dir/Huenerbergweg+30+Loerrach/Untere+Sonnhalde+37+Buerchau+Kleines+Wiesental">buerchau</a>
 
-2022-11-06 13:00 <a href="/Users/jta/j/tmp/2022-11-06_mannimcafe.jpg">mannimcafe</a>@<a href="/Users/jta/a/doc/travel/trip/freiburg/map_kartaeuser.png">kartaeuser</a> # benito gutmacher, jeweils 13, 16, 19:00 uhr, kartäuserstr. 2 79102 freiburg
+2022-11-06 13:00 <a href="/Users/jta/j/tmp/2022-11-06_mannimcafe.jpg">mannimcafe</a>@<a href="/Users/jta/a/doc/travel/trip/freiburg/map_kartaeuser.png">kartaeuser</a> # benito gutmacher, jeweils 13, 16, 19:00 uhr, kartaeuserstr. 2 79102 freiburg
 
 2022-11-10 exchange@nick
 
@@ -9904,6 +9904,10 @@ year 2015
 2023-02-19 12:00 sharing@sunahla
 2023-02-19 14:30 holly end
 2023-02-20 18:00 <a href="https://hallenstadion.ch/events/the-australian-pink-floyd-show-2023">pinkfloyd@zrh</a>
+2023-02-26 19:30 reedlispraengae@therwil
+
+2023-02-27 waedel@grindelwald begin
+2023-03-05 waedel@grindelwald end
 
 2023-03-04 wildhaus begin
 2023-03-11 wildhaus end
