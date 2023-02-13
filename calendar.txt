@@ -9898,6 +9898,7 @@ year 2015
 2023-02-11 <a href="https://mailchi.mp/b714ec1a2036/einladung-zum-73-filmabend-im-winterhof-am-11-februar-2023">hinterhofkino</a> # Oetlingerstrasse 183, Basel 4057
 
 2023-02-14 14:00 mikako@zoom
+2023-02-15 18:30 solarberaterinfo
 2023-02-15 19:30-22:00 <a href="https://fairnetzt-loerrach.de/veranstaltung/vandana-shiva">klima@free</a> # vandana shiva – ein leben für die erde
 
 2023-02-18 15:00 praenatal + food
@@ -9915,13 +9916,17 @@ year 2015
 2023-02-27 waedel@grindelwald begin
 2023-03-05 waedel@grindelwald end
 
+2023-03-04 10:00-14:00 uhr solarberater auftakt # auftakt-workshop
 2023-03-04 wildhaus begin
 2023-03-11 wildhaus end
+2023-03-11 10:00-14:00 uhr solarberater gespraech # workshop beratungsgespraee
 
 2023-03-18 zaunpfosten@h30
+2023-03-18 10:00-14:00 uhr solarberater rechentool # workshop rechentools
 2023-03-19 15:00 praenatal
 2023-03-24 zaunpfosten@h30
 2023-03-25 zaunpfosten@h30
+2023-03-25 11:00-13:00 uhr solarberater gruppen # workshop grundlinien für bsb-gruppen
 
 2023-03-31 19:00 lina?
 2023-04-01 moni@heilkreis
