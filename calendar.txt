@@ -9919,14 +9919,14 @@ year 2015
 2023-03-04 10:00-14:00 uhr solarberater auftakt # auftakt-workshop
 2023-03-04 wildhaus begin
 2023-03-11 wildhaus end
-2023-03-11 10:00-14:00 uhr solarberater gespraech # workshop beratungsgespraee
+2023-03-11 10:00-14:00 uhr solarberater gespraech # workshop beratungsgespraeche
 
 2023-03-18 zaunpfosten@h30
 2023-03-18 10:00-14:00 uhr solarberater rechentool # workshop rechentools
 2023-03-19 15:00 praenatal
 2023-03-24 zaunpfosten@h30
 2023-03-25 zaunpfosten@h30
-2023-03-25 11:00-13:00 uhr solarberater gruppen # workshop grundlinien für bsb-gruppen
+2023-03-25 11:00-13:00 uhr solarberater gruppen # workshop grundlinien fuer bsb-gruppen
 
 2023-03-31 19:00 lina?
 2023-04-01 moni@heilkreis
