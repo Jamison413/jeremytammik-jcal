@@ -9918,6 +9918,8 @@ year 2015
 
 2023-03-04 10:00-14:00 uhr solarberater auftakt # auftakt-workshop
 2023-03-04 wildhaus begin
+2023-03-05 pia+rene begin
+2023-03-08 pia+rene end
 2023-03-11 wildhaus end
 2023-03-11 10:00-14:00 uhr solarberater gespraech # workshop beratungsgespraeche
 
