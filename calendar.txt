@@ -9946,6 +9946,7 @@ year 2015
 2023-04-06 121 adsk rsu mature # granted 2020-04-06
 2023-04-22 15:00 praenatal
 
+2023-05-07 11:00 stoepsel@loe
 2023-05-26 moni ferien begin
 2023-05-29 moni@heilkreis
 
